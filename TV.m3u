@@ -58,7 +58,6 @@ https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dominio.beauty/img/sunchannel.png", Sun Channel
 https://vcndistroscale.teleosmedia.com/linear/sun/sun/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/juntos_logo_dark_v3.png", Juntos
 https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
 
@@ -103,9 +102,6 @@ https://linear-46.frequency.stream/46/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dominio.beauty/img/failarmy.png", failarmy
 https://failarmy-linear-us.sinclair.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dominio.beauty/img/vicetv.png", Vice TV
-https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dominio.beauty/img/revry.png", Revry Latinx
 https://linear-142.frequency.stream/142/hls/master/playlist.m3u8
