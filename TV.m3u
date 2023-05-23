@@ -216,13 +216,13 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6
 #EXTINF:-1, Nick JR Pluto TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0ec7b0f7015fbe0a3bf7/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=86d0&deviceDNT=0&deviceModel=0
 
-#EXTINF:-1 https://www2.claro.cr/portal/cr/gc/canales/1547743974191-Imagen.png, Cartoon Network Cortos
+#EXTINF:-1 tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1547743974191-Imagen.png", Cartoon Network Cortos
 https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist-720p.m3u8
 
-#EXTINF:-1 https://www2.claro.cr/portal/cr/gc/canales/1639067483362-Imagen.png, Cartoonito Cortos 
+#EXTINF:-1 tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1639067483362-Imagen.png", Cartoonito Cortos 
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
 
-#EXTINF:-1 https://www2.claro.cr/portal/cr/gc/canales/1621445486417-Imagen.png", Discovery Kids Cortos
+#EXTINF:-1 tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1621445486417-Imagen.png", Discovery Kids Cortos
 https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist-720p.m3u8
 
 #EXTINF:-1, Tooncast
@@ -241,41 +241,41 @@ http://168.227.22.18:1935/live/mobile-099/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-112/playlist.m3u8
 
 
-#EXTINF:-1, Bob Esponja
+#EXTINF:-1 tvg-logo="https://fontmeme.com/images/Spongebob-TV-Series.png", Bob Esponja
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=cb17&deviceDNT=0&deviceModel=0
 
-#EXTINF:-1, Baby First (Pluto)
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/500428259159322625/bKZJJhhT_400x400.jpeg", Baby First (Pluto)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=28d8&deviceDNT=0&deviceModel=0
 
-#EXTINF:-1, Moobug Kids
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/3461da_2c81c38966924041bb0e9d036b7804dc~mv2.png", Moobug Kids
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1, PBS Kids
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/PBS_Kids_Logo.svg/220px-PBS_Kids_Logo.svg.png", PBS Kids
 https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
 
-#EXTINF:-1, Toon Googles
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81j8DgLstPL.png", Toon Googles
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=514
 
-#EXTINF:-1, Chiquilines
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/chiquilines_logo_light.png", Chiquilines
 https://chiquilines-plex.amagi.tv/Chiquilines-plex/master.m3u8
 
-#EXTINF:-1, Anime Español
+#EXTINF:-1 tvg-logo="https://cfm.yidio.com/mobile/img/streams/602/logo-180h.png", Anime Español
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/608035b8d8705f0007260287/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4f77&deviceDNT=0&deviceModel=0
 
-#EXTINF:-1, Anime Clasico
+#EXTINF:-1 tvg-logo="https://cfm.yidio.com/mobile/img/streams/602/logo-180h.png", Anime Clasico
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6054acc871ec430007f54c7d/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4da2&deviceDNT=0&deviceModel=0
 
-#EXTINF:-1, Anime Latino
+#EXTINF:-1 tvg-logo="https://cfm.yidio.com/mobile/img/streams/602/logo-180h.png", Anime Latino
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4e90&deviceDNT=0&deviceModel=0
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://dominio.beauty/img/cinear.png" group-title="Cine y Series", CINE.AR 
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/4c9831_4fdb2c4534454ca8b3909dff0601065b~mv2.png/v1/fill/w_640,h_160,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/4c9831_4fdb2c4534454ca8b3909dff0601065b~mv2.png" group-title="Cine y Series", CINE.AR 
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://dominio.beauty/img/cinemaplus.png", Cinema plus
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Cinema%2B_logo.svg/1024px-Cinema%2B_logo.svg.png", Cinema plus
 http://hvtrafico.ddns.net:1935/cinema720/cinema720.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/08/sonycomedias.jpg", Sony Comedias
