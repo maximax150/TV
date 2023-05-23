@@ -12,14 +12,8 @@ https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://nuestravision.tv/wp-content/uploads/2018/09/NV_Web_Logo_3D_20180904_900.png", Nuestra Vision
 https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
 
-#EXTINF:-1, La Rosa de Guadalupe 24/7
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-zKPD6JbhTpc/WWT21OBBRDI/AAAAAAAAGz4/5TGeflTKoi0uCtsZRzl1uRJt6StqC2QNQCK4BGAYYCw/s1600/la%2Brosa%2Bde%2Bguadalupe.jpg", La Rosa de Guadalupe 24/7
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
-
-#EXTINF:-1, Televisa Guadalajara
-https://linear-402.frequency.stream/402/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/1.png", RCN Xtra
-https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
 
 #EXTINF:-1, Azteca Corazon
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826
@@ -30,6 +24,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
 #EXTINF:-1, Azteca Internacional
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4828
 
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/1.png", RCN Xtra
+https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/sin_titulo_1920_x_1080_px_7.jpg", RCN Mas
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
@@ -124,16 +120,16 @@ https://spt-novelas-1-us.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sony-canal.com/sites/g/files/objgke201/files/styles/discover_menu_icon/public/2022-11/menu_icon_12123.png?itok=OLBAVyoE", Sony Competencias
 https://spt-competencias-1-us.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="",13 Realities
+#EXTINF:-1  tvg-logo="https://cdn.rudo.video/assets/canal-13/live/live_4eb6696e72efa5710a41290aa9cffbe41678456336.png",13 Realities
 https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
 
-#EXTINF:-1, Q Hubo tv
+#EXTINF:-1 tvg-logo="https://qhubotv.com/content/images/2022/08/Logo-Q-HUBO-1.png", Q Hubo tv
 https://5e85d90130e77.streamlock.net/6024/6024/playlist.m3u8
 
-#EXTINF:-1, Sercano TV
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/972873782972076032/6cacahDX_400x400.jpg", Sercano TV
 http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/playlist.m3u8
 
-#EXTINF:-1, VTV Honduras
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/VTV_HN_logo_2019.png/1200px-VTV_HN_logo_2019.png", VTV Honduras
 https://d1ton6lze3twxp.cloudfront.net/hls/vtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png", CANAL 2 SV
@@ -145,13 +141,13 @@ http://168.227.22.18:1935/live/mobile-036/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_6_TCS.png", Canal 6 SV
 https://telecorporacion.cdn.vustreams.com:443/live/a242095a-c49d-4263-b9ae-5958f5e0c9a1/live.isml/playlist.m3u8
 
-#EXTINF:-1, Canal 12 SV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Canal_12_El_Salvador_2018.png", Canal 12 SV
 https://do0b1lvn4z8ni.cloudfront.net/hls/canal12.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/TCS_35_2017.png/320px-TCS_35_2017.png", TCS+
 https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f5877e/live.isml/playlist.m3u8
 
-#EXTINF:-1, Showven
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Showven.png", Showven
 https://vcp.myplaytv.com/coll/coll/playlist.m3u8
 
 #EXTINF:-1, Antena 3 Int
