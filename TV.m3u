@@ -90,9 +90,6 @@ https://str81.creacast.com/myzentv/myzentv.smil/.m3u8
 #EXTINF:-1 tvg-logo="https://dominio.beauty/img/myzentv.png", My Zen TV Fit
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://dominio.beauty/img/livelyplace.png", Lively Place
-https://aenetworks-ae-1-us.samsung.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://dominio.beautyimg/afv.png", AFV
 https://linear-46.frequency.stream/46/hls/master/playlist.m3u8
 
@@ -2335,20 +2332,39 @@ https://master.tucableip.com/pat/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-xklYhEnMoEQ/XoJ-S16WTVI/AAAAAAAAxUQ/cVvGCBICihAm8ruAArXJD7R8WKYUPcNUQCK8BGAsYHg/s0/2020-03-30.png", Red AD Venir Internacional 
 http://streamer1.streamhost.org:1935/salive/GMIredadvenirl/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", TV Latina 42
+#EXTINF:-1 tvg-logo="https://www.audiokiss.com/tvlatina/wp-content/uploads/sites/7/2021/03/tv-latina-home-450.png", TV Latina 42
 https://master.tucableip.com/live/tvlatinamontero/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", UPPTV 
+#EXTINF:-1 tvg-logo="https://www.redbolivision.tv.bo/wp-content/uploads/2020/12/Imagen-Conductores-Grande-1.jpg", UPPTV 
 https://nedbolivision.akamaized.net/hls/live/2101284/upptvbo/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-N3zh29QSPGc/XoJ-bfc5s-I/AAAAAAAAxUU/049-pOmZOb4ESR2rDTzzDCO6zO5niZ5-QCK8BGAsYHg/s0/2020-03-30.png", RTP
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="", Deporte Total Play
+#EXTINF:-1 tvg-logo="https://deportetotal.com.bo/wp-content/uploads/2018/09/dt-horizontal-logo.png", Deporte Total Play
 https://tv.portalexpress.es:3044/live/dtplaylive.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-7SXvBoxEU7U/YIoR7EX9WEI/AAAAAAABCCM/vilu9iV1RDcjDOT5ksg9xvMyyjceKWRowCK8BGAsYHg/s512/2021-04-28.png", XTO TV 
-https://614013e273786.streamlock.net:443/XtoTv/XtoTv/playlist.m3u8?PlaylistM3UCL
+https://614013e273786.streamlock.net:443/XtoTv/XtoTv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/seo-tv-6-bo.png", SEO TV
+https://live.seo.tv.bo/live/1SEO.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-kids-bo.png", SEO TV Kids
+https://live.seo.tv.bo/live/2SEO.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/seo-tv-novelas-bo.png", SEO TV Novelas
+https://live.seo.tv.bo/live/3SEO.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/seo-tv-peliculas-bo.png", SEO TV Peliculas
+https://live.seo.tv.bo/live/4SEO.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/tv/ss/seo-tv-deportes-bo.png", SEO TV Deportes
+https://seo.tv.bo/tv/q5EVE.m3u8
+
+#EXTINF:-1 tvg-logo="https://teleestrella.tv.bo/wp-content/uploads/2023/02/Imagen1-4-1024x336.png", Tele Estrella
+https://solo.disfrutaenlared.com:1936/teleestrella/teleestrella/playlist.m3u8
+
 
 
 
