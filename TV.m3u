@@ -799,24 +799,28 @@ http://168.227.22.18:1935/live/mobile-109/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/694622115786412032/aAZQM5tp_400x400.jpg", ENLACE 
 https://cdn.jwplayer.com/manifests/p7Mm6Cih.m3u8
 
-#EXTINF:-1 tvg-logo="", San Jose TV
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-PsVXXPIImPI/XCkg2_9To1I/AAAAAAAAHSE/mFHhHlj4ErQ4oG8d54WjkHrarhXc7AjRgCEwYBhgL/s210/blanco-crop.png", San Jose TV
 https://rtmp.info/cabinafides/envivo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", Telefides
+#EXTINF:-1 tvg-logo="https://churchlivestreaming.com/images/telefides-live.jpg", Telefides
 https://s2.cwebtv.net:4433/telefides/telefides/chunklist.m3u8
 
-#EXTINF:-1, Dios Te Ve
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/b0564acdb9c67295acae4e5cf3978ed35795180f9728f21080885a8733d124cd.png", Dios Te Ve
 https://emisoras.hn:8081/diostevetv/playlist.m3u8
 
-#EXTINF:-1, Dios Te Ve Kids
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-hVk-EuKzKz0/XxuOyNLF6vI/AAAAAAAACK0/1CnjYHfAV-wwy5n5gxKOrTbTqSwjh87YgCLcBGAsYHQ/s540/diostevekids_logoroku.jpg", Dios Te Ve Kids
 https://emisoras.hn:8081/diostevekids/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-CVm245eZ890/YE6U9N6yZSI/AAAAAAABAuE/9Auajk4UAtM5WfqNd3bWvPawI9cGHvc2ACK8BGAsYHg/s512/2021-03-14.png", Cristiana TV 
 
-#EXTINF:-1, Elim TV
+#EXTINF:-1 tvg-logo="https://www.elim.org.sv/wp-content/uploads/2016/07/ELIM-TV-PROFILE-2.png", Elim TV
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/7e84ed301b194b7b81e86f85bb2c3a33/playlist.m3u8
-#EXTINF:-1, Taber TV
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-XCw4LjT7SJ8/XHKiSzhzk2I/AAAAAAAAHaM/YGRrV5-iYhAX_94Rd6suABnPdaeJ1vQ4QCLcBGAs/s1600/Taber%2BTv%2Ben%2Bvivo.png", Taber TV
 https://5ca9af4645e15.streamlock.net/tabertv/smil:tabertv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://3abn.org/img/3abn-ogg.png" 3ABN (english)
+https://3abn-live.akamaized.net/hls/live/2010543/3ABN/master.m3u8
 
 
 
@@ -2314,6 +2318,7 @@ https://5f700d5b2c46f.streamlock.net:443/sublime/sublime/playlist.m3u8
 
 
 
+
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/20600a504d12eb0b41587fbc1b700289.png" group-title="Bolivia", Bolivia TV 7.1 
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 
@@ -3070,8 +3075,123 @@ https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/radio-television-ceuta-logo-AD2377C554-seeklogo.com.png", RTVCE
 https://cdnlive.codev8.net/rtvcelive/channel1.smil/.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.teletoledo.es/img/logo.png"
+#EXTINF:-1 tvg-logo="https://www.teletoledo.es/img/logo.png" Teletoledo
 https://cloud.fastchannel.es/mic/manifiest/teletoledo.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="USA", Atlanta Channel
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", AXS TV Now
+https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", BBC America
+https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", Beach TV
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", Bek TV News
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", Bek TV Sports
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", Better Life Nature
+https://uni5rtmp.tulix.tv/betternature/betternature/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", Better Life
+https://uni10rtmp.tulix.tv/betterlife/betterlife.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", Cloudflare tV
+https://cloudflare.tv/hls/live.m3u8
+
+#EXTINF:-1 tvg-logo="", Comedy Dinamics
+https://comedydynamics-wurl.cinedigm.com/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", Comet
+https://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
+
+#EXTINF:-1 tvg-logo="", Court TV
+https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
+
+#EXTINF:0, ABC 7 KMGH
+https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
+
+#EXTINF:-1, Family Flix
+https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", Ion Mistery
+https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", CBC News
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", Wired
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxwired/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", Voyager Documentaries
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvoyager/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", TMZ
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtmz/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", Usa Today
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxusatoday/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", The Desing Network
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxthedesignnetwork/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", Bob Ross Channel
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbobross/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", Sports Grid
+https://sportsgrid-xumo-us.amagi.tv/xumo.m3u8
+
+#EXTINF:-1 tvg-logo="", Shout Factory TV
+https://shoutfactory-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", Reelz Channel
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxreelzchannel/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", NBC News Now
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
+
+#EXTINF:-1 tvg-logo="", Outside Plus
+https://outsidetvplus-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", Newsmax
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-newsmaxxumo/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", Glamour
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglamour/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", Fox Weather
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-foxweather-xumo/CDN/master.m3u8
+
+#EXTINF:-1 tvg-logo="", Food 52
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfood52A/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", Filmrise Free Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", Filmrise Family
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefamily/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", Filrise Classic
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmriseclassictv/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", Crackle
+https://crackle-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", Complex
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcomplex/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", Circle
+https://circle-xumo.amagi.tv/playlist.m3u8
 
 
 
