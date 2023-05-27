@@ -682,9 +682,6 @@ https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/.m3u8
 #EXTINF:-1, PBS America
 https://pbs-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1, Weather Channel
-https://linear-431.frequency.stream/431/hls/master/playlist.m3u8
-
 #EXTINF:-1, Aljazeera
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
@@ -709,8 +706,6 @@ https://rt-glb.gcdn.co/live/rtnews/playlist.m3u8
 #EXTINF:-1, Hispan TV
 https://live1.presstv.ir/live/hispan.m3u8
 
-#EXTINF:-1, Outside TV
-https://outside-tv-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
 
 
 
@@ -819,7 +814,7 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/7e84ed301b194b7b81e86f85bb2c3a33/p
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-XCw4LjT7SJ8/XHKiSzhzk2I/AAAAAAAAHaM/YGRrV5-iYhAX_94Rd6suABnPdaeJ1vQ4QCLcBGAs/s1600/Taber%2BTv%2Ben%2Bvivo.png", Taber TV
 https://5ca9af4645e15.streamlock.net/tabertv/smil:tabertv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://3abn.org/img/3abn-ogg.png" 3ABN (english)
+#EXTINF:-1 tvg-logo="https://3abn.org/img/3abn-ogg.png", 3ABN (english)
 https://3abn-live.akamaized.net/hls/live/2010543/3ABN/master.m3u8
 
 
@@ -3192,6 +3187,9 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcomplex/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="", Circle
 https://circle-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1, Weather Channel
+https://linear-431.frequency.stream/431/hls/master/playlist.m3u8
 
 
 
