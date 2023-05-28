@@ -161,6 +161,7 @@ http://168.227.22.18:1935/live/mobile-156/playlist.m3u8
 
 
 
+
 #EXTINF:-1 tvg-logo="https://i.paste.pics/d70bd8de125ec9cee654a09743c6d533.png" group-title="Animacion e infantil", Magic Kids TV 
 https://magicstream.ddns.net/magicstream/stream.m3u8
 
@@ -202,6 +203,12 @@ http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
 #EXTINF:-1, Tiguerito TV
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/.m3u8
+
+#EXTINF:-1, Happy Kids
+https://happykids-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1, Happy Kids Junior
+https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:-1, NICK Latino Pluto
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=ce75&deviceDNT=0&deviceModel=0
@@ -599,6 +606,9 @@ https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
 #EXTINF:-1, ACC Network
 https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
 
+#EXTINF:-1, Edge Sports
+https://edgesport-samsungus.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/tnt_sports_pasion_sin_limites_vgraf2.jpg", TNT Sports BR
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
 
@@ -770,6 +780,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=540
 
 #EXTINF:-1, Canal UCL
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
+
+#EXTINF:-1, Xplore
+https://xplore-vizio.amagi.tv/playlist.m3u8
 
  
 #EXTINF:-1, DISCOVERY
@@ -1856,11 +1869,14 @@ http://g5.mc-hor.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_al
 #EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/121.png", TV Publica 
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001.m3u8
 
-#EXTINF:-1 tvg-logo="", Canal 7 Neuquen
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/C7neuquenlogo2023.png", Canal 7 Neuquen
 https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/.m3u8
 
-#EXTINF:-1 tvg-logo="", GenTV
+#EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/logos/gentv.jpg", GenTV
 https://inliveserver.com:1936/14056/14056/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Nuevo_logo_TEC_2022.png", Tec TV
+https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/03ced29a4c90a58fd07ae3ffe2cd8d37.png", Canal 10 America TV
 https://g5.mc-slo.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/Playlist.m3u8?sense=true
@@ -2220,6 +2236,12 @@ https://play.cdn.enetres.net/184784E1D210401F8041E3E1266822CC023/028/playlist.m3
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Frs9fE4EgB8/XzgjWrhhc1I/AAAAAAAA4ZQ/w61lgE4yd-IvYQRkswAq2h0qxonM9B7VQCK8BGAsYHg/s0/2020-08-15.jpg", Zoom TV
 https://canalzoom.itex.com.co:3027/live/canalzoombr1live.m3u8
 
+#EXTINF:-1  tvg-logo="https://cdn.colombia.com/canales/canal-mas-television-5347.jpg", Mas TV
+https://movil.ejeserver.com/live/teledoradahd.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/WinSports2022.png/300px-WinSports2022.png", Win Sports Plus
+https://d21gtq1mno4siw.cloudfront.net/out/v1/c7889d78bfa643dc9079c46c81be4b6d/index.m3u8
+
 
 
 
@@ -2236,10 +2258,8 @@ https://d25v5vivhcrrh5.cloudfront.net/hls/canal4_720.m3u8
 https://d25v5vivhcrrh5.cloudfront.net/hls/canal6_720.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Teletica.png", Teletica HD
-
-#EXTINF:-1 tvg-logo="https://static3.teletica.com/Files/Sizes/2021/2/4/canales_1764887849_380x260.png" Teletica Radio
-
-
+https://m6gdar5eyn93-hls-live.5centscdn.com/StreamTeletica/73aac4dc8f2bab2a5d9525001c401af8.sdp/playlist.m3u8
+ 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-8-costa-rica-mx-cr.png", Multimedios 8 
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 
@@ -2642,7 +2662,10 @@ http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8?PlaylistM3U
 https://mdstrm.com/live-stream-playlist/636bd70b44680408872dbfc6.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/1d96bb1f41f4a0a3862bdc1b9c541f8a.png", Aragon TV 
-http://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8?PlaylistM3UCL
+http://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8?
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/834px-La_Sexta_%28A3M%29.svg.png", La Sexta
+https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:11_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.la7tv.es/media/la7tv/images/2022/08/01/2022080110314173695.png", la 7
 https://rtv-murcia-live.globalmest.com/principal/principal.smil/.m3u8
@@ -2851,6 +2874,30 @@ https://circle-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1, Weather Channel
 https://linear-431.frequency.stream/431/hls/master/playlist.m3u8
 
+#EXTINF:-1, Fox News
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1, Fox Soul
+https://foxsoul-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1, Cheddar News
+https://dai.google.com/linear/hls/event/frfwucAPTVunrpitYiymwg/master.m3u8
+
+#EXTINF:-1, ABC News
+https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
+
+#EXTINF:-1, CBS News
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+
+#EXTINF:-1, Big life TV
+https://biglife.sinclair.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1, The Ohio Channel
+https://5ebe6889de541.streamlock.net/live/stream_10/playlist.m3u8
+
+#EXTINF:-1, Retro TV
+https://2-fss-2.streamhoster.com/pl_118/204972-1954132-1/playlist.m3u8
+
 
 
 
@@ -2875,13 +2922,7 @@ https://cdncentury-venushd.zolechamedia.net/playlist.m3u8
 https://dai.google.com/ssai/event/FK1bjW0AThepH1W7CJrByg/master.m3u8
 #EXTINF:-1 tvg-logo="https://dominio.beauty/img/18.png", Latina +18
 http://live.mycamtv.com/latina.m3u8
-#EXTINF:-1 tvg-logo="https://dominio.beauty/img/18.png", Woman
-http://live.redtraffic.net/woman.m3u8
 #EXTINF:-1 tvg-logo="https://dominio.beauty/img/18.png", Lesbian
 http://cdn.adultiptv.net/lesbian.m3u8
 #EXTINF:-1 tvg-logo="https://dominio.beauty/img/18.png", Asian
 http://cdn.adultiptv.net/asian.m3u8
-#EXTINF:-1 tvg-logo="https://dominio.beauty/img/18.png", Milf
-http://cdn.adultiptv.net/milf.m3u8
-#EXTINF:-1 tvg-logo="https://dominio.beauty/img/18.png", Live Cams
-http://cdn.adultiptv.net/livecams.m3u8
