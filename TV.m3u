@@ -621,15 +621,6 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/tnt_sports_pasion_sin_limites_vgraf2.jpg", TNT Sports 4 BR
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1110781334153097216/eIZQVK4B_400x400.png", J sports
-http://redlabmcdn.s.llnwi.net/nv02/bs15hd/index.m3u
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1110781334153097216/eIZQVK4B_400x400.png", J sports 2
-http://redlabmcdn.s.llnwi.net/nv02/bs11hd/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1110781334153097216/eIZQVK4B_400x400.png", J sports 3
-http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_trace-sports-stars_m.png", Trace Sport
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 
@@ -674,11 +665,17 @@ https://freespeech.akamaized.net/hls/live/2024573/live2/playlist.m3u8
 #EXTINF:-1, NHK World Premium
 http://112.72.4.108/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 
-#EXTINF:-1, TV Tokyo
-http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8
+#EXTINF:-1, Rai News
+https://streamcdnb11-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
 
-#EXTINF:-1, FujiTV
-http://redlabmcdn.s.llnwi.net/nv02/bs07hd/index.m3u8
+#EXTINF:-1, DBM TV France
+https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
+
+#EXTINF:-1, Tebeo France
+https://start-1.direct.live/hls/tebeo.m3u8
+
+#EXTINF:-1, Tebesud
+https://start-2.direct.live/hls/tebesud.m3u8
 
 #EXTINF:-1, Arirang World
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/arirang_1ch.smil/.m3u8
@@ -710,11 +707,14 @@ https://revry-revrynews-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1, RT Español
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
-#EXTINF:-1, RT News
-https://rt-glb.gcdn.co/live/rtnews/playlist.m3u8
-
 #EXTINF:-1, Hispan TV
 https://live1.presstv.ir/live/hispan.m3u8
+
+#EXTINF:-1, ABC News Australia
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+
+#EXTINF:-1, Global News Canada
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
 
 
 
@@ -1135,7 +1135,6 @@ http://45.228.234.162:24000/play/a09r/index.m3u8
 
 
 #EXTINF:-1 group-title="Cable 2",
-#EXTM3U
 #EXTINF:-1,A&E HD
 http://177.93.52.98:45001/play/a05b
 #EXTINF:-1,AMC HD
@@ -1405,8 +1404,6 @@ http://181.189.243.254:8000/play/a0r0/index.m3u8
 http://181.189.243.254:8000/play/a0oh/index.m3u8
 #EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0s2.png",4 - Repretel
 http://181.189.243.254:8000/play/a0s2/index.m3u8
-#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0oi.png",42 - Extra TV 42
-http://181.189.243.254:8000/play/a0oi/index.m3u8
 #EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0qy.png",6 - Repretel
 http://181.189.243.254:8000/play/a0qy/index.m3u8
 #EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0s8.png",A&E
