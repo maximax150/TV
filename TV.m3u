@@ -15,13 +15,13 @@ https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-zKPD6JbhTpc/WWT21OBBRDI/AAAAAAAAGz4/5TGeflTKoi0uCtsZRzl1uRJt6StqC2QNQCK4BGAYYCw/s1600/la%2Brosa%2Bde%2Bguadalupe.jpg", La Rosa de Guadalupe 24/7
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 
-#EXTINF:-1, Azteca Corazon
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Coraz%C3%B3n_%28TV_channel%29_logo_2021.png", Azteca Corazon
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826
 
-#EXTINF:-1, Azteca Clic
+#EXTINF:-1 tvg-logo="https://mediaplan.com.gt/wp-content/uploads/elementor/thumbs/Clic450x300-prhd1e7e4jj8lf7xjwbx6swpd3yw1axuqt9zfsk5c0.png", Azteca Clic
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
 
-#EXTINF:-1, Azteca Internacional
+#EXTINF:-1 tvg-logo="https://cdn.c21media.net/wp-content/uploads/2023/01/tvazteca_logo_420x237_thumb.jpg", Azteca Internacional
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4828
 
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/1.png", RCN Xtra
@@ -147,15 +147,15 @@ https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f58
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Showven.png", Showven
 https://vcp.myplaytv.com/coll/coll/playlist.m3u8
 
-#EXTINF:-1, Antena 3 Int
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/antena-3-internacional-es.png", Antena 3 Int
 http://168.227.22.18:1935/live/mobile-008/playlist.m3u8
-#EXTINF:-1, Pasiones
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/pasiones.png", Pasiones
 http://168.227.22.18:1935/live/mobile-014/playlist.m3u8
-#EXTINF:-1, TELEMUNDO INT
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/telemundo_internacional.png", TELEMUNDO INT
 http://168.227.22.18:1935/live/mobile-152/playlist.m3u8
-#EXTINF:-1, UNIVERSO
+#EXTINF:-1 tvg-logo="https://img.nbc.com/sites/nbcunbc/files/images/2019/4/26/Universo-logos-templateUniverso-Logo-Coloralt2-450x250.v2.png", UNIVERSO
 http://168.227.22.18:1935/live/mobile-065/playlist.m3u8
-#EXTINF:-1, E!
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/31306706-f1a3-4941-afe0-6082c6201c36_m.jpg", E!
 http://168.227.22.18:1935/live/mobile-156/playlist.m3u8
 
 
