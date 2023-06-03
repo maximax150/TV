@@ -1742,8 +1742,12 @@ http://181.189.243.254:8000/play/a0nt/index.m3u8
 
 
 
+
 #EXTINF:-1 tvg-logo="https://www.sky.com.mx/assets/img/paquetes/canales/1140.jpg" group-title="Mexico", ADN 40 
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Logotipo_de_TV_Azteca.png", Azteca Noreste
+https://live.info7.mx/info7/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://ipuntotv.com/IMAGES/Canal--6-mexico-logo.jpg", Multimedios CDMX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
