@@ -151,9 +151,9 @@ https://vcp.myplaytv.com/coll/coll/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-008/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/pasiones.png", Pasiones
 http://168.227.22.18:1935/live/mobile-014/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/telemundo_internacional.png", TELEMUNDO INT
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/telemundo_internacional.png", Telemundo Internacional
 http://168.227.22.18:1935/live/mobile-152/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.nbc.com/sites/nbcunbc/files/images/2019/4/26/Universo-logos-templateUniverso-Logo-Coloralt2-450x250.v2.png", UNIVERSO
+#EXTINF:-1 tvg-logo="https://img.nbc.com/sites/nbcunbc/files/images/2019/4/26/Universo-logos-templateUniverso-Logo-Coloralt2-450x250.v2.png", NBC Universo
 http://168.227.22.18:1935/live/mobile-065/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/31306706-f1a3-4941-afe0-6082c6201c36_m.jpg", E!
 http://168.227.22.18:1935/live/mobile-156/playlist.m3u8
@@ -1996,10 +1996,11 @@ https://solo.disfrutaenlared.com:1936/teleestrella/teleestrella/playlist.m3u8
 
 
 
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-00CmxR8xryU/X0Ebq0uxBtI/AAAAAAAA41w/V0PnogwdT8Yn4QYJ26hqsGEO_tP_Lo5OACK8BGAsYHg/s0/2020-08-22.png" group-title="Brazil", Agro Brasil TV 
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Rede_Bandeirantes_logo_2018.svg", Band 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/band-nacional-br.svg", Band 
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f032a160e2b4cbb9de8f0080b845c9ca.webp", Classique TV 
@@ -2037,6 +2038,24 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/82/Logo_of_RedeTV_of_Brazil.png", Rede TV
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rede-brasil-de-comunicacao-br.png", Rede Brasil
+https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/.m3u8
+
+#EXTINF:-1 tvg-logo="", TVN Brasil
+http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", TV MAX 
+https://59f1cbe63db89.streamlock.net:1443/tvmax/tvmax/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", TV Mais
+https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", TV Grande Natal
+http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
+
+#EXTINF:-1 tvg-logo="", TCM 10
+https://live.tcm10.com.br/tcm10hd/stream.m3u8
 
 
 
@@ -2192,6 +2211,8 @@ https://movil.ejeserver.com/live/teledoradahd.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/WinSports2022.png/300px-WinSports2022.png", Win Sports Plus
 https://d21gtq1mno4siw.cloudfront.net/out/v1/c7889d78bfa643dc9079c46c81be4b6d/index.m3u8
+
+
 
 
 
