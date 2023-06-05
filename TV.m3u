@@ -63,6 +63,9 @@ https://tastemadees16intl-brightcove.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dominio.beauty/img/gusto.png", Gusto
 https://gustotv-samsung-gb.samsung.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="", Miembros al aire
+https://linear-483.frequency.stream/dist/vix/483/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://dominio.beauty/img/vix.png", ViX Romance
 https://linear-194.frequency.stream/194/hls/master/playlist.m3u8
 
@@ -2815,9 +2818,6 @@ https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
 #EXTINF:-1, Family Flix
 https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", Ion Mistery
-https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="", CBC News
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
 
@@ -2911,6 +2911,39 @@ https://5ebe6889de541.streamlock.net/live/stream_10/playlist.m3u8
 #EXTINF:-1, Retro TV
 https://2-fss-2.streamhoster.com/pl_118/204972-1954132-1/playlist.m3u8
 
+#EXTINF:-1, The Wheater Channel
+https://linear-431.frequency.stream/dist/vix/431/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", ION
+https://linear-432.frequency.stream/dist/vix/432/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", ION Plus
+https://linear-433.frequency.stream/dist/vix/433/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", ION Mistery
+https://linear-436.frequency.stream/dist/vix/436/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", Bounce XL
+https://linear-434.frequency.stream/dist/vix/434/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", Scripps News
+https://linear-460.frequency.stream/dist/vix/460/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", Court TV
+https://linear-465.frequency.stream/dist/vix/465/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", Grit Xtra
+https://linear-467.frequency.stream/dist/vix/467/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", SN TV
+https://linear-496.frequency.stream/dist/vix/496/hls/master/playlist.m3u8 
+
+#EXTINF:0, Fear This!
+https://linear-143.frequency.stream/dist/localnow/143/hls/master/playlist.m3u8
+
+#EXTINF:0, Fear This! Sci-Fi 
+https://linear-163.frequency.stream/dist/localnow/163/hls/master/playlist.m3u8
+
 
 
 
@@ -2933,9 +2966,8 @@ https://cdncentury-playboyhd.zolechamedia.net/playlist.m3u8
 https://cdncentury-venushd.zolechamedia.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dominio.beauty/img/18.png", Kaloopsy
 https://dai.google.com/ssai/event/FK1bjW0AThepH1W7CJrByg/master.m3u8
-#EXTINF:-1 tvg-logo="https://dominio.beauty/img/18.png", Latina +18
-http://live.mycamtv.com/latina.m3u8
-#EXTINF:-1 tvg-logo="https://dominio.beauty/img/18.png", Lesbian
-http://cdn.adultiptv.net/lesbian.m3u8
-#EXTINF:-1 tvg-logo="https://dominio.beauty/img/18.png", Asian
-http://cdn.adultiptv.net/asian.m3u8
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes/sextreme.png", Sextreme
+https://br.embedflix.net/p2p/sextreme/playlist.m3u8?
+#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="",
