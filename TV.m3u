@@ -853,7 +853,7 @@ http://45.228.234.162:24000/play/a04c/index.m3u8
 http://45.228.234.162:24000/play/a04d/index.m3u8
 #EXTINF:-1,AXN HD
 http://45.228.234.162:24000/play/a07o/index.m3u8
-#EXTINF:-1,AZ click HD
+#EXTINF:-1,Azteca clic
 http://45.228.234.162:24000/play/a04j/index.m3u8
 #EXTINF:-1,Animal Planet HD
 http://45.228.234.162:24000/play/a049/index.m3u8
@@ -861,9 +861,9 @@ http://45.228.234.162:24000/play/a049/index.m3u8
 http://45.228.234.162:24000/play/a09t/index.m3u8
 #EXTINF:-1,Antena 7- RD
 http://45.228.234.162:24000/play/a024/index.m3u8
-#EXTINF:-1,Azcorazon
+#EXTINF:-1,Azteca corazon
 http://45.228.234.162:24000/play/a02i/index.m3u8
-#EXTINF:-1,Azmundo
+#EXTINF:-1,Azteca Internacional
 http://45.228.234.162:24000/play/a067/index.m3u8
 #EXTINF:-1,CARTOON NETWORK HD
 http://45.228.234.162:24000/play/a03y/index.m3u8
@@ -1146,7 +1146,7 @@ http://177.93.52.98:45001/play/a06y
 http://177.93.52.98:45001/play/a062
 #EXTINF:-1,AXN HD
 http://177.93.52.98:45001/play/a05e
-#EXTINF:-1,AZ Cinema HD
+#EXTINF:-1,Azteca Cinema HD
 http://177.93.52.98:45001/play/a076
 #EXTINF:-1,America TV HD
 http://177.93.52.98:45001/play/a07m
@@ -1176,7 +1176,7 @@ http://177.93.52.98:45001/play/a0c0
 http://177.93.52.98:45001/play/a05q
 #EXTINF:-1,Canal RCN
 http://177.93.52.98:45001/play/a0c1
-#EXTINF:-1,CanalInfantilHD
+#EXTINF:-1,Canal Infantil HD
 http://177.93.52.98:45001/play/a0at
 #EXTINF:-1,Caracol HD
 http://177.93.52.98:45001/play/a081
@@ -1184,9 +1184,9 @@ http://177.93.52.98:45001/play/a081
 http://177.93.52.98:45001/play/a072
 #EXTINF:-1,CineFamiliarHD
 http://177.93.52.98:45001/play/a0av
-#EXTINF:-1,CineHispanoHD
+#EXTINF:-1,Cine Hispano HD
 http://177.93.52.98:45001/play/a0aw
-#EXTINF:-1,CinePremiumHD
+#EXTINF:-1,Cine PremiumHD
 http://177.93.52.98:45001/play/a0ax
 #EXTINF:-1,Cinecanal HD
 http://177.93.52.98:45001/play/a06x
