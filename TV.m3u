@@ -243,7 +243,6 @@ http://168.227.22.18:1935/live/mobile-099/playlist.m3u8
 #EXTINF:-1, Nickelodeon
 http://168.227.22.18:1935/live/mobile-112/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://fontmeme.com/images/Spongebob-TV-Series.png", Bob Esponja
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=cb17&deviceDNT=0&deviceModel=0
 
@@ -449,7 +448,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcdde78f080d90009
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/2560px-Pluto_TV_logo_2020.svg.png", Pluto Drama
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=290f&deviceDNT=0&deviceModel=0
 
-
 #EXTINF:-1, COMEDY CENTRAL
 http://168.227.22.18:1935/live/mobile-001/playlist.m3u8
 #EXTINF:-1, SPACE
@@ -561,34 +559,55 @@ https://vcp.myplaytv.com/oxigenotv/oxigenotv/.m3u8
 #EXTINF:-1, Planeta TV Music
 https://scl.edge.grupoz.cl/music/live/music.m3u8
 
-#EXTINF:-1, Stingray Classica
+#EXTINF:-1 tvg-logo="https://alternative.me/media/256/stingray-music-icon-czw1xxxzgpmeahvj-c.png", Stingray Classica
 https://watchtv-raw.ott-channels.stingray.com/classica/index.m3u8
-#EXTINF:-1, Stingray Classica 2
+#EXTINF:-1 tvg-logo="https://alternative.me/media/256/stingray-music-icon-czw1xxxzgpmeahvj-c.png", Stingray Classica 2
 https://watchtv-raw.ott-channels.stingray.com/classica01/index.m3u8
-#EXTINF:-1, Stingray Cmusic
+#EXTINF:-1 tvg-logo="https://alternative.me/media/256/stingray-music-icon-czw1xxxzgpmeahvj-c.png", Stingray Cmusic
 https://watchtv-raw.ott-channels.stingray.com/cmusic/index.m3u8
-#EXTINF:-1, Stingray Naturescape
+#EXTINF:-1 tvg-logo="https://alternative.me/media/256/stingray-music-icon-czw1xxxzgpmeahvj-c.png", Stingray Naturescape
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=570
-#EXTINF:-1, Stingray Hits
+#EXTINF:-1 tvg-logo="https://alternative.me/media/256/stingray-music-icon-czw1xxxzgpmeahvj-c.png", Stingray Hits
 https://ott-linear-channels.stingray.com/155/master.m3u8
-#EXTINF:-1, Stingray Hit List
+#EXTINF:-1 tvg-logo="https://alternative.me/media/256/stingray-music-icon-czw1xxxzgpmeahvj-c.png", Stingray Hit List
 https://ott-linear-channels.stingray.com/107/master.m3u8
-#EXTINF:-1, Stingray Classic Rock
+#EXTINF:-1 tvg-logo="https://alternative.me/media/256/stingray-music-icon-czw1xxxzgpmeahvj-c.png", Stingray Classic Rock
 https://ott-linear-channels.stingray.com/101/master.m3u8
-#EXTINF:-1, Stingray Rock Alt
+#EXTINF:-1 tvg-logo="https://alternative.me/media/256/stingray-music-icon-czw1xxxzgpmeahvj-c.png", Stingray Rock Alt
 https://ott-linear-channels.stingray.com/102/master.m3u8
-#EXTINF:-1, Stingray Adult Pop
+#EXTINF:-1 tvg-logo="https://alternative.me/media/256/stingray-music-icon-czw1xxxzgpmeahvj-c.png", Stingray Adult Pop
 https://ott-linear-channels.stingray.com/104/master.m3u8
-#EXTINF:-1, Stingray Urban
+#EXTINF:-1 tvg-logo="https://alternative.me/media/256/stingray-music-icon-czw1xxxzgpmeahvj-c.png", Stingray Urban
 https://ott-linear-channels.stingray.com/133/master.m3u8
-#EXTINF:-1, Stingray Country
+#EXTINF:-1 tvg-logo="https://alternative.me/media/256/stingray-music-icon-czw1xxxzgpmeahvj-c.png", Stingray Country
 https://ott-linear-channels.stingray.com/108/master.m3u8
-#EXTINF:-1, Stingray Latin
+#EXTINF:-1 tvg-logo="https://alternative.me/media/256/stingray-music-icon-czw1xxxzgpmeahvj-c.png", Stingray Latin
 https://ott-linear-channels.stingray.com/190/master.m3u8
-#EXTINF:-1, Stingray 70s
+#EXTINF:-1 tvg-logo="https://alternative.me/media/256/stingray-music-icon-czw1xxxzgpmeahvj-c.png", Stingray 70s
 https://ott-linear-channels.stingray.com/115/master.m3u8
-#EXTINF:-1, Stingray 80s
+#EXTINF:-1 tvg-logo="https://alternative.me/media/256/stingray-music-icon-czw1xxxzgpmeahvj-c.png", Stingray 80s
 https://ott-linear-channels.stingray.com/128/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg", Vevo Pop
+https://d3t95pdz2h4c90.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg", Vevo Rock
+https://d1uttzwuh34h7x.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg", Vevo Country
+https://duj0m5mtx2apx.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg", Vevo Latino
+https://d3k7iagvenqkpa.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg", Vevo Hip Hop
+https://d3mzlmrngyf08j.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg", Vevo R&B
+https://d188921up0bidw.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg", Vevo 70s
+https://dqwknz5qopbgu.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg", Vevo 80s
+https://d36tolctzl3cf9.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg", Vevo 90s
+https://d36vl7sxn34m5q.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg", Vevo 00s
+https://d3mzlmrngyf08j.cloudfront.net/playlist.m3u8
 
 
 
