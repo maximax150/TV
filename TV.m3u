@@ -123,30 +123,6 @@ https://spt-competencias-1-us.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://cdn.rudo.video/assets/canal-13/live/live_4eb6696e72efa5710a41290aa9cffbe41678456336.png",13 Realities
 https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://qhubotv.com/content/images/2022/08/Logo-Q-HUBO-1.png", Q Hubo tv
-https://5e85d90130e77.streamlock.net/6024/6024/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/972873782972076032/6cacahDX_400x400.jpg", Sercano TV
-http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/VTV_HN_logo_2019.png/1200px-VTV_HN_logo_2019.png", VTV Honduras
-https://d1ton6lze3twxp.cloudfront.net/hls/vtv.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png", CANAL 2 SV
-https://telecorporacion-es.cdn.vustreams.com:443/live/af9473b9-191c-456a-b714-57eace94e2fe/live.isml/Playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Canal_4_TCS.png", CANAL 4 SV
-http://168.227.22.18:1935/live/mobile-036/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_6_TCS.png", Canal 6 SV
-https://telecorporacion.cdn.vustreams.com:443/live/a242095a-c49d-4263-b9ae-5958f5e0c9a1/live.isml/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Canal_12_El_Salvador_2018.png", Canal 12 SV
-https://do0b1lvn4z8ni.cloudfront.net/hls/canal12.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/TCS_35_2017.png/320px-TCS_35_2017.png", TCS+
-https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f5877e/live.isml/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Showven.png", Showven
 https://vcp.myplaytv.com/coll/coll/playlist.m3u8
 
@@ -180,8 +156,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d51e6949ab8e2b35bdcaa
 https://i.mjh.nz/PlutoTV/62aa5740a47b6c000769f407-alt.m3u8
 
 
-
-
+---------------------------------------------------
+Animacion e Infantil
+---------------------------------------------------
 
 
 #EXTINF:-1 tvg-logo="https://i.paste.pics/d70bd8de125ec9cee654a09743c6d533.png" group-title="Animacion e infantil", Magic Kids TV 
@@ -335,7 +312,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff608e60e2996000768c3
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff3934600d4c7000733ff49/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
-
+---------------------------------------------------
+Cine y series
+---------------------------------------------------
 
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/4c9831_4fdb2c4534454ca8b3909dff0601065b~mv2.png/v1/fill/w_640,h_160,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/4c9831_4fdb2c4534454ca8b3909dff0601065b~mv2.png" group-title="Cine y Series", CINE.AR 
@@ -367,9 +346,6 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussen
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png", Retro Plus TV 3 
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/7787d1d2ab3382cc09d2c3fa9bb8720d.png", Contacto TV Peru
-https://live.obslivestream.com/cdeportivo/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/2560px-Canal_Golden_logo.svg.png", Golden
 https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
@@ -558,6 +534,9 @@ http://168.227.22.18:1935/live/mobile-153/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-154/playlist.m3u8
 
 
+---------------------------------------------------
+Musicales
+---------------------------------------------------
 
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/99cc893c37784a17aac9a95ac3c7e5c8.png" group-title="Musicales", VClassicTV 
@@ -651,7 +630,6 @@ https://ott-linear-channels.stingray.com/190/master.m3u8
 https://ott-linear-channels.stingray.com/115/master.m3u8
 #EXTINF:-1 tvg-logo="https://alternative.me/media/256/stingray-music-icon-czw1xxxzgpmeahvj-c.png", Stingray 80s
 https://ott-linear-channels.stingray.com/128/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg", Vevo Pop
 https://d3t95pdz2h4c90.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg", Vevo Rock
@@ -674,7 +652,9 @@ https://d36vl7sxn34m5q.cloudfront.net/playlist.m3u8
 https://d3mzlmrngyf08j.cloudfront.net/playlist.m3u8
 
 
-
+---------------------------------------------------
+Deportes
+---------------------------------------------------
 
 
 #EXTINF:-1 tvg-logo="https://dominio.beauty/img/garagetv.png" group-title="Deportes", Garage TV
@@ -779,7 +759,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5bb1ac3e268cae539bcedb
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5c01df1759ee03633e7b272c/colorLogoPNG.png", Lucha Libre AAA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-
 #EXTINF:-1, TYC Sports
 http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
 #EXTINF:-1, Fox Sports MX
@@ -798,16 +777,45 @@ http://168.227.22.18:1935/live/mobile-033/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-143/playlist.m3u8
 
 
+---------------------------------------------------
+Noticias
+---------------------------------------------------
 
-
-#EXTINF:-1 group-title="Internacional", Infowars
+#EXTINF:-1 group-title="Noticias", Infowars
 https://freespeech.akamaized.net/hls/live/2024573/live2/playlist.m3u8
-
-#EXTINF:-1, NHK World Premium
-http://112.72.4.108/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 
 #EXTINF:-1, Rai News
 https://streamcdnb11-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
+
+#EXTINF:-1, Aljazeera
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1, Reuters
+https://reuters-reutersnow-1-us.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1, Euronews
+https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1, CNN International
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1, Revry News
+https://revry-revrynews-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1, ABC News Australia
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+
+#EXTINF:-1, Global News Canada
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
+
+
+---------------------------------------------------
+Internacional
+---------------------------------------------------
+
+
+#EXTINF:-1  group-title="Internacional", NHK World Premium
+http://112.72.4.108/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 
 #EXTINF:-1, DBM TV France
 https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
@@ -830,38 +838,19 @@ https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/.m3u8
 #EXTINF:-1, PBS America
 https://pbs-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1, Aljazeera
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-
-#EXTINF:-1, Reuters
-https://reuters-reutersnow-1-us.plex.wurl.tv/playlist.m3u8
-
-#EXTINF:-1, Euronews
-https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1, CNN International
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-
-#EXTINF:-1, Revry News
-https://revry-revrynews-1-eu.rakuten.wurl.tv/playlist.m3u8
-
 #EXTINF:-1, RT Español
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
 #EXTINF:-1, Hispan TV
 https://live1.presstv.ir/live/hispan.m3u8
 
-#EXTINF:-1, ABC News Australia
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-
-#EXTINF:-1, Global News Canada
-https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
-
 #EXTINF:-1, CCTV 4
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8?ads.islive=1&ads.streamtype=live
 
 
-
+---------------------------------------------------
+Cultural
+---------------------------------------------------
 
 
 #EXTINF:-1 group-title="Culturales", CGTN
@@ -953,6 +942,9 @@ http://168.227.22.18:1935/live/mobile-107/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-109/playlist.m3u8
 
 
+---------------------------------------------------
+Religion
+---------------------------------------------------
 
 
 #EXTINF:-1 group-title="Religioso",
@@ -983,8 +975,9 @@ https://5ca9af4645e15.streamlock.net/tabertv/smil:tabertv.smil/playlist.m3u8
 https://3abn-live.akamaized.net/hls/live/2010543/3ABN/master.m3u8
 
 
-
-
+---------------------------------------------------
+Cable
+---------------------------------------------------
 
 
 #EXTINF:-1 group-title="Cable 1", 
@@ -2058,7 +2051,9 @@ http://91.126.182.211:9981/stream/channelid/1821619927?profile=pass
 http://91.126.182.211:9981/stream/channelid/2136441687?profile=pass
 
 
-
+---------------------------------------------------
+Mexico
+---------------------------------------------------
 
 
 #EXTINF:-1 tvg-logo="https://www.sky.com.mx/assets/img/paquetes/canales/1140.jpg" group-title="Mexico", ADN 40 
@@ -2170,7 +2165,9 @@ http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
 http://189.240.210.28:1935/live/setpuebla/playlist.m3u8
 
 
-
+---------------------------------------------------
+Argentina
+---------------------------------------------------
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2700584718/521b9a884ba87e6cbd72464276e77fe6_400x400.jpeg" group-title="Argentina", Canal XFN 
@@ -2306,7 +2303,9 @@ https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
 https://5f700d5b2c46f.streamlock.net:443/sublime/sublime/playlist.m3u8
 
 
-
+---------------------------------------------------
+Bolivia
+---------------------------------------------------
 
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/20600a504d12eb0b41587fbc1b700289.png" group-title="Bolivia", Bolivia TV 7.1 
@@ -2361,8 +2360,9 @@ https://seo.tv.bo/tv/q5EVE.m3u8
 https://solo.disfrutaenlared.com:1936/teleestrella/teleestrella/playlist.m3u8
 
 
-
-
+---------------------------------------------------
+Brasil
+---------------------------------------------------
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-00CmxR8xryU/X0Ebq0uxBtI/AAAAAAAA41w/V0PnogwdT8Yn4QYJ26hqsGEO_tP_Lo5OACK8BGAsYHg/s0/2020-08-22.png" group-title="Brazil", Agro Brasil TV 
@@ -2426,7 +2426,9 @@ http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
 
 
-
+---------------------------------------------------
+Chile
+---------------------------------------------------
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-ETprzEeH-JY/XbCxYXbNQUI/AAAAAAAArkw/zQxemFrwNjAbMoyByyr_sesnZ8QKgap-QCK8BGAsYHg/s0/2019-10-23.png" group-title="Chile", TVN - 24h 
@@ -2511,7 +2513,9 @@ https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
 https://v4.tustreaming.cl/graciatv/index.m3u8
 
 
-
+---------------------------------------------------
+Colombia
+---------------------------------------------------
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Qtn4FPkMhMI/XzggR9q6ebI/AAAAAAAA4XU/egrRXsJN-hYw04hboMtcwXBDGhCufLQjACK8BGAsYHg/s0/2020-08-15.jpg" group-title="Colombia", Cali TV 
@@ -2581,8 +2585,9 @@ https://movil.ejeserver.com/live/teledoradahd.m3u8
 https://d21gtq1mno4siw.cloudfront.net/out/v1/c7889d78bfa643dc9079c46c81be4b6d/index.m3u8
 
 
-
-
+---------------------------------------------------
+Costa Rica
+---------------------------------------------------
 
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/8a3218def129b372d3c596ac36942e40.png" group-title="Costa Rica", Canal 1 CR
@@ -2690,7 +2695,9 @@ https://tv.fullhd-streaming.com:3285/hybrid/play.m3u8
 https://62fc643fbf1aa.streamlock.net/TVNICA/TVNICA/playlist.m3u8
 
 
-
+---------------------------------------------------
+Panama
+---------------------------------------------------
 
 
 #EXTINF:-1 tvg-logo=""group-title="Panama", BTV Panama
@@ -2724,7 +2731,9 @@ https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/60580
 https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/playlist_dvr.m3u8
 
 
-
+---------------------------------------------------
+Guatemala
+---------------------------------------------------
 
 
 #EXTINF:-1 group-title="Guatemala",NimTv 
@@ -2753,7 +2762,6 @@ http://45.5.117.138:25461/playgt/123456/104
 http://45.5.117.138:25461/playgt/123456/106
 #EXTINF:-1,TV Globo 
 http://45.5.117.138:25461/playgt/123456/111
-
 #EXTINF:-1,Canal 3
 https://d1dqr580c2izza.cloudfront.net/hls/canal3.m3u8
 #EXTINF:-1,Televisiete
@@ -2762,7 +2770,45 @@ https://d1dqr580c2izza.cloudfront.net/hls/canal7.m3u8
 https://d1dqr580c2izza.cloudfront.net/hls/canal23.m3u8
 
 
+---------------------------------------------------
+Honduras
+---------------------------------------------------
 
+
+#EXTINF:-1 tvg-logo="https://qhubotv.com/content/images/2022/08/Logo-Q-HUBO-1.png"group-title="Honduras", Q Hubo tv
+https://5e85d90130e77.streamlock.net/6024/6024/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/972873782972076032/6cacahDX_400x400.jpg", Sercano TV
+http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/VTV_HN_logo_2019.png/1200px-VTV_HN_logo_2019.png", VTV Honduras
+https://d1ton6lze3twxp.cloudfront.net/hls/vtv.m3u8
+
+
+---------------------------------------------------
+El Salvador
+---------------------------------------------------
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png" group-title="El Salvador", CANAL 2 
+https://telecorporacion-es.cdn.vustreams.com:443/live/af9473b9-191c-456a-b714-57eace94e2fe/live.isml/Playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Canal_4_TCS.png", CANAL 4 
+http://168.227.22.18:1935/live/mobile-036/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_6_TCS.png", Canal 6 
+https://telecorporacion.cdn.vustreams.com:443/live/a242095a-c49d-4263-b9ae-5958f5e0c9a1/live.isml/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Canal_12_El_Salvador_2018.png", Canal 12 
+https://do0b1lvn4z8ni.cloudfront.net/hls/canal12.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/TCS_35_2017.png/320px-TCS_35_2017.png", TCS+
+https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f5877e/live.isml/playlist.m3u8
+
+
+---------------------------------------------------
+Ecuador
+---------------------------------------------------
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="Ecuador", RTS
@@ -2799,7 +2845,9 @@ https://plataformavideo.com/live/nortvision.m3u8
 https://livetv.once.net.ec/manavision/video.m3u8
 
 
-
+---------------------------------------------------
+Venezuela
+---------------------------------------------------
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-9BWoKXWGkL8/Xxzv1rANFBI/AAAAAAAA3aw/DiZRzBM-OpgDJ_m32kNsUqCXr9qBjincgCK8BGAsYHg/s0/2020-07-25.png" group-title="Venezuela", Promar TV 
@@ -2848,7 +2896,9 @@ https://vcp2.myplaytv.com/telesol/telesol/playlist.m3u8?PlaylistM3UCL
 https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8?PlaylistM3UCL
 
 
-
+---------------------------------------------------
+Paraguay
+---------------------------------------------------
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SNT_2013_logotype.png" group-title="Paraguay", SNT 
@@ -2894,15 +2944,19 @@ https://59ce1298bfb98.streamlock.net/uniradiotv/uniradiotv/playlist.m3u8?Playlis
 https://ott.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8
 
 
-
-
+---------------------------------------------------
+Peru
+---------------------------------------------------
 
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/cd42f39664a8407ac5071d2ef6842c9e.png" group-title="Peru", Canal IPE 
 https://cdnh75.iblups.com/hls/OVJNKV4pSr.m3u8
 
-#EXTINF:-1 tvg-id="705" tvg-name="TV Peru Noticias" tvg-logo="https://lh3.googleusercontent.com/-KD-fsTkMuGk/XoKOALALblI/AAAAAAAAxWc/5phOwY1GlmwfZ4jq32uVem2PZRDigWSCACK8BGAsYHg/s0/2020-03-30.png", TV Peru Noticias 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-KD-fsTkMuGk/XoKOALALblI/AAAAAAAAxWc/5phOwY1GlmwfZ4jq32uVem2PZRDigWSCACK8BGAsYHg/s0/2020-03-30.png", TV Peru Noticias 
 https://cdnh76.iblups.com/hls/RMuwrdk7M9.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/7787d1d2ab3382cc09d2c3fa9bb8720d.png", Contacto TV Peru
+https://live.obslivestream.com/cdeportivo/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-GXO0Icql4EQ/XoKCsLIBYYI/AAAAAAAAxU8/orolaAsdhtcwmmCf7538H7VopRGVo2wbwCK8BGAsYHg/s0/2020-03-30.png", Antares TV 
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8?PlaylistM3UCL
@@ -2965,7 +3019,9 @@ https://cdnh79.iblups.com/hls/RMuwrdk7M9.m3u8
 http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8
 
 
-
+---------------------------------------------------
+Dominicana
+---------------------------------------------------
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-13NMPnGbChA/XkyjXafughI/AAAAAAAAwIE/5GeoQycy3SoMZ91mla3A_jqJqCqTMvz9wCK8BGAsYHg/s0/2020-02-18.png" group-title="Dominicana", Orbit TV 
@@ -3037,6 +3093,9 @@ http://newyorkstream.ddns.net:5854/telenord12/telenord12/telenord12.m3u8
 http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8?PlaylistM3UCL
 
 
+---------------------------------------------------
+Spain
+---------------------------------------------------
 
 
 #EXTINF:-1 tvg-logo="https://www.8tv.cat/uploads/logos/20220914103438_logo_13_logo[1].png" group-title="España", 8TV Catalunya
@@ -3138,7 +3197,9 @@ https://cdnlive.codev8.net/rtvcelive/channel1.smil/.m3u8
 https://cloud.fastchannel.es/mic/manifiest/teletoledo.m3u8
 
 
-
+---------------------------------------------------
+U.S.A.
+---------------------------------------------------
 
 
 #EXTINF:-1 tvg-logo="" group-title="USA", Atlanta Channel
@@ -3310,7 +3371,9 @@ https://linear-143.frequency.stream/dist/localnow/143/hls/master/playlist.m3u8
 https://linear-163.frequency.stream/dist/localnow/163/hls/master/playlist.m3u8
 
 
-
+---------------------------------------------------
+XXX
+---------------------------------------------------
 
 
 #EXTINF:-1 tvg-logo="https://dominio.beauty/img/miamitv.png" group-title="+18", Miami TV
