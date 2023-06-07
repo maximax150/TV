@@ -2784,6 +2784,71 @@ http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/VTV_HN_logo_2019.png/1200px-VTV_HN_logo_2019.png", VTV Honduras
 https://d1ton6lze3twxp.cloudfront.net/hls/vtv.m3u8
 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/03/activatvhonduras.png", Activa TV
+https://multimedia.tmcreativos.com:1936/mbcrtzxnxd/mbcrtzxnxd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Ten-Canal-10-Honduras-en-vivo-Online.png", TEN HD
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/Canal-11-Honduras-en-vivo-Online.png", Canal 11
+https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Cholusat-Sur-Canal-36-en-vivo-Online.png", Cholusat Sur
+http://audiotvserver.net:1935/livemedia/cholusat/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/03/jbn.png", JBN
+https://emisoras.hn:8081/jbn/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/04/LTV-Honduras-en-vivo-Online.png", LTV
+https://5e85d90130e77.streamlock.net/6022/6022/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", Canal 15 DTP
+https://emisoras.hn:8081/dtp/index.m3u8
+
+#EXTINF:-1 tvg-logo="", Ceiba Vision
+http://154.53.36.15:1935/CANAL36/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", Choluteca
+https://emisoras.hn:8081/cholutecatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", CHTV
+https://media.streambrothers.com:1936/8054/8054/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", CTV Internacional
+https://mediacp.us:8081/ctvhn/index.m3u8
+
+#EXTINF:-1 tvg-logo="", DTV
+https://emisoras.hn:8081/dtv/index.m3u8
+
+#EXTINF:-1 tvg-logo="", Ebezener TV
+https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", EDN TV
+https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", Jehova TV
+https://video.misistemareseller.com/jehovatelevision/jehovatelevision/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", Kerusso TV
+https://emisoras.hn:8081/kerussotv/index.m3u8
+
+#EXTINF:-1 tvg-logo="", La Metro TV
+https://emisoras.hn:8081/metrotv/index.m3u8
+
+#EXTINF:-1 tvg-logo="", TeleProgreso
+https://stmv1.zcasthn.com.br/teleprogreso/teleprogreso/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", TV Metropolis 19.1
+https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", TV Metropolis 19.2
+https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", TV Copan
+https://emisoras.hn:8081/tvcopan/index.m3u8
+
+#EXTINF:-1 tvg-logo="", TV Estrella
+https://emisoras.hn:8081/tvestrella/index.m3u8
 
 ---------------------------------------------------
 El Salvador
@@ -2799,11 +2864,26 @@ http://168.227.22.18:1935/live/mobile-036/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_6_TCS.png", Canal 6 
 https://telecorporacion.cdn.vustreams.com:443/live/a242095a-c49d-4263-b9ae-5958f5e0c9a1/live.isml/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/TU-TV-El-Salvador-Canal-11-en-vivo-Online.png", TUTV Canal 11
+https://streaming.grupocsanetwork.net:1936/canal11/canal11/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Canal_12_El_Salvador_2018.png", Canal 12 
 https://do0b1lvn4z8ni.cloudfront.net/hls/canal12.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/TCS_35_2017.png/320px-TCS_35_2017.png", TCS+
 https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f5877e/live.isml/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Canal-19-El-Salvador-en-vivo-Online.png", canal 19
+https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Canal-21.png", Canal 21
+https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
+
+#EXTINF:-1 tvg-logo="", Canal 25
+https://ssh101.bozztv.com/ssh101/OrbitaTV25/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", Canal TRV
+https://stream.oursnetworktv.com/latin/encoder44/playlist.m3u8
 
 
 ---------------------------------------------------
