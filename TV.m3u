@@ -146,10 +146,64 @@ http://168.227.22.18:1935/live/mobile-156/playlist.m3u8
 #EXTINF:-1 tvg-logo="", Woman TV
 https://embedlp.becdn.net/womantv.m3u8
 
+EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/619d56d9fa3070000709e3f7/colorLogoPNG.png", Younger
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619d56d9fa3070000709e3f7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/colorLogoPNG.png", Nick Teen
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fcea93ffcf94500071c4b2f/colorLogoPNG.png", Kenan y Kel
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fcea93ffcf94500071c4b2f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/620ff0a01f9e8700076c6f9d/colorLogoPNG.png", iCarly
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620ff0a01f9e8700076c6f9d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6de52b9914200091f047a/colorLogoPNG.png", Pluto TV Teen
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6de52b9914200091f047a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/615b9855c6b58b000724477f/colorLogoPNG.png", Iron Chef
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/615b9855c6b58b000724477f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/colorLogoPNG.png", MasterChef
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e3ddbd27091820009f86dd9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6095ad97351eb0000754c1e6/colorLogoPNG.png", Hells Kitchen
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6095ad97351eb0000754c1e6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e46e64dc73db400094b5f0b/colorLogoPNG.png", Minuto Para Ganar
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e46e64dc73db400094b5f0b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6099600015e88c0007ecda25/colorLogoPNG.png", Boom
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6099600015e88c0007ecda25/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6d935d000120009bc1132/colorLogoPNG.png", Pluto TV Competencias
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6d935d000120009bc1132/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ed6828192e8b3000743ef61/colorLogoPNG.png", Wipe Out
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ed6828192e8b3000743ef61/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG.png", Pluto TV Novelas
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/604bdf4e6d0abc0007ba77ad/colorLogoPNG.png", Sin Tetas No Hay Paraiso
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604bdf4e6d0abc0007ba77ad/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/colorLogoPNG.png", Telefe Hits
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de91cf02fc07c0009910465/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f9afb01816137000737f799/colorLogoPNG.png", Nosey Escandalos
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9afb01816137000737f799/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60c882460ea4a200076a2a37/colorLogoPNG.png", Fashion TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60c882460ea4a200076a2a37/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1ac1780e94100007f94b3f/colorLogoPNG.png", People are Awesome
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac1780e94100007f94b3f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ca670f6593a5d78f0e85aed/colorLogoPNG.png", BET Pluto TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d51e6949ab8e2b35bdcaa9f/colorLogoPNG.png",BET Her
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d51e6949ab8e2b35bdcaa9f/colorLogoPNG.png", BET Her
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d51e6949ab8e2b35bdcaa9f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62aa5740a47b6c000769f407/colorLogoPNG.png", Chilevision Contigo
@@ -808,6 +862,21 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 #EXTINF:-1, Global News Canada
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/54ff7ba69222cb1c2624c584/colorLogoPNG.png", Bloomberg TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/54ff7ba69222cb1c2624c584/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5812afe1d0f0b8d55dde67fa/colorLogoPNG.png", Cheddar News
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812afe1d0f0b8d55dde67fa/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/55b179af994403942f3061d6/colorLogoPNG.png", Newsmax
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/55b179af994403942f3061d6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f523aa5523ae000074745ec/colorLogoPNG.png", Telefe Noticias
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f523aa5523ae000074745ec/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61f94a2866401100074e9dee/colorLogoPNG.png", Chilevision Noticias
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f94a2866401100074e9dee/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 
 ---------------------------------------------------
 Internacional
@@ -846,6 +915,9 @@ https://live1.presstv.ir/live/hispan.m3u8
 
 #EXTINF:-1, CCTV 4
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8?ads.islive=1&ads.streamtype=live
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5331d5fb753499095a00045a/colorLogoPNG.png", TYT Network
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5331d5fb753499095a00045a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
 ---------------------------------------------------
@@ -924,6 +996,9 @@ https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 
 #EXTINF:-1, Xplore
 https://xplore-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60dd6b1da79e4d0007309455/colorLogoPNG.png", Love Nature
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
  
 #EXTINF:-1, DISCOVERY
@@ -1837,218 +1912,6 @@ http://181.189.243.254:8000/play/a0nt/index.m3u8
 
 
 #EXTINF:-1 group-title="Cable 4",
-#EXTINF:-1,LA 1
-http://91.126.182.211:9981/stream/channelid/1481653854?profile=pass
-#EXTINF:-1,LA 2
-http://91.126.182.211:9981/stream/channelid/1591417709?profile=pass
-#EXTINF:-1,Antena 3
-http://91.126.182.211:9981/stream/channelid/2028569190?profile=pass
-#EXTINF:-1,Cuatro
-http://91.126.182.211:9981/stream/channelid/578614384?profile=pass
-#EXTINF:-1,Telecinco
-http://91.126.182.211:9981/stream/channelid/1780379446?profile=pass
-#EXTINF:-1,La Sexta
-http://91.126.182.211:9981/stream/channelid/835495895?profile=pass
-#EXTINF:-1,#0
-http://91.126.182.211:9981/stream/channelid/1383452667?profile=pass
-#EXTINF:-1,M+ Estrenos
-http://91.126.182.211:9981/stream/channelid/1384605787?profile=pass
-#EXTINF:-1,M+ Estrenos 2
-http://91.126.182.211:9981/stream/channelid/133041949?profile=pass
-#EXTINF:-1,M+ Clásicos
-http://91.126.182.211:9981/stream/channelid/2000258757?profile=pass
-#EXTINF:-1,M+ Acción
-http://91.126.182.211:9981/stream/channelid/249993271?profile=pass
-#EXTINF:-1,M+ Comedia
-http://91.126.182.211:9981/stream/channelid/108126109?profile=pass
-#EXTINF:-1,M+ Drama
-http://91.126.182.211:9981/stream/channelid/125118391?profile=pass
-#EXTINF:-1,M+ Cine Español
-http://91.126.182.211:9981/stream/channelid/1199729987?profile=pass
-#EXTINF:-1,M+ Fest
-http://91.126.182.211:9981/stream/channelid/967563663?profile=pass
-#EXTINF:-1,LA Resistencia 24H
-http://91.126.182.211:9981/stream/channelid/1296034809?profile=pass
-#EXTINF:-1,Hollywood
-http://91.126.182.211:9981/stream/channelid/754528997?profile=pass
-#EXTINF:-1,Sundance
-http://91.126.182.211:9981/stream/channelid/919050149?profile=pass
-#EXTINF:-1,Somos
-http://91.126.182.211:9981/stream/channelid/673227219?profile=pass
-#EXTINF:-1,BOM Cine
-http://91.126.182.211:9981/stream/channelid/1007483533?profile=pass
-#EXTINF:-1,Paramount Channel
-http://91.126.182.211:9981/stream/channelid/343914200?profile=pass
-#EXTINF:-1,M+ Series
-http://91.126.182.211:9981/stream/channelid/2017651828?profile=pass
-#EXTINF:-1,M+ Series 2
-http://91.126.182.211:9981/stream/channelid/638309047?profile=pass
-#EXTINF:-1,Fox
-http://91.126.182.211:9981/stream/channelid/1083569034?profile=pass
-#EXTINF:-1,TNT
-http://91.126.182.211:9981/stream/channelid/1784949419?profile=pass
-#EXTINF:-1,Comedy Central
-http://91.126.182.211:9981/stream/channelid/1252749659?profile=pass
-#EXTINF:-1,Calle 13
-http://91.126.182.211:9981/stream/channelid/1601665190?profile=pass
-#EXTINF:-1,COSMO
-http://91.126.182.211:9981/stream/channelid/1177129123?profile=pass
-#EXTINF:-1,AMC
-http://91.126.182.211:9981/stream/channelid/1454274294?profile=pass
-#EXTINF:-1,AXN White
-http://91.126.182.211:9981/stream/channelid/1814606998?profile=pass
-#EXTINF:-1,SYFY
-http://91.126.182.211:9981/stream/channelid/203662261?profile=pass
-#EXTINF:-1,Trece
-http://91.126.182.211:9981/stream/channelid/1441845853?profile=pass
-#EXTINF:-1,Energy
-http://91.126.182.211:9981/stream/channelid/775894541?profile=pass
-#EXTINF:-1,Factoría de Ficción
-http://91.126.182.211:9981/stream/channelid/985066626?profile=pass
-#EXTINF:-1,Neox
-http://91.126.182.211:9981/stream/channelid/299845058?profile=pass
-#EXTINF:-1,Atreseries
-http://91.126.182.211:9981/stream/channelid/1769777880?profile=pass
-#EXTINF:-1,#Vamos
-http://91.126.182.211:9981/stream/channelid/1399294887?profile=pass
-#EXTINF:-1,#V
-http://91.126.182.211:9981/stream/channelid/1048254491?profile=pass
-#EXTINF:-1,M+ LaLigaTV
-http://91.126.182.211:9981/stream/channelid/403421735?profile=pass
-#EXTINF:-1,LaLiga SmartbankTV
-http://91.126.182.211:9981/stream/channelid/572607087?profile=pass
-#EXTINF:-1,M+ LaLigaTV 2
-http://91.126.182.211:9981/stream/channelid/1576358286?profile=pass
-#EXTINF:-1,M+ Liga de Campeones
-http://91.126.182.211:9981/stream/channelid/2012287585?profile=pass
-#EXTINF:-1,M+ Liga de Campeones 2
-http://91.126.182.211:9981/stream/channelid/831567445?profile=pass
-#EXTINF:-1,M+ Liga de Campeones 3
-http://91.126.182.211:9981/stream/channelid/1184226047?profile=pass
-#EXTINF:-1,M+ Deportes
-http://91.126.182.211:9981/stream/channelid/536601568?profile=pass
-#EXTINF:-1,M+ Deportes 2
-http://91.126.182.211:9981/stream/channelid/1593058061?profile=pass
-#EXTINF:-1,M+ Deportes 3
-http://91.126.182.211:9981/stream/channelid/1659899874?profile=pass
-#EXTINF:-1,M+ Golf
-http://91.126.182.211:9981/stream/channelid/1274228543?profile=pass
-#EXTINF:-1,DAZN F1
-http://91.126.182.211:9981/stream/channelid/1224119598?profile=pass
-#EXTINF:-1,DAZN 2
-http://91.126.182.211:9981/stream/channelid/231014827?profile=pass
-#EXTINF:-1,Eurosport
-http://91.126.182.211:9981/stream/channelid/354032384?profile=pass
-#EXTINF:-1,Eurosport 2
-http://91.126.182.211:9981/stream/channelid/1383612804?profile=pass
-#EXTINF:-1,GOL PLAY
-http://91.126.182.211:9981/stream/channelid/635853308?profile=pass
-#EXTINF:-1,Teledeporte
-http://91.126.182.211:9981/stream/channelid/100628015?profile=pass
-#EXTINF:-1,Caza y Pesca
-http://91.126.182.211:9981/stream/channelid/646516821?profile=pass
-#EXTINF:-1,Iberalia TV
-http://91.126.182.211:9981/stream/channelid/249642201?profile=pass
-#EXTINF:-1,Toros
-http://91.126.182.211:9981/stream/channelid/1526059946?profile=pass
-#EXTINF:-1,Real Madrid TV
-http://91.126.182.211:9981/stream/channelid/1048631351?profile=pass
-#EXTINF:-1,National Geographic
-http://91.126.182.211:9981/stream/channelid/1774093782?profile=pass
-#EXTINF:-1,Nat Geo Wild
-http://91.126.182.211:9981/stream/channelid/2002577688?profile=pass
-#EXTINF:-1,Historia
-http://91.126.182.211:9981/stream/channelid/554718047?profile=pass
-#EXTINF:-1,Discovery
-http://91.126.182.211:9981/stream/channelid/1707164053?profile=pass
-#EXTINF:-1,Odisea
-http://91.126.182.211:9981/stream/channelid/1768513451?profile=pass
-#EXTINF:-1,AMC Break
-http://91.126.182.211:9981/stream/channelid/777574468?profile=pass
-#EXTINF:-1,DMAX
-http://91.126.182.211:9981/stream/channelid/673466142?profile=pass
-#EXTINF:-1,AMC Crime
-http://91.126.182.211:9981/stream/channelid/1361961981?profile=pass
-#EXTINF:-1,Canal Cocina
-http://91.126.182.211:9981/stream/channelid/1349783680?profile=pass
-#EXTINF:-1,Decasa
-http://91.126.182.211:9981/stream/channelid/2022731172?profile=pass
-#EXTINF:-1,DKISS
-http://91.126.182.211:9981/stream/channelid/1862249458?profile=pass
-#EXTINF:-1,Divinity
-http://91.126.182.211:9981/stream/channelid/1221746786?profile=pass
-#EXTINF:-1,Nova
-http://91.126.182.211:9981/stream/channelid/1803535058?profile=pass
-#EXTINF:-1,BE MAD
-http://91.126.182.211:9981/stream/channelid/1474330923?profile=pass
-#EXTINF:-1,Ten
-http://91.126.182.211:9981/stream/channelid/1000519403?profile=pass
-#EXTINF:-1,Baby TV
-http://91.126.182.211:9981/stream/channelid/1387852044?profile=pass
-#EXTINF:-1,Disney Junior
-http://91.126.182.211:9981/stream/channelid/2102239398?profile=pass
-#EXTINF:-1,Enfamilia
-http://91.126.182.211:9981/stream/channelid/881682523?profile=pass
-#EXTINF:-1,Nick JR
-http://91.126.182.211:9981/stream/channelid/630484874?profile=pass
-#EXTINF:-1,Dreamworks
-http://91.126.182.211:9981/stream/channelid/1030964347?profile=pass
-#EXTINF:-1,Nickelodeon
-http://91.126.182.211:9981/stream/channelid/497509915?profile=pass
-#EXTINF:-1,Disney Channel
-http://91.126.182.211:9981/stream/channelid/1908222456?profile=pass
-#EXTINF:-1,Boing
-http://91.126.182.211:9981/stream/channelid/1052784018?profile=pass
-#EXTINF:-1,Clan
-http://91.126.182.211:9981/stream/channelid/330210809?profile=pass
-#EXTINF:-1,MTV
-http://91.126.182.211:9981/stream/channelid/634106669?profile=pass
-#EXTINF:-1,Mezzo Live HD
-http://91.126.182.211:9981/stream/channelid/1405902923?profile=pass
-#EXTINF:-1,Classica
-http://91.126.182.211:9981/stream/channelid/1558310864?profile=pass
-#EXTINF:-1,24h
-http://91.126.182.211:9981/stream/channelid/255681903?profile=pass
-#EXTINF:-1,Aragón TV Int
-http://91.126.182.211:9981/stream/channelid/1866453911?profile=pass
-#EXTINF:-1,Canal Sur Andalucía
-http://91.126.182.211:9981/stream/channelid/322004869?profile=pass
-#EXTINF:-1,M+ LaLigaTV 3
-http://91.126.182.211:9981/stream/channelid/305773654?profile=pass
-#EXTINF:-1,DAZN LaLiga 2
-http://91.126.182.211:9981/stream/channelid/299665662?profile=pass
-#EXTINF:-1,LaLiga SmartbankTV 2
-http://91.126.182.211:9981/stream/channelid/499025282?profile=pass
-#EXTINF:-1,LaLiga SmartbankTV 3
-http://91.126.182.211:9981/stream/channelid/1159002733?profile=pass
-#EXTINF:-1,M+ Liga de Campeones 4
-http://91.126.182.211:9981/stream/channelid/2112928519?profile=pass
-#EXTINF:-1,M+ Liga de Campeones 5
-http://91.126.182.211:9981/stream/channelid/1701144748?profile=pass
-#EXTINF:-1,M+ Liga de Campeones 6
-http://91.126.182.211:9981/stream/channelid/1370682926?profile=pass
-#EXTINF:-1,M+ Liga de Campeones 7
-http://91.126.182.211:9981/stream/channelid/2086853041?profile=pass
-#EXTINF:-1,M+ Liga de Campeones 8
-http://91.126.182.211:9981/stream/channelid/887704088?profile=pass
-#EXTINF:-1,M+ Liga de Campeones 9
-http://91.126.182.211:9981/stream/channelid/1083685514?profile=pass
-#EXTINF:-1,M+ Liga de Campeones 10
-http://91.126.182.211:9981/stream/channelid/306322600?profile=pass
-#EXTINF:-1,M+ Liga de Campeones 12
-http://91.126.182.211:9981/stream/channelid/140597735?profile=pass
-#EXTINF:-1,M+ Liga de Campeones 13
-http://91.126.182.211:9981/stream/channelid/1059960509?profile=pass
-#EXTINF:-1,M+ Deportes 4
-http://91.126.182.211:9981/stream/channelid/1727041668?profile=pass
-#EXTINF:-1,M+ Deportes 6
-http://91.126.182.211:9981/stream/channelid/554226443?profile=pass
-#EXTINF:-1,M+ Deportes 7
-http://91.126.182.211:9981/stream/channelid/1205411394?profile=pass
-#EXTINF:-1,DAZN 3
-http://91.126.182.211:9981/stream/channelid/1821619927?profile=pass
-#EXTINF:-1,DAZN 4
-http://91.126.182.211:9981/stream/channelid/2136441687?profile=pass
 
 
 ---------------------------------------------------
