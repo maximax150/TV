@@ -1626,7 +1626,7 @@ http://181.189.243.254:8000/play/a0oh/index.m3u8
 http://181.189.243.254:8000/play/a0s2/index.m3u8
 #EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0qy.png",6 - Repretel
 http://181.189.243.254:8000/play/a0qy/index.m3u8
-#EXTINF:-1 tvg-logo="",CN 42
+#EXTINF:-1 tvg-logo="",Canal 42 CR
 http://181.189.243.254:8000/play/a0oi/index.m3u8
 #EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0q7.png",A&E HD
 http://181.189.243.254:8000/play/a0q7/index.m3u8
