@@ -15,6 +15,9 @@ https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-zKPD6JbhTpc/WWT21OBBRDI/AAAAAAAAGz4/5TGeflTKoi0uCtsZRzl1uRJt6StqC2QNQCK4BGAYYCw/s1600/la%2Brosa%2Bde%2Bguadalupe.jpg", La Rosa de Guadalupe 24/7
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Televisa_Internacional.png", Televisa Europa
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Coraz%C3%B3n_%28TV_channel%29_logo_2021.png", Azteca Corazon
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826
 
@@ -33,8 +36,11 @@ https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/sin_titulo_1920_x_1080_px_7.jpg", RCN Mas
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Estrella_TV_-_2020_logo.png", Estrella tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Estrella_TV_-_2020_logo.png", Estrella TV
 https://estrellatv-oando.amagi.tv/playlistR720P.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Estrella_TV_-_2020_logo.png", Estrella TV Games
+https://estrella-games-oando.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://amariemagazine.com/wp-content/uploads/2021/04/Logo-tele11.png", Teleonce
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
@@ -125,9 +131,6 @@ https://spt-competencias-1-us.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://cdn.rudo.video/assets/canal-13/live/live_4eb6696e72efa5710a41290aa9cffbe41678456336.png",13 Realities
 https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Showven.png", Showven
-https://vcp.myplaytv.com/coll/coll/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23024/life-style-by-triptic/thumbh_20220517_183909_270.png", LifeStyle by Triptic
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/life-style-by-triptic/50c3260c-81a0-4606-ba4a-67c410b59334/0.m3u8
@@ -2485,9 +2488,6 @@ https://vcp.myplaytv.com/promar/promar/playlist.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Canal_i.png", Canal i 
 https://vcp.myplaytv.com/canali/canali/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://w2-venevision-com.s3.amazonaws.com/public/media/seo/logo-venevision_600x600.png", Venevision 
-http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-CAaBUIZOgpc/XbInLO0y7XI/AAAAAAAAro8/uyF1cG5j5XcZHIDofhFJT2q00gjKsTl0wCK8BGAsYHg/s0/2019-10-24.png", Telesur 
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
@@ -2500,17 +2500,17 @@ https://vcp.myplaytv.com/coll/coll/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-opdSbo77LkM/YEtiwd5aljI/AAAAAAABAkw/zfF3b8WRKCkMiaVpD4zlHy0siTQmvlXRgCK8BGAsYHg/s512/2021-03-12.png", TVS Maracay 
 https://vcp3.myplaytv.com/tvs/tvs/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/54f39c6830199197a0c147097e91eb54.png", Chivacoa TV
-https://vdo.panelstreaming.live:3974/hybrid/play.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://player.lorini.net/mdatv/mdatv.png", MDA TV
+https://vcp.myplaytv.com/mdatv/mdatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/0b1c597bedf83ad81c998c648e001696.png", eSports Max TV 
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/44d839eef2ee10d75d93b498dc776dfc.png", Fiesta Max TV 
-http://vcpar.myplaytv.com/fiestamax/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logo-Globovisi%C3%B3n.png", Globovision
+https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/9d44b7a5c2c55d571134074f6057fee3.png", Humor Max Channel 
-http://vcpar.myplaytv.com/humormax/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image72155000037.jpg", Nubeh TV
+https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/ede0172917569eae7de0f05b84cfde92.png", Cantina TV 
 https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8?PlaylistM3UCL
@@ -2519,10 +2519,20 @@ https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8?PlaylistM3UCL
 https://vcp3.myplaytv.com/trv/trv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/6ce00e14d50fd87b8553b9c96201de3d.png", Telesol
-https://vcp2.myplaytv.com/telesol/telesol/playlist.m3u8?PlaylistM3UCL
+https://vcp2.myplaytv.com/telesol/telesol/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Logo_de_VALE_TV.png", Vale TV 
-https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8?PlaylistM3UCL
+https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.panavision.tv/panavisiontv.png", Panavision
+https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/TVO-2015.png/320px-TVO-2015.png", TVO
+https://cloud.streamingconnect.tv/hls/tvo/tvo.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Canal_trt_logo.PNG", TRT
+https://vcp3.myplaytv.com/trt/trt/playlist.m3u8
+
 
 
 ---------------------------------------------------
