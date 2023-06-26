@@ -117,6 +117,9 @@ https://linear-181.frequency.stream/181/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dominio.beauty/img/revry.png", Revry Her
 https://linear-73.frequency.stream/73/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://dominio.beauty/img/revry.png", Revry Queer
+https://linear-43.frequency.stream/dist/galxy/43/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://dominio.beauty/img/gags.png", Just for Laughs
 https://distributionsjustepourrire-justforlaughsgags-1-es.samsung.wurl.tv/playlist.m3u8
 
@@ -131,6 +134,9 @@ https://spt-competencias-1-us.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://cdn.rudo.video/assets/canal-13/live/live_4eb6696e72efa5710a41290aa9cffbe41678456336.png",13 Realities
 https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/LogoLaRedHD2018.png/150px-LogoLaRedHD2018.png", La Red UY
+https://stm1.rootuy.xyz:19360/sdredtv/sdredtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23024/life-style-by-triptic/thumbh_20220517_183909_270.png", LifeStyle by Triptic
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/life-style-by-triptic/50c3260c-81a0-4606-ba4a-67c410b59334/0.m3u8
