@@ -1548,7 +1548,7 @@ http://181.189.243.254:8000/play/a0r9/index.m3u8
 http://181.189.243.254:8000/play/a0s9/index.m3u8
 #EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0pv.png",TBN Enlace
 http://181.189.243.254:8000/play/a0pv/index.m3u8
-#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0pj.png",TNT Tovelas
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0pj.png",TNT Novelas
 http://181.189.243.254:8000/play/a0pj/index.m3u8
 #EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0ri.png",TCM
 http://181.189.243.254:8000/play/a0ri/index.m3u8
