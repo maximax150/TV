@@ -1,19 +1,16 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="Variedades", Las Estrellas LAT
-https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png", Las Estrellas MX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="Variedades", Las Estrellas
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://st1.uvnimg.com/c1/e7/b418a1da4dc8868294190bfb047e/logo-univision.png", Univision Lat
-https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://nuestravision.tv/wp-content/uploads/2018/09/NV_Web_Logo_3D_20180904_900.png", Nuestra Vision
 https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-zKPD6JbhTpc/WWT21OBBRDI/AAAAAAAAGz4/5TGeflTKoi0uCtsZRzl1uRJt6StqC2QNQCK4BGAYYCw/s1600/la%2Brosa%2Bde%2Bguadalupe.jpg", La Rosa de Guadalupe 24/7
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Logotipo_de_RCTV.svg/1200px-Logotipo_de_RCTV.svg.png", RCTV Novelas
+https://linear-334.frequency.stream/334/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Televisa_Internacional.png", Televisa Europa
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
@@ -413,26 +410,8 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussen
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png", Retro Plus TV 3 
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/2560px-Canal_Golden_logo.svg.png", Golden
-https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2017/07/televisa-afiliados-canales-golden-plus.jpg", Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2018/08/televisa-networks-golden-premier-logo.jpg", GOLDEN PREMIER
-https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/dc7ab485760a6ecb1e0a24ce229ecc095b3d5110b13c6990d6b788c5b17bd703._RI_TTW_.jpg", Una Familia de 10
-https://linear-450.frequency.stream/dist/vix/450/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Nosotros_los_guapos_series_logo.png", Nosotros los guapos
-https://linear-451.frequency.stream/dist/vix/451/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjI1ZjhkOTMtOTg1ZC00NTNkLWI1ZDQtOWRkN2E1YWJhMjM5XkEyXkFqcGdeQXVyMzQxNzU3NA@@._V1_.jpg", La parodia
-https://linear-468.frequency.stream/dist/vix/468/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzI1NmRjNTAtZjY1ZS00MDhjLWJhOTUtNDRiZDFjYThiZTliXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_.jpg", La Familia P. Luche
-https://linear-311.frequency.stream/dist/vix/311/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Vix_Logotype.svg/1200px-Vix_Logotype.svg.png", ViX Risas de Oro
 https://linear-313.frequency.stream/dist/vix/313/hls/master/playlist.m3u8
@@ -442,12 +421,6 @@ https://linear-192.frequency.stream/192/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Vix_Logotype.svg/1200px-Vix_Logotype.svg.png", ViX Cine de Oro
 https://linear-196.frequency.stream/196/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Vecinos_%28_TV_series%29_logo.png", Vecinos
-https://linear-314.frequency.stream/dist/vix/314/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81OQcnMhHKL._RI_.jpg, Rebelde
-https://linear-335.frequency.stream/dist/vix/335/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png", Runtime Español
 https://run-rt-es.otteravision.com/run/rt_es/rt_es.m3u8
@@ -729,11 +702,11 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1212859696383696896/ljdBfeUQ_400x400.jpg", All Sports 
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://dplnews.com/wp-content/uploads/2021/09/dplnews_tigo_vc_020921-696x569.png", Tigo Sports GT
+#EXTINF:-1 tvg-logo="https://dplnews.com/wp-content/uploads/2021/09/dplnews_tigo_vc_020921-696x569.png", Tigo Sports ViX
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/1200px-Real_Madrid_CF.svg.png", Real Madrid TV
-https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="", TUDN ViX
+https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
 
 #EXTINF:-1, ACC Network
 https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
@@ -849,6 +822,9 @@ Noticias
 
 #EXTINF:-1 group-title="Noticias", Infowars
 https://freespeech.akamaized.net/hls/live/2024573/live2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", The Weather Channel Espanol
+https://linear-453.frequency.stream/453/hls/master/playlist.m3u8
 
 #EXTINF:-1, Rai News
 https://streamcdnb11-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
@@ -3331,9 +3307,6 @@ https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
 #EXTINF:0, ABC 7 KMGH
 https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
 
-#EXTINF:-1, Family Flix
-https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="", CBC News
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
 
@@ -3342,18 +3315,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxwired/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="", Voyager Documentaries
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvoyager/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="", TMZ
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtmz/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="", Usa Today
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxusatoday/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="", The Desing Network
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxthedesignnetwork/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="", Bob Ross Channel
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbobross/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="", Sports Grid
 https://sportsgrid-xumo-us.amagi.tv/xumo.m3u8
@@ -3372,12 +3333,6 @@ https://outsidetvplus-xumo.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="", Newsmax
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-newsmaxxumo/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="", Glamour
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglamour/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="", Fox Weather
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-foxweather-xumo/CDN/master.m3u8
 
 #EXTINF:-1 tvg-logo="", Food 52
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfood52A/CDN/playlist.m3u8
@@ -3400,9 +3355,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcomplex/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="", Circle
 https://circle-xumo.amagi.tv/playlist.m3u8
 
-#EXTINF:-1, Weather Channel
-https://linear-431.frequency.stream/431/hls/master/playlist.m3u8
-
 #EXTINF:-1, Fox News
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 
@@ -3418,17 +3370,26 @@ https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
 #EXTINF:-1, CBS News
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 
-#EXTINF:-1, Big life TV
-https://biglife.sinclair.wurl.com/manifest/playlist.m3u8
-
 #EXTINF:-1, The Ohio Channel
 https://5ebe6889de541.streamlock.net/live/stream_10/playlist.m3u8
 
 #EXTINF:-1, Retro TV
 https://2-fss-2.streamhoster.com/pl_118/204972-1954132-1/playlist.m3u8
 
-#EXTINF:-1, The Wheater Channel
-https://linear-431.frequency.stream/dist/vix/431/hls/master/playlist.m3u8
+#EXTINF:-1, Family Flix
+https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
+
+#EXTINF:-1, Very Local
+https://linear-200.frequency.stream/dist/vix/200/hls/master/playlist.m3u8
+
+#EXTINF:-1, Persuit Up
+https://linear-205.frequency.stream/dist/vix/205/hls/master/playlist.m3u8
+
+#EXTINF:-1, Local Now Movies Week
+https://linear-236.frequency.stream/dist/vix/236/hls/master/playlist.m3u8
+
+#EXTINF:-1, Journy
+https://linear-252.frequency.stream/dist/vix/252/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="", ION
 https://linear-432.frequency.stream/dist/vix/432/hls/master/playlist.m3u8
