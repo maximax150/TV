@@ -3079,8 +3079,6 @@ https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3
 https://59ec5453559f0.streamlock.net/jennyforyou/jennyforyou/.m3u8
 #EXTINF:-1 tvg-logo="https://channels.roku.com/images/e0a7e2d852d445f4ba5051064b0e0b6e-hd.png", JasminTV
 http://109.71.163.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0ow.png",Playboy
-http://181.189.243.254:8000/play/a0ow/index.m3u8
 #EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0ow.png",Plaboy HD
 https://cdncentury-playboyhd.zolechamedia.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1530052919764-Imagen.jpg",Venus HD
@@ -3089,6 +3087,8 @@ https://cdncentury-venushd.zolechamedia.net/playlist.m3u8
 https://dai.google.com/ssai/event/FK1bjW0AThepH1W7CJrByg/master.m3u8
 #EXTINF:-1,Sextreme
 http://187.251.240.18:1099/play/a03e/index.m3u8
+#EXTINF:-1,Hustler HD
+http://45.166.92.22:58001/play/a04s/index.m3u8
 #EXTINF:-1,Penthouse 
 http://45.166.92.22:58001/play/a04c/index.m3u8
 #EXTINF:-1,Mexicana XXX 
