@@ -1561,16 +1561,6 @@ http://168.228.194.33:48001/play/a0bq/index.m3u8
 
 
 #EXTINF:-1 group-title="Cable 3",
-#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0r0.png",11 - Repretel
-http://181.189.243.254:8000/play/a0r0/index.m3u8
-#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0oh.png",13 - Sinart
-http://181.189.243.254:8000/play/a0oh/index.m3u8
-#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0s2.png",4 - Repretel
-http://181.189.243.254:8000/play/a0s2/index.m3u8
-#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0qy.png",6 - Repretel
-http://181.189.243.254:8000/play/a0qy/index.m3u8
-#EXTINF:-1 tvg-logo="", Extra TV 42 CR
-http://181.189.243.254:8000/play/a0oi/index.m3u8
 #EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0q7.png",A&E HD
 http://181.189.243.254:8000/play/a0q7/index.m3u8
 #EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0q8.png",AMC HD
@@ -1583,8 +1573,6 @@ http://181.189.243.254:8000/play/a0qe/index.m3u8
 http://181.189.243.254:8000/play/a0q4/index.m3u8
 #EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0nv.png",Antena 3
 http://181.189.243.254:8000/play/a0nv/index.m3u8
-#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0p2.png",Antena 7- RD
-http://181.189.243.254:8000/play/a0p2/index.m3u8
 #EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0o1.png",Atres Series
 http://181.189.243.254:8000/play/a0o1/index.m3u8
 #EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0pg.png",Az corazon
@@ -1603,10 +1591,6 @@ http://181.189.243.254:8000/play/a0qt/index.m3u8
 http://181.189.243.254:8000/play/a0op/index.m3u8
 #EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0pc.png",CCN
 http://181.189.243.254:8000/play/a0pc/index.m3u8
-#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0qq.png",CDN2- RD
-http://181.189.243.254:8000/play/a0qq/index.m3u8
-#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0s1.png",CDN37 - RD
-http://181.189.243.254:8000/play/a0s1/index.m3u8
 #EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0sl.png",CINECANAL HD
 http://181.189.243.254:8000/play/a0sl/index.m3u8
 #EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0o7.png",CNN Internacional
@@ -1649,8 +1633,6 @@ http://181.189.243.254:8000/play/a0rq/index.m3u8
 http://181.189.243.254:8000/play/a0pa/index.m3u8
 #EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0on.png",Claro Sports  HD
 http://181.189.243.254:8000/play/a0on/index.m3u8
-#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0s0.png",Color Vision 9 - RD
-http://181.189.243.254:8000/play/a0s0/index.m3u8
 #EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0su.png",Comedy Central HD
 http://181.189.243.254:8000/play/a0su/index.m3u8
 #EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0qd.png",DHE HD
@@ -1811,20 +1793,8 @@ http://181.189.243.254:8000/play/a0ta/index.m3u8
 http://181.189.243.254:8000/play/a0nw/index.m3u8
 #EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0q1.png",Teen Nick HD
 http://181.189.243.254:8000/play/a0q1/index.m3u8
-#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0p1.png",Tele Antillas - RD
-http://181.189.243.254:8000/play/a0p1/index.m3u8
-#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0rz.png",TeleMicro - RD
-http://181.189.243.254:8000/play/a0rz/index.m3u8
-#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0qu.png",Telecentro - RD
-http://181.189.243.254:8000/play/a0qu/index.m3u8
 #EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0q9.png",Telemundo HD
 http://181.189.243.254:8000/play/a0q9/index.m3u8
-#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0p3.png",Telesistema RD
-http://181.189.243.254:8000/play/a0p3/index.m3u8
-#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0qr.png",Teleuniverso - RD
-http://181.189.243.254:8000/play/a0qr/index.m3u8
-#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0of.png",Televida RD
-http://181.189.243.254:8000/play/a0of/index.m3u8
 #EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0sn.png",Tigo Sports HD
 http://181.189.243.254:8000/play/a0sn/index.m3u8
 #EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0s3.png",Tooncast
@@ -2381,7 +2351,7 @@ https://play.cdn.enetres.net/184784E1D210401F8041E3E1266822CC023/028/playlist.m3
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Frs9fE4EgB8/XzgjWrhhc1I/AAAAAAAA4ZQ/w61lgE4yd-IvYQRkswAq2h0qxonM9B7VQCK8BGAsYHg/s0/2020-08-15.jpg", Zoom TV
 https://canalzoom.itex.com.co:3027/live/canalzoombr1live.m3u8
 
-#EXTINF:-1  tvg-logo="https://cdn.colombia.com/canales/canal-mas-television-5347.jpg", Mas TV
+#EXTINF:-1, tvg-logo="https://cdn.colombia.com/canales/canal-mas-television-5347.jpg", Mas TV
 https://movil.ejeserver.com/live/teledoradahd.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/WinSports2022.png/300px-WinSports2022.png", Win Sports Plus
@@ -2414,7 +2384,12 @@ https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/ecb09bce24a74b422ff4fd6923b52300.png", Repretel 11 
 https://d25v5vivhcrrh5.cloudfront.net/hls/canal11_720.m3u8
 
-#EXTINF:-1 tvg-logo="https://costaricamedios.cr/wp-includes/images/botones/envivocanal13.png" Sinart HD
+
+#EXTINF:-1 tvg-logo="https://costaricamedios.cr/wp-includes/images/botones/envivocanal13.png", Sinart Canal 13
+http://181.189.243.254:8000/play/a0oh/index.m3u8
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0oi.png", Extra TV 
+http://181.189.243.254:8000/play/a0oi/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="", Quice UCR 
 http://163.178.170.127:1935/quinceucr/quinceucr/chunklist_w602152202.m3u8
@@ -2489,13 +2464,26 @@ https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
 https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-QUz4UviUPiE/X3YnewzIm7I/AAAAAAAA6Ho/xpUvyAvSX6Qj0Lvl8qhuZnDdz9VPZWy4QCK8BGAsYHg/s0/2020-10-01.png", Video Tour Channel
-http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
+http://k4.usastreams.com/videotour/videotour/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/c0a1977215ea91b22573b7bd5d57fd3b.png", Voice Over Radio TV 
-https://tv.fullhd-streaming.com:3285/hybrid/play.m3u8
+#EXTINF:-1,Turrialba Digital TV CR
+https://cloudvideo.servers10.com:8081/8230/index.m3u8
+
+#EXTINF:-1,RetroTV Palmares CR
+https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", Canal 10
+https://servercanal10.radiosportstv.online:3138/live/canal10crlive.m3u8
+
+#EXTINF:-1 tvg-logo="", Canal 10.1
+https://servercanal10.radiosportstv.online:3384/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="", TV NICA 19
 https://62fc643fbf1aa.streamlock.net/TVNICA/TVNICA/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", OPA Canal 38 (Proximamente)
+http://www.genteopa.com
+
 
 
 ---------------------------------------------------
@@ -2921,7 +2909,7 @@ Dominicana
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-KPTLLv1OcWA/YE1NaFb6S-I/AAAAAAABAm8/Kpbp9gx0m8wvFaeCpa-e5QjivRb3u6zdwCK8BGAsYHg/s512/2021-03-13.png", RVida TV 
-https://ss2.domint.net:3206/rv_str/rvida/playlist.m3u8?PlaylistM3UCL
+https://ss2.domint.net:3206/rv_str/rvida/playlist.m3u8
 
 #EXTINF:-1, Acento TV
 https://acentotv01.streamprolive.com/hls/live.m3u8
@@ -2929,40 +2917,32 @@ https://acentotv01.streamprolive.com/hls/live.m3u8
 #EXTINF:-1, CDN Noticias 
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/playlist.m3u8
 
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/98c5ff12adca4abc9921e8e54f115092/playlist.m3u8?p=79&s=1684120821&e=1684121421&h=c82d994bbfddd2e0ac697c4bbdcdc64a
-
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Wm0tIirwAaI/XzgSgfucd3I/AAAAAAAA4R4/P8FwD68fC00xVm39i-qNZewMWAqG2Be2wCK8BGAsYHg/s0/2020-08-15.jpg", Amé 
-https://ss9.domint.net:3040/ame_str/amecanal47/playlist.m3u8?PlaylistM3UCL
+https://ss9.domint.net:3040/ame_str/amecanal47/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Zf12E_etz2s/XzgSxNz29WI/AAAAAAAA4SA/Zk-IT4kK35QR3dV8TxsfupU1F3_xt_x3ACK8BGAsYHg/s0/2020-08-15.jpg", Bajo Techo TV 
-https://cdn4.hostlagarto.com:8081/static/bajotechotv/playlist.m3u8?PlaylistM3UCL
+https://cdn4.hostlagarto.com:8081/static/bajotechotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/logos/4rd.jpg", Canal 4 RD
 https://ss5.domint.net:3026/btv_str/bonao/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Antena 7
-https://d1coqlhpf8wrax.cloudfront.net/hls/antena7.m3u8
-
-#EXTINF:-1, Antena 21  
-https://d1coqlhpf8wrax.cloudfront.net/hls/canal21.m3u8
 
 #EXTINF:-1, TV Quisqueya
 https://rctvhd.net:8081/tvquisqueyahd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/a157fcb0f29e1407aaca997c8564765a.png", Punta Cana TV
-https://cdn4.hostlagarto.com:8081/static/puntacanatv/playlist.m3u8?PlaylistM3UCL
+https://cdn4.hostlagarto.com:8081/static/puntacanatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-8cq3avHwbSM/XzgVnYNlfOI/AAAAAAAA4TM/gZAH2-w2NlgRL4tDfvCSh0Fq6Fu3od52QCK8BGAsYHg/s0/2020-08-15.jpg", Cinevision Canal 19
 https://live.teledom.info:3713/live/cinevisionlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-B-xmeIzShMA/XzgVttyb-XI/AAAAAAAA4TQ/3NYa5It_NjoiP1w4a5l5kIZfQD7s8VPpwCK8BGAsYHg/s0/2020-08-15.jpg", Entelevision 
-https://video.misistemareseller.com/entelevision/entelevision/playlist.m3u8?PlaylistM3UCL
+https://video.misistemareseller.com/entelevision/entelevision/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-gNwkGNBw7kQ/XzgR58ws75I/AAAAAAAA4Ro/RDsdgWvXHrE7Ow_6xDAjXEupxv0X5eIiQCK8BGAsYHg/s0/2020-08-15.png", Luna TV 
-https://ss2.domint.net:3228/luna_str/lunatv/playlist.m3u8?PlaylistM3UCL
+https://ss2.domint.net:3228/luna_str/lunatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-jxMdnwq3fxw/XzgSNxgvHSI/AAAAAAAA4Rw/eev6AGnJag8MDN1kt76lQwfraDPAIsnDACK8BGAsYHg/s0/2020-08-15.png", Megavision 
-http://stream3.prostudionetwork.com:1943/megavision/MV/chunklist_w1925216201.m3u8?PlaylistM3UCL
+http://stream3.prostudionetwork.com:1943/megavision/MV/chunklist_w1925216201.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/d0743d852c7c3b8f6f5996ac0780fefc.png", Nitida TV 
 https://live.teledomdr.com:3131/live/nitidatvlive.m3u8
@@ -2983,7 +2963,29 @@ http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8
 http://newyorkstream.ddns.net:5854/telenord12/telenord12/telenord12.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-P4P3Fo23ruc/XzgcmLYJ46I/AAAAAAAA4Vc/0PbZbLJIjckXdsj_Wca-n7D7QS4GCEiYwCK8BGAsYHg/s0/2020-08-15.jpg", Telenord 8 
-http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8?PlaylistM3UCL
+http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0p2.png",Antena 7 RD
+http://181.189.243.254:8000/play/a0p2/index.m3u8
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0qq.png",CDN2 RD
+http://181.189.243.254:8000/play/a0qq/index.m3u8
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0s1.png",CDN37 RD
+http://181.189.243.254:8000/play/a0s1/index.m3u8
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0s0.png",Color Vision 9 RD
+http://181.189.243.254:8000/play/a0s0/index.m3u8
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0p1.png",Tele Antillas RD
+http://181.189.243.254:8000/play/a0p1/index.m3u8
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0rz.png",TeleMicro RD
+http://181.189.243.254:8000/play/a0rz/index.m3u8
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0qu.png",Telecentro RD
+http://181.189.243.254:8000/play/a0qu/index.m3u8
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0p3.png",Telesistema RD
+http://181.189.243.254:8000/play/a0p3/index.m3u8
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0qr.png",Teleuniverso RD
+http://181.189.243.254:8000/play/a0qr/index.m3u8
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0of.png",Televida RD
+http://181.189.243.254:8000/play/a0of/index.m3u8
+
 
 
 ---------------------------------------------------
