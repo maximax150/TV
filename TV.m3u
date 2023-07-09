@@ -2156,7 +2156,7 @@ Chile
 ---------------------------------------------------
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-ETprzEeH-JY/XbCxYXbNQUI/AAAAAAAArkw/zQxemFrwNjAbMoyByyr_sesnZ8QKgap-QCK8BGAsYHg/s0/2019-10-23.png" group-title="Chile", TVN - 24h 
+#EXTINF:-1 tvg-logo="https://www.tvn.cl/tvn/site/artic/20220922/imag/foto_0000000120220922180533/logo_tvn.png" group-title="Chile", TVN - 24h 
 http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lared.cl/wp-content/uploads/2021/09/01164338/imagenlared.png", La Red
@@ -2165,8 +2165,8 @@ https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/49116db7b95befdabb207ccbd2bb94b6.png", NTV 
 https://marine2.miplay.cl/ntv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ott-assets.mdstrm.com/51tv/assets/images/logo-light-white.png", Wapp
-https://mdstrm.com/live-stream-playlist/6046495ddf98b007fa2fe807.m3u8
+#EXTINF:-1 tvg-logo="https://ott-assets.mdstrm.com/51tv/assets/images/logo-light-white.png", Wapp TV
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/wapptv/wapptv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/2336e0cef4642213124e4192f019ccfd.png", U Chile TV 
 https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
@@ -2181,7 +2181,7 @@ https://unlimited10-cl.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
 https://stv.janus.cl/playlist/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/38adedd4130272be03ef804c5eaf067e.png", T13 
-https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8?PlaylistM3UCL
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.radiopop.cl/wp-content/uploads/2022/08/logo-200-px.png", TV Pop 
 https://v4.tustreaming.cl/poptv/index.m3u8
