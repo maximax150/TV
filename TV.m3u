@@ -2522,33 +2522,7 @@ Guatemala
 ---------------------------------------------------
 
 
-#EXTINF:-1 group-title="Guatemala",NimTv 
-http://45.5.117.138:25461/playgt/123456/80
-#EXTINF:-1,Visión Tv HD 
-http://45.5.117.138:25461/playgt/123456/81
-#EXTINF:-1,Totovisión 
-http://45.5.117.138:25461/playgt/123456/82
-#EXTINF:-1,Full Channel 
-http://45.5.117.138:25461/playgt/123456/83
-#EXTINF:-1,Tunevisión 
-http://45.5.117.138:25461/playgt/123456/87
-#EXTINF:-1,Canal 8 Guate
-http://45.5.117.138:25461/playgt/123456/94
-#EXTINF:-1,Aurora Media Films 
-http://45.5.117.138:25461/playgt/123456/96
-#EXTINF:-1,Barbe tv 
-http://45.5.117.138:25461/playgt/123456/97
-#EXTINF:-1,TDS 
-http://45.5.117.138:25461/playgt/123456/99
-#EXTINF:-1,TVS Retro 
-http://45.5.117.138:25461/playgt/123456/101
-#EXTINF:-1,Telemax Guate
-http://45.5.117.138:25461/playgt/123456/104
-#EXTINF:-1,Unica Tv
-http://45.5.117.138:25461/playgt/123456/106
-#EXTINF:-1,TV Globo 
-http://45.5.117.138:25461/playgt/123456/111
-#EXTINF:-1,Canal 3
+#EXTINF:-1 group-title="Guatemala", Canal 3
 https://d1dqr580c2izza.cloudfront.net/hls/canal3.m3u8
 #EXTINF:-1,Televisiete
 https://d1dqr580c2izza.cloudfront.net/hls/canal7.m3u8
@@ -2565,6 +2539,87 @@ http://181.189.243.254:8000/play/a0rp/index.m3u8
 http://181.189.243.254:8000/play/a0rq/index.m3u8
 #EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0oz.png", Guatevision 
 http://181.189.243.254:8000/play/a0oz/index.m3u8
+
+#EXTINF:-1,Totovisión 
+https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
+
+#EXTINF:-1,NimTV
+https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
+
+#EXTINF:-1,Peniel
+https://cdn.streamhispanatv.net:3840/live/penielfamlive.m3u8
+
+#EXTINF:-1,Peniel Kids & Young
+https://cdn.streamhispanatv.net:3155/live/penielkidslive.m3u8
+
+#EXTINF:-1,Peniel Musica
+https://cdn.streamhispanatv.net:3533/live/penielmusicagtlive.m3u8
+
+#EXTINF:-1,Full Channel 
+https://cdn.streamhispanatv.net:3845/live/fullchannelgtlive.m3u8
+
+#EXTINF:-1,Tunevisión 
+https://cdn.streamhispanatv.net:3852/live/tunevisionlive.m3u8
+
+#EXTINF:-1,GuaTV
+https://cdn.streamhispanatv.net:3589/live/guatvgtlive.m3u8
+
+#EXTINF:-1,Canal 9 Ixchiguan
+https://cdn.streamhispanatv.net:3859/live/ixchiguanlive.m3u8
+
+#EXTINF:-1,Jesus TV
+https://cdn.streamhispanatv.net:3189/live/jesustvlive.m3u8
+
+#EXTINF:-1,Aurora Media Films 
+https://cdn.streamhispanatv.net:3398/live/auroramflive.m3u8
+
+#EXTINF:-1,Barbe tv 
+https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
+
+#EXTINF:-1,Canal 8 Santa Rosa
+https://cdn.streamhispanatv.net:3697/live/canal8starosalive.m3u8
+
+#EXTINF:-1,Canal 100 Chinique
+https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8
+
+#EXTINF:-1, TV Florencia
+https://cdn.streamhispanatv.net:3819/live/tvflorencialive.m3u8
+
+#EXTINF:-1,TVS Retro 
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+
+#EXTINF:-1,TV Radio Maya
+https://stream.oursnetworktv.com/latin/radioTGBAgtm/playlist.m3u8
+
+#EXTINF:-1, SAS TV
+https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
+
+#EXTINF:-1,TV Globo 
+https://cdn.streamhispanatv.net:3862/live/teveglobolive.m3u8
+
+#EXTINF:-1,Unica Tv
+https://cdn.streamhispanatv.net:3642/live/unicatvlive.m3u8
+
+#EXTINF:-1,Vision TV
+https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
+
+#EXTINF:-1,Franchs TV
+https://stream.oursnetworktv.com/latin/franchstv/playlist.m3u8
+
+#EXTINF:-1,Fe Viviente TV
+https://stream.oursnetworktv.com/latin/feVivienteGtm/playlist.m3u8
+
+#EXTINF:-1,Esquipulas TV
+https://tv91.hostingnuclear.com:19360/esquipulastv/esquipulastv.m3u8
+
+#EXTINF:-1, Canal 27 
+https://live.appclicksgt.com:3305/live/tvcanal27live.m3u8
+
+#EXTINF:-1, Telecosta
+https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
+
+#EXTINF:-1, Canal 35
+https://cdn.streamhispanatv.net:3948/live/yepotvlive.m3u8
 
 
 ---------------------------------------------------
