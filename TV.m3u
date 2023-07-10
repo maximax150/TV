@@ -223,8 +223,11 @@ Animacion e Infantil
 #EXTINF:-1 tvg-logo="https://i.paste.pics/d70bd8de125ec9cee654a09743c6d533.png" group-title="Animacion e infantil", Magic Kids TV 
 https://magicstream.ddns.net/magicstream/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/6e12320dbdc58fc4ae26350c244f72af.png", EnerGeek 
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/6e12320dbdc58fc4ae26350c244f72af.png", EnerGeek Radio
 https://wifiexpert-1.energeek.cl/energeek/radio/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/6e12320dbdc58fc4ae26350c244f72af.png", Energeek Retro
+https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
 
 #EXTINF:-1 tvg-logo="https://dominio.beauty/img/zaztv.png", ZAZ TV
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
@@ -2234,6 +2237,72 @@ https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-SWtsCllpbio/Xpz5oNEdmDI/AAAAAAAAyBc/fsfhz_a0y9I-6v8vfM0zUc_9C_xG3DgagCK8BGAsYHg/s0/2020-04-19.png", Gracia TV 
 https://v4.tustreaming.cl/graciatv/index.m3u8
+
+#EXTINF:-1 tvg-logo="", Red Alternativa TV
+https://5eaccbab48461.streamlock.net:1936/8216/8216/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", Atacama Noticias
+https://v2.tustreaming.cl/atacamanoticias/index.m3u8
+
+#EXTINF:-1 tvg-logo="", Atacama TV
+https://v2.tustreaming.cl/atacamatv/index.m3u8
+
+#EXTINF:-1 tvg-logo="", ATV Valdivia
+https://6362ca6f1fc28.streamlock.net/8028/8028/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", Autonoma TV
+https://stream.wifispeed.cl:3033/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="", Aysen TV
+https://v1.tustreaming.cl/aysentv/index.m3u8
+
+#EXTINF:-1 tvg-logo="", Buin Somos todos
+https://bst.buin.cl/0.m3u8
+
+#EXTINF:-1 tvg-logo="", TV Quellon
+https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", Canal 2 San Antonio
+https://unlimited1-us.dps.live/canal2/canal2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", Canal 5 Puerto Montt
+https://stmv2.zcasthn.com.br/canal5/canal5/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", Los Sauces TV
+http://live.mundogo.cl/mundo/LossaucesTV/index.m3u8
+
+#EXTINF:-1 tvg-logo="", Canal 11 Aysen
+https://v1.tustreaming.cl:19360/canal11aysen/canal11aysen.m3u8
+
+#EXTINF:-1 tvg-logo="", Canal Latino
+https://live.chileservidores.com:8081/latina/index.m3u8
+
+#EXTINF:-1 tvg-logo="", SCN
+https://live.tvcontrolcp.com:1936/sancarlostv/sancarlostv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", Arcoiris 99.3 TV
+https://v1.tustreaming.cl:19360/canalsurpatagoniatv/canalsurpatagoniatv.m3u8
+
+#EXTINF:-1 tvg-logo="", Caracola TV
+https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", Click tV
+https://v2.tustreaming.cl/clicktv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", Concepcion TV
+http://live.mundogo.cl/mundo/concepciontv/index.m3u8
+
+#EXTINF:-1 tvg-logo="", Cultura Online
+https://v1.tustreaming.cl:19360/culturaonline/culturaonline.m3u8
+
+#EXTINF:-1 tvg-logo="", EMG Channel
+https://paneltv.online:1936/8186/8186/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", Equiz TV
+http://live.mundogo.cl/mundo/EquizTV/index.m3u8
+
+#EXTINF:-1 tvg-logo="", Evavision Retro
+https://stmv2.zcasthn.com.br/evaretro/evaretro/playlist.m3u8
 
 
 ---------------------------------------------------
