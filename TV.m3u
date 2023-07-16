@@ -2981,74 +2981,86 @@ Peru
 ---------------------------------------------------
 
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/cd42f39664a8407ac5071d2ef6842c9e.png" group-title="Peru", Canal IPE 
-https://cdnh75.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="Peru", TV Peru
+https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-KD-fsTkMuGk/XoKOALALblI/AAAAAAAAxWc/5phOwY1GlmwfZ4jq32uVem2PZRDigWSCACK8BGAsYHg/s0/2020-03-30.png", TV Peru Noticias 
-https://cdnh76.iblups.com/hls/RMuwrdk7M9.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPENOTICIAS.png", TV Peru Noticias 
+https://d10tjjjvbn1fcu.cloudfront.net/out/v1/902c1a0395264f269f1160efa00660e4/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/7787d1d2ab3382cc09d2c3fa9bb8720d.png", Contacto TV Peru
+#EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPEINTERNACIONAL.png", TV Peru Internacional
+https://dy8y8vcruqztn.cloudfront.net/out/v1/ee2450c81e554f4cae0e6292106993c2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cultura24.tv/sites/default/files/inline-images/logo.png", Cultura 24 TV 
+https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://contactodeportivo.pe/wp-content/uploads/2022/08/contactotv.jpg", Contacto TV Peru
 https://live.obslivestream.com/cdeportivo/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-GXO0Icql4EQ/XoKCsLIBYYI/AAAAAAAAxU8/orolaAsdhtcwmmCf7538H7VopRGVo2wbwCK8BGAsYHg/s0/2020-03-30.png", Antares TV 
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png", ATV 
-https://atvperu.akamaized.net/hls/live/2100630/atv/master.m3u8
+https://d22ast2s6i1kcc.cloudfront.net/hls/atv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/ATV%2B_logo_2020.png", ATV+ 
-https://atvmas.akamaized.net/hls/live/2101282/atvmas/master.m3u8
+https://d22ast2s6i1kcc.cloudfront.net/hls/atv2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png", ATV Sur
 https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://panamericana.pe/imagenes/logo_2020.png", Panamericana 
+https://cdnh74.iblups.com/hls/ptv2.m3u8
+
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/0eced46643f53066ae90b546061ced0a.png", Autentica TV 
-https://live.obslivestream.com/autenticatvmux/index.m3u8?PlaylistM3UCL
+https://live.obslivestream.com/autenticatvmux/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-8cyoc0mjlnQ/Xxzwf_eZYkI/AAAAAAAA3bE/Fl3har_s5II86AuCsfK_FRQJz6dXMrK0gCK8BGAsYHg/s0/2020-07-25.png", BHTV 
-http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/6b2b101c818588d17c09562d3f96ce38.png", Canal 8 Catacaos
-https://tvdatta.com:3838/live/canalcatacaoslive.m3u8?PlaylistM3UCL
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-RYmmtKCcnsg/XoKDWBIosrI/AAAAAAAAxVM/VtTI9I3CvW4yG16vrFcn_DVaTi1QPAKGwCK8BGAsYHg/s0/2020-03-30.png", Central TV Chosica 
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-tyIk1Zn_9b4/XoKD7ngkdjI/AAAAAAAAxVU/YqFdEeFnHHEwerBlUrSu4ZiGRuhyh-uKACK8BGAsYHg/s0/2020-03-30.png", Cultura 24 TV 
-http://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/0ac03650f0084a61e8e53d149310ac99.png", Doble C TV 
-https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-5afo0xCN3is/XzxvmQIimeI/AAAAAAAA4qU/hXCSeRtNtD0ss4ihCIJ-92trFm3BYJhwQCK8BGAsYHg/s0/2020-08-18.jpg", Exitosa 
 https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/9872abc3f3190fc94f2d8b65f3f5cc38.png", Genios TV 
-https://live.obslivestream.com/geniostvmux/index.m3u8?Playlist
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-ubba7Fazm30/XoKEe8ipZUI/AAAAAAAAxVg/eijnSgeRNh0-NC9FCmLK4kGJxVnVjYZwQCK8BGAsYHg/s0/2020-03-30.png", Monterrico TV
-http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
+https://live.obslivestream.com/geniostvmux/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/13a1cbfd1b00f4e4582a523c9eb3d3b2.png", OK TeVe
-https://stream.plixitv.live/oktv/oktv/playlist.m3u8?PlaylistM3UCL
+https://stream.plixitv.live/oktv/oktv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/9a3f4907d39b27f14c40b15b6aeb02a5ba5b0e7ef3b9179c021f500e58debe01.png", Señal Peru
+https://livestream.perucast.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://soltvperu.com/wp-content/uploads/2022/10/naranja-21-03.png", Sol TV
+https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-dfmlV2X9BOw/Xxzw0ylSyII/AAAAAAAA3bM/b8nXIhkHQrcs9nR-mDVKPpmN08GRcrakQCK8BGAsYHg/s0/2020-07-25.png", Ovacion 
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/967fc9c451334a960cb23ee0482c77bc.png", Panamericana 
-https://cdnh71.iblups.com/hls/ptv2.m3u8
-
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/35c791e364c3adb7c6c2ef98504041a0.png", Telecolor TV 
-https://live.obslivestream.com/telecolormux/index.m3u8?PlaylistM3UCL
+https://live.obslivestream.com/telecolormux/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/9176c235a22b9745bcc6e930b2a7e904.png", TV Cosmos 15.1 
-https://5790d294af2dc.streamlock.net:443/8134/8134/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/9c375f0e9b0a20eb69fde9b9390a9adc.png", TVPE 
-https://cdnh79.iblups.com/hls/RMuwrdk7M9.m3u8
+https://5790d294af2dc.streamlock.net:443/8134/8134/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-421vow8pfJs/X5waL4rYooI/AAAAAAAA634/92Pn5Ue8nJQjtxdr9zKc2yQrmo9dsBuXACK8BGAsYHg/s0/2020-10-30.png", TVperuanisima 
 http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://xtv.pe/wp-content/uploads/2023/05/cropped-logo-web-23-99x80.png", X TV
+https://vdo.grupolimalive.com:3087/live/xtvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.teleon.tv/logo/vision-tv-musica.png", Vision Musica
+https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://visionsurtv.pe/wp-content/uploads/2022/06/gkjnhgvjkhnkjnh.png", vision Sur
+https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://viatelevision.pe/wp-content/uploads/2021/11/logo-retina.png", Via TV
+https://multimedia.tmcreativos.com:1936/viatelevision/viatelevision/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.viaaltomayotv.com/panel/archivos-panel/logotipo/Logo-c7e-355.png", Via Altomayo
+https://live.obslivestream.com/viaaltomayomux/index.m3u8
 
 
 ---------------------------------------------------
