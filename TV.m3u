@@ -1570,13 +1570,17 @@ http://181.189.243.254:8000/play/a0o7/index.m3u8
 http://181.189.243.254:8000/play/a0ps/index.m3u8
 #EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0pa.png",Cartoonito
 http://181.189.243.254:8000/play/a0pa/index.m3u8
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0oo.png",Canal Claro HD
+http://181.189.243.254:8000/play/a0oo/index.m3u8
 #EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0on.png",Claro Sports  HD
 http://181.189.243.254:8000/play/a0on/index.m3u8
 #EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0su.png",Comedy Central HD
 http://181.189.243.254:8000/play/a0su/index.m3u8
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0uc.png",Distrito Comedia
+http://181.189.243.254:8000/play/a0uc/index.m3u8
 #EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0qd.png",DHE HD
 http://181.189.243.254:8000/play/a0qd/index.m3u8
-#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0sr.png",DISC THEATHER HD
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0sr.png",Discovery THEATHER HD
 http://181.189.243.254:8000/play/a0sr/index.m3u8
 #EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0tb.png",Discovery Channel HD
 http://181.189.243.254:8000/play/a0tb/index.m3u8
@@ -1714,20 +1718,28 @@ http://181.189.243.254:8000/play/a0sd/index.m3u8
 http://181.189.243.254:8000/play/a0sq/index.m3u8
 #EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0ta.png",TNT Series HD
 http://181.189.243.254:8000/play/a0ta/index.m3u8
-#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0pj.png",TNT Novelas
-http://181.189.243.254:8000/play/a0pj/index.m3u8
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0uf.png",TNT Novelas
+http://181.189.243.254:8000/play/a0uf/index.m3u8
 #EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0nw.png",TV Chile
 http://181.189.243.254:8000/play/a0nw/index.m3u8
 #EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0q1.png",TeenNick HD
 http://181.189.243.254:8000/play/a0q1/index.m3u8
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0u6.png",Telehit HD
+http://181.189.243.254:8000/play/a0u6/index.m3u8
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0ue.png",TLNovelas
+http://181.189.243.254:8000/play/a0ue/index.m3u8
 #EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0q9.png",Telemundo HD
 http://181.189.243.254:8000/play/a0q9/index.m3u8
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0u5.png",TELEMUNDO MIAMI
+http://181.189.243.254:8000/play/a0u5/index.m3u8
 #EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0sn.png",Tigo Sports CR HD
 http://181.189.243.254:8000/play/a0sn/index.m3u8
 #EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0s3.png",Tooncast
 http://181.189.243.254:8000/play/a0s3/index.m3u8
 #EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0pe.png",Tru TV
 http://181.189.243.254:8000/play/a0pe/index.m3u8
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0ud.png",TUDN Centro
+http://181.189.243.254:8000/play/a0ud/index.m3u8
 #EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0v2.png",UNIVERSAL CINEMA HD
 http://181.189.243.254:8000/play/a0v2/index.m3u8
 #EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0t1.png",UNIVERSAL COMEDY HD
@@ -2791,8 +2803,12 @@ https://emisoras.hn:8081/tvcopan/index.m3u8
 #EXTINF:-1 tvg-logo="", TV Estrella
 https://emisoras.hn:8081/tvestrella/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0tw.png",Canal 5 HD
-http://181.189.243.254:8000/play/a0tw/index.m3u8
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0u2.png",Canal 5 HD
+http://181.189.243.254:8000/play/a0u2/index.m3u8
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0rw.png",Telecadena
+http://181.189.243.254:8000/play/a0rw/index.m3u8
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0u8.png",TSI
+http://181.189.243.254:8000/play/a0u8/index.m3u8
 
 
 ---------------------------------------------------
@@ -3428,8 +3444,8 @@ https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3
 https://59ec5453559f0.streamlock.net/jennyforyou/jennyforyou/.m3u8
 #EXTINF:-1 tvg-logo="https://channels.roku.com/images/e0a7e2d852d445f4ba5051064b0e0b6e-hd.png", JasminTV
 http://109.71.163.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0ow.png",Plaboy HD
-https://cdncentury-playboyhd.zolechamedia.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0ow.png",Playboy
+http://181.189.243.254:8000/play/a0ow/index.m3u8
 #EXTINF:-1 tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1530052919764-Imagen.jpg",Venus HD
 https://cdncentury-venushd.zolechamedia.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/55a44f9ce4b09a5577ad69df/1436833733301-WW7P6UWSAAZYCM5279ZW/long%2Blogo_kaloopy.jpg", Kaloopy
