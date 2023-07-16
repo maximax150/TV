@@ -135,9 +135,6 @@ https://stm1.rootuy.xyz:19360/sdredtv/sdredtv.m3u8
 #EXTINF:-1 tvg-logo="", Woman TV
 https://embedlp.becdn.net/womantv.m3u8
 
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22882/canela-tv/thumbh_20200930_060553.jpg", Canela TV
-https://api-ott.canela.tv/loggingmediaurlpassthrough/a.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://dominio.beauty/img/telemundo.png" group-title="Pluto Variedades", Telemundo Novelas
@@ -3435,10 +3432,12 @@ http://109.71.163.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 https://cdncentury-playboyhd.zolechamedia.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1530052919764-Imagen.jpg",Venus HD
 https://cdncentury-venushd.zolechamedia.net/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dominio.beauty/img/18.png", Kaloopy
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/55a44f9ce4b09a5577ad69df/1436833733301-WW7P6UWSAAZYCM5279ZW/long%2Blogo_kaloopy.jpg", Kaloopy
 https://dai.google.com/ssai/event/FK1bjW0AThepH1W7CJrByg/master.m3u8
-#EXTINF:-1,Sextreme
-http://187.251.240.18:1099/play/a03e/index.m3u8
+EXTINF:-1 tvg-logo="https://i.imgur.com/auHH1Ig.png", FashionTV Midnite Secrets
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+
+
 #EXTINF:-1,Hustler HD
 http://45.166.92.22:58001/play/a04s/index.m3u8
 #EXTINF:-1,Penthouse 
