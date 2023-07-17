@@ -1,4 +1,4 @@
-#EXTM3U 
+#EXTM3U list-name="Canales M3U" list-image="https://icon-library.com/images/dish-tv-icon/dish-tv-icon-8.jpg"
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="Variedades", Las Estrellas
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
