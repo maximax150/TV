@@ -1913,7 +1913,7 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/f5ffafe8c5fcd218d5f15e4849c91891.png", Tele Mix 
 https://panel.dattalive.com:443/8068/8068/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="http://www.13maxtv.com/new/img/logo13.png", 13 Max 
+#EXTINF:-1 tvg-logo="http://www.13maxtv.com/new/img/logo13.png", 13 Max 
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/2154f26cfec10ed6642020dad09849b3.png", 5R TV Santa Fe
@@ -2438,6 +2438,9 @@ https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/ecb09bce24a74b422ff4fd6923b52300.png", Repretel 11 
 https://d25v5vivhcrrh5.cloudfront.net/hls/canal11_720.m3u8
 
+#EXTINF:-1 tvg-logo="", OPA
+https://stream.castr.com/6499ec857df5bf9d55b5849f/live_9246a0201b5b11ee8e1f3b15c8f64f35/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://sinartdigital.com/images/miscelaneo/canal-trece_slidemenu.png", Sinart Canal 13
 http://181.189.243.254:8000/play/a0oh/index.m3u8
@@ -2445,17 +2448,20 @@ http://181.189.243.254:8000/play/a0oh/index.m3u8
 http://181.189.243.254:8000/play/a0oi/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="", Quice UCR 
+#EXTINF:-1 tvg-logo="https://dr56wvhu2c8zo.cloudfront.net/universidaddecostarica/assets/4f87ad59-83c6-40fe-a93b-e36591ec8c88.png", Quice UCR 
 http://163.178.170.127:1935/quinceucr/quinceucr/chunklist_w602152202.m3u8
 
-#EXTINF:-1 tvg-logo="", CB TV
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/a4ed367c69c23110d458a332af95be0be64566f288ccb5f261689344e6ba5e0d.png", Coto Brus TV
 https://cloudvideo.servers10.com:8081/8030/index.m3u8
 
-#EXTINF:-1 tvg-logo="", Sarapiqui TV
+#EXTINF:-1 tvg-logo="https://geomedios.fcs.ucr.ac.cr/wp-content/uploads/2019/07/LogoSTV.png", Sarapiqui TV
 http://tiquiciatv.com:1935/stv/envivo/playlist.m3u8
 
-#EXTINF:-1,Tele Brunca
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a889a5_d93a414ce0504f8ebbc4d2c04882a23d~mv2.png/v1/fill/w_440,h_440,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo%20telebrunca2-04.png", Tele Brunca
 http://k4.usastreams.com/telebrunca/telebrunca/playlist.m3u8
+
+#EXTINF:-1,TV Curre
+http://k6.usastreams.online/Tvcurre/Tvcurre/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/colosaltvhd.jpg", Colosal TV
 https://5d16127744872.streamlock.net/COLOSAL/COLOSAL/playlist.m3u8
@@ -2472,8 +2478,8 @@ https://panel2.streamingtv-mediacp.online:1936/rudcmzwtnh/rudcmzwtnh/playlist.m3
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/cbcfd98188337b1bf79a92b1afb60ad3.png", San Vito TV
 https://stmv.streamingvip.click/sanvitotv/sanvitotv/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://i2.paste.pics/9374c535562f863ab536cb264e20d812.png", Telesur Costa Rica 
-https://59ef525c24caa.streamlock.net/telesur/telesur/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://sicultura-live.s3.amazonaws.com/public/2022-11/305398743_500202432109920_5029369673742325729_n-1.png", TV+ Costa Rica 
+https://59ef525c24caa.streamlock.net/Tvpluscr/Tvpluscr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/e1e0ae47b803ab15e41266a4d66ca297.png", Teleuno 
 https://5d16127744872.streamlock.net/TVUNO/TVUNO/playlist.m3u8
@@ -2481,7 +2487,7 @@ https://5d16127744872.streamlock.net/TVUNO/TVUNO/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ticavisiontv.com/wp-content/uploads/2023/02/cropped-logo90.png", TicaVision 
 https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/55978deeb5bf9d20b0c459cff3635225.png", Tv Sur Canal 14 
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/55978deeb5bf9d20b0c459cff3635225.png", TvSur Perez Zeledon
 https://5bf8041cb3fed.streamlock.net:443/TVSURCANAL14/TVSURCANAL14/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/e71dbd173c7d1e13f92e019c7a9ac89f.png", TV Sur Canal 9 
