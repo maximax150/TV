@@ -656,7 +656,7 @@ https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="", TUDN ViX
 https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://content.jwplatform.com/images/jNgWEGCO.png" group-title="Variedades", Wapa Deportes PR
+#EXTINF:-1 tvg-logo="https://content.jwplatform.com/images/jNgWEGCO.png" group-title="Deportes", Wapa Deportes PR
 https://live.field59.com/wapa/wapa2/.m3u8
 
 #EXTINF:-1, ACC Network
@@ -665,7 +665,7 @@ https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
 #EXTINF:-1, Edge Sports
 https://edgesport-samsungus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22918/sportsgrid/logo_20201117_210342_68.png" Sports Grid
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22918/sportsgrid/logo_20201117_210342_68.png", Sports Grid
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/sportsgrid/ad16efee-974b-4262-ba05-009283af3b36/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/tnt_sports_pasion_sin_limites_vgraf2.jpg", TNT Sports BR
