@@ -1,13 +1,19 @@
 #EXTM3U list-name="Canales M3U" list-image="https://icon-library.com/images/dish-tv-icon/dish-tv-icon-8.jpg"
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="Variedades", Las Estrellas
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/las-estrellas-m.png" group-title="Variedades", Las Estrellas
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="Variedades", Las Estrellas Lat
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/las-estrellas-m.png" group-title="Variedades", Las Estrellas Lat
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://nuestravision.tv/wp-content/uploads/2018/09/NV_Web_Logo_3D_20180904_900.png" group-title="Variedades", Nuestra Vision
 https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://content.jwplatform.com/images/jNgWEGCO.png" group-title="Variedades", Wapa PR
+https://live.field59.com/wapa/wapa1/.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/Am%C3%A9rica_Tev%C3%A9_Logo.png" group-title="Variedades", AmericaTeve
+https://live.gideo.video/americateve1/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Logotipo_de_RCTV.svg/1200px-Logotipo_de_RCTV.svg.png" group-title="Variedades", RCTV Novelas
 https://linear-334.frequency.stream/334/hls/master/playlist.m3u8
@@ -41,6 +47,9 @@ https://estrellatv-oando.amagi.tv/playlistR720P.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Estrella_TV_-_2020_logo.png" group-title="Variedades", Estrella TV Games
 https://estrella-games-oando.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Telefe_Internacional_%282018%29.png" group-title="Variedades", Telefe Internacional
+https://siloh-mcdn.plutotv.net/lilo/production/TelefePluto/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://amariemagazine.com/wp-content/uploads/2021/04/Logo-tele11.png" group-title="Variedades", Teleonce
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
@@ -481,6 +490,9 @@ https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 #EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/06/TuCine_295x98.png", Tu Cine
 https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://estrellamedia.com/wp-content/uploads/2023/04/CineETV-1.jpg" group-title="Cine y Series", Cine Estrella TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
+
 
 
 
@@ -643,6 +655,9 @@ https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="", TUDN ViX
 https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://content.jwplatform.com/images/jNgWEGCO.png" group-title="Variedades", Wapa Deportes PR
+https://live.field59.com/wapa/wapa2/.m3u8
 
 #EXTINF:-1, ACC Network
 https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
@@ -1969,10 +1984,10 @@ Argentina
 ---------------------------------------------------
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2700584718/521b9a884ba87e6cbd72464276e77fe6_400x400.jpeg" group-title="Argentina", Canal XFN 
-https://streamconex.com:1936/canalxfn/canalxfn/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://canalnet.tv/_templates/mobile/includes/img/_logo-alt.png" group-title="Argentina", Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.telpinteve.com.ar/imagenes/Canal2Logos-06.png" group-title="Argentina", Telpin Canal 
+#EXTINF:-1 tvg-logo="https://www.telpinteve.com.ar/imagenes/Canal2Logos-03.png" group-title="Argentina", Telpin Canal 
 https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/03ced29a4c90a58fd07ae3ffe2cd8d37.png" group-title="Argentina", UNIRIO 
@@ -1981,8 +1996,17 @@ https://5f700d5b2c46f.streamlock.net:443/uniriotv/uniriotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cm-ar.png" group-title="Argentina", CM
 http://g5.mc-hor.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8?sense=true
 
-#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/121.png" group-title="Argentina", TV Publica 
-https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/1200px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png" group-title="Argentina", TV Publica 
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
+
+#EXTINF:-1 tvg-logo="https://catamarcartv.com/wp-content/uploads/2023/01/logo-cuadrado.jpg" group-title="Argentina", Canal 7 Catamarca
+https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title="Argentina", El Nueve
+https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Canal_Diez_de_Jun%C3%ADn.jpg" group-title="Argentina", Canal 10 Junin
+https://g2.proy-hor.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/Playlist.m3u8?sense=true
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/C7neuquenlogo2023.png" group-title="Argentina", Canal 7 Neuquen
 https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/.m3u8
@@ -1992,9 +2016,6 @@ https://inliveserver.com:1936/14056/14056/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Nuevo_logo_TEC_2022.png" group-title="Argentina", Tec TV
 https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/03ced29a4c90a58fd07ae3ffe2cd8d37.png" group-title="Argentina", Canal 10 America TV
-https://g5.mc-slo.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/Playlist.m3u8?sense=true
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/085efda10687fd80ddb05de1600f41e0.png" group-title="Argentina", Neo TV 
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
@@ -2026,7 +2047,7 @@ https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/p
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mheC_82BX9k/XjtJQGo368I/AAAAAAAAvrE/3PLKryDEU3UT_TEYgef0tCaWxwj2OJtLQCK8BGAsYHg/s0/2020-02-05.png" group-title="Argentina", Canal 4 Jujuy 
 http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://ladatamix.com/wp-content/uploads/2020/08/CANAL-4.jpg" group-title="Argentina", Canal 4 Posadas 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-4-Posadas-en-vivo-Online.png?fit=1920%2C1080&ssl=1" group-title="Argentina", Canal 4 Posadas 
 http://iptv.ixfo.com.ar:8081/live/C4POS/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/133_AR.png" group-title="Argentina", Canal 7 Jujuy 
@@ -2038,14 +2059,14 @@ https://stream.arcast.live/ahora/ahora/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Canal_10_Mar_del_Plata_logo_noviembre_2021.png" group-title="Argentina", Canal 10 Mar del Plata
 https://g2.proy-slo.transport.edge-access.net/a15/ngrp:canal10mdq-100044_all/Playlist.m3u8?sense=true
 
-#EXTINF:-1 tvg-logo="https://canalnet.tv/_templates/mobile/includes/img/_logo-alt.png" group-title="Argentina", Net TV
-https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Argentina", Canal Señal Urbana
-https://videosenlared.fullstreaming.ar:3560/live/senialurbanalive.m3u8?WebM3UCL
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s128612g.png" group-title="Argentina", Canal Señal Urbana
+https://videosenlared.fullstreaming.ar:3560/live/senialurbanalive.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1017835856411971584/Q2dVZVUA_400x400.jpg" group-title="Argentina", Canal Provincial 
-https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8?PlaylistM3UCL
+https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2700584718/521b9a884ba87e6cbd72464276e77fe6_400x400.jpeg" group-title="Argentina", Canal XFN 
+https://streamconex.com:1936/canalxfn/canalxfn/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/728.png" group-title="Argentina", Canal Rural 
 https://cda2.alsolnet.com/elrural/live/playlist.m3u8
