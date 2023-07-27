@@ -45,11 +45,8 @@ https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Estrella_TV_-_2020_logo.png" group-title="Variedades", Estrella TV
 https://estrellatv-oando.amagi.tv/playlistR720P.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Estrella_TV_-_2020_logo.png" group-title="Variedades", Estrella TV Games
+#EXTINF:-1 tvg-logo="https://estrellamedia.com/wp-content/uploads/2023/03/2.png" group-title="Variedades", Estrella TV Games
 https://estrella-games-oando.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Telefe_Internacional_%282018%29.png" group-title="Variedades", Telefe Internacional
-https://siloh-mcdn.plutotv.net/lilo/production/TelefePluto/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://amariemagazine.com/wp-content/uploads/2021/04/Logo-tele11.png" group-title="Variedades", Teleonce
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
@@ -63,7 +60,7 @@ https://stormcast-novelas-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dominio.beauty/img/lovemagazine.png" group-title="Variedades", Love Magazine
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazinees-samsungspain/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://dominio.beauty/img/hola.png" group-title="Variedades", Hola TV
+#EXTINF:-1 tvg-logo="https://www.hola.tv/wp-content/uploads/2020/09/logoholatv.jpg" group-title="Variedades", Hola TV
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
 
 #EXTINF:-1 tvg-logo="https://dominio.beauty/img/hola.png" group-title="Variedades", Hola Play
@@ -108,19 +105,19 @@ https://str81.creacast.com/myzentv/myzentv.smil/.m3u8
 #EXTINF:-1 tvg-logo="https://dominio.beauty/img/myzentv.png" group-title="Variedades", My Zen TV Fit
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://dominio.beautyimg/afv.png" group-title="Variedades", AFV
+#EXTINF:-1 tvg-logo="https://www.afv.com/assets/client/img/logo.png" group-title="Variedades", AFV
 https://linear-46.frequency.stream/46/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dominio.beauty/img/failarmy.png" group-title="Variedades", failarmy
 https://failarmy-linear-us.sinclair.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://dominio.beauty/img/revry.png" group-title="Variedades", Revry Latinx
+#EXTINF:-1 tvg-logo="https://beacon.playback.api.brightcove.com/revry/uploads/channels/42_a940ecace8db0d6719a7dc8bdc8e8e6b.png" group-title="Variedades", Revry Latinx
 https://linear-142.frequency.stream/142/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://dominio.beauty/img/revry.png" group-title="Variedades", Revry Brasil
+#EXTINF:-1 tvg-logo="https://beacon.playback.api.brightcove.com/revry/uploads/channels/53_f3f4800437428b66359121bb602f17b8.png" group-title="Variedades", Revry Brasil
 https://linear-181.frequency.stream/181/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://dominio.beauty/img/revry.png" group-title="Variedades", Revry Her
+#EXTINF:-1 tvg-logo="https://beacon.playback.api.brightcove.com/revry/uploads/channels/54_85478c1cfc5653acbed990c16393b26a.png" group-title="Variedades", Revry Her
 https://linear-73.frequency.stream/73/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dominio.beauty/img/revry.png" group-title="Variedades", Revry LGTBI TV
@@ -400,15 +397,6 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussen
 #EXTINF:-1 tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2017/07/televisa-afiliados-canales-golden-plus.jpg", Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Vix_Logotype.svg/1200px-Vix_Logotype.svg.png", ViX Risas de Oro
-https://linear-313.frequency.stream/dist/vix/313/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Vix_Logotype.svg/1200px-Vix_Logotype.svg.png", ViX CineClub
-https://linear-192.frequency.stream/192/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Vix_Logotype.svg/1200px-Vix_Logotype.svg.png", ViX Cine de Oro
-https://linear-196.frequency.stream/196/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png", Runtime Español
 https://run-rt-es.otteravision.com/run/rt_es/rt_es.m3u8
 
@@ -433,7 +421,7 @@ https://run-cl-es.otteravision.com/run/cl_es/cl_es.m3u8
 #EXTINF:-1 tvg-logo="https://cineramatv.com/wp-content/uploads/2023/02/logo-2.jpg", Cinerama
 https://5d00db0e0fcd5.streamlock.net/7062/7062/.m3u8
 
-#EXTINF:-1 tvg-logo="", Azteca Cinema
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2023_06/large.Cinema.png.4de1b4671b2a5c2b9f9e2c88994bb473.png", Azteca Cinema
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
 
 #EXTINF:-1 tvg-logo="https://www.wowelsalvador.com/imagen/logo2.png", WOW TV
