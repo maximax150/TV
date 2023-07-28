@@ -78,15 +78,6 @@ https://tastemadees16intl-brightcove.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dominio.beauty/img/gusto.png" group-title="Variedades", Gusto
 https://gustotv-samsung-gb.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Variedades", Miembros al aire
-https://linear-483.frequency.stream/dist/vix/483/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dominio.beauty/img/vix.png" group-title="Variedades", ViX Romance
-https://linear-194.frequency.stream/194/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dominio.beauty/img/vix.png" group-title="Variedades", ViX Familia
-https://linear-195.frequency.stream/195/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://dominio.beauty/img/vix.png" group-title="Variedades", ViX Parejas
 https://d1f3q72l8uy8ur.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z46pswns8dp1b-ssai-prd/dist/samsungtv/318/hls/master/playlist.m3u8
 
