@@ -54,52 +54,52 @@ https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cf
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Ve_Plus_Logo_2019.png" group-title="Variedades", VePlus
 http://190.122.96.187:8888/http/006
 
-#EXTINF:-1 tvg-logo="https://dominio.beauty/img/novelas.png" group-title="Variedades", Novelas en español
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/ee/Logo_Novelas_TV.svg/1200px-Logo_Novelas_TV.svg.png" group-title="Variedades", Novelas en español
 https://stormcast-novelas-2-es.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://dominio.beauty/img/lovemagazine.png" group-title="Variedades", Love Magazine
+#EXTINF:-1 tvg-logo="https://lovemagazine.ca/wp-content/uploads/2022/09/LOGO-LOVE-PDW.png" group-title="Variedades", Love Magazine
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazinees-samsungspain/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.hola.tv/wp-content/uploads/2020/09/logoholatv.jpg" group-title="Variedades", Hola TV
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
 
-#EXTINF:-1 tvg-logo="https://dominio.beauty/img/hola.png" group-title="Variedades", Hola Play
+#EXTINF:-1 tvg-logo="https://www.hola.tv/wp-content/uploads/2020/09/logoholatv.jpg" group-title="Variedades", Hola Play
 https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://dominio.beauty/img/sunchannel.png" group-title="Variedades", Sun Channel
+#EXTINF:-1 tvg-logo="http://sunchanneltv.com/wp-content/uploads/2023/06/logo_1-1.png" group-title="Variedades", Sun Channel
 https://vcndistroscale.teleosmedia.com/linear/sun/sun/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/juntos_logo_dark_v3.png" group-title="Variedades", Juntos
 https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://dominio.beauty/img/tastemade.png" group-title="Variedades", Tastemade
+#EXTINF:-1 tvg-logo="https://static-prod.adweek.com/wp-content/uploads/2022/05/Tastemade-2022.jpg" group-title="Variedades", Tastemade
 https://tastemadees16intl-brightcove.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://dominio.beauty/img/gusto.png" group-title="Variedades", Gusto
+#EXTINF:-1 tvg-logo="https://gustotv.com/wp-content/uploads/2020/05/gustotv-logo.png" group-title="Variedades", Gusto
 https://gustotv-samsung-gb.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://dominio.beauty/img/vix.png" group-title="Variedades", ViX Parejas
+#EXTINF:-1 tvg-logo="https://theme.zdassets.com/theme_assets/12350451/9cdeed54b9c68fa55c3beb8edd8d228c5e452450.png" group-title="Variedades", ViX Parejas
 https://d1f3q72l8uy8ur.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z46pswns8dp1b-ssai-prd/dist/samsungtv/318/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://dominio.beauty/img/vix.png" group-title="Variedades", ViX JaJaJa
+#EXTINF:-1 tvg-logo="https://theme.zdassets.com/theme_assets/12350451/9cdeed54b9c68fa55c3beb8edd8d228c5e452450.png" group-title="Variedades", ViX JaJaJa
 https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/dist/samsungtv/310/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://dominio.beauty/img/telemundo.png" group-title="Variedades", Telemundo Puerto Rico
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Telemundo_Puerto_Rico.svg/1200px-Telemundo_Puerto_Rico.svg.png" group-title="Variedades", Telemundo Puerto Rico
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://dominio.beauty/img/megatv.png" group-title="Variedades", Mega TV
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/mega-tv-puerto-rico-en-vivo-Online.png" group-title="Variedades", Mega TV
 https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/.m3u8
 
-#EXTINF:-1 tvg-logo="https://dominio.beauty/img/myzentv.png" group-title="Variedades", My Zen TV
+#EXTINF:-1 tvg-logo="https://production.content.okast.tv/606cb96a-cce3-4dad-a95f-a25a38aaba91/storefront_projects/dfc88d65-4460-415f-806e-66812ff2117c/favicon.4286FE918204C51D4BCCD4EF3E44A62A7A453CFDDBD9093E424CAFBF3137E475.en.png" group-title="Variedades", My Zen TV
 https://str81.creacast.com/myzentv/myzentv.smil/.m3u8
 
-#EXTINF:-1 tvg-logo="https://dominio.beauty/img/myzentv.png" group-title="Variedades", My Zen TV Fit
+#EXTINF:-1 tvg-logo="https://production.content.okast.tv/606cb96a-cce3-4dad-a95f-a25a38aaba91/storefront_projects/dfc88d65-4460-415f-806e-66812ff2117c/favicon.4286FE918204C51D4BCCD4EF3E44A62A7A453CFDDBD9093E424CAFBF3137E475.en.png" group-title="Variedades", My Zen TV Fit
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.afv.com/assets/client/img/logo.png" group-title="Variedades", AFV
 https://linear-46.frequency.stream/46/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://dominio.beauty/img/failarmy.png" group-title="Variedades", failarmy
+#EXTINF:-1 tvg-logo="https://www.failarmy.com/cdn/shop/t/18/assets/logo-image-file.png?v=88203441892567631601689349969" group-title="Variedades", failarmy
 https://failarmy-linear-us.sinclair.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://beacon.playback.api.brightcove.com/revry/uploads/channels/42_a940ecace8db0d6719a7dc8bdc8e8e6b.png" group-title="Variedades", Revry Latinx
@@ -111,13 +111,13 @@ https://linear-181.frequency.stream/181/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://beacon.playback.api.brightcove.com/revry/uploads/channels/54_85478c1cfc5653acbed990c16393b26a.png" group-title="Variedades", Revry Her
 https://linear-73.frequency.stream/73/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://dominio.beauty/img/revry.png" group-title="Variedades", Revry LGTBI TV
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/5fdbc1d5682ee122a7a5aa20/227e7450-696d-4aa3-aef8-ce0b1aa8d4fc/Revry_RainbowLogo.png" group-title="Variedades", Revry LGTBI TV
 https://linear-43.frequency.stream/dist/galxy/43/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://dominio.beauty/img/gags.png" group-title="Variedades", Just for Laughs
+#EXTINF:-1 tvg-logo="https://drupal.hahaha.com/sites/default/files/2022-12/jfl_226x150.png" group-title="Variedades", Just for Laughs
 https://distributionsjustepourrire-justforlaughsgags-1-es.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://dominio.beauty/img/kanald.png" group-title="Variedades", Kanal D
+#EXTINF:-1 tvg-logo="https://www.kanalddrama.com/assets/img/logo_bottom2.png" group-title="Variedades", Kanal D
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.redbox.com/images/reels/fltv/Mono/SonyCanalNovelas_MetadataLogo_Fullcolor.png" group-title="Variedades", Sony novelas
