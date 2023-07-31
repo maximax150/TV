@@ -137,7 +137,7 @@ https://embedlp.becdn.net/womantv.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://dominio.beauty/img/telemundo.png" group-title="Pluto Variedades", Telemundo Novelas
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="Pluto Variedades", Telemundo Novelas
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=5fc9&deviceDNT=0&deviceModel=0
 
 EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/619d56d9fa3070000709e3f7/colorLogoPNG.png" group-title="Pluto Variedades", Younger
@@ -218,7 +218,7 @@ https://wifiexpert-1.energeek.cl/energeek/radio/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/6e12320dbdc58fc4ae26350c244f72af.png", Energeek Retro
 https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
 
-#EXTINF:-1 tvg-logo="https://dominio.beauty/img/zaztv.png", ZAZ TV
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22915/zaz/logo_20220411_193253_68.png", ZAZ TV
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.paste.pics/5700114855145b35e03c4831c13238d5.png", MoniTV
@@ -266,13 +266,13 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6
 #EXTINF:-1, Nick JR Pluto TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0ec7b0f7015fbe0a3bf7/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=86d0&deviceDNT=0&deviceModel=0
 
-#EXTINF:-1 tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1547743974191-Imagen.png", Cartoon Network Cortos
+#EXTINF:-1 tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1547743974191-Imagen.png", Cartoon Network
 https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist-720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1639067483362-Imagen.png", Cartoonito Cortos 
+#EXTINF:-1 tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1639067483362-Imagen.png", Cartoonito 
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1621445486417-Imagen.png", Discovery Kids Cortos
+#EXTINF:-1 tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1621445486417-Imagen.png", Discovery Kids 
 https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist-720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/3461da_2c81c38966924041bb0e9d036b7804dc~mv2.png", Moobug Kids
