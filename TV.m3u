@@ -135,6 +135,9 @@ https://stm1.rootuy.xyz:19360/sdredtv/sdredtv.m3u8
 #EXTINF:-1 tvg-logo="https://www.guncelkadin.com.tr/wp-content/uploads/2022/02/www-750x375.png" group-title="Variedades", Woman TV
 https://embedlp.becdn.net/womantv.m3u8
 
+#EXTINF:-1 tvg-logo="https://company.fashiontv.com/?media_dl=60829" group-title="Variedades", Fashion TV
+https://fashiontv-fashiontv-2-es.samsung.wurl.com/manifest/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="Pluto Variedades", Telemundo Novelas
@@ -986,246 +989,7 @@ Cable
 ---------------------------------------------------
 
 
-#EXTINF:-1 group-title="Cable 1", 
-#EXTINF:-1,AZTECA 7
-http://200.229.147.76:4000/play/a0jh/index.m3u8
-#EXTINF:-1,AZTECA HONDURAS 
-http://200.229.147.76:4000/play/a0e3/index.m3u8
-#EXTINF:-1,AZTECA UNO 
-http://200.229.147.76:4000/play/a0j6/index.m3u8
-#EXTINF:-1,BANDAMAX 
-http://200.229.147.76:4000/play/a0hw/index.m3u8
-#EXTINF:-1,BITME 
-http://200.229.147.76:4000/play/a0ik/index.m3u8
-#EXTINF:-1,CANAL 5 MX
-http://200.229.147.76:4000/play/a0cb/index.m3u8
-#EXTINF:-1,CINE LATINO CH
-http://200.229.147.76:4000/play/a0k4/index.m3u8
-#EXTINF:-1,CINE MEXICANO
-http://200.229.147.76:4000/play/a0cg/index.m3u8
-#EXTINF:-1,CINE PLATINO 
-http://200.229.147.76:4000/play/a0ce/index.m3u8
-#EXTINF:-1,COMEDY CENTRAL
-http://200.229.147.76:4000/play/a0ey/index.m3u8
-#EXTINF:-1,DE PELICULAS
-http://200.229.147.76:4000/play/a0ho/index.m3u8
-#EXTINF:-1,PX SPORT 
-http://200.229.147.76:4000/play/a0e0/index.m3u8
-#EXTINF:-1,TELECADENAS 7/4 
-http://200.229.147.76:4000/play/a0ca/index.m3u8
-#EXTINF:-1,TELECEIBA 
-http://200.229.147.76:4000/play/a0e4/index.m3u8
-#EXTINF:-1,TELEHIT 
-http://200.229.147.76:4000/play/a0hz/index.m3u8
-#EXTINF:-1,TELEHIT MUSICA 
-http://200.229.147.76:4000/play/a0eu/index.m3u8
-#EXTINF:-1,TELEMUNDO 
-http://200.229.147.76:4000/play/a0go/index.m3u8
-#EXTINF:-1,TUDN
-http://200.229.147.76:4000/play/a0dn/index.m3u8
-#EXTINF:-1,UNIVISION 
-http://200.229.147.76:4000/play/a0cr/index.m3u8
-#EXTINF:-1,VEPLUS
-http://200.229.147.76:4000/play/a0ep/index.m3u8
-#EXTINF:-1,VIVA TV 
-http://200.229.147.76:4000/play/a0g9/index.m3u
-
-#EXTINF:-1,A&E
-http://45.5.119.202:54321/play/a014/index.m3u8
-#EXTINF:-1,AMC
-http://45.5.119.202:54321/play/a02w/index.m3u8
-#EXTINF:-1,AXN
-http://45.5.119.202:54321/play/a02u/index.m3u8
-#EXTINF:-1,AXN HD
-http://45.5.119.202:54321/play/a02a/index.m3u8
-#EXTINF:-1,Animal Planet
-http://45.5.119.202:54321/play/a017/index.m3u8
-#EXTINF:-1,Azcorazon
-http://45.5.119.202:54321/play/a010/index.m3u8
-#EXTINF:-1,Azteca Int
-http://45.5.119.202:54321/play/a06m/index.m3u8
-#EXTINF:-1,BBC World
-http://45.5.119.202:54321/play/a02y/index.m3u8
-#EXTINF:-1,Baby First
-http://45.5.119.202:54321/play/a009/index.m3u8
-#EXTINF:-1,CERTV
-http://45.5.119.202:54321/play/a05h/index.m3u8
-#EXTINF:-1,CINECANAL HD
-http://45.5.119.202:54321/play/a01h/index.m3u8
-#EXTINF:-1,CNNE
-http://45.5.119.202:54321/play/a02h/index.m3u8
-#EXTINF:-1,Canal 5 - HON
-http://45.5.119.202:54321/play/a06j/index.m3u8
-#EXTINF:-1,Canal 3 Telesistemas HND
-http://45.5.119.202:54321/play/a05r/index.m3u8
-#EXTINF:-1,Canal Claro
-http://45.5.119.202:54321/play/a005/index.m3u8
-#EXTINF:-1,Canal VTV HND
-http://45.5.119.202:54321/play/a05s/index.m3u8
-#EXTINF:-1,Canal del Congreso
-http://45.5.119.202:54321/play/a05k/index.m3u8
-#EXTINF:-1,Cartoon Network
-http://45.5.119.202:54321/play/a02d/index.m3u8
-#EXTINF:-1,Cartoonito
-http://45.5.119.202:54321/play/a02f/index.m3u8
-#EXTINF:-1,Cine Latino
-http://45.5.119.202:54321/play/a06g/index.m3u8
-#EXTINF:-1,CineCanal
-http://45.5.119.202:54321/play/a020/index.m3u8
-#EXTINF:-1,CineMax
-http://45.5.119.202:54321/play/a01y/index.m3u8
-#EXTINF:-1,Claro Cinema
-http://45.5.119.202:54321/play/a01d/index.m3u8
-#EXTINF:-1,Claro Musica
-http://45.5.119.202:54321/play/a04k/index.m3u8
-#EXTINF:-1,Claro Sports 1 SD
-http://45.5.119.202:54321/play/a05t/index.m3u8
-#EXTINF:-1,Claro Sports 2 SD
-http://45.5.119.202:54321/play/a06d/index.m3u8
-#EXTINF:-1,Concert Channel
-http://45.5.119.202:54321/play/a01t/index.m3u8
-#EXTINF:-1,Discovery Channel
-http://45.5.119.202:54321/play/a016/index.m3u8
-#EXTINF:-1,Discovery Home & Health
-http://45.5.119.202:54321/play/a01o/index.m3u8
-#EXTINF:-1,Discovery Kids
-http://45.5.119.202:54321/play/a01j/index.m3u8
-#EXTINF:-1,Discovery Turbo
-http://45.5.119.202:54321/play/a01n/index.m3u8
-#EXTINF:-1,Disney
-http://45.5.119.202:54321/play/a01l/index.m3u8
-#EXTINF:-1,Disney JR
-http://45.5.119.202:54321/play/a02g/index.m3u8
-#EXTINF:-1,E!
-http://45.5.119.202:54321/play/a013/index.m3u8
-#EXTINF:-1,ESPN 1
-http://45.5.119.202:54321/play/a01a/index.m3u8
-#EXTINF:-1,ESPN Extra
-http://45.5.119.202:54321/play/a032/index.m3u8
-#EXTINF:-1,ESPN 2
-http://45.5.119.202:54321/play/a01b/index.m3u8
-#EXTINF:-1,ESPN 3
-http://45.5.119.202:54321/play/a00h/index.m3u8
-#EXTINF:-1,ESPN 4
-http://45.5.119.202:54321/play/a01r/index.m3u8
-#EXTINF:-1,ESPN 4 HD
-http://45.5.119.202:54321/play/a029/index.m3u8
-#EXTINF:-1,EURO Channel
-http://45.5.119.202:54321/play/a050/index.m3u8
-#EXTINF:-1,EWTN
-http://45.5.119.202:54321/play/a030/index.m3u8
-#EXTINF:-1,El Gourmet
-http://45.5.119.202:54321/play/a00e/index.m3u8
-#EXTINF:-1,Exa TV
-http://45.5.119.202:54321/play/a06n/index.m3u8
-#EXTINF:-1,FUTV CR
-http://45.5.119.202:54321/play/a05i/index.m3u8
-#EXTINF:-1,FX
-http://45.5.119.202:54321/play/a00a/index.m3u8
-#EXTINF:-1,Fox Sport 3
-http://45.5.119.202:54321/play/a02r/index.m3u8
-#EXTINF:-1,Golden
-http://45.5.119.202:54321/play/a00n/index.m3u8
-#EXTINF:-1,Guatevision - GUA
-http://45.5.119.202:54321/play/a02c/index.m3u8
-#EXTINF:-1,H2
-http://45.5.119.202:54321/play/a00d/index.m3u8
-#EXTINF:-1,HCH- HON
-http://45.5.119.202:54321/play/a062/index.m3u8
-#EXTINF:-1,HTV
-http://45.5.119.202:54321/play/a00m/index.m3u8
-#EXTINF:-1,History Channel
-http://45.5.119.202:54321/play/a018/index.m3u8
-#EXTINF:-1,History HD
-http://45.5.119.202:54321/play/a031/index.m3u8
-#EXTINF:-1,ID
-http://45.5.119.202:54321/play/a01p/index.m3u8
-#EXTINF:-1,ISAT
-http://45.5.119.202:54321/play/a01v/index.m3u8
-#EXTINF:-1,LIFE TIME
-http://45.5.119.202:54321/play/a02q/index.m3u8
-#EXTINF:-1,La voz de Maria
-http://45.5.119.202:54321/play/a01q/index.m3u8
-#EXTINF:-1,Latin America Sport
-http://45.5.119.202:54321/play/a00j/index.m3u8
-#EXTINF:-1,MTV
-http://45.5.119.202:54321/play/a04n/index.m3u8
-#EXTINF:-1,MTV
-http://45.5.119.202:54321/play/a01s/index.m3u8
-#EXTINF:-1,MTV 00s
-http://45.5.119.202:54321/play/a00l/index.m3u8
-#EXTINF:-1,MTV 80s
-http://45.5.119.202:54321/play/a02t/index.m3u8
-#EXTINF:-1,MTV HD
-http://45.5.119.202:54321/play/a033/index.m3u8
-#EXTINF:-1,MTV Hits
-http://45.5.119.202:54321/play/a02s/index.m3u8
-#EXTINF:-1,Multicinema
-http://45.5.119.202:54321/play/a06f/index.m3u8
-#EXTINF:-1,Multipremier
-http://45.5.119.202:54321/play/a01w/index.m3u8
-#EXTINF:-1,National Geographic
-http://45.5.119.202:54321/play/a02p/index.m3u8
-#EXTINF:-1,Nick Jr
-http://45.5.119.202:54321/play/a063/index.m3u8
-#EXTINF:-1,Nick Jr
-http://45.5.119.202:54321/play/a02e/index.m3u8
-#EXTINF:-1,Nickelodeon
-http://45.5.119.202:54321/play/a01k/index.m3u8
-#EXTINF:-1,PXTV
-http://45.5.119.202:54321/play/a06e/index.m3u8
-#EXTINF:-1,RCN Novelas
-http://45.5.119.202:54321/play/a00b/index.m3u8
-#EXTINF:-1,SEMILLITAS
-http://45.5.119.202:54321/play/a02i/index.m3u8
-#EXTINF:-1,SONY HD
-http://45.5.119.202:54321/play/a01g/index.m3u8
-#EXTINF:-1,SPACE
-http://45.5.119.202:54321/play/a02m/index.m3u8
-#EXTINF:-1,SPACE HD
-http://45.5.119.202:54321/play/a06h/index.m3u8
-#EXTINF:-1,STAR CHANNEL
-http://45.5.119.202:54321/play/a01m/index.m3u8
-#EXTINF:-1,STAR CHANNEL HD
-http://45.5.119.202:54321/play/a01e/index.m3u8
-#EXTINF:-1,SUYAPA TV
-http://45.5.119.202:54321/play/a066/index.m3u8
-#EXTINF:-1,Sembrador
-http://45.5.119.202:54321/play/a00s/index.m3u8
-#EXTINF:-1,Studio Universal
-http://45.5.119.202:54321/play/a01z/index.m3u8
-#EXTINF:-1,Sun Channel
-http://45.5.119.202:54321/play/a00f/index.m3u8
-#EXTINF:-1,SyFy
-http://45.5.119.202:54321/play/a015/index.m3u8
-#EXTINF:-1,TBN Enlace
-http://45.5.119.202:54321/play/a02z/index.m3u8
-#EXTINF:-1,TBS
-http://45.5.119.202:54321/play/a02o/index.m3u8
-#EXTINF:-1,TCM
-http://45.5.119.202:54321/play/a00o/index.m3u8
-#EXTINF:-1,TLC
-http://45.5.119.202:54321/play/a019/index.m3u8
-#EXTINF:-1,TNT
-http://45.5.119.202:54321/play/a02v/index.m3u8
-#EXTINF:-1,TNT Series
-http://45.5.119.202:54321/play/a02n/index.m3u8
-#EXTINF:-1,TVE
-http://45.5.119.202:54321/play/a05u/index.m3u8
-#EXTINF:-1,Telemundo
-http://45.5.119.202:54321/play/a02k/index.m3u8
-#EXTINF:-1,Tooncast
-http://45.5.119.202:54321/play/a00z/index.m3u8
-#EXTINF:-1,Tru TV
-http://45.5.119.202:54321/play/a06i/index.m3u8
-#EXTINF:-1,Universal
-http://45.5.119.202:54321/play/a01u/index.m3u8
-#EXTINF:-1,WARNER HD
-http://45.5.119.202:54321/play/a01f/index.m3u8
-
-
-
-#EXTINF:-1 group-title="Cable 2",
+#EXTINF:-1 group-title="Cable 1",
 #EXTINF:-1,A&E
 http://190.83.116.230:9010/play/a047/index.m3u8
 #EXTINF:-1,AMC
@@ -1525,7 +1289,7 @@ http://190.83.116.230:9010/play/a091/index.m3u8
 
 
 
-#EXTINF:-1 group-title="Cable 3",
+#EXTINF:-1 group-title="Cable 2",
 #EXTINF:-1,11 - Repretel
 http://45.5.151.150:8000/play/a09f/index.m3u8
 #EXTINF:-1,6 - Repretel
@@ -2102,7 +1866,7 @@ http://45.5.151.150:8000/play/a00t/index.m3u8
 
 
 
-#EXTINF:-1,group-title="Cable 4",
+#EXTINF:-1,group-title="Cable 3",
 #EXTINF:-1,A&E HD
 http://177.53.153.21:8001/play/a01s/index.m3u8
 #EXTINF:-1,AMC HD
@@ -3268,6 +3032,7 @@ Nicaragua
 ---------------------------------------------------
 
 
+
 #EXTINF:-1 tvg-logo="" group-title="Nicaragua", Canal 10 Ratensa
 https://dgh4r3ro3i2mi.cloudfront.net/Canal10NI/7d8e90910905c4165b7180d8db1d8b68.sdp/playlist.m3u8
 
@@ -3291,13 +3056,6 @@ https://cloudvideo.servers10.com:8081/8130/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Nicaragua", CooTel
 http://138.117.4.70:8075/channel9/playlist.m3u8
-
-#EXTINF:-1,Canal 4 - NIC
-http://45.5.119.202:54321/play/a05m/index.m3u8
-#EXTINF:-1,Canal 8 - NIC
-http://45.5.119.202:54321/play/a067/index.m3u8
-#EXTINF:-1,Canal 12 - NI
-http://45.5.119.202:54321/play/a05z/index.m3u8
 
 
 
@@ -3340,23 +3098,10 @@ https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/60580
 #EXTINF:-1 tvg-logo="" group-title="Panama", TVMAX
 https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/playlist_dvr.m3u8
 
-#EXTINF:-1,Canal 2 - PAN
-http://45.5.119.202:54321/play/a061/index.m3u8
-#EXTINF:-1,Canal 4 - PAN
-http://45.5.119.202:54321/play/a05o/index.m3u8
-#EXTINF:-1,Canal 13 - PAN
-http://45.5.119.202:54321/play/a060/index.m3u8
-#EXTINF:-1,TVMax - PAN
-http://45.5.119.202:54321/play/a05n/index.m3u8
-#EXTINF:-1,SERTV - PAN
-http://45.5.119.202:54321/play/a064/index.m3u8
-
-
 
 ---------------------------------------------------
 Guatemala
 ---------------------------------------------------
-
 
 
 #EXTINF:-1 group-title="Guatemala", Canal 3
@@ -3367,18 +3112,6 @@ https://dy434h3s52eoj.cloudfront.net/Canal7GT/d84b644e13e68dd78dfcb9a0cf0338f1.s
 
 #EXTINF:-1 group-title="Guatemala", TN23
 https://dy434h3s52eoj.cloudfront.net/Canal23GT/235557e601489a53ece741671338603f.sdp/Canal23GT/Canal23GT1/chunks.m3u8
-
-#EXTINF:-1,Canal Antigua - GUA
-http://45.5.119.202:54321/play/a04s/index.m3u8
-#EXTINF:-1,Canal Azteca - GUA
-http://45.5.119.202:54321/play/a00w/index.m3u8
-#EXTINF:-1,Canal 11 - GUA
-http://45.5.119.202:54321/play/a04z/index.m3u8
-#EXTINF:-1,Canal 13 - GUA
-http://45.5.119.202:54321/play/a04q/index.m3u8
-#EXTINF:-1,RCN - GUA
-http://45.5.119.202:54321/play/a05l/index.m3u8
-
 
 #EXTINF:-1 group-title="Guatemala", Totovisión 
 https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
@@ -3884,24 +3617,8 @@ https://d1841z6ti5nz2v.cloudfront.net/Antena7DO/34cdaa501a0217ea217d8f4f083c1728
 #EXTINF:-1,Antena 21 RD
 https://d1841z6ti5nz2v.cloudfront.net/Canal21DO/f260159f04ed124e08b9ee0364dd4ca7.sdp/playlist.m3u8
 
-#EXTINF:-1,Color Vision 9 - RD
-http://45.5.119.202:54321/play/a06l/index.m3u8
-#EXTINF:-1,RHEMA TV
-http://45.5.119.202:54321/play/a028/index.m3u8
-#EXTINF:-1,Tele Antillas - RD
-http://45.5.119.202:54321/play/a05w/index.m3u8
-#EXTINF:-1,Telecadena - HON
-http://45.5.119.202:54321/play/a06k/index.m3u8
-#EXTINF:-1,Telecentro - RD
-http://45.5.119.202:54321/play/a06a/index.m3u8
-#EXTINF:-1,Telesistema RD
-http://45.5.119.202:54321/play/a05y/index.m3u8
-#EXTINF:-1,Teleunion - RD
-http://45.5.119.202:54321/play/a06b/index.m3u8
 #EXTINF:-1,Teleuniverso - RD
-http://45.5.119.202:54321/play/a069/index.m3u8
-#EXTINF:-1,Digital 15 - RD
-http://45.5.119.202:54321/play/a068/index.m3u8
+https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
 
 
 
@@ -3910,108 +3627,144 @@ Spain
 ---------------------------------------------------
 
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Hd0_KsYNEKc/Xx2obYS2UTI/AAAAAAAA3d8/oJszUPsiegM3CCvZNZL7IU_VvYnObfctACK8BGAsYHg/s0/2020-07-26.png" group-title="España", La 1 
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-SMd3sJg7ayY/Xx2oi7fP_QI/AAAAAAAA3eA/42GwqT-qtVsSgv5vKmxzeyYJCRGZ8K6FgCK8BGAsYHg/s0/2020-07-26.png" group-title="España", La 2 
+https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-s1_Yn73J9Jc/Xx2p0OHPYgI/AAAAAAAA3eg/rYgtHyDWlEsaV6DEVwGZL_KG2oSJ8yw5wCK8BGAsYHg/s0/2020-07-26.png" group-title="España", TV3 
+https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-s1_Yn73J9Jc/Xx2p0OHPYgI/AAAAAAAA3eg/rYgtHyDWlEsaV6DEVwGZL_KG2oSJ8yw5wCK8BGAsYHg/s0/2020-07-26.png" group-title="España", TV3 Catalunya 
+https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-xEsd9Oy7TeQ/Xx2iR75GrnI/AAAAAAAA3cA/BhGvBbwJbkUQe1-sGFkfFu9775dY5LrmQCK8BGAsYHg/s0/2020-07-26.png" group-title="España", TVE 24H 
+https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/834px-La_Sexta_%28A3M%29.svg.png" group-title="España", La Sexta
+https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:11_HD.smil/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.la7tv.es/media/la7tv/images/2022/08/01/2022080110314173695.png" group-title="España", la 7
+https://rtv-murcia-live.globalmest.com/principal/principal.smil/.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.8tv.cat/uploads/logos/20220914103438_logo_13_logo[1].png" group-title="España", 8TV Catalunya
 https://mdstrm.com/live-stream-playlist/636bd70b44680408872dbfc6.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/1d96bb1f41f4a0a3862bdc1b9c541f8a.png", Aragon TV 
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/1d96bb1f41f4a0a3862bdc1b9c541f8a.png" group-title="España", Aragon TV 
 http://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8?
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/834px-La_Sexta_%28A3M%29.svg.png", La Sexta
-https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:11_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-p9-6d9vT0uY/Xx2n-05zdoI/AAAAAAAA3dw/agUomYCEMhICdnShYWyhQtFnn2f5RCQwgCK8BGAsYHg/s0/2020-07-26.png" group-title="España", Extremadura 
+https://cdnlivevlc.codev8.net/canalextremaduralive/smil:channel1.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.la7tv.es/media/la7tv/images/2022/08/01/2022080110314173695.png", la 7
-https://rtv-murcia-live.globalmest.com/principal/principal.smil/.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-p9-6d9vT0uY/Xx2n-05zdoI/AAAAAAAA3dw/agUomYCEMhICdnShYWyhQtFnn2f5RCQwgCK8BGAsYHg/s0/2020-07-26.png", Extremadura 
-https://cdnlive.shooowit.net/canalextremaduralive/channel1DVR.smil/chunklist_b1500000_DVR.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Hd0_KsYNEKc/Xx2obYS2UTI/AAAAAAAA3d8/oJszUPsiegM3CCvZNZL7IU_VvYnObfctACK8BGAsYHg/s0/2020-07-26.png", La 1 
-https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-SMd3sJg7ayY/Xx2oi7fP_QI/AAAAAAAA3eA/42GwqT-qtVsSgv5vKmxzeyYJCRGZ8K6FgCK8BGAsYHg/s0/2020-07-26.png", La 2 
-https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1279727978268839938/jSZUiboT_400x400.jpg", La Otra https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Logo_Canal_Costa_TV.png", Canal Costa
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Logo_Canal_Costa_TV.png" group-title="España", Canal Costa
 https://5d8d85cf2c308.streamlock.net:1936/CanalcostaTV/endirecto/.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Logo_Canal_Costa_TV.png", Condavision
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Logo_Canal_Costa_TV.png" group-title="España", Condavision
 https://5d8d85cf2c308.streamlock.net:1936/Condavision/endirecto/.m3u8
 
-#EXTINF:-1 tvg-logo="https://ondacadiz.es/sites/default/files/logo_onda_cadiz_web_120_100_0.png", Onda Cadiz
+#EXTINF:-1 tvg-logo="https://ondacadiz.es/sites/default/files/logo_onda_cadiz_web_120_100_0.png" group-title="España", Onda Cadiz
 https://ondacadiztv.es:30443/octv/directo_multi/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/1200px-TeleMadrid.svg.png", Telemadrid 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/1200px-TeleMadrid.svg.png" group-title="España", Telemadrid 
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/1200px-TeleMadrid.svg.png", Telemadrid Internacional
-https://telemadrid-live-hls.secure.footprint.net/egress/bhandler/telemadrid/new_international/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1279727978268839938/jSZUiboT_400x400.jpg" group-title="España", La Otra 
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://lancelot.es/imagenes/logo.png", Lancelot
+#EXTINF:-1 tvg-logo="https://lancelot.es/imagenes/logo.png" group-title="España", Lancelot
 https://5c0956165db0b.streamlock.net/directo/lancelot.television/.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-s1_Yn73J9Jc/Xx2p0OHPYgI/AAAAAAAA3eg/rYgtHyDWlEsaV6DEVwGZL_KG2oSJ8yw5wCK8BGAsYHg/s0/2020-07-26.png", TV3 
-https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-s1_Yn73J9Jc/Xx2p0OHPYgI/AAAAAAAA3eg/rYgtHyDWlEsaV6DEVwGZL_KG2oSJ8yw5wCK8BGAsYHg/s0/2020-07-26.png", TV3 Catalunya 
-https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=72&h=54&tok=f6dcec&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fetb1.png", ETB 1
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=72&h=54&tok=f6dcec&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fetb1.png" group-title="España", ETB 1
 https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=e7ece0&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fetb2.png", ETB 2
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=e7ece0&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fetb2.png" group-title="España", ETB 2
 https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=63&h=47&tok=e3d92d&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fetb.png", ETB Basque
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=63&h=47&tok=e3d92d&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fetb.png" group-title="España", ETB Basque
 https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1080765671431200768/RM4qmbGv_400x400.jpg", TV Galicia America 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1080765671431200768/RM4qmbGv_400x400.jpg" group-title="España", TV Galicia America 
 http://america-crtvg.flumotion.com/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-NNimM6BK6ZQ/XkszwS7D6uI/AAAAAAAAwGw/zaSdPQcEOrk7IkrJiRFWvpqbLOHmMhNtwCK8BGAsYHg/s0/2020-02-17.png", TV Galicia Europa
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-NNimM6BK6ZQ/XkszwS7D6uI/AAAAAAAAwGw/zaSdPQcEOrk7IkrJiRFWvpqbLOHmMhNtwCK8BGAsYHg/s0/2020-02-17.png" group-title="España", TV Galicia Europa
 https://europa-crtvg.flumotion.com/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1080765671431200768/RM4qmbGv_400x400.jpg", TV Galicia Momentos 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1080765671431200768/RM4qmbGv_400x400.jpg" group-title="España", TV Galicia Momentos 
 https://momentog-crtvg.flumotion.com/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1080765671431200768/RM4qmbGv_400x400.jpg", TV Galicia Musigal 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1080765671431200768/RM4qmbGv_400x400.jpg" group-title="España", TV Galicia Musigal 
 https://musigal-crtvg.flumotion.com/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.manzanares.es/sites/default/files/images/noticias/imgnot13235.jpg", I Mas 
+#EXTINF:-1 tvg-logo="https://www.manzanares.es/sites/default/files/images/noticias/imgnot13235.jpg" group-title="España", I Mas 
 https://secure3.todostreaming.es/live/imastv-livestream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/a3a7be1349c14d99ea220381618df520.png", 7NN 
-https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Canal_3-24_de_TVC.jpg" group-title="España" group-title="España", 3/24
+https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-xEsd9Oy7TeQ/Xx2iR75GrnI/AAAAAAAA3cA/BhGvBbwJbkUQe1-sGFkfFu9775dY5LrmQCK8BGAsYHg/s0/2020-07-26.png", TVE 24H 
-https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=63&h=47&tok=1c7384&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fcsur.png", Canal Sur
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=63&h=47&tok=1c7384&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fcsur.png" group-title="España", Canal Sur
 https://cdnlive.codev8.net/rtvalive/channel1.smil/.m3u8
 
-#EXTINF:-1 tvg-logo="https://distritotv.es/wp-content/uploads/2021/04/cropped-PROPUESTAS-LOGO-DISTRITO-TV-2-1.png", Distrito TV
+#EXTINF:-1 tvg-logo="https://distritotv.es/wp-content/uploads/2021/04/cropped-PROPUESTAS-LOGO-DISTRITO-TV-2-1.png" group-title="España", Distrito TV
 https://live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.101tv.es/wp-content/uploads/2022/12/cropped-escudo-blanco-png-v2.png", 101 Malaga
+#EXTINF:-1 tvg-logo="https://www.101tv.es/wp-content/uploads/2022/12/cropped-escudo-blanco-png-v2.png" group-title="España", 101 Malaga
 https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
 
-tvg-logo="https://teleonuba.es/wp-content/uploads/2022/02/logovertical.png", Teleonuba
+tvg-logo="https://teleonuba.es/wp-content/uploads/2022/02/logovertical.png" group-title="España", Teleonuba
 https://5d8d85cf2c308.streamlock.net:1936/Teleonuba/endirecto/.m3u8
 
-tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=4bf39d&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fondaazulmalaga.png", Canal Malaga
+tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=4bf39d&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fondaazulmalaga.png" group-title="España", Canal Malaga
 https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/radio-television-ceuta-logo-AD2377C554-seeklogo.com.png", RTVCE
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/radio-television-ceuta-logo-AD2377C554-seeklogo.com.png" group-title="España", RTVCE
 https://cdnlive.codev8.net/rtvcelive/channel1.smil/.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.teletoledo.es/img/logo.png" Teletoledo
+#EXTINF:-1 tvg-logo="https://www.teletoledo.es/img/logo.png" group-title="España", Teletoledo
 https://cloud.fastchannel.es/mic/manifiest/teletoledo.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="España", Activa TV
+https://streamtv.mediasector.es/hls/activatv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.alcarria.tv/web2/wp-content/uploads/2018/04/logo_alcarria_tv_letras_blancas.png" group-title="España", Alcarria TV
+https://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://comunicacio21.cat/wp-content/uploads/bon-dia-tv-logo.jpg" group-title="España", Bon Dia TV
+https://directes-tv-int.ccma.cat/live-origin/bondia-hls/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cadenaelite.es/img/logoMenu.png" group-title="España", Cadena Elite
+https://cloudvideo.servers10.com:8081/8004/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="España", TVE 
+http://210.210.155.37/uq2663/h/h158/index2.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="España", Onda Madrid
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/ondamadrid_1/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="España", Onda Madrid Radio
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/tvradio_1/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="España", Onda Valencia
+https://cloudvideo.servers10.com:8081/8116/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="España", Nortevision
+http://amaru.dyndns.org:8870/0.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="España", Logos TV
+https://streamer1.streamhost.org/salive/logosH/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="España", Canal Diocesano
+https://nlb2-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="España", TBN España
+https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8
+
 
 
 ---------------------------------------------------
 U.S.A.
 ---------------------------------------------------
+
 
 
 #EXTINF:-1 tvg-logo="" group-title="USA", Atlanta Channel
