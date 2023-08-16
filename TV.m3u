@@ -2539,19 +2539,28 @@ Bolivia
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/20600a504d12eb0b41587fbc1b700289.png" group-title="Bolivia", Bolivia TV 7.2 
-https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
+https://5f2c1b0d880e5.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/4dc5de183727a12e5701c57cddac2f28.png" group-title="Bolivia", Bolivision 
 https://d3mghbm9e5zfap.cloudfront.net/Bolivision/2af819d7c8ab1c07658d1575e55800e5.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.redbolivision.tv.bo/wp-content/uploads/2020/12/Imagen-Conductores-Grande-1.jpg" group-title="Bolivia", UPPTV 
-https://nedbolivision.akamaized.net/hls/live/2101284/upptvbo/master.m3u8
+https://d3mghbm9e5zfap.cloudfront.net/UppTVBO/27b541ec946453e75f25a7d489c86168.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/ima19723624875.jpg" group-title="Bolivia", Mega TV BO
-https://i2.paste.pics/20600a504d12eb0b41587fbc1b700289.png
+https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/PAT_Logotype.png" group-title="Bolivia", PAT 
-https://master.tucableip.com/pat/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cadenaa.tv/wp-content/uploads/2022/03/logoaweb.png" group-title="Bolivia", Cadena A
+https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/PAT_Logotype.png" group-title="Bolivia", PAT Santa Cruz
+https://w8.redpat.tv:7777/play/110/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/PAT_Logotype.png" group-title="Bolivia", PAT La Paz
+https://w8.redpat.tv:7777/play/120/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://f10.tv.bo/images/Recurso-4.png" group-title="Bolivia", F10
+https://video.live.com.bo:3253/live/f10hdlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-xklYhEnMoEQ/XoJ-S16WTVI/AAAAAAAAxUQ/cVvGCBICihAm8ruAArXJD7R8WKYUPcNUQCK8BGAsYHg/s0/2020-03-30.png" group-title="Bolivia", Red AD Venir Internacional 
 http://streamer1.streamhost.org:1935/salive/GMIredadvenirl/playlist.m3u8
@@ -2581,7 +2590,13 @@ https://live.seo.tv.bo/live/3SEO.m3u8
 https://live.seo.tv.bo/live/4SEO.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/tv/ss/seo-tv-deportes-bo.png" group-title="Bolivia", SEO TV Deportes
-https://seo.tv.bo/tv/q5EVE.m3u8
+https://live.seo.tv.bo/live/5SEO.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/seo-tv-6-bo.png" group-title="Bolivia", SEO TV 6
+https://live.seo.tv.bo/live/6SEO.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/seo-tv-6-bo.png" group-title="Bolivia", SEO TV 7
+https://live.seo.tv.bo/live/7SEO.m3u8
 
 #EXTINF:-1 tvg-logo="https://teleestrella.tv.bo/wp-content/uploads/2023/02/Imagen1-4-1024x336.png" group-title="Bolivia", Tele Estrella
 https://solo.disfrutaenlared.com:1936/teleestrella/teleestrella/playlist.m3u8
