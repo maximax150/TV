@@ -2532,10 +2532,9 @@ https://202527.global.ssl.fastly.net/6499ec857df5bf9d55b5849f/live_9246a0201b5b1
 https://d2t46xrpai3it5.cloudfront.net/Canal4CR/e78ef5ae92191a83ba896fbe4bfda83e.sdp/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://i2.paste.pics/01a892099fb8614f242806cdc8f94b4d.png" group-title="Costa Rica", Repretel 6 
-https://ds5je33owo0gx.cloudfront.net/Canal6/201cac55f42a87a46e2d27a75e0c7c84.sdp/playlist.m3u8
+https://d2t46xrpai3it5.cloudfront.net/Canal6CR/201cac55f42a87a46e2d27a75e0c7c84.sdp/chunks.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Teletica.png" group-title="Costa Rica", Teletica HD
-https://m6gdar5eyn93-hls-live.5centscdn.com/StreamTeletica/73aac4dc8f2bab2a5d9525001c401af8.sdp/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-8-costa-rica-mx-cr.png" group-title="Costa Rica", Multimedios 8 
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
@@ -3551,10 +3550,6 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive
 http://190.83.116.230:9010/play/a0bo/index.m3u8
 #EXTINF:-1,VENUS
 http://190.83.116.230:9010/play/a03v/index.m3u8
-#EXTINF:-1,Hustler HD
-http://45.166.92.22:58001/play/a04s/index.m3u8
 #EXTINF:-1,Penthouse 
 http://45.166.92.22:58001/play/a04c/index.m3u8
-#EXTINF:-1,Mexicana XXX 
-http://45.166.92.22:58001/play/a05l/index.m3u8
 
