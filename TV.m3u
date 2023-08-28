@@ -15,13 +15,13 @@ https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Televisa_Internacional.png" group-title="Variedades", Televisa Europa
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/dims4/default/439115d/2147483647/strip/true/crop/193x255+0+0/resize/193x255!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fbe%2F4c%2F16e3bba04834ba778a9aea37431e%2F3-20230721-181553-0002.jpg" group-title="Variedades", Azteca Corazon
+#EXTINF:-1 tvg-logo="" group-title="Variedades", Azteca Corazon
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826
 
-#EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/dims4/default/815609a/2147483647/strip/true/crop/193x255+0+0/resize/193x255!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Faa%2F3d%2Fcd9410a446a3b3e9f05da506e7e6%2F5-20230721-181553-0004.jpg" group-title="Variedades", Azteca Clic
+#EXTINF:-1 tvg-logo="" group-title="Variedades", Azteca Clic
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
 
-#EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/dims4/default/cd4b904/2147483647/strip/true/crop/1657x376+0+0/resize/203x46!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F65%2Ff3%2F686a00564044a1cf0893995b87fc%2Flogo-tv-azteca.png" group-title="Variedades", Azteca Internacional
+#EXTINF:-1 tvg-logo="" group-title="Variedades", Azteca Internacional
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4828
 
 #EXTINF:-1 tvg-logo="https://images.samsung.com/is/image/samsung/assets/mx/tvs/smart-tv/samsung-tv-plus/2022/azteca_uno.png" group-title="Variedades", Azteca Uno -1h
