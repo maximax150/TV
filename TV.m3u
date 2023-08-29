@@ -15,13 +15,13 @@ https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Televisa_Internacional.png" group-title="Variedades", Televisa Europa
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Variedades", Azteca Corazon
+#EXTINF:-1 tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2022/07/Corazon450x300-1.png" group-title="Variedades", Azteca Corazon
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826
 
-#EXTINF:-1 tvg-logo="" group-title="Variedades", Azteca Clic
+#EXTINF:-1 tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2022/07/Clic450x300.png" group-title="Variedades", Azteca Clic
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
 
-#EXTINF:-1 tvg-logo="" group-title="Variedades", Azteca Internacional
+#EXTINF:-1 tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/05/logotipo-azteca.png" group-title="Variedades", Azteca Internacional
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4828
 
 #EXTINF:-1 tvg-logo="https://images.samsung.com/is/image/samsung/assets/mx/tvs/smart-tv/samsung-tv-plus/2022/azteca_uno.png" group-title="Variedades", Azteca Uno -1h
@@ -419,7 +419,7 @@ https://run-cl-es.otteravision.com/run/cl_es/cl_es.m3u8
 #EXTINF:-1 tvg-logo="https://cineramatv.com/wp-content/uploads/2023/02/logo-2.jpg", Cinerama
 https://5d00db0e0fcd5.streamlock.net/7062/7062/.m3u8
 
-#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2023_06/large.Cinema.png.4de1b4671b2a5c2b9f9e2c88994bb473.png", Azteca Cinema
+#EXTINF:-1 tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2022/07/Cinema450x300p2.png", Azteca Cinema
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
 
 #EXTINF:-1 tvg-logo="https://www.wowelsalvador.com/imagen/logo2.png", WOW TV
@@ -681,14 +681,14 @@ Deportes
 #EXTINF:-1 tvg-logo="https://dominio.beauty/img/garagetv.png" group-title="Deportes", Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 
+#EXTINF:-1, DeporTV
+https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1212859696383696896/ljdBfeUQ_400x400.jpg", All Sports 
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dplnews.com/wp-content/uploads/2021/09/dplnews_tigo_vc_020921-696x569.png", Tigo Sports ViX
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="", TUDN ViX
-https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://content.jwplatform.com/images/jNgWEGCO.png" group-title="Deportes", Wapa Deportes PR
 https://live.field59.com/wapa/wapa2/.m3u8
@@ -697,7 +697,7 @@ https://live.field59.com/wapa/wapa2/.m3u8
 https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
 
 #EXTINF:-1, Edge Sports
-https://edgesport-samsungus.amagi.tv/playlist.m3u8
+https://edgesports-sportstribal.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22918/sportsgrid/logo_20201117_210342_68.png", Sports Grid
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/sportsgrid/ad16efee-974b-4262-ba05-009283af3b36/0.m3u8
@@ -725,9 +725,6 @@ https://pac12-roku-us.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1364953286168698886/ZtoiZzW5_400x400.jpg", Motor Vision
 https://ov-mvg-mv-es.ottera.tv/mvg/mv_es/mv_es.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Rev%27n_logo.jpg", ReVN
-https://bcovlive-a.akamaihd.net/a71236fdda1747999843bd3d55bdd6fa/us-east-1/6183977686001/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.eutelsat.com/files/Logos/ESR.png", ES2R
 https://eyeonesports.com/ES2RA-628g.m3u8
@@ -893,12 +890,6 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23094/cgtn-documentary/logo_20230314_210542_68.png", CGTN Documentary
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-documentary.m3u8?ads.islive=1&ads.streamtype=live
 
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23001/true-history/logo_20211006_223709_68.jpg", True History
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/true-history/9c811e10-1dcf-4285-8f50-9e38d240236b/3.m3u8
-
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23064/4k-travel-tv/logo_20220609_171333_68.png", 4K Travel
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/d2eccaa0-2fc6-480a-b979-fc8347789b9f/1.m3u8
-
 #EXTINF:-1, DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
@@ -950,9 +941,6 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1, Nasa TV Media
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 
-#EXTINF:-1, Space Channel
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=540
-
 #EXTINF:-1, Canal UCL
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 
@@ -1001,6 +989,12 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/7e84ed301b194b7b81e86f85bb2c3a33/p
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Bethel_tv.png", Bethel TV
 https://d2g8t2kk3bc252.cloudfront.net/out/v1/2855050b73db4cd0b8c648202b3e633b/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nuevotiempo.org/wp-content/uploads/sites/6/2020/03/logo-teste-novo-tempo-02-ES.png", Nuevo Tiempo
+https://customer-x8zydurm357k8j9p.cloudflarestream.com/a23831aa01c4a0fd802360b889ea96ed/manifest/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/26c143_4692b6d01dd94a90a6395bd368ae5b22~mv2.png/v1/fill/w_80,h_47,al_c,q_85,usm_4.00_1.00_0.00,enc_auto/26c143_4692b6d01dd94a90a6395bd368ae5b22~mv2.png", Esperanza TV Costa Rica
+https://5eac7b031d945.streamlock.net/REDES/REDES/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://3abn.org/img/3abn-ogg.png", 3ABN English
 https://3abn-live.akamaized.net/hls/live/2010543/3ABN/master.m3u8
