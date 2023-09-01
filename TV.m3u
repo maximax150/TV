@@ -351,154 +351,154 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Cinema%2B_logo.svg/1024px-Cinema%2B_logo.svg.png" group-title="Cine y Series", Cinema plus
 https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/SSrHRfWhqifKWYvAHM2CHFpDnhG96HE85O06rZWA.png", MegaHits
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/SSrHRfWhqifKWYvAHM2CHFpDnhG96HE85O06rZWA.png" group-title="Cine y Series", MegaHits
 https://vcp8.myplaytv.com:1936/meganethits/meganethits/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/08/sonycomedias.jpg", Sony Comedias
+#EXTINF:-1 tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/08/sonycomedias.jpg" group-title="Cine y Series", Sony Comedias
 https://spt-comedias-1-us.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/qt5l5CajTEOY94Wg1MVQr9Alqe5khV1rnynPY9Q7.jpg", Sony Cine
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/qt5l5CajTEOY94Wg1MVQr9Alqe5khV1rnynPY9Q7.jpg" group-title="Cine y Series", Sony Cine
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/99d1f745bbde1c70f7199fc8c979cd6fa8fd51d920a654e40876f49764b4f701.png", Tiguerito TV
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/99d1f745bbde1c70f7199fc8c979cd6fa8fd51d920a654e40876f49764b4f701.png" group-title="Cine y Series", Tiguerito TV
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/a59418e1a9cb4068b83345be503f722c.png", 13 Entretencion 
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/a59418e1a9cb4068b83345be503f722c.png" group-title="Cine y Series", 13 Entretencion 
 https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/544548398fcd92bf2db73e9d0fcddf5f.png", 13 Prime 
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/544548398fcd92bf2db73e9d0fcddf5f.png" group-title="Cine y Series", 13 Prime 
 https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/863aea4fb1445b58f89afc7c692ed509.png", 13 Teleseries 
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/863aea4fb1445b58f89afc7c692ed509.png" group-title="Cine y Series", 13 Teleseries 
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png", PlanetaTV Movies 
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png" group-title="Cine y Series", PlanetaTV Movies 
 https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png", Retro Plus TV 
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png" group-title="Cine y Series", Retro Plus TV 
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png", Retro Plus TV 2
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png" group-title="Cine y Series", Retro Plus TV 2
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png", Retro Plus TV 3 
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png" group-title="Cine y Series", Retro Plus TV 3 
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/5Cd0fF0wXhrDT8rawVjapPgIVQzQlR71lP2pNSjk.jpg", GRJNGO
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/5Cd0fF0wXhrDT8rawVjapPgIVQzQlR71lP2pNSjk.jpg" group-title="Cine y Series", GRJNGO
 https://amogonetworx-grjngo-2-eu.plex.wurl.tv/2000.m3u8
 
-#EXTINF:-1 tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2017/07/televisa-afiliados-canales-golden-plus.jpg", Golden Plus
+#EXTINF:-1 tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2017/07/televisa-afiliados-canales-golden-plus.jpg" group-title="Cine y Series", Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png", Runtime Español
+#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="Cine y Series", Runtime Español
 https://run-rt-es.otteravision.com/run/rt_es/rt_es.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png", Runtime Accion
+#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="Cine y Series", Runtime Accion
 https://run-ra-es.otteravision.com/run/ra_es/ra_es.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png", Runtime Comedia
+#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="Cine y Series", Runtime Comedia
 https://run-rc-es.otteravision.com/run/rc_es/rc_es.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png", Runtime Thriller
+#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="Cine y Series", Runtime Thriller
 https://run-th-es.otteravision.com/run/th_es/th_es.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png", Runtime Crimen
+#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="Cine y Series", Runtime Crimen
 https://run-cr-es.otteravision.com/run/cr_es/cr_es.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png", Runtime Romance
+#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="Cine y Series", Runtime Romance
 https://run-rr-es.otteravision.com/run/rr_es/rr_es.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png", Runtime Classics
+#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="Cine y Series", Runtime Classics
 https://run-cl-es.otteravision.com/run/cl_es/cl_es.m3u8
 
-#EXTINF:-1 tvg-logo="https://cineramatv.com/wp-content/uploads/2023/02/logo-2.jpg", Cinerama
+#EXTINF:-1 tvg-logo="https://cineramatv.com/wp-content/uploads/2023/02/logo-2.jpg" group-title="Cine y Series", Cinerama
 https://5d00db0e0fcd5.streamlock.net/7062/7062/.m3u8
 
-#EXTINF:-1 tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2022/07/Cinema450x300p2.png", Azteca Cinema
+#EXTINF:-1 tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2022/07/Cinema450x300p2.png" group-title="Cine y Series", Cinema
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
 
-#EXTINF:-1 tvg-logo="https://www.wowelsalvador.com/imagen/logo2.png", WOW TV
+#EXTINF:-1 tvg-logo="https://www.wowelsalvador.com/imagen/logo2.png" group-title="Cine y Series", WOW TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_a3cine_m.png", A3Cine
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_a3cine_m.png" group-title="Cine y Series", A3Cine
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cinema-logo-53411DFFE5-seeklogo.com.png", Xtrema Cine Accion
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cinema-logo-53411DFFE5-seeklogo.com.png" group-title="Cine y Series", Xtrema Cine Accion
 https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cinema-logo-53411DFFE5-seeklogo.com.png", Xtrema Cine Asia
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cinema-logo-53411DFFE5-seeklogo.com.png" group-title="Cine y Series", Xtrema Cine Asia
 https://stmv1.cnarlatam.com/cineasia/cineasia/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cinema-logo-53411DFFE5-seeklogo.com.png", Xtrema Cine Comedy
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cinema-logo-53411DFFE5-seeklogo.com.png" group-title="Cine y Series", Xtrema Cine Comedy
 https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cinema-logo-53411DFFE5-seeklogo.com.png", Xtrema Cine Drama
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cinema-logo-53411DFFE5-seeklogo.com.png" group-title="Cine y Series", Xtrema Cine Drama
 https://stmv1.cnarlatam.com/cinedrama/cinedrama/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cinema-logo-53411DFFE5-seeklogo.com.png", Xtrema Cine Europa
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cinema-logo-53411DFFE5-seeklogo.com.png" group-title="Cine y Series", Xtrema Cine Europa
 https://stmv1.cnarlatam.com/cineuropa/cineuropa/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cinema-logo-53411DFFE5-seeklogo.com.png", Xtrema Cine Family
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cinema-logo-53411DFFE5-seeklogo.com.png" group-title="Cine y Series", Xtrema Cine Family
 https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cinema-logo-53411DFFE5-seeklogo.com.png", Xtrema Cine Hindu
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cinema-logo-53411DFFE5-seeklogo.com.png" group-title="Cine y Series", Xtrema Cine Hindu
 https://stmv1.cnarlatam.com/cinehindi/cinehindi/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cinema-logo-53411DFFE5-seeklogo.com.png", Xtrema Cine latino
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cinema-logo-53411DFFE5-seeklogo.com.png" group-title="Cine y Series", Xtrema Cine latino
 https://stmv1.cnarlatam.com/cinelatino/cinelatino/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cinema-logo-53411DFFE5-seeklogo.com.png", Xtrema Cine Suspenso
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cinema-logo-53411DFFE5-seeklogo.com.png" group-title="Cine y Series", Xtrema Cine Suspenso
 https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cinema-logo-53411DFFE5-seeklogo.com.png", Xtrema Cine Terror
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cinema-logo-53411DFFE5-seeklogo.com.png" group-title="Cine y Series", Xtrema Cine Terror
 https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png", Rakuten Español
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png" group-title="Cine y Series", Rakuten Español
 https://128559a99ef24f61b53e3f954af3db8c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_Local/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png", Rakuten Thrillers
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png" group-title="Cine y Series", Rakuten Thrillers
 https://c494a836bb214f8bb486580f8b23e433.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenThriller/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png", Rakuten Romantico
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png" group-title="Cine y Series", Rakuten Romantico
 https://2d8524e2966d4b348b210ec79bdaa943.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenRomance/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png", Rakuten Accion
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png" group-title="Cine y Series", Rakuten Accion
 https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png", Rakuten Comedy
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png" group-title="Cine y Series", Rakuten Comedy
 https://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png", Rakuten TV Shows
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png" group-title="Cine y Series", Rakuten TV Shows
 https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png", Rakuten Family
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png" group-title="Cine y Series", Rakuten Family
 https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png", Rakuten Spotlight
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png" group-title="Cine y Series", Rakuten Spotlight
 https://rakuten-spotlight-2-es.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2020/09/site-logo.png", My time Network
+#EXTINF:-1 tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2020/09/site-logo.png" group-title="Cine y Series", My time Network
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/AMC%2B_logo.png", Cortos AMC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/AMC%2B_logo.png" group-title="Cine y Series", Cortos AMC
 https://amc-cortos-1-us.plex.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTE1MmNkNDktOTIwMS00YjkwLWIzNzktN2RiZTE1N2NjNjBiXkEyXkFqcGdeQXVyMTQ1MDgxMjc@._V1_FMjpg_UX1000_.jpg", American Horrors
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTE1MmNkNDktOTIwMS00YjkwLWIzNzktN2RiZTE1N2NjNjBiXkEyXkFqcGdeQXVyMTQ1MDgxMjc@._V1_FMjpg_UX1000_.jpg" group-title="Cine y Series", American Horrors
 https://5d0cf65a7cc81.streamlock.net/live/Stream1/.m3u8
 
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cinereal_logo_dark_v3.png", Cine Real
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cinereal_logo_dark_v3.png" group-title="Cine y Series", Cine Real
 https://cinereal-plex.amagi.tv/CineReal/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2022/06/Horrorfy_logowhite295x98.png", Horrorfy
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2022/06/Horrorfy_logowhite295x98.png" group-title="Cine y Series", Horrorfy
 https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/06/CineSurreno_295x98.png", Cine Sureño
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/06/CineSurreno_295x98.png" group-title="Cine y Series", Cine Sureño
 https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/topcine_logo_dark_v3.png", Top Cine
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/topcine_logo_dark_v3.png" group-title="Cine y Series", Top Cine
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/06/TuCine_295x98.png", Tu Cine
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/06/TuCine_295x98.png" group-title="Cine y Series", Tu Cine
 https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://estrellamedia.com/wp-content/uploads/2023/04/CineETV-1.jpg" group-title="Cine y Series", Cine Estrella TV
@@ -507,28 +507,28 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lg
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/2560px-Pluto_TV_logo_2020.svg.png" group-title="Pluto Cine y series", Pluto Cine
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/2560px-Pluto_TV_logo_2020.svg.png" group-title="Cine y series", Pluto Cine
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=b1a6&deviceDNT=0&deviceModel=0
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/2560px-Pluto_TV_logo_2020.svg.png", Pluto Premiere
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/2560px-Pluto_TV_logo_2020.svg.png" group-title="Cine y Series", Pluto Premiere
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=b3e2&deviceDNT=0&deviceModel=0
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/2560px-Pluto_TV_logo_2020.svg.png", Pluto Estelar
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/2560px-Pluto_TV_logo_2020.svg.png" group-title="Cine y Series", Pluto Estelar
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=0c8f&deviceDNT=0&deviceModel=0
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/2560px-Pluto_TV_logo_2020.svg.png", Pluto Accion
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/2560px-Pluto_TV_logo_2020.svg.png" group-title="Cine y Series", Pluto Accion
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=5756&deviceDNT=0&deviceModel=0
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/2560px-Pluto_TV_logo_2020.svg.png", Pluto Accion 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/2560px-Pluto_TV_logo_2020.svg.png" group-title="Cine y Series", Pluto Accion 2
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=c4e2&deviceDNT=0&deviceModel=0
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/2560px-Pluto_TV_logo_2020.svg.png", Pluto Comedia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/2560px-Pluto_TV_logo_2020.svg.png" group-title="Cine y Series", Pluto Comedia
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=f859&deviceDNT=0&deviceModel=0
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/2560px-Pluto_TV_logo_2020.svg.png", Pluto Familia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/2560px-Pluto_TV_logo_2020.svg.png" group-title="Cine y Series", Pluto Familia
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcdde78f080d900098550e4/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=9012&deviceDNT=0&deviceModel=0
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/2560px-Pluto_TV_logo_2020.svg.png", Pluto Drama
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/2560px-Pluto_TV_logo_2020.svg.png" group-title="Cine y Series", Pluto Drama
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=290f&deviceDNT=0&deviceModel=0
 
 
@@ -676,102 +676,99 @@ Deportes
 #EXTINF:-1 tvg-logo="https://dominio.beauty/img/garagetv.png" group-title="Deportes", Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 
-#EXTINF:-1, DeporTV
+#EXTINF:-1 group-title="Deportes", DeporTV
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1212859696383696896/ljdBfeUQ_400x400.jpg", All Sports 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1212859696383696896/ljdBfeUQ_400x400.jpg" group-title="Deportes", All Sports 
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://dplnews.com/wp-content/uploads/2021/09/dplnews_tigo_vc_020921-696x569.png", Tigo Sports ViX
+#EXTINF:-1 tvg-logo="https://dplnews.com/wp-content/uploads/2021/09/dplnews_tigo_vc_020921-696x569.png" group-title="Deportes", Tigo Sports ViX
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://content.jwplatform.com/images/jNgWEGCO.png" group-title="Deportes", Wapa Deportes PR
+#EXTINF:-1 tvg-logo="https://content.jwplatform.com/images/jNgWEGCO.png" group-title="Deportes" group-title="Deportes", Wapa Deportes PR
 https://live.field59.com/wapa/wapa2/.m3u8
 
-#EXTINF:-1, ACC Network
+#EXTINF:-1 group-title="Deportes", ACC Network
 https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
 
-#EXTINF:-1, Edge Sports
+#EXTINF:-1 group-title="Deportes", Edge Sports
 https://edgesports-sportstribal.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22918/sportsgrid/logo_20201117_210342_68.png", Sports Grid
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22918/sportsgrid/logo_20201117_210342_68.png" group-title="Deportes", Sports Grid
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/sportsgrid/ad16efee-974b-4262-ba05-009283af3b36/0.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/tnt_sports_pasion_sin_limites_vgraf2.jpg", TNT Sports BR
+#EXTINF:-1 tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/tnt_sports_pasion_sin_limites_vgraf2.jpg" group-title="Deportes", TNT Sports BR
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/tnt_sports_pasion_sin_limites_vgraf2.jpg", TNT Sports 2 BR
+#EXTINF:-1 tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/tnt_sports_pasion_sin_limites_vgraf2.jpg" group-title="Deportes", TNT Sports 2 BR
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/tnt_sports_pasion_sin_limites_vgraf2.jpg", TNT Sports 3 BR
+#EXTINF:-1 tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/tnt_sports_pasion_sin_limites_vgraf2.jpg" group-title="Deportes", TNT Sports 3 BR
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/tnt_sports_pasion_sin_limites_vgraf2.jpg", TNT Sports 4 BR
+#EXTINF:-1 tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/tnt_sports_pasion_sin_limites_vgraf2.jpg" group-title="Deportes", TNT Sports 4 BR
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_trace-sports-stars_m.png", Trace Sport
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_trace-sports-stars_m.png" group-title="Deportes", Trace Sport
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://inthemixstyle.com/wp-content/uploads/2020/12/Redbull-TV-HD.jpg", Red Bull TV
+#EXTINF:-1 tvg-logo="https://inthemixstyle.com/wp-content/uploads/2020/12/Redbull-TV-HD.jpg" group-title="Deportes", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://b.fssta.com/uploads/application/college/conference-logos/Pac-12.vresize.350.350.medium.0.png", PAC12
+#EXTINF:-1 tvg-logo="https://b.fssta.com/uploads/application/college/conference-logos/Pac-12.vresize.350.350.medium.0.png" group-title="Deportes", PAC12
 https://pac12-roku-us.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1364953286168698886/ZtoiZzW5_400x400.jpg", Motor Vision
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1364953286168698886/ZtoiZzW5_400x400.jpg" group-title="Deportes", Motor Vision
 https://ov-mvg-mv-es.ottera.tv/mvg/mv_es/mv_es.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.eutelsat.com/files/Logos/ESR.png", ES2R
+#EXTINF:-1 tvg-logo="https://www.eutelsat.com/files/Logos/ESR.png" group-title="Deportes", ES2R
 https://eyeonesports.com/ES2RA-628g.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png" group-title="Pluto Deportes", FOX Sports
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png" group-title="Deportes", FOX Sports
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ced7d5df64be98e07ed47b6/colorLogoPNG.png", NFL Channel
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ced7d5df64be98e07ed47b6/colorLogoPNG.png" group-title="Deportes", NFL Channel
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e66968a70f34c0007d050be/colorLogoPNG.png", MLB
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e66968a70f34c0007d050be/colorLogoPNG.png" group-title="Deportes", MLB
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5cb626cfcaf83414128f439c/colorLogoPNG.png", MLS
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de94dacb394a300099fa22a/colorLogoPNG.png", PGA TOUR
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de94dacb394a300099fa22a/colorLogoPNG.png" group-title="Deportes", PGA TOUR
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de94dacb394a300099fa22a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60d39387706fe50007fda8e8/colorLogoPNG.png", PBR RidePass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60d39387706fe50007fda8e8/colorLogoPNG.png" group-title="Deportes", PBR RidePass
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d39387706fe50007fda8e8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/56340779a738201b4ccfeac9/colorLogoPNG.png", Pluto TV Sports
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/56340779a738201b4ccfeac9/colorLogoPNG.png" group-title="Deportes", Pluto TV Sports
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/56340779a738201b4ccfeac9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5812b0f2237a6ff45d16c3f9/colorLogoPNG.png", Fight
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5812b0f2237a6ff45d16c3f9/colorLogoPNG.png" group-title="Deportes", Fight
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fac425f949b4600079938f3/colorLogoPNG.png", Pluto TV Boxing
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fac425f949b4600079938f3/colorLogoPNG.png" group-title="Deportes", Pluto TV Boxing
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fac425f949b4600079938f3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/colorLogoPNG.png", Bellator MMA
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/colorLogoPNG.png" group-title="Deportes", Bellator MMA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fac431fc1ffbc0007e6b6a7/colorLogoPNG.png", Pluto TV Pro Wrestling
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fac431fc1ffbc0007e6b6a7/colorLogoPNG.png" group-title="Deportes", Pluto TV Pro Wrestling
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fac431fc1ffbc0007e6b6a7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/59b722526996084038c01e1b/colorLogoPNG.png", IMPACT Wrestling
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/59b722526996084038c01e1b/colorLogoPNG.png" group-title="Deportes", IMPACT Wrestling
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5417a212ff9fba68282fbf5e/colorLogoPNG.png", GLORY Kickboxing
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5417a212ff9fba68282fbf5e/colorLogoPNG.png" group-title="Deportes", GLORY Kickboxing
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png",beIN SPORTS XTRA
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="Deportes",beIN SPORTS XTRA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5bb1ac3e268cae539bcedb07/colorLogoPNG.png", Combate World
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5bb1ac3e268cae539bcedb07/colorLogoPNG.png" group-title="Deportes", Combate World
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5c01df1759ee03633e7b272c/colorLogoPNG.png", Lucha Libre AAA
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5c01df1759ee03633e7b272c/colorLogoPNG.png" group-title="Deportes", Lucha Libre AAA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
