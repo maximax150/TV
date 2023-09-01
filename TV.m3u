@@ -348,7 +348,7 @@ Cine y series
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/4c9831_4fdb2c4534454ca8b3909dff0601065b~mv2.png/v1/fill/w_640,h_160,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/4c9831_4fdb2c4534454ca8b3909dff0601065b~mv2.png" group-title="Cine y Series", CINE.AR 
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Cinema%2B_logo.svg/1024px-Cinema%2B_logo.svg.png", Cinema plus
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Cinema%2B_logo.svg/1024px-Cinema%2B_logo.svg.png" group-title="Cine y Series", Cinema plus
 https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/SSrHRfWhqifKWYvAHM2CHFpDnhG96HE85O06rZWA.png", MegaHits
