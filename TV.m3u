@@ -2702,10 +2702,8 @@ http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
 https://d2t46xrpai3it5.cloudfront.net/Repretel11/b3e2798525101c45f84a48573676853a.sdp/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://beta.extratv42.com/wp-content/uploads/2020/08/Logo-Extra-TV2.png" group-title="Costa Rica", Extra TV 
-http://190.83.116.230:9010/play/a0be/index.m3u8
-#EXTINF:-1 tvg-logo="https://sinartdigital.com/images/miscelaneo/canal-trece_slidemenu.png" group-title="Costa Rica", Sinart Canal 13
-http://190.83.116.230:9010/play/a0bd/index.m3u8
+EXTINF:-1 tvg-logo="https://beta.extratv42.com/wp-content/uploads/2020/08/Logo-Extra-TV2.png" group-title="Costa Rica", Extra TV 
+EXTINF:-1 tvg-logo="https://sinartdigital.com/images/miscelaneo/canal-trece_slidemenu.png" group-title="Costa Rica", Sinart Canal 13
 
 
 #EXTINF:-1 tvg-logo="https://www.tvn14.com/wp-content/uploads/2020/12/tvn_14.png" group-title="Costa Rica", TVN 14
