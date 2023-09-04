@@ -2350,6 +2350,9 @@ https://5c483b9d1019c.streamlock.net:443/8066/8066/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/SBT_logo.svg/1200px-SBT_logo.svg.png" group-title="Brazil", SBT
 https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/SBT_logo.svg/1200px-SBT_logo.svg.png" group-title="Brazil", SBT interior
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-oH470wvTE-g/X4y19w68EfI/AAAAAAAA6gs/XNx-faSwkNAauP9wp6i61gGslp6CuUJ6QCK8BGAsYHg/s0/2020-10-18.png" group-title="Brazil", TV Jornal do Nordeste
 https://video01.logicahost.com.br/tvjornaldonordeste/tvjornaldonordeste/playlist.m3u8
 
@@ -2374,8 +2377,17 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/82/Logo_of_RedeTV_of_Brazil.png" group-title="Brazil", Rede TV
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/82/Logo_of_RedeTV_of_Brazil.png" group-title="Brazil", Rede TV ES
+https://redetves1.brasilstream.com.br/hls/redetves1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/af/Logotipo_da_TV_Brasil_Oeste.png" group-title="Brazil", TV Brasil Oeste
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rede-brasil-de-comunicacao-br.png" group-title="Brazil", Rede Brasil
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/.m3u8
+
+#EXTINF:-1 tvg-logo="https://rwtv.com.br/wp-content/uploads/2023/04/Rede-Web-TV-bordado.png" group-title="Brazil", Rede Web TV
+https://serv3.videovox.pw/alexandre8915/alexandre8915/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Brazil", TVN Brasil
 http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
