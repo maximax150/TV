@@ -277,6 +277,9 @@ https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81j8DgLstPL.png" group-title="Kids & Geek", Toon Googles
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=514
 
+#EXTINF:-1 tvg-logo="https://www.dreikotv.com/wp-content/uploads/2023/04/cropped-logo.png" group-title="Kids & Geek", Dreiko TV
+https://cloudvideo.servers10.com:8081/8138/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://fontmeme.com/images/Spongebob-TV-Series.png" group-title="Kids & Geek", Bob Esponja
@@ -693,6 +696,12 @@ https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
 
 #EXTINF:-1 group-title="Deportes", Edge Sports
 https://edgesports-sportstribal.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Deportes", CNAR Deportes
+https://stmv1.cnarlatam.com/cnardeportes/cnardeportes/playlist.m3u8
+
+#EXTINF:-1 group-title="Deportes", CNAR Deportes 2
+https://stmv1.cnarlatam.com/cnardeportes2/cnardeportes2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22918/sportsgrid/logo_20201117_210342_68.png" group-title="Deportes", Sports Grid
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/sportsgrid/ad16efee-974b-4262-ba05-009283af3b36/0.m3u8
@@ -2181,6 +2190,15 @@ https://inliveserver.com:1936/14056/14056/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Nuevo_logo_TEC_2022.png" group-title="Argentina", Tec TV
 https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/LOGO-2023-XT-chico.png" group-title="Argentina", Xtrema TV
+https://stmv1.cnarlatam.com/canal1/canal1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/LOGO-2023-XT-chico.png" group-title="Argentina", Xtrema CNAR Noticias
+https://stmv1.cnarlatam.com/cnarnoticias/cnarnoticias/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Cadena V!vo
+https://stmv1.cnarlatam.com/cadenavivo/cadenavivo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://d3b5jqy5xuub7g.cloudfront.net/wp-content/uploads/2021/07/Encentro-2021.jpg" group-title="Argentina", Encuentro
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
@@ -3763,7 +3781,6 @@ https://cams.cdn-surfline.com/cdn-ec/ec-bethunebeach/playlist.m3u8
 XXX
 ---------------------------------------------------
 
-
 #EXTINF:-1 tvg-logo="https://miamitvhd.com/assets/miamitv-8fcf2efe186508c88b6ebd5441452254a32c410d1d18ea7f82ffbb0d26b35271.png" group-title="+18", Miami TV
 https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://miamitvhd.com/assets/miamitv-8fcf2efe186508c88b6ebd5441452254a32c410d1d18ea7f82ffbb0d26b35271.png", Miami TV Latino
@@ -3778,6 +3795,8 @@ http://109.71.163.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 https://dai.google.com/ssai/event/FK1bjW0AThepH1W7CJrByg/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/auHH1Ig.png", FashionTV Midnite Secrets
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Babestation
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8
 
 #EXTINF:-1,Playboy
 http://138.59.177.34:8000/play/a01r/index.m3u8
