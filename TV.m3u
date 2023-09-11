@@ -9,6 +9,9 @@ https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://content.jwplatform.com/images/jNgWEGCO.png" group-title="Variedades", Wapa PR
 https://live.field59.com/wapa/wapa1/.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Variedades", Novelisima
+https://stream.krgv.com/krgv-english/krgv-somos.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/Am%C3%A9rica_Tev%C3%A9_Logo.png" group-title="Variedades", AmericaTeve
 https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
 
@@ -3613,7 +3616,7 @@ https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo="", BBC America
 https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", Beach TV
+#EXTINF:-1 tvg-logo="", Beach TV Panama City
 http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="", Bek TV News
@@ -3639,6 +3642,9 @@ https://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
 
 #EXTINF:-1 tvg-logo="", Court TV
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
+
+#EXTINF:-1 tvg-logo="", IFC
+https://bcovlive-a.akamaihd.net/045bd3b615254da880c3db79b2e42fd0/us-east-1/6240731308001/playlist.m3u8
 
 #EXTINF:0, ABC 7 KMGH
 https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
@@ -3743,43 +3749,10 @@ https://linear-496.frequency.stream/dist/vix/496/hls/master/playlist.m3u8
 https://linear-143.frequency.stream/dist/localnow/143/hls/master/playlist.m3u8
 
 
-
----------------------------------------------------
-Webcams en vivo
----------------------------------------------------
-
-
-#EXTINF:-1 tvg-logo="" group-title="Webcams Live", Panama Beach USA
-https://5ed7b8fd7bf40.streamlock.net:444/sharkys/sharkysbeachcam/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Webcams Live", Playa Hermosa CR
-https://cams.cdn-surfline.com/cdn-ec/cr-playahermosa/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Webcams Live", Yosemite
-https://cs7.pixelcaster.com/live/yosfalls.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Webcams Live", Eiffel Tower Paris
-https://deliverys6.quanteec.com/contents/encodings/live/47fcda1a-38f6-4fb2-3938-3330-6d61-63-bb4b-5df88851d8b7d/media_0.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Webcams Live", Grande Place Belgium
-https://stream.brucity.be/BXLCAM/CAM-GrandePlace.stream/playist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Webcams Live", Playa Dominical CR
-https://cams.cdn-surfline.com/cdn-ec/cr-dominical/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Webcams Live", Playa Jaco CR
-https://cams.cdn-surfline.com/cdn-ec/cr-playajaco/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Webcams Live", Flagler Ave USA
-https://cams.cdn-surfline.com/cdn-ec/ec-flaglerave/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Webcams Live", Bethune Beach
-https://cams.cdn-surfline.com/cdn-ec/ec-bethunebeach/playlist.m3u8
-
-
 ---------------------------------------------------
 XXX
 ---------------------------------------------------
+
 
 #EXTINF:-1 tvg-logo="https://miamitvhd.com/assets/miamitv-8fcf2efe186508c88b6ebd5441452254a32c410d1d18ea7f82ffbb0d26b35271.png" group-title="+18", Miami TV
 https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/playlist.m3u8
