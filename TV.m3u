@@ -217,7 +217,7 @@ https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.paste.pics/afb90bf11a606a30ee4294c8b32cf9e4.png" group-title="Kids & Geek", Varied TV
 https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Kids & Geek", TV Meta CR
+#EXTINF:-1 tvg-logo="https://ticavisiontv.com/wp-content/uploads/2023/08/meta-300x295.jpg" group-title="Kids & Geek", TV Meta CR
 https://62fc643fbf1aa.streamlock.net/TVMeta/TVMeta/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/t5aW7ednjkvqH55Rvqcd4JYE1CUAL5DLMn1Jx0rk.png" group-title="Kids & Geek", Meta Versus
@@ -2002,6 +2002,12 @@ https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.sky.com.mx/assets/img/paquetes/canales/1111.jpg" group-title="Mexico", Canal Once 
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.canal13mexico.com/wp-content/uploads/2022/10/logo-canal13-mx-150x150.png" group-title="Mexico", Canal 13 Puebla
+https://dbdfj5y8nz2u4.cloudfront.net/c13puebla/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canal13mexico.com/wp-content/uploads/2022/10/logo-canal13-mx-150x150.png" group-title="Mexico", TN23 MX
+https://dbdfj5y8nz2u4.cloudfront.net/TN23/139a1b22959c10235fe85f3db0041ecf.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://15tv.com.mx/wp-content/uploads/2019/08/logo-hd.png" group-title="Mexico", 15TV
 https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
 
@@ -2826,8 +2832,11 @@ https://59ef525c24caa.streamlock.net/Tvpluscr/Tvpluscr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/e1e0ae47b803ab15e41266a4d66ca297.png" group-title="Costa Rica", Teleuno 
 https://5d16127744872.streamlock.net/TVUNO/TVUNO/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ticavisiontv.com/wp-content/uploads/2023/02/cropped-logo90.png" group-title="Costa Rica", TicaVision 
-https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://ticavisiontv.com/wp-content/uploads/2023/05/ticavision-logo-2.png" group-title="Costa Rica", TicaVision 
+https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://ticavisiontv.com/wp-content/uploads/2023/09/WhatsApp-Image-2023-09-02-at-17.08.46-768x382.jpeg" group-title="Costa Rica", TicaVision Sports
+https://62fc643fbf1aa.streamlock.net/TVSports/TVSports/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/55978deeb5bf9d20b0c459cff3635225.png" group-title="Costa Rica", TvSur Perez Zeledon
 https://5bf8041cb3fed.streamlock.net:443/TVSURCANAL14/TVSURCANAL14/playlist.m3u8
