@@ -2851,7 +2851,7 @@ https://liveingesta118.cdnmedia.tv/trivision36live/smil:dvrlive.smil/playlist.m3
 https://rtmp.info/tvsantacruz/envivo/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://teleredtelevision.com/wp-content/uploads/2023/02/LOGO-TELERED-2023-2-2.png" group-title="Costa Rica", Telered 
-https://video20.klm99.com:3558/hybrid/play.M3U8
+https://video20.klm99.com:3558/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://telesistemacr.com/wp-content/uploads/2023/03/LOGO-TELESISTEMA-1-1.png" group-title="Costa Rica", Telesistema
 https://video20.klm99.com:3621/hybrid/play.m3u8
