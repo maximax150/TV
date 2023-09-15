@@ -361,7 +361,7 @@ https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/index.m3u8
 https://vcp8.myplaytv.com:1936/meganethits/meganethits/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/08/sonycomedias.jpg" group-title="Cine y Series", Sony Comedias
-https://spt-comedias-1-us.samsung.wurl.tv/playlist.m3u8
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492bb931054f00073c0b4e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/qt5l5CajTEOY94Wg1MVQr9Alqe5khV1rnynPY9Q7.jpg" group-title="Cine y Series", Sony Cine
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
@@ -378,17 +378,14 @@ https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/863aea4fb1445b58f89afc7c692ed509.png" group-title="Cine y Series", 13 Teleseries 
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png" group-title="Cine y Series", PlanetaTV Movies 
-https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png" group-title="Cine y Series", Retro Plus TV 
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png" group-title="Cine y Series", Retro Plus TV 2
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
+https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png" group-title="Cine y Series", Retro Plus TV 3 
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
+https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/5Cd0fF0wXhrDT8rawVjapPgIVQzQlR71lP2pNSjk.jpg" group-title="Cine y Series", GRJNGO
 https://amogonetworx-grjngo-2-eu.plex.wurl.tv/2000.m3u8
@@ -426,37 +423,34 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
 #EXTINF:-1 tvg-logo="https://www.wowelsalvador.com/imagen/logo2.png" group-title="Cine y Series", WOW TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_a3cine_m.png" group-title="Cine y Series", A3Cine
-https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cinema-logo-53411DFFE5-seeklogo.com.png" group-title="Cine y Series", Xtrema Cine Accion
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/LOGO-2023-XT-chico.png" group-title="Cine y Series", Xtrema Cine Accion
 https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cinema-logo-53411DFFE5-seeklogo.com.png" group-title="Cine y Series", Xtrema Cine Asia
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/LOGO-2023-XT-chico.png" group-title="Cine y Series", Xtrema Cine Asia
 https://stmv1.cnarlatam.com/cineasia/cineasia/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cinema-logo-53411DFFE5-seeklogo.com.png" group-title="Cine y Series", Xtrema Cine Comedy
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/LOGO-2023-XT-chico.png" group-title="Cine y Series", Xtrema Cine Comedy
 https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cinema-logo-53411DFFE5-seeklogo.com.png" group-title="Cine y Series", Xtrema Cine Drama
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/LOGO-2023-XT-chico.png" group-title="Cine y Series", Xtrema Cine Drama
 https://stmv1.cnarlatam.com/cinedrama/cinedrama/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cinema-logo-53411DFFE5-seeklogo.com.png" group-title="Cine y Series", Xtrema Cine Europa
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/LOGO-2023-XT-chico.png" group-title="Cine y Series", Xtrema Cine Europa
 https://stmv1.cnarlatam.com/cineuropa/cineuropa/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cinema-logo-53411DFFE5-seeklogo.com.png" group-title="Cine y Series", Xtrema Cine Family
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/LOGO-2023-XT-chico.png" group-title="Cine y Series", Xtrema Cine Family
 https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cinema-logo-53411DFFE5-seeklogo.com.png" group-title="Cine y Series", Xtrema Cine Hindu
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/LOGO-2023-XT-chico.png" group-title="Cine y Series", Xtrema Cine Hindu
 https://stmv1.cnarlatam.com/cinehindi/cinehindi/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cinema-logo-53411DFFE5-seeklogo.com.png" group-title="Cine y Series", Xtrema Cine latino
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/LOGO-2023-XT-chico.png" group-title="Cine y Series", Xtrema Cine latino
 https://stmv1.cnarlatam.com/cinelatino/cinelatino/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cinema-logo-53411DFFE5-seeklogo.com.png" group-title="Cine y Series", Xtrema Cine Suspenso
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/LOGO-2023-XT-chico.png" group-title="Cine y Series", Xtrema Cine Suspenso
 https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cinema-logo-53411DFFE5-seeklogo.com.png" group-title="Cine y Series", Xtrema Cine Terror
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/LOGO-2023-XT-chico.png" group-title="Cine y Series", Xtrema Cine Terror
 https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png" group-title="Cine y Series", Rakuten Español
@@ -486,11 +480,8 @@ https://rakuten-spotlight-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2020/09/site-logo.png" group-title="Cine y Series", My time Network
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/AMC%2B_logo.png" group-title="Cine y Series", Cortos AMC
+#EXTINF:-1 tvg-logo="https://www.funcinema.com.ar/wp-content/uploads/2022/06/tvcortos.jpg" group-title="Cine y Series", TVCortos 
 https://amc-cortos-1-us.plex.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTE1MmNkNDktOTIwMS00YjkwLWIzNzktN2RiZTE1N2NjNjBiXkEyXkFqcGdeQXVyMTQ1MDgxMjc@._V1_FMjpg_UX1000_.jpg" group-title="Cine y Series", American Horrors
-https://5d0cf65a7cc81.streamlock.net/live/Stream1/.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cinereal_logo_dark_v3.png" group-title="Cine y Series", Cine Real
 https://cinereal-plex.amagi.tv/CineReal/master.m3u8
@@ -2174,7 +2165,10 @@ https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/216f13d3a32f35802881b19c2fa39554.png" group-title="Argentina", Canal 9 Litoral
-https://stream.arcast.live/ahora/ahora/playlist.m3u8?PlaylistM3UCL
+https://stream.arcast.live/ahora/ahora/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="Argentina", Telefe
+https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/Telefe/SA_HLS/Telefe.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Canal_10_Mar_del_Plata_logo_noviembre_2021.png" group-title="Argentina", Canal 10 Mar del Plata
 https://g4.mc-hor.transport.edge-access.net/a13/ngrp:canal10mdq-100044_all/Playlist.m3u8?sense=true
@@ -2188,6 +2182,9 @@ https://stream.arcast.net:4443/sanluistv/ngrp:sanluistv_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.13maxtv.com/new/img/logo13.png" group-title="Argentina", 13 Max 
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_de_eltrece_lanzado_en_2016.png" group-title="Argentina", El Trece
+https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Telemax_Argentina_%282018%29.png" group-title="Argentina", Telemax
 https://live-edge01.telecentro.net.ar/live/tlx.smil/.m3u8
 
@@ -2197,8 +2194,14 @@ https://sc1.stweb.tv/airedigital/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/logos/gentv.jpg" group-title="Argentina", GenTV
 https://inliveserver.com:1936/14056/14056/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/descarga_7.png" group-title="Argentina", Uniteve
+https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Nuevo_logo_TEC_2022.png" group-title="Argentina", Tec TV
 https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/magazine_0.jpg" group-title="Argentina", Ciudad Magazine
+https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/LOGO-2023-XT-chico.png" group-title="Argentina", Xtrema TV
 https://stmv1.cnarlatam.com/canal1/canal1/playlist.m3u8
