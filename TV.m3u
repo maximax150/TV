@@ -2495,7 +2495,10 @@ Chile
 http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lared.cl/wp-content/uploads/2021/09/01164338/imagenlared.png" group-title="Chile", La Red
-https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
+https://d16pc5095tzygd.cloudfront.net/LaRed/d048098ce842377c101928b648065843.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Logotipo_de_Mega_%282015-2020%29.png/768px-Logotipo_de_Mega_%282015-2020%29.png" group-title="Chile", Mega
+https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/49116db7b95befdabb207ccbd2bb94b6.png" group-title="Chile", NTV 
 https://marine2.miplay.cl/ntv/playlist.m3u8
@@ -3186,8 +3189,14 @@ Venezuela
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-9BWoKXWGkL8/Xxzv1rANFBI/AAAAAAAA3aw/DiZRzBM-OpgDJ_m32kNsUqCXr9qBjincgCK8BGAsYHg/s0/2020-07-25.png" group-title="Venezuela", Promar TV 
 https://vcp.myplaytv.com/promar/promar/playlist.m3u8
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Canal_i.png" group-title="Venezuela", Canal i 
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_canal_i_venezuela.png" group-title="Venezuela", Canal i 
 https://vcp.myplaytv.com/canali/canali/playlist.m3u8
+
+#EXTINF:-1 logo="https://w2-venevision-com.s3.amazonaws.com/public/media/seo/logo-venevision_600x600.png" group-title="Venezuela", Venevision
+https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
+
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Ve_Plus_Logo_2019.png" group-title="Venezuela", Ve Plus
+https://veplus.akamaized.net/hls/live/2101013/VEPLUS/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-CAaBUIZOgpc/XbInLO0y7XI/AAAAAAAAro8/uyF1cG5j5XcZHIDofhFJT2q00gjKsTl0wCK8BGAsYHg/s0/2019-10-24.png" group-title="Venezuela", Telesur 
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
