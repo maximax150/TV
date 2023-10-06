@@ -218,7 +218,7 @@ https://62fc643fbf1aa.streamlock.net/TVMeta/TVMeta/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/t5aW7ednjkvqH55Rvqcd4JYE1CUAL5DLMn1Jx0rk.png" group-title="Kids & Geek", Meta Versus
 https://stream8.mexiserver.com:1936/metaversuscr/metaversuscr/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Kids & Geek", Zoomoo
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/ZooMoo-Kids-Logo-Oficial-01.png/1200px-ZooMoo-Kids-Logo-Oficial-01.png" group-title="Kids & Geek", Zoomoo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png" group-title="Kids & Geek", PlanetaTV Kids 
@@ -251,7 +251,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/CARTOON_NETWORK_logo.png/640px-CARTOON_NETWORK_logo.png" group-title="Kids & Geek", Cartoon Network
 https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist-720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/the-wiki-internet-random-and-more/images/8/89/Cartoonito-Logo-02.png" group-title="Kids & Geek", Cartoonito 
+#EXTINF:-1 tvg-logo="https://comunidadblogger.net/wp-content/uploads/2021/11/Cartoonito-Logo.png" group-title="Kids & Geek", Cartoonito 
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1621445486417-Imagen.png" group-title="Kids & Geek", Discovery Kids 
