@@ -2468,7 +2468,7 @@ https://panel.dattalive.com/8250/8250/.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/511782078619201536/gl9LqeFt_400x400.png" group-title="Argentina", +Musica TV
 https://stmv1.cnarlatam.com/televideo/televideo/playlist.m3u8
 
-#EXTINF:-1 group-title="Argentina" Litus TV
+#EXTINF:-1 group-title="Argentina", Litus TV
 https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.radiopower.com.ar/powerhd/webroot/img/logoPwrHD_small.png" group-title="Argentina", Power tV
