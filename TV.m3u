@@ -2378,12 +2378,6 @@ https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/216f13d3a32f35802881b19c2fa39554.png" group-title="Argentina", Canal 9 Litoral
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="Argentina", Telefe
-https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/Telefe/SA_HLS/Telefe.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Canal_10_Mar_del_Plata_logo_noviembre_2021.png" group-title="Argentina", Canal 10 Mar del Plata
-https://g4.mc-hor.transport.edge-access.net/a13/ngrp:canal10mdq-100044_all/Playlist.m3u8?sense=true
-
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/--lIu0htmtg8/X1TLtJrNbfI/AAAAAAAA5Uc/EKwp0eeY99Y5o7Nwz9reunAnLFwQcVBIgCK8BGAsYHg/s0/2020-09-06.jpg" group-title="Argentina", Telediez 
 https://videohd.live:19360/8020/8020.m3u8
 
@@ -2435,8 +2429,8 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/f5ffafe8c5fcd218d5f15e4849c91891.png" group-title="Argentina", Tele Mix 
 https://panel.dattalive.com:443/8068/8068/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cm-ar.png" group-title="Argentina", CM
-https://g4.proy-hor.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8?sense=true
+#EXTINF:-1 tvg-logo="https://www.rtnweb.gob.ar/wp-content/uploads/2017/04/LOGO-RTN-Web.png" group-title="Argentina", RTN 
+https://media.neuquen.gov.ar/rtn/television/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/03ced29a4c90a58fd07ae3ffe2cd8d37.png" group-title="Argentina", Unirio
 https://5f700d5b2c46f.streamlock.net:443/uniriotv/uniriotv/playlist.m3u8
@@ -2471,11 +2465,14 @@ https://panel.dattalive.com/MetropolitanaFM/MetropolitanaFM/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://multivision.tv/wp-content/uploads/2023/06/LOGO-CANAL-9-MULTIVISION-300x99-FEDERAL.png" group-title="Argentina", Multivisión 
 https://panel.dattalive.com/8250/8250/.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.radiopower.com.ar/powerhd/webroot/img/logoPwrHD_small.png" group-title="Argentina", Power
-https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/511782078619201536/gl9LqeFt_400x400.png" group-title="Argentina", +Musica TV
+https://stmv1.cnarlatam.com/televideo/televideo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-E9zOAkKHOaw/XjtG9WkFKEI/AAAAAAAAvqQ/j2nVTLIMsZUsZfVliojEB5JU601yHtKQACK8BGAsYHg/s0/2020-02-05.png" group-title="Argentina", RTN 
-http://media.neuquen.gov.ar/rtn/television/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Argentina" Litus TV
+https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.radiopower.com.ar/powerhd/webroot/img/logoPwrHD_small.png" group-title="Argentina", Power tV
+https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-yXbMzmQrlwc/Xjs7Bl2nHtI/AAAAAAAAvnU/lSMJ7dxyZL08lM3-UbyU4ckOLrd3HTwvQCK8BGAsYHg/s0/2020-02-05.png" group-title="Argentina", TDC TV Santa Fe 
 https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
