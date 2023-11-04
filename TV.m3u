@@ -769,11 +769,20 @@ Noticias
 #EXTINF:-1 group-title="Noticias", Infowars
 https://freespeech.akamaized.net/hls/live/2024573/live2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", The Weather Channel Espanol
-https://linear-453.frequency.stream/453/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Voice Of America
+https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/master.m3u8
 
-#EXTINF:-1, Rai News
-https://streamcdnb11-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
+#EXTINF:-1, The Wheather Channel
+https://linear-431.frequency.stream/mt/plex/431/hls/master/playlist.m3u8
+
+#EXTINF:-1, ForoTV
+https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8
+
+#EXTINF:-1, N+
+https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index_4.m3u8
+
+#EXTINF:-1, N+ Media
+https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_5.m3u8
 
 #EXTINF:-1, Aljazeera
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
@@ -781,8 +790,8 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1, Reuters
 https://reuters-reutersnow-1-us.plex.wurl.tv/playlist.m3u8
 
-#EXTINF:-1, Euronews
-https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1, Sky News Extra
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 
 #EXTINF:-1, Africanews
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/africanews/afrnabren_eng.m3u8
@@ -2865,7 +2874,7 @@ http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
 https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://costaricachannel.org/wp-content/uploads/2022/08/cropped-LOGO-CR-2022-2022-768x256.png" group-title="Costa Rica", Costa Rica Channel
-https://panel2.streamingtv-mediacp.online:1936/rudcmzwtnh/rudcmzwtnh/playlist.m3u8
+https://5fa5de1a545ae.streamlock.net/8006/8006/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/cbcfd98188337b1bf79a92b1afb60ad3.png" group-title="Costa Rica", San Vito TV
 https://stmv.streamingvip.click/sanvitotv/sanvitotv/playlist.m3u8
@@ -2908,6 +2917,9 @@ https://s1.tvdatta.com:3582/live/telesurlive.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Costa Rica", RetroTV Palmares CR
 https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Costa Rica", Zurqui TV
+https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
 
 
 
@@ -3803,6 +3815,8 @@ XXX
 https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://miamitvhd.com/assets/miamitv-8fcf2efe186508c88b6ebd5441452254a32c410d1d18ea7f82ffbb0d26b35271.png", Miami TV Latino
 https://59ec5453559f0.streamlock.net/latino/smil:web/.m3u8
+#EXTINF:-1 tvg-logo="https://miamitvhd.com/assets/miamitv-8fcf2efe186508c88b6ebd5441452254a32c410d1d18ea7f82ffbb0d26b35271.png", Miami TV Mexico
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/.m3u8
 #EXTINF:-1 tvg-logo="https://miamitvhd.com/assets/miamitv-8fcf2efe186508c88b6ebd5441452254a32c410d1d18ea7f82ffbb0d26b35271.png", MIami TV For You
 https://59ec5453559f0.streamlock.net/jennyforyou/jennyforyou/.m3u8
 #EXTINF:-1 tvg-logo="https://channels.roku.com/images/e0a7e2d852d445f4ba5051064b0e0b6e-hd.png", JasminTV
