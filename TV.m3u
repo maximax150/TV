@@ -2025,7 +2025,7 @@ http://187.102.208.107:50001/play/a00d/index.m3u8
 
 
 
-#EXTINF:-1,group-title="Cable 4",
+#EXTINF:-1 group-title="Cable 4",
 #EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s.png",A&E HD
 http://177.53.153.20:8001/play/a01s/index.m3u8
 #EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a039.png",AMC HD
@@ -2350,8 +2350,6 @@ http://177.53.153.20:8001/play/a01u/index.m3u8
 http://177.53.153.20:8001/play/a03j/index.m3u8
 #EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a04l.png",ZooMoo
 http://177.53.153.20:8001/play/a04l/index.m3u8
-
-
 
 
 
