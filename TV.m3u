@@ -3037,16 +3037,16 @@ https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 https://live-edge-bhs-1.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/live-1500/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-oQeOqMawVCU/Xzggl8YItaI/AAAAAAAA4Xk/2ZycTmlXp7YRqb869EPklzN757mv0uDoACK8BGAsYHg/s0/2020-08-15.jpg" group-title="Colombia", Canal CNC 
-http://38.75.136.76:1935/cncmedellin720/canalcncmedellin.stream_720p/playlist.m3u8
+http://cncmedellin.ddns.net:1935/canalcnc/canalcnc_360p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-7A8sit9InV0/XzghOGQu8QI/AAAAAAAA4X4/9FutdpnVfwg0pZ6e258mTpljbB1RtHvagCK8BGAsYHg/s0/2020-08-15.png" group-title="Colombia", Canal Institucional 
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-dPA6bh64tcI/XzghIjDoh4I/AAAAAAAA4X0/BDRF4nE5JcMLVsGEmJFyE_uSlqcmK5QmwCK8BGAsYHg/s0/2020-08-15.png" group-title="Colombia", Canal Trece Colombia
-https://stream.logicideas.media/canaltrece-live/smil:live.smil/playlist.m3u8
+https://liveingesta360.cdnmedia.tv/trecetvlive/smil:rtmp02.smil/playlist.m3u8?DVR
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-dPA6bh64tcI/XzghIjDoh4I/AAAAAAAA4X0/BDRF4nE5JcMLVsGEmJFyE_uSlqcmK5QmwCK8BGAsYHg/s0/2020-08-15.png" group-title="Colombia", Canal Trece Plus
-https://stream.logicideas.media/canaltreceplus-live/smil:live1plus.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ott.instantvideocloud.net/admin/storage/logos/ysRxl14wiAONu9gAwijl8Na64E2nRZVBayhCzTLK.png" group-title="Colombia", Canal Trece Plus
+https://liveingesta118.cdnmedia.tv/trecetvlive/smil:rtmp02.smil/playlist.m3u8?DVR
 
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/imagenes.conexioncapital.co/wp-content/uploads/2021/06/29232153/logo-eureka-new-1.png" group-title="Colombia", Canal Eureka
 https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/022/playlist.m3u8
@@ -3069,20 +3069,17 @@ https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playl
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-vyt5Jhg2zHM/Xzgifjcw9EI/AAAAAAAA4Yo/w6AHqx1V86URrFxDMQ7mjNIZ9b97NbjswCK8BGAsYHg/s0/2020-08-15.jpg" group-title="Colombia", TDI 
 https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-VR6xjEiXlFU/XzgjE6jhhjI/AAAAAAAA4ZE/LSdiCyEDuyU6Byuk4WcnCWHX7zkG7wdxACK8BGAsYHg/s0/2020-08-15.jpg" group-title="Colombia", Tele Islas 
-https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-VR6xjEiXlFU/XzgjE6jhhjI/AAAAAAAA4ZE/LSdiCyEDuyU6Byuk4WcnCWHX7zkG7wdxACK8BGAsYHg/s0/2020-08-15.jpg" group-title="Colombia", Tele Islas
+https://5ab772334c39c.streamlock.net/live-teleislas/_definst_/teleislas/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://telecafe.gov.co/wp-content/uploads/2021/02/Icono.png" group-title="Colombia", Telecafe 
-https://liveingesta118.cdnmedia.tv/telecafelive/smil:dvrlive.smil/playlist.m3u8?DVR
+https://liveingesta118.cdnmedia.tv/telecafelive/smil:rtmp01.smil/playlist.m3u8?DVR
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-xYHvF-EUdHs/Xzgi-y9fR2I/AAAAAAAA4ZA/LrZrBNpDTCEW-iOr-6xhytBNMYF65WfVwCK8BGAsYHg/s0/2020-08-15.png" group-title="Colombia", Telemedellin
-https://liveingesta118.cdnmedia.tv//telemedellintvlive/smil:dvrlive.smil/playlist.m3u8?DVR
+https://d3cglye48cl6m2.cloudfront.net/out/v1/37d85e2ab37c4873aed6849fe74e78b8/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-IUpSSVnzrws/Xzgi51GivnI/AAAAAAAA4Y8/nHmUFN6uZ7oB-uQxgHaASZT9quRePknMwCK8BGAsYHg/s0/2020-08-15.png" group-title="Colombia", Telepacífico 
 https://stream.logicideas.media/telepacifico-live/live.smil/.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-tLgCyvI0mh0/XzgjQo6Q8xI/AAAAAAAA4ZM/Su9yAKHJ1dcKi55je1HpyPWfT1JrrX5ZgCK8BGAsYHg/s0/2020-08-15.jpg" group-title="Colombia", UAO Play 
-https://play.cdn.enetres.net/184784E1D210401F8041E3E1266822CC023/028/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Frs9fE4EgB8/XzgjWrhhc1I/AAAAAAAA4ZQ/w61lgE4yd-IvYQRkswAq2h0qxonM9B7VQCK8BGAsYHg/s0/2020-08-15.jpg" group-title="Colombia", Zoom TV
 https://canalzoom.itex.com.co:3027/live/canalzoombr1live.m3u8
@@ -3096,10 +3093,7 @@ https://hvtraficonew.ddns.net/tvsangil/tvsangil_360p/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Colombia", Multicanal 
 https://ssh101.bozztv.com/ssh101/KIOCApP/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Colombia", Nets
-https://video.ejeserver.com/live/nets.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Colombia", La Despechada TV
+#EXTINF:-1 tvg-logo="https://ladespechada.com/wp-content/uploads/2023/07/cropped-logooldld.png" group-title="Colombia", La Despechada TV
 https://servidordevideo.com:3077/live/despechadalive.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Colombia", Amaga TV
@@ -3114,26 +3108,11 @@ https://streamyes.alsolnet.com/tvgracia/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Colombia", Telejacinto
 https://video.ejeserver.com/live/telesanjacinto.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Colombia", PSC
-https://stmv4.voxtvhd.com.br/psctv/psctv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Colombia", Ondambiental
-https://server12.videostreaming.net:3230/stream/play.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Colombia", Moviefe
-https://vcp.myplaytv.com/moviefe/ngrp:moviefe_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Colombia", Mi Gente
-https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/index.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Colombia", Huila TV
 https://plataformavideo.com:19360/8020/8020.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Colombia", Famili Channel
 https://cp.panelchs.com:1936/8012/8012/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Colombia", CTV Barranquilla
-https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Colombia", Vision Dorada
 https://video.ejeserver.com/live/visiondorada.m3u8
@@ -3144,10 +3123,14 @@ https://play.cdn.enetres.net/B9E570CFE54949C7ABB985D4F8F77F7F021/02267/playlist.
 #EXTINF:-1 tvg-logo="" group-title="Colombia", Telepalmar
 https://play.amelbasoluciones.co:3976/live/telepalmartvlive.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Colombia", Veo TV
+https://video.ejeserver.com/live/veotv.m3u8
+
 
 ---------------------------------------------------
 Costa Rica
 ---------------------------------------------------
+
 
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/8a3218def129b372d3c596ac36942e40.png" group-title="Costa Rica", Canal 1 CR
@@ -3156,7 +3139,7 @@ https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Repretel_2_CDR.png" group-title="Costa Rica", Repretel 2 
 https://d2t46xrpai3it5.cloudfront.net/Canal2CR/1ccdc8545fd05b83e9c57826d0de1069.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/ySwjxbNmEY2GbocranaMX22871ZiAP8HuV16jJZM.png" group-title="Costa Rica", OPA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/genteopa.com/wp-content/uploads/2023/11/opalogoblanco.png" group-title="Costa Rica", OPA
 https://cageu.bozztv.com/ssh101/ssh101/opacanal38/chunks.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Repretel_4_logo.png" group-title="Costa Rica", Repretel 4 
