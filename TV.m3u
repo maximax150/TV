@@ -269,6 +269,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=514
 #EXTINF:-1 tvg-logo="https://www.dreikotv.com/wp-content/uploads/2023/04/cropped-logo.png" group-title="Kids & Geek", Dreiko TV
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a682dd_51f45efdbf30473ca7a606fefcd7007a~mv2.png/v1/fill/w_107,h_52,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo_ZAZ_prop_002_edit%20(1)%20copy.png" group-title="Kids & Geek", ZAZ TV
+https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://fontmeme.com/images/Spongebob-TV-Series.png" group-title="Kids & Geek", Bob Esponja
@@ -526,50 +529,44 @@ https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/355ba171055dd0e6747131673432cc18.png", VClassicTV Tropical 
 https://5eaccbab48461.streamlock.net:1936/8222/8222/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/f5a6133c6b0fcec076105dfd2508549c.png", Latinos Radio 
-https://mediacpstreamchile.com:1936/latinosmedia-1/latinosmedia-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.portalfoxmix.cl/web/wp-content/uploads/2016/03/logoPFM.png", Portal FoxMix 
+https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-k9n3tedhqBs/XbC_-FblJSI/AAAAAAAArm4/pMPtuBhhdtoL_yFWs5dt23dHFTHHCv8hgCK8BGAsYHg/s0/2019-10-23.png", Portal FoxMix 
-https://593b04c4c5670.streamlock.net:443/portalfoxmix/portalfoxmix/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/869156d90e27d6c6e09dc5a8f0017838.png", Zapping Music 
-https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-jyK2QfeF7tk/YBShx6dT-eI/AAAAAAAA_k4/gq6qGMH-1UAurScNL4TayXfEA47gA1ljgCK8BGAsYHg/s0/2021-01-29.png", Music Top 
+#EXTINF:-1 tvg-logo="https://www.canal26.com/images/open-graph/musictop_logo.png", Music Top 
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/e63c9721b2261a3213ea1a4e69776d0f.png", Oldies Hits TV
 https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-fi14kFHlmlI/XzgjcIL28eI/AAAAAAAA4ZU/8aEsOJObOc8w9ghnCmLa2N_4bcmcVTLbwCK8BGAsYHg/s0/2020-08-15.jpg", Melody Channel 
-https://canal.mediaserver.com.co:8088/live/MelodyChannel.m3u8
+#EXTINF:-1 tvg-logo="https://melodychannel.tv/wp-content/uploads/2022/08/cropped-melodychannel-tv.png", Melody Channel 
+https://canal.mediaserver.com.co/live/MelodyChannel.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-B53G138sG3s/Xzgjjsh5viI/AAAAAAAA4ZY/4vy018w8PMQffGyePubDIScUjyD7UeamwCK8BGAsYHg/s0/2020-08-15.png", Amordiscos TV 
-https://canal.mediaserver.com.co:8088/live/canalamordiscos.m3u8
+#EXTINF:-1 tvg-logo="https://amordiscostv.com/wp-content/uploads/2022/08/thumbnail_Logo-Amordiscos-600x600-alpha.png", Amordiscos TV 
+https://canal.mediaserver.com.co/live/canalamordiscos.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-i9WwagfKEd0/Xkyj43nNFOI/AAAAAAAAwIM/KdtEMa1z7fIoleKmbrXFEU3N9ASWoq5IwCK8BGAsYHg/s0/2020-02-18.png", Telemusica 
-https://canal.mediaserver.com.co:8088/live/telemusica.m3u8
+#EXTINF:-1 tvg-logo="https://telemusica.tv/wp-content/uploads/2022/08/Telemusicax512.png", Telemusica 
+https://canal.mediaserver.com.co/live/telemusica.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/6679119106cf69f194a4d375b391a2a2.png", Memorias TV 
 https://mediacp.us:8081/8002/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2Pr5sAUtsTA/XkCTD7gYTyI/AAAAAAAAv8M/B9-Cs05PoO4uTYRUW4INkQhkH1NkuQQWACK8BGAsYHg/s0/2020-02-09.png", TOP Latino TV 
+#EXTINF:-1 tvg-logo="https://toplatino.net/wp-content/uploads/2019/04/cropped-LogoTL-300-new-9.png", TOP Latino TV 
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-G5Yc3uX2FuI/X96fIN48GAI/AAAAAAAA8W0/OiYowGFVndAfjVe7nyNsjtL1OavXrBEkwCK8BGAsYHg/s0/2020-12-19.png", Turbo Mix TV 
-https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="", Turbo Mix TV 
+https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-5-1IsAfHulw/YLY20QswyOI/AAAAAAABCnU/3HTzC_ryaZc_tkdFb_MZGFH05anhfxPGgCJEEGAsYHg/s512/2021-06-01.png", Hits 360 
 http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
 
-#EXTINF:-1 https://lh3.googleusercontent.com/-BET4REPGZKQ/X96Yzr-NKCI/AAAAAAAA8Wo/jNg4hNxYQP0gmIeRnv8mBt4_GfNyGkGnQCK8BGAsYHg/s0/2020-12-19.png", TV Exitos
-https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/1yeVCQoEYPNMrJVCeegIi3nyrstnkYnymfvL0ZSY.jpg", Colosal Radio
+https://5d16127744872.streamlock.net/canal3/canal3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/191d7f0299ec0197d15d2e7b76ff037f.png", Radio 88 Stereo CR
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1143426603/IQChannel_400x400.jpg", IQ Channel CR
-https://rtmp.info/iqtv/envivo/master.m3u8
+https://250weu.bozztv.com/ssh101/ssh101/iqchannel/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/fbefcbca47462eb80eedbeaf95126474.png", VM Latino CR
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
@@ -591,9 +588,6 @@ http://185.36.211.142:8080/tmp_hls/fabulosa/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/46fdcecaa7fc4ca2f236df0d8a4df6a6.png", Molahits TV 
 http://ventdelnord.tv:8080/mola/directe.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Eurolatina
-https://media2.streambrothers.com:1936/8150/8150/.m3u8
 
 #EXTINF:-1, Oxigeno TV
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/.m3u8
@@ -682,6 +676,9 @@ https://stmv1.cnarlatam.com/cnardeportes/cnardeportes/playlist.m3u8
 
 #EXTINF:-1 group-title="Deportes", CNAR Deportes 2
 https://stmv1.cnarlatam.com/cnardeportes2/cnardeportes2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/djSznf8GYLKM5NtrPThPsoFW7kL5Cs2u485fTGsf.jpg" group-title="Deportes", + Ciclismo TV
+https://vcp8.myplaytv.com:1936/masciclismo/masciclismo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22918/sportsgrid/logo_20201117_210342_68.png" group-title="Deportes", Sports Grid
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/sportsgrid/ad16efee-974b-4262-ba05-009283af3b36/0.m3u8
@@ -3239,6 +3236,9 @@ https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Costa Rica", Zurqui TV
 https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
+
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/TS76GocVIZ5kXTPuvVdP8Qp8BHjxmMmhkcwjPgyv.jpg" group-title="Costa Rica", Caribe TV
+https://vcp8.myplaytv.com:1936/meganetretro/meganetretro/playlist.m3u8
 
 
 
