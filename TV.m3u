@@ -269,8 +269,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=514
 #EXTINF:-1 tvg-logo="https://www.dreikotv.com/wp-content/uploads/2023/04/cropped-logo.png" group-title="Kids & Geek", Dreiko TV
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a682dd_51f45efdbf30473ca7a606fefcd7007a~mv2.png/v1/fill/w_107,h_52,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo_ZAZ_prop_002_edit%20(1)%20copy.png" group-title="Kids & Geek", ZAZ TV
-https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 
 
 
@@ -3605,6 +3603,9 @@ https://cloud.streamingconnect.tv/hls/tvo/tvo.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Canal_trt_logo.PNG" group-title="Venezuela", TRT
 https://vcp3.myplaytv.com/trt/trt/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mdatelevision.com/wp-content/uploads/elementor/thumbs/logo_mda_blanco-phes7tzda8hjkjlqjnwn6qt04bhqjwk6xl5xzoz7jc.png" group-title="Venezuela", MDA TV
+https://vcp.myplaytv.com/mdatv/mdatv/chunklist_w1677207397.m3u8
 
 
 
