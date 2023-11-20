@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/las-estrellas-m.png" group-title="Variedades", Las Estrellas 
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="Variedades", Univision Lat
+https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://nuestravision.tv/wp-content/uploads/2018/09/NV_Web_Logo_3D_20180904_900.png" group-title="Variedades", Nuestra Vision
 https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
 
@@ -655,6 +658,9 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 group-title="Deportes", DeporTV
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/.m3u8
 
+#EXTINF:-1 group-title="Deportes", Zona TUDN
+https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1212859696383696896/ljdBfeUQ_400x400.jpg" group-title="Deportes", All Sports 
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 
@@ -663,9 +669,6 @@ https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://content.jwplatform.com/images/jNgWEGCO.png" group-title="Deportes" group-title="Deportes", Wapa Deportes PR
 https://live.field59.com/wapa/wapa2/.m3u8
-
-#EXTINF:-1 group-title="Deportes", ACC Network
-https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
 
 #EXTINF:-1 group-title="Deportes", Edge Sports
 https://edgesports-sportstribal.amagi.tv/playlist.m3u8
@@ -678,9 +681,6 @@ https://stmv1.cnarlatam.com/cnardeportes2/cnardeportes2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/djSznf8GYLKM5NtrPThPsoFW7kL5Cs2u485fTGsf.jpg" group-title="Deportes", + Ciclismo TV
 https://vcp8.myplaytv.com:1936/masciclismo/masciclismo/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22918/sportsgrid/logo_20201117_210342_68.png" group-title="Deportes", Sports Grid
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/sportsgrid/ad16efee-974b-4262-ba05-009283af3b36/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/tnt_sports_pasion_sin_limites_vgraf2.jpg" group-title="Deportes", TNT Sports BR
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
@@ -2596,6 +2596,9 @@ https://stmv1.cnarlatam.com/cadenavivo/cadenavivo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://d3b5jqy5xuub7g.cloudfront.net/wp-content/uploads/2021/07/Encentro-2021.jpg" group-title="Argentina", Encuentro
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Argentina", TN
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png" group-title="Argentina", Canal 26
 https://live-edge01.telecentro.net.ar/live/c26.smil/.m3u8
