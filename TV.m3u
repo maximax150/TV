@@ -269,7 +269,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=514
 #EXTINF:-1 tvg-logo="https://www.dreikotv.com/wp-content/uploads/2023/04/cropped-logo.png" group-title="Kids & Geek", Dreiko TV
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1081_AnimeStation.png" group-title="Kids & Geek", Anime Station
+https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://fontmeme.com/images/Spongebob-TV-Series.png" group-title="Kids & Geek", Bob Esponja
@@ -2402,10 +2403,10 @@ https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 
 #EXTINF:-1 tvg-logo="https://api.rcgmedia.mx/uploads/logo_rcg_media_250_4df3b2a2e1.png" group-title="Mexico", RCG 1 Saltillo
-https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8?PlaylistM3UCL
+https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://api.rcgmedia.mx/uploads/logo_rcg_media_250_4df3b2a2e1.png" group-title="Mexico", RCG 2 Saltillo 
-https://5caf24a595d94.streamlock.net:1937/stream23/stream23/playlist.m3u8
+https://video1.getstreamhosting.com:1936/8246/8246/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://api.rcgmedia.mx/uploads/logo_rcg_media_250_4df3b2a2e1.png" group-title="Mexico", RCG 3 Saltillo 
 https://5caf24a595d94.streamlock.net:1937/stream56/stream56/playlist.m3u8
@@ -2454,6 +2455,9 @@ https://60417ddeaf0d9.streamlock.net:443/montemorelos/videomontemorelos/playlist
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/6074e29d2a3241e1f3b3051144274188.png" group-title="Mexico", AMX Noticias 
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Mexico", Canal 33.2 Tijuana
+https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-44-mx.png" group-title="Mexico", Canal 44 
 https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
