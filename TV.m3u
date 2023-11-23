@@ -2672,8 +2672,20 @@ https://stmv1.cnarlatam.com/novakidstv/novakidstv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Argentina", Mega Classics
 https://stmv1.cnarlatam.com/megaclassics/megaclassics/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Techscience
+https://stmv1.cnarlatam.com/techscience365/techscience365/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Te lo cuento
+https://stmv1.cnarlatam.com/telocuento/telocuento/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Somos La Pampa
+https://stream.arcast.com.ar/somosnoticias/somosnoticias/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Gm_Ms3sI_Q4/XrYQujqJHII/AAAAAAAA0iw/dsg5W2kHZPAp1MDPFrwp7rwQ0DO12IdXACK8BGAsYHg/s0/2020-05-08.png" group-title="Argentina", Telecreativa 
 https://panel.dattalive.com:443/8012/8012/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://sanpedrotv.com.ar/img/logo4.png" group-title="Argentina", San Pedro TV
+https://iptv.ixfo.com.ar:30443/live/sanpedrotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-XoS6RxCQSVU/YH40uN-lAnI/AAAAAAABBwg/gSs_tad_SrMBNJ_KqXnaNOoM60CSqWuBQCK8BGAsYHg/s512/2021-04-19.jpg" group-title="Argentina", TeleNord 
 http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
@@ -3217,6 +3229,12 @@ https://59ef525c24caa.streamlock.net/Tvpluscr/Tvpluscr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/e1e0ae47b803ab15e41266a4d66ca297.png" group-title="Costa Rica", Teleuno 
 https://5d16127744872.streamlock.net/TVUNO/TVUNO/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Costa Rica", TV Nosara
+https://stmv.streamingvip.click/tvnosara2/tvnosara2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Costa Rica", Los Santos TV
+https://lstv.duckdns.org:449/hls/lstv.m3u8
 
 #EXTINF:-1 tvg-logo="https://ticavisiontv.com/wp-content/uploads/2023/05/ticavision-logo-2.png" group-title="Costa Rica", TicaVision 
 https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8
