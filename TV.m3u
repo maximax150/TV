@@ -2681,6 +2681,15 @@ https://stmv1.cnarlatam.com/telocuento/telocuento/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Argentina", Somos La Pampa
 https://stream.arcast.com.ar/somosnoticias/somosnoticias/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Argentina", TeleCinco Trelew
+https://videohd.live:19360/8016/8016.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Telecreativa
+https://panel.dattalive.com/8012/8012/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Telediario TV
+https://stmvideo2.livecastv.com/telediario/telediario/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Gm_Ms3sI_Q4/XrYQujqJHII/AAAAAAAA0iw/dsg5W2kHZPAp1MDPFrwp7rwQ0DO12IdXACK8BGAsYHg/s0/2020-05-08.png" group-title="Argentina", Telecreativa 
 https://panel.dattalive.com:443/8012/8012/playlist.m3u8
 
@@ -2695,6 +2704,9 @@ https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/a5fb78f573ba79d41017820f70d975e9.png" group-title="Argentina", Sublime Gracia TV 
 https://5f700d5b2c46f.streamlock.net:443/sublime/sublime/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Argentina", TV Solidaria
+https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
 
 
 ---------------------------------------------------
