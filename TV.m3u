@@ -33,7 +33,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4828
 #EXTINF:-1 tvg-logo="https://images.samsung.com/is/image/samsung/assets/mx/tvs/smart-tv/samsung-tv-plus/2022/azteca_uno.png" group-title="Variedades", Azteca Uno -1h
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/1200px-Multimedios_Canal_Seis_Logo.svg.png" group-title="variedades", Multimedios CDMX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/1200px-Multimedios_Canal_Seis_Logo.svg.png" group-title="Variedades", Multimedios CDMX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/1.png" group-title="Variedades", RCN Xtra
@@ -495,7 +495,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lg
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/2560px-Pluto_TV_logo_2020.svg.png" group-title="Cine y series", Pluto Cine
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/2560px-Pluto_TV_logo_2020.svg.png" group-title="Cine y Series", Pluto Cine
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=b1a6&deviceDNT=0&deviceModel=0
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/2560px-Pluto_TV_logo_2020.svg.png" group-title="Cine y Series", Pluto Premiere
@@ -3271,7 +3271,7 @@ http://138.59.177.34:8000/play/a00q/index.m3u8
 
 
 
-#EXTINF:-1,group-title="Cable 2",
+#EXTINF:-1 tvg-logo="" group-title="Cable 2",
 #EXTINF:-1,123 TV
 http://181.78.78.105:8000/play/a08x/index.m3u8
 #EXTINF:-1,A3S
@@ -3554,7 +3554,7 @@ http://181.78.78.105:8000/play/a069/index.m3u8
 
 
 
-#EXTINF:-1,group-title="Cable 3",
+#EXTINF:-1 tvg-logo="" group-title="Cable 3",
 #EXTINF:-1,Willax HD
 http://187.102.208.107:50001/play/a028/index.m3u8
 #EXTINF:-1,Latina HD
