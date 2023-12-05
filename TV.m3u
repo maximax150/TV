@@ -4,7 +4,7 @@
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="Variedades", Univision Lat
-https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
+http://138.59.177.34:8000/play/a07a/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://nuestravision.tv/wp-content/uploads/2018/09/NV_Web_Logo_3D_20180904_900.png" group-title="Variedades", Nuestra Vision
 https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
@@ -14,9 +14,6 @@ https://live.field59.com/wapa/wapa1/.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.novelisima.com/assets/images/logo.png" group-title="Variedades", Novelisima
 https://stream.krgv.com/krgv-english/krgv-somos.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/Am%C3%A9rica_Tev%C3%A9_Logo.png" group-title="Variedades", AmericaTeve
-https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Televisa_Internacional.png" group-title="Variedades", Televisa Europa
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
@@ -2769,6 +2766,12 @@ https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mma.prnewswire.com/media/1502591/Fox_Soul_Logo.jpg", Fox Soul
 https://foxsoul-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Fts-seattle-a.svg/1200px-Fts-seattle-a.svg.png", Fox 13
+https://lnc-kcpq.tubi.video/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://fox17.com/resources/media/94f003bb-4490-421e-8dd8-cae55b1d7659-large16x9_WZTV_LOGO_700x400.png", Fox 17
+https://lnc-wxmi.tubi.video/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/vcjvsnaeixme/1Ve14WVexCdDpW8YNYxQsl/077f6083f556c234da2dd9ecd3e2477d/cheddar_news_share.png", Cheddar News
 https://cheddar.samsung.wurl.com/playlist.m3u8
