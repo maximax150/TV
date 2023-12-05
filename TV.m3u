@@ -2761,11 +2761,29 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcomplex/CDN/playlist.m3u8
 #EXTINF:-1, Circle
 https://circle-xumo.amagi.tv/playlist.m3u8
 
+#EXTINF:-1, Dove Channel
+https://dovenow-roku-ingest.cinedigm.com/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.castify.ai/files/channels/lw/xs95m956wa/menu_logo_image/1662032299.png", Free Movies Classics
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/free-classic-movies/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://30a-tv.com/wp-content/uploads/2017/03/logo-30a-tv-com-300x65.png", 30A TV
+https://30a-tv.com/feeds/720p/33.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71SdC9w4CQL.png", TV Florida
+https://srv1.zcast.com.br/tvflorida/tvflorida/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", Artflix
+https://amogonetworx-artflix-3-eu.plex.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/abn-prod/wp-content/uploads/sites/3/2021/02/Fox-News-logo-Feb-2018.png", Fox News
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mma.prnewswire.com/media/1502591/Fox_Soul_Logo.jpg", Fox Soul
 https://foxsoul-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://fox5sandiego.com/wp-content/uploads/sites/15/2020/01/cropped-logo-3.png", Fox 5
+https://lnc-wnyw.tubi.video/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Fts-seattle-a.svg/1200px-Fts-seattle-a.svg.png", Fox 13
 https://lnc-kcpq.tubi.video/index.m3u8
