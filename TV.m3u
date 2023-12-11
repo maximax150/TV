@@ -125,6 +125,18 @@ https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60c25ec6da6d6600074233a8/colorLogoPNG.png" group-title="Variedades", Acapulco Shore
+https://i.mjh.nz/PlutoTV/160c25ec6da6d6600074233a8-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5cf96d351652631e36d4331f/colorLogoPNG-1641928405432.png" group-title="Variedades", MTV en español
+https://i.mjh.nz/PlutoTV/15cf96d351652631e36d4331f-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60d393e5579a420007ee553c/colorLogoPNG.png" group-title="Variedades", Casos de la Dra. Polo
+https://i.mjh.nz/PlutoTV/160d393e5579a420007ee553c-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5cf96dad1652631e36d43320/colorLogoPNG-1631631398798.png" group-title="Variedades", Comedy Central en español
+https://i.mjh.nz/PlutoTV/15cf96dad1652631e36d43320-alt.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="Variedades", Telemundo Novelas
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=5fc9&deviceDNT=0&deviceModel=0
 
@@ -273,6 +285,15 @@ https://cloudvideo.servers10.com:8081/8138/index.m3u8
 https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/chunks.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100003WE_20230208T013050SQUARE.png_20230208013050.png" group-title="Kids & Geek", Clan
+https://i.mjh.nz/SamsungTVPlus/ESBC4100003WE.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD130000205_20230809T053830SQUARE.png_20230809053830.png" group-title="Kids & Geek", Pitufo TV
+https://i.mjh.nz/SamsungTVPlus/ESBD130000205.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6051201a0aa8a70007c24a2a/colorLogoPNG-1618602700695.png" group-title="Kids & Geek", Mundo Geek
+https://i.mjh.nz/PlutoTV/16051201a0aa8a70007c24a2a-alt.m3u8
+
 #EXTINF:-1 tvg-logo="https://fontmeme.com/images/Spongebob-TV-Series.png" group-title="Kids & Geek", Bob Esponja
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=cb17&deviceDNT=0&deviceModel=0
 
@@ -332,6 +353,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff608e60e2996000768c3
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ff3934600d4c7000733ff49/colorLogoPNG.png" group-title="Kids & Geek", Pluto TV E-Sports
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff3934600d4c7000733ff49/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 
 
 ---------------------------------------------------
@@ -493,7 +515,41 @@ https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6532e7b290a74c00084a3bb6/colorLogoPNG.png" group-title="Cine y Series", Hallmark en español
+https://i.mjh.nz/PlutoTV/16532e7b290a74c00084a3bb6-alt.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5cf968040ab7d8f181e6a68b/colorLogoPNG.png" group-title="Cine y Series", Cine Premiere
+https://i.mjh.nz/PlutoTV/15cf968040ab7d8f181e6a68b-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5cf96b1c4f1ca3f0629f4bf0/colorLogoPNG.png" group-title="Cine y Series", Séptimo arte
+https://i.mjh.nz/PlutoTV/15cf96b1c4f1ca3f0629f4bf0-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64b9671cdac71b0008f371df/colorLogoPNG.png" group-title="Cine y Series", Cine Clásico
+https://i.mjh.nz/PlutoTV/164b9671cdac71b0008f371df-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60fb2f47c133270007327375/colorLogoPNG.png" group-title="Cine y Series", Pelis y Popcorn
+https://i.mjh.nz/PlutoTV/160fb2f47c133270007327375-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d8d164d92e97a5e107638d2/colorLogoPNG-1623101979398.png" group-title="Cine y Series", Cine adrenalina
+https://i.mjh.nz/PlutoTV/15d8d164d92e97a5e107638d2-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d8d180092e97a5e107638d3/colorLogoPNG.png" group-title="Cine y Series", Cine terror
+https://i.mjh.nz/PlutoTV/15d8d180092e97a5e107638d3-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f513564e4622a0007c578c0/colorLogoPNG.png" group-title="Cine y Series", Cine ¡¡jaja!!
+https://i.mjh.nz/PlutoTV/15f513564e4622a0007c578c0-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f5136317aedfb0007016f93/colorLogoPNG.png" group-title="Cine y Series", Cine XOXO
+https://i.mjh.nz/PlutoTV/15f5136317aedfb0007016f93-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d8d11baeb31c5a43b77bf59/colorLogoPNG-1620236333797.png" group-title="Cine y Series", Spike ¡extremo!
+https://i.mjh.nz/PlutoTV/15d8d11baeb31c5a43b77bf59-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e82bb378601b80007b4bd78/colorLogoPNG.png" tvg-chno="3860" group-title="Cine y Series", The Walking Dead en español
+https://i.mjh.nz/PlutoTV/15e82bb378601b80007b4bd78-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62fa81ccd1a7e90007c1ada0/colorLogoPNG.png" tvg-chno="3870" group-title="Cine y Series", AMC en español
+https://i.mjh.nz/PlutoTV/162fa81ccd1a7e90007c1ada0-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/2560px-Pluto_TV_logo_2020.svg.png" group-title="Cine y Series", Pluto Cine
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=b1a6&deviceDNT=0&deviceModel=0
@@ -518,6 +574,31 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcdde78f080d90009
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/2560px-Pluto_TV_logo_2020.svg.png" group-title="Cine y Series", Pluto Drama
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=290f&deviceDNT=0&deviceModel=0
+
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/ba0b7563-f805-4ee2-903f-f4fc5149ad0c/artflix_logo_light_-_Toni_Newesil.png" group-title="Cine y Series", ARTFLIX - Películas Clásicas
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6348a34c1159f6a5ce819b81.m3u8
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/c4191909-02c9-4043-9a9a-9344a83653e4/Bigtime_Light_Mode_Logo.png" group-title="Cine y Series", Bigtime - Películas Gratis
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6348969190b96ef5e0eb327a.m3u8
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/16c58af9-70f4-4d31-a176-f0c592639587/Butaca_Tv_pack_1500X1000_RDX.png" group-title="Cine y Series", Butaca TV
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64f0dad7c2bc9b9001d46ea8.m3u8
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/f9b44328-8571-4e8a-9066-022bd8665082/cinepride-logo.png" group-title="Cine y Series", CINEPRIDE
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-62167144ab2095ca85353ad6.m3u8
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/11c70d32-00fb-4c9d-9818-90c73fcc2ef4/CM-Plex-Dark_background_color-CanelaClasicos_-_Camila_Conti.png" group-title="Cine y Series", Canela Clásicos
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64fba469bb3e0baa5dcc0947.m3u8
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/f5564f22-68b4-48a4-b797-0efe45c73103/Logo_w_-_JENNIFER_MCBRIDE_colorrdx2.png" group-title="Cine y Series", Cine Premium Plus
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-645d848363c2c64203aa48fc.m3u8
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/a41fd21e-3ffc-481a-b12a-ba5df241299f/Cine_de_horror_logo_1500x1000px_white.png" group-title="Cine y Series", Cine de Horror
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64e6e2f04a5e9b4cedc6d52b.m3u8
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/18be52bf-43c6-4ac0-b3bf-ed51b252cb89/Cine_en_espanol_logo_1500x1000px_WHT.png" group-title="Cine y Series", Cine en Español
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64e6e46f27a915f9b5184e9a.m3u8
 
 
 ---------------------------------------------------
@@ -708,6 +789,28 @@ https://ov-mvg-mv-es.ottera.tv/mvg/mv_es/mv_es.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.eutelsat.com/files/Logos/ESR.png" group-title="Deportes", ES2R
 https://eyeonesports.com/ES2RA-628g.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC410000577_20231115T012205SQUARE.png_20231115012205.png" group-title="Deportes" , Teledeporte
+https://i.mjh.nz/SamsungTVPlus/ESBC410000577.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700009B4_20230712T021339SQUARE.png_20230712021340.png" group-title="Deportes" , FIFA+
+https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3500003YK_20230510T044211SQUARE.png_20230510044211.png" group-title="Deportes" , MyPadel TV
+https://i.mjh.nz/SamsungTVPlus/ESBC3500003YK.m3u8
+
+#EXTINF:-1 tvg-id="ESBD2600001ME" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2600001ME_20230809T053838SQUARE.png_20230809053839.png" group-title="Deportes" , Tennis Channel
+https://i.mjh.nz/SamsungTVPlus/ESBD2600001ME.m3u8
+
+#EXTINF:-1 tvg-id="ESBD2900001P9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2900001P9_20230926T032409SQUARE.png_20230926032410.png" group-title="Deportes" , World Poker Tour
+https://i.mjh.nz/SamsungTVPlus/ESBD2900001P9.m3u8
+
+#EXTINF:-1 tvg-id="ESBA3300035DP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300035DP_20220323T081930SQUARE.png_20220323081932.png" group-title="Deportes" , Trace Sportstars
+https://i.mjh.nz/SamsungTVPlus/ESBA3300035DP.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA140000460_20220323T082117SQUARE.png_20220323082120.png" group-title="Deportes" , Surf Channel
+https://i.mjh.nz/SamsungTVPlus/ESBA140000460.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6320d2755e54db000783fd87/colorLogoPNG.png" group-title="Deportes", Claro Sports
 https://i.mjh.nz/PlutoTV/16320d2755e54db000783fd87-alt.m3u8
