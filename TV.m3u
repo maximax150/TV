@@ -914,11 +914,14 @@ Noticias
 #EXTINF:-1 group-title="Noticias", Infowars
 https://freespeech.akamaized.net/hls/live/2024573/live2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", Voice Of America
-https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/master.m3u8
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/82c9f9e0-513d-4075-81fa-05ecdc2cf455/Marc_Faron_-_Wurl_Plex_assets_Channel-logo-white3x2_ENrdx.png", Euronews
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-60089d90f682a3002c348299.m3u8
 
-#EXTINF:-1 tvg-logo="", Euronews
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/fa402feb-1ae2-48bf-9dda-9c42384a324d/Logo_Euronews_stacked_white_on_spanish_1500x1000wht.png, Euronews Español
 https://euronews-euronews-spanish-2-mx.samsung.wurl.tv/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/1c24a0e4-ecc3-4e51-8eb6-f5c8e2ed1ff9/Untitled.png" , i24 NEWS
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-61e9af453508a50f84213dd6.m3u8
 
 #EXTINF:-1, The Wheather Channel
 https://linear-431.frequency.stream/mt/plex/431/hls/master/playlist.m3u8
@@ -1058,9 +1061,6 @@ https://indigenius-toowild-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1, Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
-#EXTINF:-1, AKC TV
-https://broadcast.blivenyc.com/speed/broadcast/22/desktop-playlist.m3u8
-
 #EXTINF:-1, Travel TV
 https://streamer103.neterra.tv/travel/live.m3u8
 
@@ -1084,6 +1084,30 @@ https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 
 #EXTINF:-1, Xplore
 https://xplore-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/f9a845dc-b33b-49af-b7dd-1de1b50a61d3/documentaryplus_logo_dark_1_.png", Documentary+
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-614e286b2bac097ffd6fd6ab.m3u8
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/398a08f4-ef08-46a0-b293-ffb2fe273803/gravitas-documentaries-2.png", Gravitas Documentaries
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6291409aa0ed9c2b6ae63bae.m3u8
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/wildearth_logo_dark.png", WildEarth
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-60d4edddb2fdec002c141135.m3u8
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/truehistory_logo_dark_v2.png", True History
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-614398a08f30fa61e0da7c97.m3u8
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/880a210b-f794-4dcd-aefc-e30393666c42/TheBobRossChannel_enEspa_ol_outlinedWHITE_-_Suzanne_Yeerdx.png", The Bob Ross Channel en Español
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-636442f69aabc8029c6d6b8d.m3u8
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/thedesignnetwork_tdn_5.png", The Design Network
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5f0641d3e8ffda004033b16e.m3u8
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/d1ddd349-0b81-4525-ba53-1912701467db/Saboreartv_1500x1000-_For_dark_backgrounds.png", Saborear TV
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64f0d9a7c2bc9b9001d46ea6.m3u8
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/26e1e09d-6285-428e-9414-e43d3961bf1e/Plex_FilmRise_MisteriosSinResolver_White_Logo.png", Misterios sin Resolver
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64d79408e5f67b0fab47ff24.m3u8
 
 #EXTINF:-1, Love Nature
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/love-nature-en-espaol/playlist.m3u8
