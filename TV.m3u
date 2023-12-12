@@ -745,9 +745,6 @@ https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://content.jwplatform.com/images/jNgWEGCO.png" group-title="Deportes" group-title="Deportes", Wapa Deportes PR
 https://live.field59.com/wapa/wapa2/.m3u8
 
-#EXTINF:-1 group-title="Deportes", Edge Sports
-https://edgesports-sportstribal.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 group-title="Deportes", CNAR Deportes
 https://stmv1.cnarlatam.com/cnardeportes/cnardeportes/playlist.m3u8
 
