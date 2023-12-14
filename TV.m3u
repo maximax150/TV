@@ -93,11 +93,14 @@ https://str81.creacast.com/myzentv/myzentv.smil/.m3u8
 #EXTINF:-1 tvg-logo="https://production.content.okast.tv/606cb96a-cce3-4dad-a95f-a25a38aaba91/storefront_projects/dfc88d65-4460-415f-806e-66812ff2117c/favicon.4286FE918204C51D4BCCD4EF3E44A62A7A453CFDDBD9093E424CAFBF3137E475.en.png" group-title="Variedades", My Zen TV Fit
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.afv.com/assets/client/img/logo.png" group-title="Variedades", AFV
-https://linear-46.frequency.stream/mt/plex/46/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/1bfcb8e4-9593-4914-aa02-14b966a2ec7e/AF_Logo_for_Light_BG__transparent__-_Jose_RiveraRDX.png" group-title="Variedades", Always Funny
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5ef11486d33ab9004048a1cd.m3u8
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/d0f10def-3122-4b3b-a7ad-a50050a0babe/HAPPITV_LOGO_LIGHT.png" group-title="Variedades", HappiTV
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-623171af5995505c86629208.m3u8
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/revrynews-logo-v2.png" group-title="Variedades", Revry News
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5f458dded93f4a0041cb1f63.m3u8
 
 #EXTINF:-1 tvg-logo="https://beacon.playback.api.brightcove.com/revry/uploads/channels/42_a940ecace8db0d6719a7dc8bdc8e8e6b.png" group-title="Variedades", Revry Latinx
 https://linear-142.frequency.stream/142/hls/master/playlist.m3u8
@@ -116,6 +119,18 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64a353a864e8e3dc0a29524f.m3u8
 
 #EXTINF:-1 tvg-logo="https://drupal.hahaha.com/sites/default/files/2022-12/jfl_226x150.png" group-title="Variedades", Just for Laughs
 https://distributionsjustepourrire-justforlaughsgags-1-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/c3a3b230-a40b-4409-b33f-678c1923bd77/FailArmy_logo_dark_v2.png" group-title="Variedades", FailArmy
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5f170d62b898490041b4936e.m3u8
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/9/epg/channels/logos/gracenote/92ece91992893ff338b2f45016877c9c.png" group-title="Variedades", Comedy Dynamics
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5efe1de5e0b3f5003f5d9f76.m3u8
+
+#EXTINF:-1 vg-logo="https://provider-static.plex.tv/epg/cms/production/8002e04c-3b48-4ed8-85c6-89f54c3cd466/David_Saint_-_fod_logo_for_plex_color.png" group-title="Variedades", Funny Or Die
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63d08694ab0965e49583e3b2.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.afv.com/assets/client/img/logo.png" group-title="Variedades", AFV
+https://linear-46.frequency.stream/mt/plex/46/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.kanalddrama.com/assets/img/logo_bottom2.png" group-title="Variedades", Kanal D
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
@@ -138,9 +153,6 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64e6df6e4a5e9b4cedc6d529.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/4c4f9712-5b0b-4516-bf4d-2ecc79da9c7b/clixtv-logo.png" group-title="Variedades", ClixTV
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6111b06a8f945c002c45dd12.m3u8
 
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/9/epg/channels/logos/gracenote/92ece91992893ff338b2f45016877c9c.png" group-title="Variedades", Comedy Dynamics
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5efe1de5e0b3f5003f5d9f76.m3u8
-
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cooking-panda.png" group-title="Variedades", Cooking Panda
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5f07e9fdf313eb0041bbecda.m3u8
 
@@ -149,6 +161,18 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6365779dde08f8eec6c3f21f.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/04cb0c34-f78d-4314-ba43-f2cb6e81136d/DPTV_Logo_BB_-_Mohit_Gattu.png" group-title="Variedades", Desi Play TV
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-634dddc8a319c6df243f521f.m3u8
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/02dd320d-ce42-40eb-8f86-c91dd108c2be/flou_cine_logo_1500x1500-04_-_Marcello_Gagliardi_Lugordx2.png" group-title="Variedades", FLOU Channel
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6323ac0f8f253768c26b5529.m3u8
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/d3740a2e-4a7c-4bc2-b0ca-15fa24121fc5/1500X1000_PNG_w__transparent_background__All_white_Logo_for_Attribution__-_Yuri_Alexandrov.png" group-title="Variedades", FashionTV
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6490c01f3b3ce9e1aaad95be.m3u8
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/b29f0c2a-9838-4460-8b02-5e683439916a/1500x1000_TV_Amor_Suitable_dark_-_James_Stowe.png" group-title="Variedades", TV Amor
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64bf622acd02bd309fc30567.m3u8
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/0e0759ed-8180-46e7-8fe9-cbc7fa4afbf3/TODO_NOVELAS_-_Logo_1500x1000.png" group-title="Variedades", Todo Novelas
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6490e59918a55242eea95995.m3u8
 
 
 
@@ -214,9 +238,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de91cf02fc07c00099104
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f9afb01816137000737f799/colorLogoPNG.png" group-title="Variedades", Nosey Escandalos
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9afb01816137000737f799/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60c882460ea4a200076a2a37/colorLogoPNG.png" group-title="Variedades", Fashion TV
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60c882460ea4a200076a2a37/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1ac1780e94100007f94b3f/colorLogoPNG.png" group-title="Variedades", People are Awesome
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac1780e94100007f94b3f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
