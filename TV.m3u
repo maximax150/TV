@@ -2151,7 +2151,7 @@ https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8
 https://d2t46xrpai3it5.cloudfront.net/Canal2CR/1ccdc8545fd05b83e9c57826d0de1069.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/genteopa.com/wp-content/uploads/2023/11/opalogoblanco.png" group-title="Costa Rica", OPA
-https://opa.usastreams.com:3101/live/canalopalive.m3u8
+https://opa.usastreams.com:3101/stream/play.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Repretel_4_logo.png" group-title="Costa Rica", Repretel 4 
 https://d2t46xrpai3it5.cloudfront.net/Canal4CR/e78ef5ae92191a83ba896fbe4bfda83e.sdp/playlist.m3u8
