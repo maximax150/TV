@@ -1730,25 +1730,31 @@ https://tv.portalexpress.es:3044/live/dtplaylive.m3u8
 https://614013e273786.streamlock.net:443/XtoTv/XtoTv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="tvg-logo="https://seo.tv.bo/LOGOS/LOGO_SEO_TV_HD.png" group-title="Bolivia", SEO TV
-https://live.seo.tv.bo/live/SEO1.m3u8
+https://live.seo.tv.bo/live/SEO-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://seo.tv.bo/LOGOS/LOGO_SEO_TV_KIDS_HD.png" group-title="Bolivia", SEO TV Kids
-https://live.seo.tv.bo/live/SEO2.m3u8
+https://live.seo.tv.bo/live/SEO-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://seo.tv.bo/LOGOS/LOGO_SEO_TV_NOVELAS_HD.png" group-title="Bolivia", SEO TV Novelas
-https://live.seo.tv.bo/live/SEO3.m3u8
+https://live.seo.tv.bo/live/SEO-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://seo.tv.bo/LOGOS/LOGO_SEO_TV_PELICULAS_HD.png" group-title="Bolivia", SEO TV Peliculas
-https://live.seo.tv.bo/live/SEO4.m3u8
+https://live.seo.tv.bo/live/SEO-4.m3u8
 
 #EXTINF:-1 tvg-logo="https://seo.tv.bo/LOGOS/LOGO_SEO_TV_DEPORTES_HD.png" group-title="Bolivia", SEO TV Deportes
-https://live.seo.tv.bo/live/SEO5.m3u8
+https://live.seo.tv.bo/live/SEO-5.m3u8
 
 #EXTINF:-1 tvg-logo="https://seo.tv.bo/LOGOS/LOGO_SEO_TV_NOVELAS_HD.png" group-title="Bolivia", SEO TV Novelas 2
-https://live.seo.tv.bo/live/SEO6.m3u8
+https://live.seo.tv.bo/live/SEO-6.m3u8
 
 #EXTINF:-1 tvg-logo="https://teleestrella.tv.bo/wp-content/uploads/2023/02/Imagen1-4-1024x336.png" group-title="Bolivia", Tele Estrella
 https://solo.disfrutaenlared.com:1936/teleestrella/teleestrella/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Bolivia", RTVE
+https://vdo.grupolimalive.com:3241/live/encuentrotvlive.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Bolivia", TV Show
+http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8
 
 
 ---------------------------------------------------
