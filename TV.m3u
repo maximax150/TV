@@ -2083,7 +2083,6 @@ Costa Rica
 ---------------------------------------------------
 
 
-
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/8a3218def129b372d3c596ac36942e40.png" group-title="Costa Rica", Canal 1 CR
 https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8
 
@@ -2099,7 +2098,7 @@ https://d2t46xrpai3it5.cloudfront.net/Canal4CR/e78ef5ae92191a83ba896fbe4bfda83e.
 #EXTINF:-1  tvg-logo="https://i2.paste.pics/01a892099fb8614f242806cdc8f94b4d.png" group-title="Costa Rica", Repretel 6 
 https://d2t46xrpai3it5.cloudfront.net/Canal6CR/201cac55f42a87a46e2d27a75e0c7c84.sdp/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Teletica.png" group-title="Costa Rica", Teletica HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Teletica.png" group-title="Costa Rica", Teletica HD
 http://45.166.92.22:58001/play/a059/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-8-costa-rica-mx-cr.png" group-title="Costa Rica", Multimedios 8 
@@ -2111,14 +2110,11 @@ http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/ecb09bce24a74b422ff4fd6923b52300.png" group-title="Costa Rica", Repretel 11 
 https://d2t46xrpai3it5.cloudfront.net/Repretel11/b3e2798525101c45f84a48573676853a.sdp/playlist.m3u8
 
-
-EXTINF:-1 tvg-logo="https://beta.extratv42.com/wp-content/uploads/2020/08/Logo-Extra-TV2.png" group-title="Costa Rica", Extra TV 
-
-EXTINF:-1 tvg-logo="https://sinartdigital.com/images/miscelaneo/canal-trece_slidemenu.png" group-title="Costa Rica", Sinart Canal 13
+#EXTINF:-1 tvg-logo="https://sinartdigital.com/images/miscelaneo/canal-trece_slidemenu.png" group-title="Costa Rica", Sinart Canal 13
 https://vcp8.myplaytv.com:1936/meganetlab/meganetlab/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.tvn14.com/wp-content/uploads/2020/12/tvn_14.png" group-title="Costa Rica", TVN 14
+#EXTINF:-1 tvg-logo="https://www.tvn14.com/wp-content/uploads/2023/03/cropped-logo.png" group-title="Costa Rica", TVN 14
 https://5fd8fec96951d.streamlock.net/TVN/CH14.stream_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dr56wvhu2c8zo.cloudfront.net/universidaddecostarica/assets/4f87ad59-83c6-40fe-a93b-e36591ec8c88.png" group-title="Costa Rica", Quice UCR 
