@@ -2477,29 +2477,11 @@ https://d2vb5iv6i34lh5.cloudfront.net/TVCEC/d58f5eb5cbb9ad9c56649a0083de7c8b.sdp
 #EXTINF:-1 tvg-logo="https://www.hechosecuador.com/rw_common/images/logo2021.png" group-title="Ecuador", Hechos Ecuador
 https://stmv.streamingvip.click/hechosecuador/hechosecuador/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="Ecuador", Educa TV
-https://edge1o.live.opencaster.com/caster/HiybfxHnmbcF.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/--ZBVFLyVUOE/Xzh9GLUpNHI/AAAAAAAA4dE/jq8UogAyxeoh3Kt-q8-QA7vbEhPr-Gg0gCK8BGAsYHg/s0/2020-08-15.jpg" group-title="Ecuador", Ecotel TV 
-https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="Ecuador", Ecuavisa
-https://mdstrm.com/live-stream-playlist/6089d0a7f61e11081f8c832a.m3u8
-
-#EXTINF:-1 group-title="Ecuador", Austral TV
-https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/canalrtu.tv/wp-content/uploads/2022/07/cropped-favicon-rtu.png" group-title="Ecuador", RTU
-https://video1.makrodigital.com/rtu/rtu/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://wuanplus.tv/wp-content/uploads/2017/10/2-WUAN-Orange-RGB-para-WEB.png" group-title="Ecuador", Wuan Plus
 https://video2.makrodigital.com/wuanplus/wuanplus/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Ecuador", Nortvision
 https://plataformavideo.com/live/nortvision.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/5b0ef8cfb40b9d02c1515e39/1528390680120-TI967RXDUEXXEA3EZUBR/manavision.jpg" group-title="Ecuador", Manavision
-https://livetv.once.net.ec/manavision/video.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Ecuador", Antena 1 Radiovision
 https://tvdatta.com:3578/live/antenaunolive.m3u8
