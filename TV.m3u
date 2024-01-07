@@ -1208,69 +1208,72 @@ Religion
 
 
 #EXTINF:-1 group-title="Religioso",
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/694622115786412032/aAZQM5tp_400x400.jpg", ENLACE 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YwUVTmS.png" group-title="Religioso", ENLACE 
 https://tbn-jw.cdn.vustreams.com/live/enlace/live.isml/35a9daa0-a68b-4373-989d-b86491be5c86.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/03/Enlace-Juvenil-TV-en-vivo-Online.png?", EJTV
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/03/Enlace-Juvenil-TV-en-vivo-Online.png" group-title="Religioso", EJTV
 https://tbn-jw.cdn.vustreams.com/live/ejtv/live.isml/d4417bff-89c0-4159-8068-642815cf50ea.m3u8
 
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-PsVXXPIImPI/XCkg2_9To1I/AAAAAAAAHSE/mFHhHlj4ErQ4oG8d54WjkHrarhXc7AjRgCEwYBhgL/s210/blanco-crop.png", San Jose TV
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-PsVXXPIImPI/XCkg2_9To1I/AAAAAAAAHSE/mFHhHlj4ErQ4oG8d54WjkHrarhXc7AjRgCEwYBhgL/s210/blanco-crop.png" group-title="Religioso", San Jose TV
 https://rtmp.info/cabinafides/envivo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://churchlivestreaming.com/images/telefides-live.jpg", Telefides
+#EXTINF:-1 tvg-logo="https://churchlivestreaming.com/images/telefides-live.jpg" group-title="Religioso", Telefides
 https://s2.cwebtv.net:4433/telefides/telefides/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_ewtn_m.png", EWTN
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/d7398833-17d8-4a93-951d-ebf387a9d8ff/Extrema%20musical%20logo.png" group-title="Religioso", Cristovision 31
+https://3a310f6ec721e6b362fcd22772b57f36a2fe6bb2.tabeelcr.com:8080/cristovision31/iptv.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_ewtn_m.png" group-title="Religioso", EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ipgotv.net.br/tv/gcartoon/LOGO_GCARTOON1.png", Gospel Cartoon 
+#EXTINF:-1 tvg-logo="https://ipgotv.net.br/tv/gcartoon/LOGO_GCARTOON1.png" group-title="Religioso", Gospel Cartoon 
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/b0564acdb9c67295acae4e5cf3978ed35795180f9728f21080885a8733d124cd.png", Dios Te Ve
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/b0564acdb9c67295acae4e5cf3978ed35795180f9728f21080885a8733d124cd.png" group-title="Religioso", Dios Te Ve
 https://emisoras.hn:8081/diostevetv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-hVk-EuKzKz0/XxuOyNLF6vI/AAAAAAAACK0/1CnjYHfAV-wwy5n5gxKOrTbTqSwjh87YgCLcBGAsYHQ/s540/diostevekids_logoroku.jpg", Dios Te Ve Kids
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-hVk-EuKzKz0/XxuOyNLF6vI/AAAAAAAACK0/1CnjYHfAV-wwy5n5gxKOrTbTqSwjh87YgCLcBGAsYHQ/s540/diostevekids_logoroku.jpg" group-title="Religioso", Dios Te Ve Kids
 https://emisoras.hn:8081/diostevekids/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-CVm245eZ890/YE6U9N6yZSI/AAAAAAABAuE/9Auajk4UAtM5WfqNd3bWvPawI9cGHvc2ACK8BGAsYHg/s512/2021-03-14.png", Cristiana TV 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-CVm245eZ890/YE6U9N6yZSI/AAAAAAABAuE/9Auajk4UAtM5WfqNd3bWvPawI9cGHvc2ACK8BGAsYHg/s512/2021-03-14.png" group-title="Religioso", Cristiana TV 
 
-#EXTINF:-1 tvg-logo="https://www.elim.org.sv/wp-content/uploads/2016/07/ELIM-TV-PROFILE-2.png", Elim TV
+#EXTINF:-1 tvg-logo="https://www.elim.org.sv/wp-content/uploads/2016/07/ELIM-TV-PROFILE-2.png" group-title="Religioso", Elim TV
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/7e84ed301b194b7b81e86f85bb2c3a33/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Bethel_tv.png", Bethel TV
-https://d2g8t2kk3bc252.cloudfront.net/out/v1/2855050b73db4cd0b8c648202b3e633b/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Bethel_tv.png" group-title="Religioso", Bethel TV
+https://d1h3uwvc88ypd2.cloudfront.net/out/v1/3bef81bd340d41f1a1fc1d10d81f61c9/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.nuevotiempo.org/wp-content/uploads/sites/6/2020/03/logo-teste-novo-tempo-02-ES.png", Nuevo Tiempo
+#EXTINF:-1 tvg-logo="https://www.nuevotiempo.org/wp-content/uploads/sites/6/2020/03/logo-teste-novo-tempo-02-ES.png" group-title="Religioso", Nuevo Tiempo
 https://customer-x8zydurm357k8j9p.cloudflarestream.com/a23831aa01c4a0fd802360b889ea96ed/manifest/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/26c143_4692b6d01dd94a90a6395bd368ae5b22~mv2.png/v1/fill/w_80,h_47,al_c,q_85,usm_4.00_1.00_0.00,enc_auto/26c143_4692b6d01dd94a90a6395bd368ae5b22~mv2.png", Esperanza TV Costa Rica
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/26c143_4692b6d01dd94a90a6395bd368ae5b22~mv2.png/v1/fill/w_80,h_47,al_c,q_85,usm_4.00_1.00_0.00,enc_auto/26c143_4692b6d01dd94a90a6395bd368ae5b22~mv2.png" group-title="Religioso", Esperanza TV Costa Rica
 https://5eac7b031d945.streamlock.net/REDES/REDES/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://3abn.org/img/3abn-ogg.png", 3ABN English
+#EXTINF:-1 tvg-logo="https://3abn.org/img/3abn-ogg.png" group-title="Religioso", 3ABN English
 https://3abn-live.akamaized.net/hls/live/2010543/3ABN/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/3ABN-Latino-en-directo-Online.png", 3ABN Latino
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/3ABN-Latino-en-directo-Online.png" group-title="Religioso", 3ABN Latino
 https://3abn-live.akamaized.net/hls/live/2010547/Latino/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.adventisttv.org/assets/img/main/3ABN_Kids_Big.png", 3ABN Kids
+#EXTINF:-1 tvg-logo="https://www.adventisttv.org/assets/img/main/3ABN_Kids_Big.png" group-title="Religioso", 3ABN Kids
 https://3abn-live.akamaized.net/hls/live/2010550/Kids/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/cbn.png", CBN Español
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/cbn.png" group-title="Religioso", CBN Español
 https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/734546207001/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/cbn.png", CBN News
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/cbn.png" group-title="Religioso", CBN News
 https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/59c031_b10c329535aa411ca0d56dbdf8cb7bd1~mv2.png/v1/fill/w_80,h_40,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/alientoVisionLogo.png", Aliento Vision
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/59c031_b10c329535aa411ca0d56dbdf8cb7bd1~mv2.png/v1/fill/w_80,h_40,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/alientoVisionLogo.png" group-title="Religioso", Aliento Vision
 https://627bb251f23c7.streamlock.net:444/Alientoenvivo/Alientoenvivo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/hn_cdm-cadena-de-milagros_m.png", CDM TV
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/hn_cdm-cadena-de-milagros_m.png" group-title="Religioso", CDM TV
 https://59825a54e4454.streamlock.net:8443/marcos536/marcos536/.m3u8
 
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/d7398833-17d8-4a93-951d-ebf387a9d8ff/Extrema%20musical%20logo.png", Extrema TV
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/d7398833-17d8-4a93-951d-ebf387a9d8ff/Extrema%20musical%20logo.png" group-title="Religioso", Extrema TV
 https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/.m3u8
 
-#EXTINF:-1 tvg-logo="", Tele Vida Network
+#EXTINF:-1 tvg-logo="" group-title="Religioso", Tele Vida Network
 https://5bf8041cb3fed.streamlock.net/Tevevida/Tevevida/.m3u8
 
 
@@ -2083,31 +2086,31 @@ Costa Rica
 ---------------------------------------------------
 
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/8a3218def129b372d3c596ac36942e40.png" group-title="Costa Rica", Canal 1 CR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KhNS8Dy/cropped-logoo-1.png" group-title="Costa Rica", Canal 1 CR
 https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Repretel_2_CDR.png" group-title="Costa Rica", Repretel 2 
+#EXTINF:-1  tvg-logo="https://i.imgur.com/Nn8BtH5.png" group-title="Costa Rica", Repretel 2 
 https://d2t46xrpai3it5.cloudfront.net/Canal2CR/1ccdc8545fd05b83e9c57826d0de1069.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/genteopa.com/wp-content/uploads/2023/11/opalogoblanco.png" group-title="Costa Rica", OPA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/genteopa.com/wp-content/uploads/2023/12/canalopa.png" group-title="Costa Rica", OPA
 https://opa.usastreams.com:3101/hybrid/play.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Repretel_4_logo.png" group-title="Costa Rica", Repretel 4 
 https://d2t46xrpai3it5.cloudfront.net/Canal4CR/e78ef5ae92191a83ba896fbe4bfda83e.sdp/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://i2.paste.pics/01a892099fb8614f242806cdc8f94b4d.png" group-title="Costa Rica", Repretel 6 
+#EXTINF:-1  tvg-logo="https://i.imgur.com/nfKJftW.png" group-title="Costa Rica", Repretel 6 
 https://d2t46xrpai3it5.cloudfront.net/Canal6CR/201cac55f42a87a46e2d27a75e0c7c84.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Teletica.png" group-title="Costa Rica", Teletica HD
 http://45.166.92.22:58001/play/a059/index.m3u8
  
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-8-costa-rica-mx-cr.png" group-title="Costa Rica", Multimedios 8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nefPi2Y.png" group-title="Costa Rica", Canal 8 Multimedios
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/e71dbd173c7d1e13f92e019c7a9ac89f.png" group-title="Costa Rica", TV Sur Canal 9 
 http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/ecb09bce24a74b422ff4fd6923b52300.png" group-title="Costa Rica", Repretel 11 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/512px-Repretel_11_logo.png" group-title="Costa Rica", Repretel 11 
 https://d2t46xrpai3it5.cloudfront.net/Repretel11/b3e2798525101c45f84a48573676853a.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://sinartdigital.com/images/miscelaneo/canal-trece_slidemenu.png" group-title="Costa Rica", Sinart Canal 13
@@ -2123,7 +2126,7 @@ http://163.178.170.127:1935/quinceucr/quinceucr/chunklist_w602152202.m3u8
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/a4ed367c69c23110d458a332af95be0be64566f288ccb5f261689344e6ba5e0d.png" group-title="Costa Rica", Coto Brus TV
 https://cloudvideo.servers10.com:8081/8030/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://geomedios.fcs.ucr.ac.cr/wp-content/uploads/2019/07/LogoSTV.png" group-title="Costa Rica", Sarapiqui TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/obTnd32.png" group-title="Costa Rica", Sarapiqui TV
 http://tiquiciatv.com:1935/stv/envivo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a889a5_d93a414ce0504f8ebbc4d2c04882a23d~mv2.png/v1/fill/w_440,h_440,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo%20telebrunca2-04.png" group-title="Costa Rica", Tele Brunca
@@ -2132,13 +2135,13 @@ http://k4.usastreams.com/telebrunca/telebrunca/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvcurrecr.com/wp-content/uploads/2023/02/cropped-logo-curre-pajaro-pz.png" group-title="Costa Rica", TV Curre
 http://k6.usastreams.online/Tvcurre/Tvcurre/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/colosaltvhd.jpg" group-title="Costa Rica", Colosal TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0DZB3eB.png" group-title="Costa Rica", Colosal TV
 https://5d16127744872.streamlock.net/COLOSAL/COLOSAL/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.doutico.com/wpimages/wpf687f100_05_06.jpg" group-title="Costa Rica", Limon TV 
 http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/WtjOMbyCumB3MhMOukhHJ0Zit5TRz3AZWlUuOBPL.png" group-title="Costa Rica", Nicoya TV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lj2jRn3.png" group-title="Costa Rica", Nicoya TV 
 https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://costaricachannel.org/wp-content/uploads/2022/08/cropped-LOGO-CR-2022-2022-768x256.png" group-title="Costa Rica", Costa Rica Channel
@@ -2150,19 +2153,19 @@ https://stmv.streamingvip.click/sanvitotv/sanvitotv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://sicultura-live.s3.amazonaws.com/public/2022-11/305398743_500202432109920_5029369673742325729_n-1.png" group-title="Costa Rica", TV+ Costa Rica 
 https://59ef525c24caa.streamlock.net/Tvpluscr/Tvpluscr/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/e1e0ae47b803ab15e41266a4d66ca297.png" group-title="Costa Rica", Teleuno 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eRwYxc2.png" group-title="Costa Rica", Teleuno 
 https://5d16127744872.streamlock.net/TVUNO/TVUNO/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Costa Rica", TV Nosara
 https://stmv.streamingvip.click/tvnosara2/tvnosara2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Costa Rica", Los Santos TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5xw86wu.png" group-title="Costa Rica", Los Santos TV
 https://lstv.duckdns.org:449/hls/lstv.m3u8
 
 #EXTINF:-1 tvg-logo="https://ticavisiontv.com/wp-content/uploads/2023/05/ticavision-logo-2.png" group-title="Costa Rica", TicaVision 
 https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/55978deeb5bf9d20b0c459cff3635225.png" group-title="Costa Rica", TvSur Perez Zeledon
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OpHYYZA.png" group-title="Costa Rica", TvSur Perez Zeledon
 https://5bf8041cb3fed.streamlock.net:443/TVSURCANAL14/TVSURCANAL14/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/4exczVmPGnsoatX4hd4mqreRqa1JbVV29SLFJ19T.png" group-title="Costa Rica", Trivision 36 
@@ -2189,10 +2192,10 @@ https://tvdatta.com:3384/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/S0utvG5YQJSEUE2HlmVONkyxDroLiotox9kiPKIV.jpg" group-title="Costa Rica", Telesusr CR
 https://s1.tvdatta.com:3582/live/telesurlive.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Costa Rica", RetroTV Palmares CR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F2rdjwJ.png" group-title="Costa Rica", RetroTV Palmares CR
 https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Costa Rica", Zurqui TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XvktUBB.jpg" group-title="Costa Rica", Zurqui TV
 https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
 
 #EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/TS76GocVIZ5kXTPuvVdP8Qp8BHjxmMmhkcwjPgyv.jpg" group-title="Costa Rica", Caribe TV
