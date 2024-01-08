@@ -12,11 +12,29 @@ https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="Variedades", Canal 5 MX
 https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/las-estrellas-m.png" group-title="Variedades", NU9VE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/NU9VE_2018.svg/1280px-NU9VE_2018.svg.png" group-title="Variedades", NU9VE
 https://linear-352.frequency.stream/mt/studio/352/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="Variedades", Univision Lat
-https://linear-242.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
+https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/800px-Unicable_logo.svg.png" group-title="Variedades", Unicable
+https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Rvm38Mu.png" group-title="Variedades",TLNovelas
+https://linear-421.frequency.stream/mt/studio/421/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dafont.com/forum/attach/orig/7/5/757186.png" group-title="", La Rosa de Guadalupe
+https://linear-344.frequency.stream/mt/studio/344/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/512px-DistritoComediaLOGO2018.png" group-title="Variedades",Distrito Comedia
+https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ow0vROp.png" group-title="Variedades",Televisa Guadalajara
+https://linear-402.frequency.stream/mt/studio/402/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zQiEsnH.png" group-title="Variedades",Televisa Monterrey
+https://linear-403.frequency.stream/mt/studio/403/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://nuestravision.tv/wp-content/uploads/2018/09/NV_Web_Logo_3D_20180904_900.png" group-title="Variedades", Nuestra Vision
 https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
@@ -39,7 +57,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
 #EXTINF:-1 tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/05/logotipo-azteca.png" group-title="Variedades", Azteca Internacional
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4828
 
-#EXTINF:-1 tvg-logo="" group-title="Variedades", Azteca Uno -1h
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="Variedades", Azteca Uno -1h
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/1200px-Multimedios_Canal_Seis_Logo.svg.png" group-title="Variedades", Multimedios CDMX
@@ -464,14 +482,29 @@ https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/5Cd0fF0wXhrDT8rawVjapPgIVQzQlR71lP2pNSjk.jpg" group-title="Cine y Series", GRJNGO
 https://amogonetworx-grjngo-2-eu.plex.wurl.tv/2000.m3u8
 
-#EXTINF:-1 tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2017/07/televisa-afiliados-canales-golden-plus.jpg" group-title="Cine y Series", Golden Plus
-https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gnz4twB.png" group-title="Cine y Series",Golden
+https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2017/07/televisa-afiliados-canales-golden-plus.jpg" group-title="Cine y Series", Golden Premier
-https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SlSbcp3.png" group-title="Cine y Series",Golden Edge
+https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BIYymcb.png" group-title="Variedades", De Pelicula
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gnz4twB.png" group-title="Cine y Series", Golden Multiplex -1 hora
+https://linear-408.frequency.stream/mt/studio/408/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gnz4twB.png" group-title="Cine y Series", Golden Multiplex
+https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OOEkyM2.png" group-title="Cine y Series", Golden Plus
+https://linear-410.frequency.stream/mt/studio/410/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="Cine y Series", Golden Premier
+https://linear-411.frequency.stream/mt/studio/411/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BIYymcb.png" group-title="Cine y Series", De Pelicula
 https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MMhSmDK.png" group-title="Cine y Series", De Pelicula Plus
+https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="Cine y Series", Runtime Español
 https://run-rt-es.otteravision.com/run/rt_es/rt_es.m3u8
@@ -716,7 +749,13 @@ http://185.36.211.142:8080/tmp_hls/fabulosa/index.m3u8?
 http://ventdelnord.tv:8080/mola/directe.m3u8?
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Telehit_logo_2020.png", Telehit
-https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8
+https://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Telehit_M%C3%BAsica_logo.png",Telehit Musica
+https://linear-418.frequency.stream/mt/studio/418/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Telehit_M%C3%BAsica_logo.png",Telehit Musica Plus
+https://linear-419.frequency.stream/mt/studio/419/hls/master/playlist.m3u8
 
 #EXTINF:-1, Oxigeno TV
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/.m3u8
