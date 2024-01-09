@@ -2186,11 +2186,11 @@ https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/Nn8BtH5.png" group-title="Costa Rica", Repretel 2 
 https://d2t46xrpai3it5.cloudfront.net/Canal2CR/1ccdc8545fd05b83e9c57826d0de1069.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/genteopa.com/wp-content/uploads/2023/12/canalopa.png" group-title="Costa Rica", OPA
-https://opa.usastreams.com:3101/hybrid/play.m3u8
-
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Repretel_4_logo.png" group-title="Costa Rica", Repretel 4 
 https://d2t46xrpai3it5.cloudfront.net/Canal4CR/e78ef5ae92191a83ba896fbe4bfda83e.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/genteopa.com/wp-content/uploads/2023/12/canalopa.png" group-title="Costa Rica", OPA
+https://opa.usastreams.com:3101/hybrid/play.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/nfKJftW.png" group-title="Costa Rica", Repretel 6 
 https://d2t46xrpai3it5.cloudfront.net/Canal6CR/201cac55f42a87a46e2d27a75e0c7c84.sdp/playlist.m3u8
@@ -2206,10 +2206,6 @@ http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/512px-Repretel_11_logo.png" group-title="Costa Rica", Repretel 11 
 https://d2t46xrpai3it5.cloudfront.net/Repretel11/b3e2798525101c45f84a48573676853a.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://sinartdigital.com/images/miscelaneo/canal-trece_slidemenu.png" group-title="Costa Rica", Sinart Canal 13
-https://vcp8.myplaytv.com:1936/meganetlab/meganetlab/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://www.tvn14.com/wp-content/uploads/2023/03/cropped-logo.png" group-title="Costa Rica", TVN 14
 https://5fd8fec96951d.streamlock.net/TVN/CH14.stream_720p/playlist.m3u8
