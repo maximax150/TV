@@ -57,8 +57,11 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
 #EXTINF:-1 tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/05/logotipo-azteca.png" group-title="Variedades", Azteca Internacional
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4828
 
+#EXTINF:-1 tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/05/logotipo-azteca.png" group-title="Variedades", Azteca Internacional op2
+https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="Variedades", Azteca Uno -1h
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
+https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/1200px-Multimedios_Canal_Seis_Logo.svg.png" group-title="Variedades", Multimedios CDMX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
@@ -2181,10 +2184,13 @@ Costa Rica
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KhNS8Dy/cropped-logoo-1.png" group-title="Costa Rica", Canal 1 CR
-https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8
+https://video20.klm99.com:3993/live/canal1crlive.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/Nn8BtH5.png" group-title="Costa Rica", Repretel 2 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nn8BtH5.png" group-title="Costa Rica", Repretel 2 
 https://d2t46xrpai3it5.cloudfront.net/Canal2CR/1ccdc8545fd05b83e9c57826d0de1069.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sgRDRBK.jpg" group-title="Costa Rica", Canal 3 KMK
+https://cloudvideo.servers10.com:8081/8120/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Repretel_4_logo.png" group-title="Costa Rica", Repretel 4 
 https://d2t46xrpai3it5.cloudfront.net/Canal4CR/e78ef5ae92191a83ba896fbe4bfda83e.sdp/playlist.m3u8
@@ -2206,6 +2212,9 @@ http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/512px-Repretel_11_logo.png" group-title="Costa Rica", Repretel 11 
 https://d2t46xrpai3it5.cloudfront.net/Repretel11/b3e2798525101c45f84a48573676853a.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/HowlI4G5AwJYrUNtf1g6TwAxGAmLonFpxb8i3UiS.jpg" group-title="Costa Rica", Sinart Canal 13
+https://250weu.bozztv.com/ssh101/ssh101/sinart13/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvn14.com/wp-content/uploads/2023/03/cropped-logo.png" group-title="Costa Rica", TVN 14
 https://5fd8fec96951d.streamlock.net/TVN/CH14.stream_720p/playlist.m3u8
@@ -2276,9 +2285,6 @@ https://cloudvideo.servers10.com:8081/8230/index.m3u8
 #EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/1MARSqh5D7hPUc4qhJMQcz4KnaWUzs4PkTXxJvnl.png" group-title="Costa Rica", Multizonas TV
 https://cloudvideo.servers10.com:8081/8068/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/waXJfaKuu7uhLmleEpj0LwI0y1TO8fp8ryZeD3oC.png" group-title="Costa Rica", Cartago TV
-https://tvdatta.com:3384/stream/play.m3u8
-
 #EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/S0utvG5YQJSEUE2HlmVONkyxDroLiotox9kiPKIV.jpg" group-title="Costa Rica", Telesusr CR
 https://s1.tvdatta.com:3582/live/telesurlive.m3u8
 
@@ -2287,10 +2293,6 @@ https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XvktUBB.jpg" group-title="Costa Rica", Zurqui TV
 https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
-
-#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/TS76GocVIZ5kXTPuvVdP8Qp8BHjxmMmhkcwjPgyv.jpg" group-title="Costa Rica", Caribe TV
-https://vcp8.myplaytv.com:1936/meganetretro/meganetretro/playlist.m3u8
-
 
 
 ---------------------------------------------------
@@ -5082,7 +5084,7 @@ XXX
 
 
 #EXTINF:-1 tvg-logo="https://miamitvhd.com/images/logo-miamitv.png" group-title="+18", Miami TV
-https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/.m3u8
+https://59ec5453559f0.streamlock.net/miamitv/smil:WEB4141/.m3u8
 #EXTINF:-1 tvg-logo="https://miamitvhd.com/images/logo-miamitv.png", Miami TV Latino
 https://59ec5453559f0.streamlock.net/Latino/smil:WEB4141/.m3u8
 #EXTINF:-1 tvg-logo="https://miamitvhd.com/images/logo-miamitv.png", MIami TV For You
