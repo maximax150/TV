@@ -2078,11 +2078,11 @@ Colombia
 ---------------------------------------------------
 
 
-#EXTINF:-1,Canal 1
+#EXTINF:-1 group-title="Colombia", Canal 1
 http://190.90.154.73:8080/play/a018/index.m3u8
-#EXTINF:-1,Caracol HD
+#EXTINF:-1 group-title="Colombia", Caracol HD
 http://190.90.154.73:8080/play/a09t/index.m3u8
-#EXTINF:-1,RCN HD
+#EXTINF:-1 group-title="Colombia", RCN HD
 http://190.90.154.73:8080/play/a02z/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/79sX78u.png" group-title="Colombia", ATN TV 
