@@ -217,19 +217,6 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5fd115b7b7ef8d002dcf1814.m3u8
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64e4351f200cd2f67473e0d2.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60c25ec6da6d6600074233a8/colorLogoPNG.png" group-title="Variedades", Acapulco Shore
-https://i.mjh.nz/PlutoTV/160c25ec6da6d6600074233a8-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5cf96d351652631e36d4331f/colorLogoPNG-1641928405432.png" group-title="Variedades", MTV en español
-https://i.mjh.nz/PlutoTV/15cf96d351652631e36d4331f-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60d393e5579a420007ee553c/colorLogoPNG.png" group-title="Variedades", Casos de la Dra. Polo
-https://i.mjh.nz/PlutoTV/160d393e5579a420007ee553c-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5cf96dad1652631e36d43320/colorLogoPNG-1631631398798.png" group-title="Variedades", Comedy Central en español
-https://i.mjh.nz/PlutoTV/15cf96dad1652631e36d43320-alt.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="Variedades", Telemundo Novelas
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=5fc9&deviceDNT=0&deviceModel=0
 
@@ -986,17 +973,8 @@ https://i.mjh.nz/SamsungTVPlus/ESBA3300035DP.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA140000460_20220323T082117SQUARE.png_20220323082120.png" group-title="Deportes" , Surf Channel
 https://i.mjh.nz/SamsungTVPlus/ESBA140000460.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6320d2755e54db000783fd87/colorLogoPNG.png" group-title="Deportes", Claro Sports
-https://i.mjh.nz/PlutoTV/16320d2755e54db000783fd87-alt.m3u8
-
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63f7e3f9dff38e00082a57af/colorLogoPNG.png" group-title="Deportes", ITV Deportes
-https://i.mjh.nz/PlutoTV/163f7e3f9dff38e00082a57af-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62d816fcf24d280008762ee9/colorLogoPNG.png" group-title="Deportes", La Liga Premier | Paramount+
-https://i.mjh.nz/PlutoTV/162d816fcf24d280008762ee9-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64b02bbd7d93410008fdae60/colorLogoPNG.png" group-title="Deportes" , DAZN Women's Football
-https://i.mjh.nz/PlutoTV/164b02bbd7d93410008fdae60-alt.m3u8
+https://stream.ads.ottera.tv/cl/240112cmg9p5gqmssda3etufrg/1280x720_1926804_0_f.m3u8?i=475_3010
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png" group-title="Deportes", FOX Sports
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -1184,26 +1162,26 @@ Cultural
 ---------------------------------------------------
 
 
-#EXTINF:-1 group-title="Culturales", CGTN
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png", group-title="Culturales", CGTN
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23094/cgtn-documentary/logo_20230314_210542_68.png", CGTN Documentary
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-documentary.m3u8?ads.islive=1&ads.streamtype=live
 
-#EXTINF:-1, DW Español
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png", DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1, DW Aleman
-https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png", DW Enlish
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
-#EXTINF:-1, RT Documentary
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_RT_Doc.png", RT Documentary
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1080765671431200768/RM4qmbGv_400x400.jpg", TV Galicia Cultural 
 https://cultural-crtvg.flumotion.com/playlist.m3u8
 
-#EXTINF:-1, Beautiful Planet
-https://answermedia-beautiful-planet-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1, Love pets
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-lovepetsemea-samsunguk/playlist.m3u8
 
 #EXTINF:-1, INTI
 https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/.m3u8
@@ -1212,7 +1190,7 @@ https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/.m3u8
 https://f4712f05a3e8493f9c73495feb9f9c1e.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/herogo001NP2/25054987/content/m.m3u8
 
 #EXTINF:-1, Pet Collective
-https://the-pet-collective-linear.samsung.wurl.com/manifest/playlist.m3u8
+https://jkn-pc.otteravision.com/dist/ottera/174/hls/master/playlist_webvtt.m3u8
 
 #EXTINF:-1, Go Wild
 https://indigenius-toowild-1-us.plex.wurl.tv/playlist.m3u8
@@ -1224,10 +1202,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz
 https://streamer103.neterra.tv/travel/live.m3u8
 
 #EXTINF:-1, Go Traveller
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=703
-
-#EXTINF:-1, Go USA
-https://brandusa-gousa-1-us.plex.wurl.tv/playlist.m3u8
+https://stream.ads.ottera.tv/cl/240112cmgbin8pc25u3n6jfoa0/subtitles_0_0_1_f.m3u8?i=475_703
 
 #EXTINF:-1, Drone TV
 https://airvuz-dronetv-1-eu.xiaomi.wurl.tv/playlist.m3u8
@@ -1268,7 +1243,7 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64f0d9a7c2bc9b9001d46ea6.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/26e1e09d-6285-428e-9414-e43d3961bf1e/Plex_FilmRise_MisteriosSinResolver_White_Logo.png", Misterios sin Resolver
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64d79408e5f67b0fab47ff24.m3u8
 
-#EXTINF:-1, Love Nature
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png", Love Nature
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/love-nature-en-espaol/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60dd6b1da79e4d0007309455/colorLogoPNG.png", NatureTime
