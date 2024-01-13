@@ -1,5 +1,12 @@
 #EXTM3U list-name="Canales M3U" list-image="https://icon-library.com/images/dish-tv-icon/dish-tv-icon-8.jpg"
 
+#EXTINF:-1 tvg-id="la1.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/250px-Logo_TVE-1.svg.png" , La 1 España
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"EDMcSqASkkZXJhpPkI+sIw","kid":"gycXR1sqURW3+VsAWgzgpw"},{"kty":"oct","k":"43f2pxhvIro1sLVrr2XQ9Q","kid":"ouM52dqBV9+QsE6xKw7wgg"},{"kty":"oct","k":"CJFMPdStFajMbqqlqy6spg","kid":"6LmGYdzuVwa6PpwxnaXu/A"}],"type":"temporary"}
+https://live-tcsgra.thechannel.store/la1-neutra/la1-neutra.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/las-estrellas-m.png" group-title="Variedades", Las Estrellas 
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 
