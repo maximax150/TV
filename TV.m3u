@@ -2875,13 +2875,13 @@ https://i.mjh.nz/SamsungTVPlus/ESBC4100001NZ.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3NwzqoB.png" group-title="España", La 2 
 https://i.mjh.nz/SamsungTVPlus/ESBC4100002AG.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-s1_Yn73J9Jc/Xx2p0OHPYgI/AAAAAAAA3eg/rYgtHyDWlEsaV6DEVwGZL_KG2oSJ8yw5wCK8BGAsYHg/s0/2020-07-26.png" group-title="España", TV3 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TV3.svg/300px-TV3.svg.png" group-title="España", TV3 
 https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-s1_Yn73J9Jc/Xx2p0OHPYgI/AAAAAAAA3eg/rYgtHyDWlEsaV6DEVwGZL_KG2oSJ8yw5wCK8BGAsYHg/s0/2020-07-26.png" group-title="España", TV3 Catalunya 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/512px-TV3CAT.svg.png" group-title="España", TV3 Catalunya 
 https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-xEsd9Oy7TeQ/Xx2iR75GrnI/AAAAAAAA3cA/BhGvBbwJbkUQe1-sGFkfFu9775dY5LrmQCK8BGAsYHg/s0/2020-07-26.png" group-title="España", TVE 24H 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="España", TVE 24H 
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/834px-La_Sexta_%28A3M%29.svg.png" group-title="España", La Sexta
@@ -2953,7 +2953,7 @@ https://cdnlive.codev8.net/rtvalive/channel1.smil/.m3u8
 #EXTINF:-1 tvg-logo="https://distritotv.es/wp-content/uploads/2021/04/cropped-PROPUESTAS-LOGO-DISTRITO-TV-2-1.png" group-title="España", Distrito TV
 https://live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.101tv.es/wp-content/uploads/2022/12/cropped-escudo-blanco-png-v2.png" group-title="España", 101 Malaga
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GzI3RC4.png" group-title="España", 101 Malaga
 https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
 
 #EXTINF:-1 tvg-logo="https://teleonuba.es/wp-content/uploads/2022/02/logovertical.png" group-title="España", Teleonuba
@@ -3009,6 +3009,42 @@ https://nlb2-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oGvsUH9.png" group-title="España", TBN España
 https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QQviU5m.png" group-title="España", Vivamovil
+https://5d8d85cf2c308.streamlock.net:1936/AlcalaTV/endirecto/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6EGV2eo.png" group-title="España", Vinx TV
+https://tv.radiocast.es:5443/vinxtv/streams/vinxtvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6EGV2eo.png" group-title="España", Univers TV
+https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vuLUp3v.png" group-title="España", SX3
+https://directes-tv-es.ccma.cat/live-origin/super3-hls/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/amgBFmH.png" group-title="España", Popular TV Cantabria
+https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LK4pLgT.png" group-title="España", Mirame TV
+https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0gojkDE.png" group-title="España", IB3
+https://ythls.armelin.one/channel/UCff_CBVJDTHP4wOHPjP5BMg.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tkjUFzb.png" group-title="España", Esport3
+https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QTA40lP.png" group-title="España", Diez TV Las Villas
+https://streaming.cloud.innovasur.es/mmj2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9siClBC.png" group-title="España", CMM TV
+https://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/format/applehttp/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3QPJIpa.png" group-title="España", Canal Coin
+https://canalcoin.garjim.es/hls/directo.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YSi1zW.png" group-title="España", Aragon TV
+https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 
 
 
