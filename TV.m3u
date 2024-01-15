@@ -1117,40 +1117,73 @@ Internacional
 ---------------------------------------------------
 
 
-#EXTINF:-1  group-title="Internacional", NHK World Premium
+#EXTINF:-1  tvg-logo="https://i.imgur.com/4ESi2La.png" group-title="Internacional", NHK World Premium
 http://112.72.4.108/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 
-#EXTINF:-1, NHK World Español
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png", NHK World Español
 https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8
 
-#EXTINF:-1, DBM TV France
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ab6p2SW.png", DBM TV France
 https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
 
-#EXTINF:-1, Tebeo France
-https://start-1.direct.live/hls/tebeo.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TF1_logo_2013.svg/220px-TF1_logo_2013.svg.png", TF1 France
+http://livetv.ktv.zone/3/play.m3u8
 
-#EXTINF:-1, Tebesud
-https://start-2.direct.live/hls/tebesud.m3u8
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/France-2-Logo.png", France 2
+http://livetv.ktv.zone/4/play.m3u8
 
-#EXTINF:-1, Arirang World
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/arirang_1ch.smil/.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/512px-France_3_2018.svg.png", France 3
+http://livetv.ktv.zone/5/play.m3u8
 
-#EXTINF:-1, EBS 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/800px-France_5_2018.svg.png", France 5
+http://livetv.ktv.zone/5/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7GVp3fW.png", M6
+http://livetv.ktv.zone/5/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTS_1_Logo_2023.svg/1200px-RTS_1_Logo_2023.svg.png", RTS 1 Swiss
+http://livetv.ktv.zone/7/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/RTS_2_Logo_2023.svg/150px-RTS_2_Logo_2023.svg.png", RTS 2 Swiss
+http://livetv.ktv.zone/2/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R7qR9pe.png", BS 11 Japan
+http://jp.vthanhnetwork.com/BS11/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aDdwjjc.png", BS Fuji Japan
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D8lhZCI.png", BS Nippon Japan
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h20eGKq.png", BS TBS Japan
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yJfA6ak.png", TV Tokio Japan
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5LNZeVq.png", GNT TV Japan
+https://cgntvliveweb-944.acs.wecandeo.com/ms/2850/944/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/igia8OX.png", Tokio MX Japan
+http://jp.vthanhnetwork.com/Tokyo_MX1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7DqgELX.png", KBS World Korea
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Asu5pE9.png", Arirang TV Korea
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/512px-EBS_1TV_Logo.svg.png", EBS 1 Korea
 https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
 
-#EXTINF:-1, EBS 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EBS_2TV_Logo.svg/512px-EBS_2TV_Logo.svg.png", EBS 2 Korea
 https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/.m3u8
 
-#EXTINF:-1, PBS America
-https://pbs-samsunguk.amagi.tv/playlist.m3u8
-
-#EXTINF:-1, RT Español
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png", RT Español
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
-#EXTINF:-1, Hispan TV
-https://live1.presstv.ir/live/hispan.m3u8
-
-#EXTINF:-1, CCTV 4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gBbLyqh.png", CCTV 4
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8?ads.islive=1&ads.streamtype=live
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5331d5fb753499095a00045a/colorLogoPNG.png", TYT Network
