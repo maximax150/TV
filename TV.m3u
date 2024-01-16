@@ -2632,7 +2632,7 @@ Venezuela
 ---------------------------------------------------
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-9BWoKXWGkL8/Xxzv1rANFBI/AAAAAAAA3aw/DiZRzBM-OpgDJ_m32kNsUqCXr9qBjincgCK8BGAsYHg/s0/2020-07-25.png" group-title="Venezuela", Promar TV 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Promar_Television.png" group-title="Venezuela", Promar TV 
 https://vcp.myplaytv.com/promar/promar/playlist.m3u8
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_canal_i_venezuela.png" group-title="Venezuela", Canal i 
@@ -2641,16 +2641,25 @@ https://vcp10.myplaytv.com/canali/canali/.m3u8
 #EXTINF:-1 logo="https://w2-venevision-com.s3.amazonaws.com/public/media/seo/logo-venevision_600x600.png" group-title="Venezuela", Venevision
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-CAaBUIZOgpc/XbInLO0y7XI/AAAAAAAAro8/uyF1cG5j5XcZHIDofhFJT2q00gjKsTl0wCK8BGAsYHg/s0/2019-10-24.png" group-title="Venezuela", Telesur 
+#EXTINF:-1 tvg-logo="https://www.telesurtv.net/export/sites/telesur/arte/log-iso-telesur.png_253617125.png" group-title="Venezuela", Telesur 
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-CAaBUIZOgpc/XbInLO0y7XI/AAAAAAAAro8/uyF1cG5j5XcZHIDofhFJT2q00gjKsTl0wCK8BGAsYHg/s0/2019-10-24.png" group-title="Venezuela", Telesur English 
+#EXTINF:-1 tvg-logo="https://www.telesurtv.net/export/sites/telesur/arte/log-iso-telesur.png_253617125.png" group-title="Venezuela", Telesur English 
 https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X5hyKU8.png" group-title="Venezuela", VPI TV
+https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o1CxGRy.png" group-title="Venezuela", Vivo Play
+https://linear-260.frequency.stream/mt/studio/260/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cxvkUvK.png" group-title="Venezuela", Televen
+https://setp-televen-ssai-mslv4-open.akamaized.net/hls/live/2107128/televen/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/84325e40ce60d16037b02586850d1c30.png" group-title="Venezuela", ShowVen TV 
 https://vcp.myplaytv.com/coll/coll/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-opdSbo77LkM/YEtiwd5aljI/AAAAAAABAkw/zfF3b8WRKCkMiaVpD4zlHy0siTQmvlXRgCK8BGAsYHg/s512/2021-03-12.png" group-title="Venezuela", TVS Maracay 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J8ztiAN.png" group-title="Venezuela", TVS Maracay 
 https://vcp3.myplaytv.com/tvs/tvs/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://player.lorini.net/mdatv/mdatv.png" group-title="Venezuela", MDA TV
@@ -2682,6 +2691,13 @@ https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Canal_trt_logo.PNG" group-title="Venezuela", TRT
 https://vcp3.myplaytv.com/trt/trt/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QX5DVUB.png" group-title="Venezuela", TVES
+https://ls.tves.gob.ve/hls/tves.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c1YHQ8K/tvandes.png" group-title="Venezuela", TV Andes
+https://vcp3.myplaytv.com/tvandes/tvandes/playlist.m3u8
+
 
 
 ---------------------------------------------------
