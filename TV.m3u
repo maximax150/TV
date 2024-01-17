@@ -111,9 +111,6 @@ https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Telemundo_Puerto_Rico.svg/1200px-Telemundo_Puerto_Rico.svg.png" group-title="Variedades", Telemundo Puerto Rico
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://tivatv.com/wp-content/uploads/2021/06/cropped-Tiva8-1350x250-1.jpg" group-title="Variedades", TIVA
-https://link.frontlayer.com/services/hls2/fl496518/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/mega-tv-puerto-rico-en-vivo-Online.png" group-title="Variedades", Mega TV
 https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/.m3u8
 
@@ -1319,6 +1316,15 @@ https://3a310f6ec721e6b362fcd22772b57f36a2fe6bb2.tabeelcr.com:8080/cristovision3
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_ewtn_m.png" group-title="Religioso", EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WR2QoZn.png" group-title="Religioso", Jesus TV
+https://cdn.streamhispanatv.net:3189/live/jesustvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Rr9pKQh.png" group-title="Religioso", Franchs TV
+https://stream.oursnetworktv.com/latin/franchstv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PkW3cKR.png" group-title="Religioso", Fe Viviente TV
+https://stream.oursnetworktv.com/latin/feVivienteGtm/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://ipgotv.net.br/tv/gcartoon/LOGO_GCARTOON1.png" group-title="Religioso", Gospel Cartoon 
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 
@@ -2341,152 +2347,74 @@ https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
 https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
 
 
+
 ---------------------------------------------------
-Panama
+Centroamérica
 ---------------------------------------------------
 
 
-
-#EXTINF:-1 tvg-logo="" group-title="Panama", BTV Panama
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiYVtgB.png" group-title="America Central", BTV Panama
 https://stream.oursnetworktv.com/latin/btvpanama/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Panama", RPC Radio
-https://mdstrm.com/live-stream-playlist/5d976689ab55a60f94ec98e8.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Panama", Telemetro Radio
-https://mdstrm.com/live-stream-playlist/5d97ca5673de440761ff194e.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Panama", Hosanna Vision 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vpvvznz.png" group-title="America Central", Hosanna Vision Panama
 https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Panama", Nex tv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QQBd052.png" group-title="America Central", Nex tv Panama
 https://vcp4.myplaytv.com:1936/nextv/nextv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Panama", +23
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y0h8dlX.png" group-title="America Central", +23 Panama
 https://vcp4.myplaytv.com:1936/mas23/mas23/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Panama", Oye TV (Geo)
-https://mdstrm.com/live-stream-playlist/5d88df173853e7072f3f953f.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vj5nNbF/FAV-TV-LOGO-BLANCO.png" group-title="America Central", Minfav TV Panama
+https://video.misistemareseller.com/minfavtv/minfavtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Panama", RPC TV 
-https://mdstrm.com/live-stream-playlist/5d88d659120a717cf93ce620.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Panama", Telemetro 
-https://mdstrm.com/live-stream-playlist/5d88dd2229b0890723df2165.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Panama", LaXitoxa
-https://stmvideo2.livecastv.com/lax953/lax953/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Panama", Hispania TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lpVZgA4.jpg" group-title="America Central", Hispania TV Panama
 https://vcp8.myplaytv.com:1936/hispaniatv/hispaniatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Panama", Vision Latina
-https://5940924978228.streamlock.net:443/8095/8095/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MmpwhAG.png" group-title="America Central", Plus TV Panama
+https://vcp4.myplaytv.com:1936/plustv/plustv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Panama", Somos cultura
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tGeHwxd.png" group-title="America Central", TVN
+https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XcrkfGh.png" group-title="America Central" TV Max Panama
+https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kWR3END.png" group-title="America Central", Somos cultura Panama
 https://srv.tropicalmoonmedia.com/somosculturatv/somosculturatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Panama", TVN
-https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Panama", TVMAX
-https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/playlist_dvr.m3u8
-
-
----------------------------------------------------
-Guatemala
----------------------------------------------------
-
-
-#EXTINF:-1 group-title="Guatemala", Canal 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yCykjIp.png" group-title="America Central", Canal 3 GT
 https://dy434h3s52eoj.cloudfront.net/Canal3GT/01582b1c46c04a847aa7c4936d1eeba7.sdp/Canal3GT/Canal3GT1/chunks.m3u8
 
-#EXTINF:-1 group-title="Guatemala", Televisiete
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yVhUkot.png" group-title="America Central", Televisiete GT
 https://dy434h3s52eoj.cloudfront.net/Canal7GT/d84b644e13e68dd78dfcb9a0cf0338f1.sdp/Canal7GT/Canal7GT1/chunks.m3u8
 
-#EXTINF:-1 group-title="Guatemala", TN23
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UtZD3PA.png" group-title="America Central", TN23 GT
 https://dy434h3s52eoj.cloudfront.net/Canal23GT/235557e601489a53ece741671338603f.sdp/Canal23GT/Canal23GT1/chunks.m3u8
 
-#EXTINF:-1 group-title="Guatemala", Totovisión 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UJhQoUK.png" group-title="America Central", Azteca Guate
+https://ch1-tva.duin.dev/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://totovision.net/wp-content/uploads/2022/05/cropped-LOGO-PAGINA-22.png" group-title="America Central", Totovisión 
 https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
 
-#EXTINF:-1 group-title="Guatemala", NimTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mBNOSzl.png" group-title="America Central", NimTV GT
 https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
 
-#EXTINF:-1 group-title="Guatemala", Peniel
-https://cdn.streamhispanatv.net:3840/live/penielfamlive.m3u8
-
-#EXTINF:-1 group-title="Guatemala", Peniel Kids & Young
-https://cdn.streamhispanatv.net:3155/live/penielkidslive.m3u8
-
-#EXTINF:-1 group-title="Guatemala", Peniel Musica
-https://cdn.streamhispanatv.net:3533/live/penielmusicagtlive.m3u8
-
-#EXTINF:-1 group-title="Guatemala", Full Channel 
-https://cdn.streamhispanatv.net:3845/live/fullchannelgtlive.m3u8
-
-#EXTINF:-1 group-title="Guatemala", Tunevisión 
-https://cdn.streamhispanatv.net:3852/live/tunevisionlive.m3u8
-
-#EXTINF:-1 group-title="Guatemala", GuaTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YxBrM4u.png" group-title="America Central", GuaTV Guatemala
 https://cdn.streamhispanatv.net:3589/live/guatvgtlive.m3u8
 
-#EXTINF:-1 group-title="Guatemala", Canal 9 Ixchiguan
-https://cdn.streamhispanatv.net:3859/live/ixchiguanlive.m3u8
-
-#EXTINF:-1 group-title="Guatemala", Jesus TV
-https://cdn.streamhispanatv.net:3189/live/jesustvlive.m3u8
-
-#EXTINF:-1 group-title="Guatemala", Aurora Media Films 
-https://cdn.streamhispanatv.net:3398/live/auroramflive.m3u8
-
-#EXTINF:-1 group-title="Guatemala", Barbe tv 
-https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
-
-#EXTINF:-1 group-title="Guatemala", Canal 8 Santa Rosa
-https://cdn.streamhispanatv.net:3697/live/canal8starosalive.m3u8
-
-#EXTINF:-1 group-title="Guatemala", Canal 100 Chinique
-https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8
-
-#EXTINF:-1 group-title="Guatemala", TV Florencia
-https://cdn.streamhispanatv.net:3819/live/tvflorencialive.m3u8
-
-#EXTINF:-1 group-title="Guatemala", TVS Retro 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jdnHci0.png" group-title="America Central", TVS Retro GT
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 
-#EXTINF:-1 group-title="Guatemala", TV Radio Maya
-https://stream.oursnetworktv.com/latin/radioTGBAgtm/playlist.m3u8
-
-#EXTINF:-1 group-title="Guatemala", SAS TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VShjB3o.png" group-title="America Central", SAS TV GT
 https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
 
-#EXTINF:-1 group-title="Guatemala", TV Globo 
-https://cdn.streamhispanatv.net:3862/live/teveglobolive.m3u8
-
-#EXTINF:-1 group-title="Guatemala", Unica Tv
-https://cdn.streamhispanatv.net:3642/live/unicatvlive.m3u8
-
-#EXTINF:-1 group-title="Guatemala", Vision TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S0JrfIl.png" group-title="America Central", Vision TV GT
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 
-#EXTINF:-1 group-title="Guatemala", Franchs TV
-https://stream.oursnetworktv.com/latin/franchstv/playlist.m3u8
-
-#EXTINF:-1 group-title="Guatemala", Fe Viviente TV
-https://stream.oursnetworktv.com/latin/feVivienteGtm/playlist.m3u8
-
-#EXTINF:-1 group-title="Guatemala", Esquipulas TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6j3FH1q.png" group-title="America Central", Esquipulas TV GT
 https://tv91.hostingnuclear.com:19360/esquipulastv/esquipulastv.m3u8
-
-#EXTINF:-1 group-title="Guatemala", Canal 27 
-https://live.appclicksgt.com:3305/live/tvcanal27live.m3u8
-
-#EXTINF:-1 group-title="Guatemala", Telecosta
-https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
-
-#EXTINF:-1 group-title="Guatemala", Canal 35
-https://cdn.streamhispanatv.net:3948/live/yepotvlive.m3u8
 
 
 ---------------------------------------------------
