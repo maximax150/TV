@@ -508,42 +508,6 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64f0db77c2bc9b9001d46eaa.m3u8
 #EXTINF:-1 group-title="Cine y Series"tvg-logo="https://provider-static.plex.tv/epg/cms/production/aca5fb4a-3f31-4527-82d4-80b718821f1f/ShemarooBollywood_logo_dark_-_Shemaroo_USArdx.png" , Shemaroo Bollywood
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-62d1a58e520656fda09e609d.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6532e7b290a74c00084a3bb6/colorLogoPNG.png" group-title="Cine y Series", Hallmark en español
-https://i.mjh.nz/PlutoTV/16532e7b290a74c00084a3bb6-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5cf968040ab7d8f181e6a68b/colorLogoPNG.png" group-title="Cine y Series", Cine Premiere
-https://i.mjh.nz/PlutoTV/15cf968040ab7d8f181e6a68b-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5cf96b1c4f1ca3f0629f4bf0/colorLogoPNG.png" group-title="Cine y Series", Séptimo arte
-https://i.mjh.nz/PlutoTV/15cf96b1c4f1ca3f0629f4bf0-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64b9671cdac71b0008f371df/colorLogoPNG.png" group-title="Cine y Series", Cine Clásico
-https://i.mjh.nz/PlutoTV/164b9671cdac71b0008f371df-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60fb2f47c133270007327375/colorLogoPNG.png" group-title="Cine y Series", Pelis y Popcorn
-https://i.mjh.nz/PlutoTV/160fb2f47c133270007327375-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d8d164d92e97a5e107638d2/colorLogoPNG-1623101979398.png" group-title="Cine y Series", Cine adrenalina
-https://i.mjh.nz/PlutoTV/15d8d164d92e97a5e107638d2-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d8d180092e97a5e107638d3/colorLogoPNG.png" group-title="Cine y Series", Cine terror
-https://i.mjh.nz/PlutoTV/15d8d180092e97a5e107638d3-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f513564e4622a0007c578c0/colorLogoPNG.png" group-title="Cine y Series", Cine ¡¡jaja!!
-https://i.mjh.nz/PlutoTV/15f513564e4622a0007c578c0-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f5136317aedfb0007016f93/colorLogoPNG.png" group-title="Cine y Series", Cine XOXO
-https://i.mjh.nz/PlutoTV/15f5136317aedfb0007016f93-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d8d11baeb31c5a43b77bf59/colorLogoPNG-1620236333797.png" group-title="Cine y Series", Spike ¡extremo!
-https://i.mjh.nz/PlutoTV/15d8d11baeb31c5a43b77bf59-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e82bb378601b80007b4bd78/colorLogoPNG.png" tvg-chno="3860" group-title="Cine y Series", The Walking Dead en español
-https://i.mjh.nz/PlutoTV/15e82bb378601b80007b4bd78-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62fa81ccd1a7e90007c1ada0/colorLogoPNG.png" tvg-chno="3870" group-title="Cine y Series", AMC en español
-https://i.mjh.nz/PlutoTV/162fa81ccd1a7e90007c1ada0-alt.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/2560px-Pluto_TV_logo_2020.svg.png" group-title="Cine y Series", Pluto Cine
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=b1a6&deviceDNT=0&deviceModel=0
 
@@ -583,9 +547,6 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-62167144ab2095ca85353ad6.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/11c70d32-00fb-4c9d-9818-90c73fcc2ef4/CM-Plex-Dark_background_color-CanelaClasicos_-_Camila_Conti.png" group-title="Cine y Series", Canela Clásicos
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64fba469bb3e0baa5dcc0947.m3u8
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/f5564f22-68b4-48a4-b797-0efe45c73103/Logo_w_-_JENNIFER_MCBRIDE_colorrdx2.png" group-title="Cine y Series", Cine Premium Plus
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-645d848363c2c64203aa48fc.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/a41fd21e-3ffc-481a-b12a-ba5df241299f/Cine_de_horror_logo_1500x1000px_white.png" group-title="Cine y Series", Cine de Horror
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64e6e2f04a5e9b4cedc6d52b.m3u8
@@ -763,10 +724,7 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 group-title="Deportes", DeporTV
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700016X9_20230912T232525SQUARE.png" group-title="Deportes", Zona TUDN
-https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes", TUDN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes", Zona TUDN
 https://linear-356.frequency.stream/mt/studio/356/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HBOHkgL.png" group-title="Deportes", Afizzionados
@@ -778,7 +736,7 @@ https://linear-393.frequency.stream/mt/studio/393/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1212859696383696896/ljdBfeUQ_400x400.jpg" group-title="Deportes", All Sports 
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://dplnews.com/wp-content/uploads/2021/09/dplnews_tigo_vc_020921-696x569.png" group-title="Deportes", Tigo Sports ViX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/512px-Tigo_Sports_logo.svg.png" group-title="Deportes", Tigo Sports
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://content.jwplatform.com/images/jNgWEGCO.png" group-title="Deportes" group-title="Deportes", Wapa Deportes PR
