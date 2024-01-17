@@ -66,9 +66,6 @@ https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/1200px-Multimedios_Canal_Seis_Logo.svg.png" group-title="Variedades", Multimedios CDMX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200016HO_20230321T235911SQUARE.png_20230321235912.png" group-title="Variedades", Telemundo Al Día
-https://i.mjh.nz/SamsungTVPlus/USBB3200016HO.m3u8
-
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/1.png" group-title="Variedades", RCN Xtra
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
 
@@ -147,15 +144,6 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64a353a864e8e3dc0a29524f.m3u8
 #EXTINF:-1 tvg-logo="https://drupal.hahaha.com/sites/default/files/2022-12/jfl_226x150.png" group-title="Variedades", Just for Laughs
 https://distributionsjustepourrire-justforlaughsgags-1-es.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/c3a3b230-a40b-4409-b33f-678c1923bd77/FailArmy_logo_dark_v2.png" group-title="Variedades", FailArmy
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5f170d62b898490041b4936e.m3u8
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/9/epg/channels/logos/gracenote/92ece91992893ff338b2f45016877c9c.png" group-title="Variedades", Comedy Dynamics
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5efe1de5e0b3f5003f5d9f76.m3u8
-
-#EXTINF:-1 vg-logo="https://provider-static.plex.tv/epg/cms/production/8002e04c-3b48-4ed8-85c6-89f54c3cd466/David_Saint_-_fod_logo_for_plex_color.png" group-title="Variedades", Funny Or Die
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63d08694ab0965e49583e3b2.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.afv.com/assets/client/img/logo.png" group-title="Variedades", AFV
 https://linear-46.frequency.stream/mt/plex/46/hls/master/playlist.m3u8
 
@@ -176,43 +164,6 @@ https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KvMuTzN.png" group-title="Variedades",13 Humor
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/9d75cf3b-be95-4785-ab5a-3cfdd4994ab7/BratTV_PlexTV_Logo_DarkBG.png" group-title="Variedades", Brat TV
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63d6f6c5a9e88ee909e7ee1f.m3u8
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/0b2ed753-566f-476c-9329-1f08221de7a6/CM-Amagi-Artwork_4-1500x1000_-_Camila_Conti_WHITE_LETTERS_REDLOGO.png" group-title="Variedades", Canela Telenovelas
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64e6df6e4a5e9b4cedc6d529.m3u8
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/4c4f9712-5b0b-4516-bf4d-2ecc79da9c7b/clixtv-logo.png" group-title="Variedades", ClixTV
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6111b06a8f945c002c45dd12.m3u8
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cooking-panda.png" group-title="Variedades", Cooking Panda
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5f07e9fdf313eb0041bbecda.m3u8
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/7887d400-2355-41eb-9e9f-3ea13b3f949c/Craftsy_logo_color.png" group-title="Variedades", CraftsyTV
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6365779dde08f8eec6c3f21f.m3u8
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/04cb0c34-f78d-4314-ba43-f2cb6e81136d/DPTV_Logo_BB_-_Mohit_Gattu.png" group-title="Variedades", Desi Play TV
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-634dddc8a319c6df243f521f.m3u8
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/02dd320d-ce42-40eb-8f86-c91dd108c2be/flou_cine_logo_1500x1500-04_-_Marcello_Gagliardi_Lugordx2.png" group-title="Variedades", FLOU Channel
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6323ac0f8f253768c26b5529.m3u8
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/d3740a2e-4a7c-4bc2-b0ca-15fa24121fc5/1500X1000_PNG_w__transparent_background__All_white_Logo_for_Attribution__-_Yuri_Alexandrov.png" group-title="Variedades", FashionTV
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6490c01f3b3ce9e1aaad95be.m3u8
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/b29f0c2a-9838-4460-8b02-5e683439916a/1500x1000_TV_Amor_Suitable_dark_-_James_Stowe.png" group-title="Variedades", TV Amor
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64bf622acd02bd309fc30567.m3u8
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/0e0759ed-8180-46e7-8fe9-cbc7fa4afbf3/TODO_NOVELAS_-_Logo_1500x1000.png" group-title="Variedades", Todo Novelas
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6490e59918a55242eea95995.m3u8
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/humormill_logo_dark.png" group-title="Variedades", Humor Mill
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5fd115b7b7ef8d002dcf1814.m3u8
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/bc810d86-52d6-4a20-858e-c6336f167d2b/lovestoriestv_Logo_Stack_White_Christinardx.png" group-title="Variedades", Love Stories TV
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64e4351f200cd2f67473e0d2.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="Variedades", Telemundo Novelas
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=5fc9&deviceDNT=0&deviceModel=0
@@ -292,8 +243,8 @@ https://wifiexpert-1.energeek.cl/energeek/radio/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.paste.pics/afb90bf11a606a30ee4294c8b32cf9e4.png" group-title="Kids & Geek", Varied TV
 https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/t5aW7ednjkvqH55Rvqcd4JYE1CUAL5DLMn1Jx0rk.png" group-title="Kids & Geek", Meta Versus
-https://stream8.mexiserver.com:1936/metaversuscr/metaversuscr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BKkljlc.png" group-title="Kids & Geek", Meta Versus
+https://vivo.solumedia.com:19360/metaversus/metaversus.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/ZooMoo-Kids-Logo-Oficial-01.png/1200px-ZooMoo-Kids-Logo-Oficial-01.png" group-title="Kids & Geek", Zoomoo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
@@ -331,7 +282,7 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81j8DgLstPL.png" group-title="Kids & Geek", Toon Googles
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=514
 
-#EXTINF:-1 tvg-logo="https://www.dreikotv.com/wp-content/uploads/2023/04/cropped-logo.png" group-title="Kids & Geek", Dreiko TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k8U0e0b.png" group-title="Kids & Geek", Dreiko TV
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1081_AnimeStation.png" group-title="Kids & Geek", Anime Station
@@ -346,25 +297,6 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63eecb32ac23d1ee072087cb.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100003WE_20230208T013050SQUARE.png_20230208013050.png" group-title="Kids & Geek", Clan
 https://i.mjh.nz/SamsungTVPlus/ESBC4100003WE.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD130000205_20230809T053830SQUARE.png_20230809053830.png" group-title="Kids & Geek", Pitufo TV
-https://i.mjh.nz/SamsungTVPlus/ESBD130000205.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6051201a0aa8a70007c24a2a/colorLogoPNG-1618602700695.png" group-title="Kids & Geek", Mundo Geek
-https://i.mjh.nz/PlutoTV/16051201a0aa8a70007c24a2a-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/previewchannel_logo_dark_v2.png"  group-title="Kids & Geek", The Preview Channel
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-608083444363b700366942df.m3u8
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/785ee254-61da-47ed-a734-6f00be0444fb/Kidoodle.TV_Channel_Logo1500x1000rdx.png" group-title="Kids & Geek", Kidoodle TV
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5eea605574085f0040ddc79a.m3u8
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/ca4eaf02-b31d-4b56-8cad-1ff4601bb17b/KB_PLEX_1500x1000_Logo-Light-BG_-_James_Stowe.png"  group-title="Kids & Geek", Kidz Bop TV
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-656fb124cb7e8e6a9bc3f36a.m3u8
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/5e2cfd34-f503-4089-bc2b-823c83147ce5/David_Preisman_-_PlexChannel-Logo-rdxpng.png"  group-title="Kids & Geek", Ninja Kidz TV
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-627ec46a92d8e6a705784bd1.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://fontmeme.com/images/Spongebob-TV-Series.png" group-title="Kids & Geek", Bob Esponja
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=cb17&deviceDNT=0&deviceModel=0
@@ -526,9 +458,6 @@ https://i.mjh.nz/SamsungTVPlus/USBD7000017L.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.wowelsalvador.com/imagen/logo2.png" group-title="Cine y Series", WOW TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Cine y Series", WTV
-https://cloudvideo.servers10.com:8081/8130/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2020/09/site-logo.png" group-title="Cine y Series", My time Network
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
@@ -2416,116 +2345,83 @@ https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6j3FH1q.png" group-title="America Central", Esquipulas TV GT
 https://tv91.hostingnuclear.com:19360/esquipulastv/esquipulastv.m3u8
 
-
----------------------------------------------------
-Honduras
----------------------------------------------------
-
-
-#EXTINF:-1 tvg-logo="https://qhubotv.com/content/images/2022/08/Logo-Q-HUBO-1.png" group-title="Honduras", Q Hubo tv
+#EXTINF:-1 tvg-logo="https://qhubotv.com/content/images/2022/08/Logo-Q-HUBO-1.png" group-title="America Central", Q Hubo tv HN
 https://5e85d90130e77.streamlock.net/6024/6024/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/972873782972076032/6cacahDX_400x400.jpg" group-title="Honduras", Sercano TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GEyxDnf.png" group-title="America Central", TSi Honduras
+https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4hEYFa9.png" group-title="America Central", Canal 5 Honduras
+https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/972873782972076032/6cacahDX_400x400.jpg" group-title="America Central", Sercano TV HN
 http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/VTV_HN_logo_2019.png/1200px-VTV_HN_logo_2019.png" group-title="Honduras", VTV Honduras
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/VTV_HN_logo_2019.png/1200px-VTV_HN_logo_2019.png" group-title="America Central", VTV Honduras
 https://d1af06j591gh9u.cloudfront.net/VTVHN/e395935fa39597e3997b916a295f23e4.sdp/VTVHN/VTV1/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/03/activatvhonduras.png" group-title="Honduras", Activa TV
-https://multimedia.tmcreativos.com:1936/mbcrtzxnxd/mbcrtzxnxd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Ten-Canal-10-Honduras-en-vivo-Online.png" group-title="Honduras", TEN HD
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Ten-Canal-10-Honduras-en-vivo-Online.png" group-title="America Central", TEN HD Honduras
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/Canal-11-Honduras-en-vivo-Online.png" group-title="Honduras", Canal 11
-https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Cholusat-Sur-Canal-36-en-vivo-Online.png" group-title="Honduras", Cholusat Sur
-http://audiotvserver.net:1935/livemedia/cholusat/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/03/jbn.png" group-title="Honduras", JBN
-https://emisoras.hn:8081/jbn/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/04/LTV-Honduras-en-vivo-Online.png" group-title="Honduras", LTV
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/04/LTV-Honduras-en-vivo-Online.png" group-title="America Central", LTV Honduras
 https://5e85d90130e77.streamlock.net/6022/6022/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Honduras", Canal 15 DTP
-https://emisoras.hn:8081/dtp/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SjUnQlg.png" group-title="America Central", 45TV Honduras
+https://stream.alojamientowebgt.com:3656/live/tv45live.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Honduras", Ceiba Vision
-http://154.53.36.15:1935/CANAL36/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Maya_TV_logo.png/512px-Maya_TV_logo.png" group-title="America Central", Maya TV HN
+https://media.streambrothers.com:19360/8356/8356.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Honduras", Choluteca
-https://emisoras.hn:8081/cholutecatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V9Fpd3Y.png" group-title="America Central", UNE TV Honduras
+https://amixtv.live:3395/live/unetvlive.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Honduras", CHTV
-https://media.streambrothers.com:1936/8054/8054/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Honduras", CTV Internacional
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BcmQhry.png" group-title="America Central", CTV Internacional HN
 https://mediacp.us:8081/ctvhn/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Honduras", DTV
-https://emisoras.hn:8081/dtv/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Honduras", Ebezener TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IC30j61.png" group-title="America Central", Ebezener TV HN
 https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Honduras", EDN TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dq9we3E.png" group-title="America Central", EDN TV HN
 https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Honduras", Jehova TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ylZKG57.png" group-title="America Central", Jehova TV
 https://video.misistemareseller.com/jehovatelevision/jehovatelevision/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Honduras", Kerusso TV
-https://emisoras.hn:8081/kerussotv/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Honduras", La Metro TV
-https://emisoras.hn:8081/metrotv/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Honduras", TeleProgreso
-https://stmv1.zcasthn.com.br/teleprogreso/teleprogreso/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Honduras", TV Metropolis 19.1
+#EXTINF:-1 tvg-logo="" group-title="America Central", TV Metropolis 19.1
 https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Honduras", TV Metropolis 19.2
+#EXTINF:-1 tvg-logo="" group-title="America Central", TV Metropolis 19.2
 https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Honduras", TV Copan
-https://emisoras.hn:8081/tvcopan/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Honduras", TV Estrella
-https://emisoras.hn:8081/tvestrella/index.m3u8
-
-
----------------------------------------------------
-El Salvador
----------------------------------------------------
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png" group-title="El Salvador", CANAL 2 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png" group-title="America Central", CANAL 2 SV
 https://telecorporacion-es.cdn.vustreams.com:443/live/af9473b9-191c-456a-b714-57eace94e2fe/live.isml/Playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_6_TCS.png" group-title="El Salvador", Canal 6 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_6_TCS.png" group-title="America Central", Canal 6 SV
 https://telecorporacion.cdn.vustreams.com:443/live/a242095a-c49d-4263-b9ae-5958f5e0c9a1/live.isml/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.canal11.com.sv/logo11.png" group-title="El Salvador", TUTV Canal 11
+#EXTINF:-1 tvg-logo="http://www.canal11.com.sv/logo11.png" group-title="America Central", TUTV Canal 11 SV
 https://streaming.grupocsanetwork.com:19360/canal11/canal11.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Canal_12_El_Salvador_2018.png" group-title="El Salvador", Canal 12 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Canal_12_El_Salvador_2018.png" group-title="America Central", Canal 12 SV
 https://d273tvzn6z86cs.cloudfront.net/Canal12SV/d8d7dedcfe37a9a9da9d9f69058b82b7.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/TCS_35_2017.png/320px-TCS_35_2017.png" group-title="El Salvador", TCS+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/TCS_35_2017.png/320px-TCS_35_2017.png" group-title="America Central", TCS+ SV
 https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f5877e/live.isml/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Canal-19-El-Salvador-en-vivo-Online.png" group-title="El Salvador", canal 19
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Canal-19-El-Salvador-en-vivo-Online.png" group-title="America Central", canal 19 SV
 https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Canal-21.png" group-title="El Salvador", Canal 21
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Canal-21.png" group-title="America Central", Canal 21 SV
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="El Salvador", Canal 25
+#EXTINF:-1 tvg-logo="" group-title="America Central", TuCanal 25 SV
 https://ssh101.bozztv.com/ssh101/OrbitaTV25/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ztp781b.png" group-title="America Central", Canal 10 Nicaragua
+https://dgh4r3ro3i2mi.cloudfront.net/Canal10NI/7d8e90910905c4165b7180d8db1d8b68.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nb81xeU.png" group-title="America Central", WTV Nicaragua
+https://cloudvideo.servers10.com:8081/8130/index.m3u8
 
 
 ---------------------------------------------------
