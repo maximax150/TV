@@ -45,9 +45,6 @@ https://live.field59.com/wapa/wapa1/.m3u8
 #EXTINF:-1 tvg-logo="https://www.novelisima.com/assets/images/logo.png" group-title="Variedades", Novelisima
 https://stream.krgv.com/krgv-english/krgv-somos.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Televisa_Internacional.png" group-title="Variedades", Televisa Europa
-https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2022/07/Corazon450x300-1.png" group-title="Variedades", Azteca Corazon
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826
 
@@ -108,8 +105,11 @@ https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Telemundo_Puerto_Rico.svg/1200px-Telemundo_Puerto_Rico.svg.png" group-title="Variedades", Telemundo Puerto Rico
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/mega-tv-puerto-rico-en-vivo-Online.png" group-title="Variedades", Mega TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/MegaTV.png" group-title="Variedades", Mega TV
 https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TL6xy4y.png" group-title="Variedades" Punto2
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://production.content.okast.tv/606cb96a-cce3-4dad-a95f-a25a38aaba91/storefront_projects/dfc88d65-4460-415f-806e-66812ff2117c/favicon.4286FE918204C51D4BCCD4EF3E44A62A7A453CFDDBD9093E424CAFBF3137E475.en.png" group-title="Variedades", My Zen TV
 https://str81.creacast.com/myzentv/myzentv.smil/.m3u8
@@ -2660,75 +2660,71 @@ Dominicana
 
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-13NMPnGbChA/XkyjXafughI/AAAAAAAAwIE/5GeoQycy3SoMZ91mla3A_jqJqCqTMvz9wCK8BGAsYHg/s0/2020-02-18.png" group-title="Dominicana", Orbit TV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lizQs3n.png" group-title="Dominicana", Orbit TV 
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-KPTLLv1OcWA/YE1NaFb6S-I/AAAAAAABAm8/Kpbp9gx0m8wvFaeCpa-e5QjivRb3u6zdwCK8BGAsYHg/s512/2021-03-13.png", RVida TV 
-https://ss2.domint.net:3206/rv_str/rvida/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QpnctoU.png" group-title="Dominicana", Telefuturo
+https://ss9.domint.net:3054/tf_str/telefuturo/playlist.m3u8
 
-#EXTINF:-1, Acento TV
-https://acentotv01.streamprolive.com/hls/live.m3u8
-
-#EXTINF:-1, CDN Noticias 
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Wm0tIirwAaI/XzgSgfucd3I/AAAAAAAA4R4/P8FwD68fC00xVm39i-qNZewMWAqG2Be2wCK8BGAsYHg/s0/2020-08-15.jpg", Amé 
-https://ss9.domint.net:3040/ame_str/amecanal47/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Zf12E_etz2s/XzgSxNz29WI/AAAAAAAA4SA/Zk-IT4kK35QR3dV8TxsfupU1F3_xt_x3ACK8BGAsYHg/s0/2020-08-15.jpg", Bajo Techo TV 
-https://cdn4.hostlagarto.com:8081/static/bajotechotv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/logos/4rd.jpg", Canal 4 RD
-https://ss5.domint.net:3026/btv_str/bonao/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, TV Quisqueya
-https://rctvhd.net:8081/tvquisqueyahd/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/a157fcb0f29e1407aaca997c8564765a.png", Punta Cana TV
-https://cdn4.hostlagarto.com:8081/static/puntacanatv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-8cq3avHwbSM/XzgVnYNlfOI/AAAAAAAA4TM/gZAH2-w2NlgRL4tDfvCSh0Fq6Fu3od52QCK8BGAsYHg/s0/2020-08-15.jpg", Cinevision Canal 19
-https://live.teledom.info:3713/live/cinevisionlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-B-xmeIzShMA/XzgVttyb-XI/AAAAAAAA4TQ/3NYa5It_NjoiP1w4a5l5kIZfQD7s8VPpwCK8BGAsYHg/s0/2020-08-15.jpg", Entelevision 
-https://video.misistemareseller.com/entelevision/entelevision/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-gNwkGNBw7kQ/XzgR58ws75I/AAAAAAAA4Ro/RDsdgWvXHrE7Ow_6xDAjXEupxv0X5eIiQCK8BGAsYHg/s0/2020-08-15.png", Luna TV 
-https://ss2.domint.net:3228/luna_str/lunatv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-jxMdnwq3fxw/XzgSNxgvHSI/AAAAAAAA4Rw/eev6AGnJag8MDN1kt76lQwfraDPAIsnDACK8BGAsYHg/s0/2020-08-15.png", Megavision 
-http://stream3.prostudionetwork.com:1943/megavision/MV/chunklist_w1925216201.m3u8
-
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/d0743d852c7c3b8f6f5996ac0780fefc.png", Nitida TV 
-https://live.teledomdr.com:3131/live/nitidatvlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-jth7QtCbGzk/XzgbeB2zxhI/AAAAAAAA4Uw/uSoJpwnWpyw_rQfYXhM89c_9lPfHKydvACK8BGAsYHg/s0/2020-08-15.png", RNN 
-https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mLk3w8rRy2E/XzgcBFkX40I/AAAAAAAA4VE/Woxy8sdQnTcUkC2ZBbv_6pBvjL6oY2xzACK8BGAsYHg/s0/2020-08-15.jpg", Telecanal 12 
-https://cdn4.hostlagarto.com:8081/static/telecanal12/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-D9rpmxbwhO8/XzgcGOwfAUI/AAAAAAAA4VI/xgju0xICu_cmO620DoxlajfYrXwVPoEDwCK8BGAsYHg/s0/2020-08-15.jpg", Telecanal 28 
-http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-w36Bp5Kua6w/Xzgcs8BkqPI/AAAAAAAA4Vg/delKewJS1gwLtPPQZDSb2q7ZWBwz4mfBACK8BGAsYHg/s0/2020-08-15.png", Telenord 10 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Ei0kB8.png" group-title="Dominicana", Telenord 10 
 http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-H-NVSh7JGf4/XzgczIRMOsI/AAAAAAAA4Vk/y_Lv0icuD_kPVSTqLQ89IpjhZEd3ad1aACK8BGAsYHg/s0/2020-08-15.jpg", Telenord 12 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Ei0kB8.png" group-title="Dominicana", Telenord 12 
 http://newyorkstream.ddns.net:5854/telenord12/telenord12/telenord12.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-P4P3Fo23ruc/XzgcmLYJ46I/AAAAAAAA4Vc/0PbZbLJIjckXdsj_Wca-n7D7QS4GCEiYwCK8BGAsYHg/s0/2020-08-15.jpg", Telenord 8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Ei0kB8.png" group-title="Dominicana", Telenord 8 
 http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8
 
-#EXTINF:-1,Antena 7 RD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zKWFgeQ.png" group-title="Dominicana", Antena 7 RD
 https://d1841z6ti5nz2v.cloudfront.net/Antena7DO/34cdaa501a0217ea217d8f4f083c1728.sdp/playlist.m3u8
 
-#EXTINF:-1,Antena 21 RD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QE0XWLh.png" group-title="Dominicana", Antena 21 RD
 https://d1841z6ti5nz2v.cloudfront.net/Canal21DO/f260159f04ed124e08b9ee0364dd4ca7.sdp/playlist.m3u8
 
-#EXTINF:-1,Teleuniverso - RD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gQev8ST.png", Teleuniverso  RD
 https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jhiZfHf.png" group-title="Dominicana", Acento TV
+https://acentotv01.streamprolive.com/hls/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XjGb2UM.png" group-title="Dominicana", Carivision
+https://ss5.domint.net:3174/car_str/carivision/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eQyjIgf.png"group-title="Dominicana", CDN Noticias 
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MUEbjeP.png" group-title="Dominicana", Amé 
+https://ss9.domint.net:3040/ame_str/amecanal47/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I2wRq88.png" group-title="Dominicana", Bajo Techo TV 
+https://rdn.essastream.com:3042/live/bajotechotvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/logos/4rd.jpg" group-title="Dominicana", Canal 4 RD
+https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iKLGBbA.png" group-title="Dominicana", Canal 14 RD
+https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/a157fcb0f29e1407aaca997c8564765a.png" group-title="Dominicana", Punta Cana TV
+https://rdn.essastream.com:3544/live/puntacanatvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gVtLpMD.png" group-title="Dominicana", Entelevision 
+https://tv.livestreaminggroup.info:3985/live/entelevisionlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EvX5aqI.png" group-title="Dominicana", Luna TV 
+https://streaming.ath.cx:1936/lunatv/lunatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qsyjdR8.png" group-title="Dominicana", MiTV
+https://ss2.domint.net:3204/mitv_str/mitv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wMl1fNZ.png" group-title="Dominicana", Microvision
+https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/12Z9qPw.png" group-title="Dominicana", RNN 
+https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/90cTK8S.png" group-title="Dominicana", Telecanal 12 
+https://rdn.essastream.com:3258/live/telecanal12live.m3u8
 
 
 ---------------------------------------------------
