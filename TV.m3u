@@ -81,6 +81,9 @@ https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cf
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/ee/Logo_Novelas_TV.svg/1200px-Logo_Novelas_TV.svg.png" group-title="Variedades", Novelas en español
 https://stormcast-novelas-2-es.samsung.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OM6BP37.png", Flou Channel
+https://amg01768-flou-flou-canelatv-yri41.amagi.tv/playlist/amg01768-flou-flou-canelatv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://lovemagazine.ca/wp-content/uploads/2022/09/LOGO-LOVE-PDW.png" group-title="Variedades", Love Magazine
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazinees-samsungspain/playlist.m3u8
 
@@ -146,6 +149,9 @@ https://distributionsjustepourrire-justforlaughsgags-1-es.samsung.wurl.tv/playli
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TOB9vmW.png" group-title="Variedades", AFV
 https://linear-46.frequency.stream/mt/plex/46/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dLSKBEn.png" group-title="Variedades", AFV Family
+https://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.kanalddrama.com/assets/img/logo_bottom2.png" group-title="Variedades", Kanal D
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
@@ -2917,7 +2923,7 @@ U.S.A.
 
 
 
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/04108b0d177afdddd43e321db231eeeb22addc8e37665b2c29e15800ad3b69a1.png" group-title="USA", Atlanta Channel
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/" group-title="USA", Atlanta Channel
 http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/1200px-AXS_TV_logo.svg.png", AXS TV Now
@@ -2935,29 +2941,23 @@ https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playli
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cloudflare_Logo.svg/2560px-Cloudflare_Logo.svg.png", Cloudflare tV
 https://cloudflare.tv/hls/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.comedydynamics.com/wp-content/uploads/2020/06/comedy-dynamics-logo.png", Comedy Dinamics
-https://comedydynamics-wurl.cinedigm.com/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/1200px-Comet_logo.svg.png", Comet
 https://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png", Court TV
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IFC_2018_logo.svg/1200px-IFC_2018_logo.svg.png", IFC
-https://bcovlive-a.akamaihd.net/045bd3b615254da880c3db79b2e42fd0/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oX5oR4d.png", Black News Channel
+https://redbox-blacknewschannel-xumo.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", ABC 7 KMGH
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/800px-WABC_TV_New_2021.svg.png", ABC 7 KMGH
 https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Current_Logo_for_CBC_News_Network.png", CBC News
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GwxneSQ.png", Blaze live
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46fba0c43b0d00096e5ac1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e46fba0c43b0d00096e5ac1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=238&terminate=false&userId=
 
-#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/12/Wired_logo_logotipo.png", Wired
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxwired/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="", Voyager Documentaries
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvoyager/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PJdzoLN.png", Britbox Mistery
+https://lnc-bbc-britbox-mysteries.tubi.video/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/fn3oz0ihbtp8pkhpr3jh", Sports Grid
 https://sportsgrid-xumo-us.amagi.tv/xumo.m3u8
@@ -2989,9 +2989,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfood52A/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Filmrise.svg/1200px-Filmrise.svg.png", Filmrise Free Movies
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Filmrise.svg/1200px-Filmrise.svg.png", Filmrise Family
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefamily/CDN/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Filmrise.svg/1200px-Filmrise.svg.png", Filmrise Classic
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmriseclassictv/CDN/playlist.m3u8
 
@@ -3001,10 +2998,10 @@ https://crackle-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.rockmedia.it/wp-content/uploads/2023/03/unnamed.jpg", Complex
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcomplex/CDN/playlist.m3u8
 
-#EXTINF:-1, Circle
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Circle_Network_logo.svg/512px-Circle_Network_logo.svg.png", Circle
 https://circle-xumo.amagi.tv/playlist.m3u8
 
-#EXTINF:-1, Dove Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FVWqYQG.png", Dove Channel
 https://dovenow-roku-ingest.cinedigm.com/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.castify.ai/files/channels/lw/xs95m956wa/menu_logo_image/1662032299.png", Free Movies Classics
@@ -3034,8 +3031,8 @@ https://lnc-kcpq.tubi.video/index.m3u8
 #EXTINF:-1 tvg-logo="https://fox17.com/resources/media/94f003bb-4490-421e-8dd8-cae55b1d7659-large16x9_WZTV_LOGO_700x400.png", Fox 17
 https://lnc-wxmi.tubi.video/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/vcjvsnaeixme/1Ve14WVexCdDpW8YNYxQsl/077f6083f556c234da2dd9ecd3e2477d/cheddar_news_share.png", Cheddar News
-https://cheddar.samsung.wurl.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/512px-Buzzr_logo.svg.png", Buzzr
+https://buzzr-samsungus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ABC_News_logo_2021.svg/2560px-ABC_News_logo_2021.svg.png", ABC News
 https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
@@ -3058,8 +3055,20 @@ https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.verylocal.com/wp-content/uploads/2021/08/VeryLocal_Logo_Horiz_Light-600x115.png", Very Local Alabama
 https://lnc-wvtm.tubi.video/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.verylocal.com/wp-content/uploads/2021/08/VeryLocal_Logo_Horiz_Light-600x115.png", Very Local
-https://linear-200.frequency.stream/dist/vix/200/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PF71rdZ.png", BX arts
+https://reflect-stream-bronxnet.cablecast.tv/live-19/live/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PF71rdZ.png", BX Culture
+https://reflect-stream-bronxnet.cablecast.tv/live-7/live/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PF71rdZ.png", BX Inform
+https://reflect-stream-bronxnet.cablecast.tv/live-8/live/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PF71rdZ.png", BX Inspire
+https://reflect-stream-bronxnet.cablecast.tv/live-18/live/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PF71rdZ.png", BX Omni
+https://reflect-stream-bronxnet.cablecast.tv/live-16/live/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://journy.tv/app/uploads/2021/10/journy_powered_by_ovation.png", Journy
 https://linear-252.frequency.stream/dist/vix/252/hls/master/playlist.m3u8
@@ -3091,26 +3100,50 @@ https://lnc-usa-today.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/USA_Today_2012logo.svg/1200px-USA_Today_2012logo.svg.png", USA Today Sports Wire
 https://lnc-sportswire.tubi.video/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://uploads.dailydot.com/2020/05/sundance_tv.jpg?", Sundance TV
-https://bcovlive-a.akamaihd.net/4d972ec6f41241f2b4286f8bdcc8dae9/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OjpCtGj.png", AWE
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/awe_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/2aca9f2d-cd37-4e99-93c2-ea331d407008/FreeTVLive_logo_1500x1000RDX.png", FreeTV
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6018913ea15130002b28418f.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0utwZ63.png", AWE Encore
+https://aweencore-vizio.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/dc452291-62d8-4f01-8e5b-b1fef79fb37d/GalxyTV_logo_dark.png", Galxy TV
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-621672e42c2627c068e73ad8.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1hHW3IK.png", CCX Media
+https://reflect-ccx.cablecast.tv/live-9/live/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/77657b78-d874-418d-a831-b7aa3a5eb955/gousa-tvWHITE_RDX1500x1000.png", GoUSA TV
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-60a9d105d162b9002d05a60c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1rxmu2u.png", Charge
+https://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/usweekly_logo_dark.png" , Us Weekly TV
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-60a9d105d162b9002d05a60e.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tuP9GW8.png", Cheddar News
+https://lnc-cheddar.tubi.video/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/8597bf48-255c-4c9b-8f88-a3199b84e666/MagellanTV_Logoww.png" , MagellanTV NOW
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-636abc6d4cbc0319a0bd49c0.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M6FFkc3.png", Arts
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/moreu_logo_dark.png" , More U
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6112a9139894c8002c6cb87f.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wg5I5Fb.png", Classic TV Comedy
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f15e32b297f96000768f928/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f15e32b297f96000768f928&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=501&terminate=false&userId=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XHQxv0x.png", Classic TV Drama
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f15e3cccf49290007053c67/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f15e3cccf49290007053c67&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=520&terminate=false&userId=
+
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb5541.png", Daystar
+https://hls-live-media.cdn01.net/dvr/stream_37099_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/10062020/Drama_Life_190x190.png", Drama Life
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f24662bebe0f0000767de32/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KbmXdjm.png", Freebie TV
+https://d1h1d6qoy9vnra.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Freebie-Plex/187.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pu4BC3M.png", GFN
+https://d3jxchypmk8fja.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/GFNTV-Plex/169.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pu4BC3M.png", GO Usa
+https://brandusa-gousa-1-in.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p16HNIM.png", Made in Hollywood
+https://connection3-ent-us.redbox.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4fqvwEk.png", MAVTV
+https://mavtv-1-ca.samsung.wurl.tv/playlist.m3u8
 
 
 ---------------------------------------------------
@@ -4560,4 +4593,6 @@ http://138.59.177.34:8000/play/a04h/index.m3u8
 http://138.59.177.34:8000/play/a07g/index.m3u8
 #EXTINF:-1,Penthouse 
 http://45.166.92.22:58001/play/a04c/index.m3u8
+#EXTINF:-1,Brazzers
+https://cdn-main.lolokoko.tv/BRAZZERS.stream/chunks.m3u8
 
