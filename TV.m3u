@@ -756,17 +756,26 @@ https://live.field59.com/wapa/wapa2/.m3u8
 #EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/djSznf8GYLKM5NtrPThPsoFW7kL5Cs2u485fTGsf.jpg" group-title="Deportes", + Ciclismo TV
 https://vcp8.myplaytv.com:1936/masciclismo/masciclismo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/tnt_sports_pasion_sin_limites_vgraf2.jpg" group-title="Deportes", TNT Sports BR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Am70nWY.png" group-title="Deportes", TNT Sports BR
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E6pLvOV.png" group-title="Deportes", TNT Sports 2 BR
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/tnt_sports_pasion_sin_limites_vgraf2.jpg" group-title="Deportes", TNT Sports 2 BR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LFSMbpN.png" group-title="Deportes", TNT Sports 3 BR
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/tnt_sports_pasion_sin_limites_vgraf2.jpg" group-title="Deportes", TNT Sports 3 BR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Am70nWY.png" group-title="Deportes", TNT Sports 4 BR
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/tnt_sports_pasion_sin_limites_vgraf2.jpg" group-title="Deportes", TNT Sports 4 BR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Am70nWY.png" group-title="Deportes", TNT Sports 5 BR
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6320d2755e54db000783fd87/colorLogoPNG.png" group-title="Deportes" , Claro Sports Mexico
+https://r.mjh.nz/PlutoTV/6320d2755e54db000783fd87-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63f7e3f9dff38e00082a57af/colorLogoPNG.png" group-title="Deportes" , ITV Deportes
+https://r.mjh.nz/PlutoTV/63f7e3f9dff38e00082a57af-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_trace-sports-stars_m.png" group-title="Deportes", Trace Sport
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
@@ -1725,6 +1734,9 @@ http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f032a160e2b4cbb9de8f0080b845c9ca.webp" group-title="Brazil", Classique TV 
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="Brazil", Record TV
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HZDRG0K.png" group-title="Brazil", Record News 
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
