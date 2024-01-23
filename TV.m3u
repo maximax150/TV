@@ -111,10 +111,10 @@ https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL6xy4y.png" group-title="Variedades" Punto2
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://production.content.okast.tv/606cb96a-cce3-4dad-a95f-a25a38aaba91/storefront_projects/dfc88d65-4460-415f-806e-66812ff2117c/favicon.4286FE918204C51D4BCCD4EF3E44A62A7A453CFDDBD9093E424CAFBF3137E475.en.png" group-title="Variedades", My Zen TV
+#EXTINF:-1 tvg-logo="https://www.myzen.tv/wp-content/uploads/2019/12/My-Zen-Tv_LOGO_Couleur_vide-300x300.png" group-title="Variedades", My Zen TV
 https://str81.creacast.com/myzentv/myzentv.smil/.m3u8
 
-#EXTINF:-1 tvg-logo="https://production.content.okast.tv/606cb96a-cce3-4dad-a95f-a25a38aaba91/storefront_projects/dfc88d65-4460-415f-806e-66812ff2117c/favicon.4286FE918204C51D4BCCD4EF3E44A62A7A453CFDDBD9093E424CAFBF3137E475.en.png" group-title="Variedades", My Zen TV Fit
+#EXTINF:-1 tvg-logo="https://www.planetecsat.com/wp-content/uploads/2023/05/Entete-Wellbeing-TV.png" group-title="Variedades", Wellbeing TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/1bfcb8e4-9593-4914-aa02-14b966a2ec7e/AF_Logo_for_Light_BG__transparent__-_Jose_RiveraRDX.png" group-title="Variedades", Always Funny
@@ -861,9 +861,6 @@ https://i.mjh.nz/SamsungTVPlus/ESBC410000577.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700009B4_20230712T021339SQUARE.png_20230712021340.png" group-title="Deportes" , FIFA+
 https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3500003YK_20230510T044211SQUARE.png_20230510044211.png" group-title="Deportes" , MyPadel TV
-https://i.mjh.nz/SamsungTVPlus/ESBC3500003YK.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2600001ME_20230809T053838SQUARE.png_20230809053839.png" group-title="Deportes" , Tennis Channel
 https://i.mjh.nz/SamsungTVPlus/ESBD2600001ME.m3u8
