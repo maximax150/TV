@@ -36,8 +36,8 @@ https://linear-402.frequency.stream/mt/studio/402/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zQiEsnH.png" group-title="Variedades",Televisa Monterrey
 https://linear-403.frequency.stream/mt/studio/403/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://nuestravision.tv/wp-content/uploads/2018/09/NV_Web_Logo_3D_20180904_900.png" group-title="Variedades", Nuestra Vision
-https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/RCTV_Producciones.png" group-title="Variedades",RCTV Novelas
+https://linear-334.frequency.stream/mt/studio/334/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://theme.zdassets.com/theme_assets/12350451/9cdeed54b9c68fa55c3beb8edd8d228c5e452450.png" group-title="Variedades", ViX Parejas
 https://d1f3q72l8uy8ur.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z46pswns8dp1b-ssai-prd/dist/samsungtv/318/hls/master/playlist.m3u8
