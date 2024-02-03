@@ -764,10 +764,7 @@ https://live.field59.com/wapa/wapa2/.m3u8
 #EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/djSznf8GYLKM5NtrPThPsoFW7kL5Cs2u485fTGsf.jpg" group-title="Deportes", +Ciclismo TV
 https://vcp8.myplaytv.com:1936/masciclismo/masciclismo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64b02bbd7d93410008fdae60/colorLogoPNG.png" group-title="Deportes", Women's Football
-https://r.mjh.nz/PlutoTV/64b02bbd7d93410008fdae60-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6582f002a620e3000813b329/colorLogoPNG.png" group-title="Deportes", Azteca Deportes Network
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6582f002a620e3000813b329/colorLogoPNG.png" group-title="Deportes" , Azteca Deportes Network
 https://r.mjh.nz/PlutoTV/6582f002a620e3000813b329-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6320d2755e54db000783fd87/colorLogoPNG.png" group-title="Deportes" , Claro Sports Mexico
