@@ -745,9 +745,6 @@ https://linear-356.frequency.stream/mt/studio/356/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HBOHkgL.png" group-title="Deportes", Afizzionados
 https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="Deportes", Fox Sports Mexico
-https://linear-380.frequency.stream/mt/studio/380/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/AdrenalinaSportsNetwork.png" group-title="Deportes", Adrenalina Sports Network
 https://linear-393.frequency.stream/mt/studio/393/hls/master/playlist.m3u8
 
