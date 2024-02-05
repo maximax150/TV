@@ -585,9 +585,6 @@ https://5eaccbab48461.streamlock.net:1936/8222/8222/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.portalfoxmix.cl/web/wp-content/uploads/2016/03/logoPFM.png", Portal FoxMix 
 https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.canal26.com/images/open-graph/musictop_logo.png", Music Top 
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/e63c9721b2261a3213ea1a4e69776d0f.png", Oldies Hits TV
 https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8
 
@@ -600,17 +597,8 @@ https://canal.mediaserver.com.co/live/canalamordiscos.m3u8
 #EXTINF:-1 tvg-logo="https://telemusica.tv/wp-content/uploads/2022/08/Telemusicax512.png", Telemusica 
 https://canal.mediaserver.com.co/live/telemusica.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/6679119106cf69f194a4d375b391a2a2.png", Memorias TV 
-https://mediacp.us:8081/8002/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://toplatino.net/wp-content/uploads/2019/04/cropped-LogoTL-300-new-9.png", TOP Latino TV 
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/.m3u8
-
-#EXTINF:-1 tvg-logo="", Turbo Mix TV 
-https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-5-1IsAfHulw/YLY20QswyOI/AAAAAAABCnU/3HTzC_ryaZc_tkdFb_MZGFH05anhfxPGgCJEEGAsYHg/s512/2021-06-01.png", Hits 360 
-http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/1yeVCQoEYPNMrJVCeegIi3nyrstnkYnymfvL0ZSY.jpg", Colosal Radio
 https://5d16127744872.streamlock.net/canal3/canal3/playlist.m3u8
@@ -618,7 +606,7 @@ https://5d16127744872.streamlock.net/canal3/canal3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/191d7f0299ec0197d15d2e7b76ff037f.png", Radio 88 Stereo CR
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1143426603/IQChannel_400x400.jpg", IQ Channel CR
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/1ncDMptl6bDKmszM51w8tkfn2f7JwV7PpyVTYgUD.png", HQ Music CR
 https://250weu.bozztv.com/ssh101/ssh101/iqchannel/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/fbefcbca47462eb80eedbeaf95126474.png", VM Latino CR
@@ -635,12 +623,6 @@ https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-QUz4UviUPiE/X3YnewzIm7I/AAAAAAAA6Ho/xpUvyAvSX6Qj0Lvl8qhuZnDdz9VPZWy4QCK8BGAsYHg/s0/2020-10-01.png", Video Tour Channel CR
 http://k4.usastreams.com/videotour/videotour/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/10532b52fe8caff8b9ac5d56c616bddb.png", Fabulosa FM 
-http://185.36.211.142:8080/tmp_hls/fabulosa/index.m3u8?
-
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/46fdcecaa7fc4ca2f236df0d8a4df6a6.png", Molahits TV 
-http://ventdelnord.tv:8080/mola/directe.m3u8?
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Telehit_logo_2020.png", Telehit
 https://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8
@@ -683,33 +665,47 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6322658be67cf9cd9011fcda.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://alternative.me/media/256/stingray-music-icon-czw1xxxzgpmeahvj-c.png", Stingray Classica
-https://watchtv-raw.ott-channels.stingray.com/classica/index.m3u8
-#EXTINF:-1 tvg-logo="https://alternative.me/media/256/stingray-music-icon-czw1xxxzgpmeahvj-c.png", Stingray Classica 2
-https://watchtv-raw.ott-channels.stingray.com/classica01/index.m3u8
-#EXTINF:-1 tvg-logo="https://alternative.me/media/256/stingray-music-icon-czw1xxxzgpmeahvj-c.png", Stingray Cmusic
-https://watchtv-raw.ott-channels.stingray.com/cmusic/index.m3u8
+https://d2bpmlqcx2tu90.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t0e1oqtyors2s/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://alternative.me/media/256/stingray-music-icon-czw1xxxzgpmeahvj-c.png", Stingray Naturescape
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=570
+https://stingray-naturescape-1-us.samsung.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://alternative.me/media/256/stingray-music-icon-czw1xxxzgpmeahvj-c.png", Stingray Hits
 https://ott-linear-channels.stingray.com/155/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://alternative.me/media/256/stingray-music-icon-czw1xxxzgpmeahvj-c.png", Stingray Hit List
 https://ott-linear-channels.stingray.com/107/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://alternative.me/media/256/stingray-music-icon-czw1xxxzgpmeahvj-c.png", Stingray Classic Rock
 https://ott-linear-channels.stingray.com/101/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://alternative.me/media/256/stingray-music-icon-czw1xxxzgpmeahvj-c.png", Stingray Rock Alt
 https://ott-linear-channels.stingray.com/102/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://alternative.me/media/256/stingray-music-icon-czw1xxxzgpmeahvj-c.png", Stingray Adult Pop
 https://ott-linear-channels.stingray.com/104/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://alternative.me/media/256/stingray-music-icon-czw1xxxzgpmeahvj-c.png", Stingray Urban
 https://ott-linear-channels.stingray.com/133/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://alternative.me/media/256/stingray-music-icon-czw1xxxzgpmeahvj-c.png", Stingray Country
 https://ott-linear-channels.stingray.com/108/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://alternative.me/media/256/stingray-music-icon-czw1xxxzgpmeahvj-c.png", Stingray Latin
 https://ott-linear-channels.stingray.com/190/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://alternative.me/media/256/stingray-music-icon-czw1xxxzgpmeahvj-c.png", Stingray 70s
 https://ott-linear-channels.stingray.com/115/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://alternative.me/media/256/stingray-music-icon-czw1xxxzgpmeahvj-c.png", Stingray 80s
 https://ott-linear-channels.stingray.com/128/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://alternative.me/media/256/stingray-music-icon-czw1xxxzgpmeahvj-c.png", Stingray 90s
+https://dgxid9pkkhl5v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eh5fc0owefye7/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://alternative.me/media/256/stingray-music-icon-czw1xxxzgpmeahvj-c.png", Stingray The Spa
+https://d9rd4243pcy92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e4dxftqz7hlvi/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg", Vevo Pop
 https://d3t95pdz2h4c90.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg", Vevo Rock
@@ -749,8 +745,14 @@ https://linear-356.frequency.stream/mt/studio/356/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HBOHkgL.png" group-title="Deportes", Afizzionados
 https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="Deportes", Fox Sports Mexico
+https://linear-380.frequency.stream/mt/studio/380/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/AdrenalinaSportsNetwork.png" group-title="Deportes", Adrenalina Sports Network
 https://linear-393.frequency.stream/mt/studio/393/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9c/Fox_Major_League_Baseball_logo.jpg" group-title="Deportes", FOX MLB
+https://linear-508.frequency.stream/mt/studio/508/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1212859696383696896/ljdBfeUQ_400x400.jpg" group-title="Deportes", All Sports 
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
@@ -2308,14 +2310,8 @@ https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mBNOSzl.png" group-title="America Central", NimTV GT
 https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YxBrM4u.png" group-title="America Central", GuaTV Guatemala
-https://cdn.streamhispanatv.net:3589/live/guatvgtlive.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jdnHci0.png" group-title="America Central", TVS Retro GT
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VShjB3o.png" group-title="America Central", SAS TV GT
-https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S0JrfIl.png" group-title="America Central", Vision TV GT
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
@@ -2332,14 +2328,8 @@ https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4hEYFa9.png" group-title="America Central", Canal 5 Honduras
 https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/972873782972076032/6cacahDX_400x400.jpg" group-title="America Central", Sercano TV HN
-http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/VTV_HN_logo_2019.png/1200px-VTV_HN_logo_2019.png" group-title="America Central", VTV Honduras
 https://d1af06j591gh9u.cloudfront.net/VTVHN/e395935fa39597e3997b916a295f23e4.sdp/VTVHN/VTV1/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Ten-Canal-10-Honduras-en-vivo-Online.png" group-title="America Central", TEN HD Honduras
-http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/04/LTV-Honduras-en-vivo-Online.png" group-title="America Central", LTV Honduras
 https://5e85d90130e77.streamlock.net/6022/6022/playlist.m3u8
