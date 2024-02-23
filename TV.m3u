@@ -387,6 +387,9 @@ https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/5Cd0fF0wXhrDT8rawVjapPgIVQzQlR71lP2pNSjk.jpg" group-title="Cine y Series", GRJNGO
 https://amogonetworx-grjngo-2-eu.plex.wurl.tv/2000.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="Cine y Series", Star TVE
+https://rtvelivestream.akamaized.net/rtvesec/int/star_main_dvr.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gnz4twB.png" group-title="Cine y Series",Golden
 https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8
 
@@ -850,6 +853,8 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-60aeb5cd87f9b1002ce12323.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/ce23ad9d-7d30-4ea8-8d88-07f2c8997caa/prowrestlingtv_logo_dark_-_Jordan_Warkol.png" group-title="Deportes", Pro Wrestling TV
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-62b124bb32ebdc6c67a7eea1.m3u8
 
+#EXTINF:-1 tvg-logo="https://surfchanneltv.com/wp-content/uploads/2021/03/logo512.png" group-title="Deportes", Surf channel
+https://surfchannel-surfchannel-01-es.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC410000577_20231115T012205SQUARE.png_20231115012205.png" group-title="Deportes" , Teledeporte
 https://i.mjh.nz/SamsungTVPlus/ESBC410000577.m3u8
