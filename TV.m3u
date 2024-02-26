@@ -4266,6 +4266,214 @@ http://45.190.187.226:58092/play/a00m
 http://45.190.187.226:58092/play/a011
 
 
+#EXTINF:-1 tvg-logo="" group-title="Cable 3",
+#EXTINF:-1,ABC
+http://livex.pop-app.live/s4n/poplive/ch340/playlist.m3u8
+#EXTINF:-1,ACCN ESPN
+http://livex.pop-app.live/s4n/poplive/ch573/playlist.m3u8
+#EXTINF:-1,AFIZZIONADOS MX
+http://livex.pop-app.live/s4n/poplive/ch548/playlist.m3u8
+#EXTINF:-1,AMC
+http://livex.pop-app.live/s4n/poplive/ch549/playlist.m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://livex.pop-app.live/s4n/poplive/ch208/playlist.m3u8
+#EXTINF:-1,ANTENA3
+http://livex.pop-app.live/s4n/poplive/ch351/playlist.m3u8
+#EXTINF:-1,AXS TV
+http://livex.pop-app.live/s4n/poplive/ch564/playlist.m3u8
+#EXTINF:-1,AZTECA CORAZON
+http://livex.pop-app.live/s4n/poplive/ch570/playlist.m3u8
+#EXTINF:-1,BABY TV LAT
+http://livex.pop-app.live/s4n/poplive/ch550/playlist.m3u8
+#EXTINF:-1,BIG NETWORK
+http://livex.pop-app.live/s4n/poplive/ch572/playlist.m3u8
+#EXTINF:-1,BITME LAT
+http://livex.pop-app.live/s4n/poplive/ch555/playlist.m3u8
+#EXTINF:-1,BOOMERANG USA
+http://livex.pop-app.live/s4n/poplive/ch545/playlist.m3u8
+#EXTINF:-1,BravoTV
+http://livex.pop-app.live/s4n/poplive/ch316/playlist.m3u8
+#EXTINF:-1,CARACOL
+http://livex.pop-app.live/s4n/poplive/ch350/playlist.m3u8
+#EXTINF:-1,CNN
+http://livex.pop-app.live/s4n/poplive/ch318/playlist.m3u8
+#EXTINF:-1,COOKING CHANNEL
+http://livex.pop-app.live/s4n/poplive/ch521/playlist.m3u8
+#EXTINF:-1,DISCOVERY
+http://livex.pop-app.live/s4n/poplive/ch571/playlist.m3u8
+#EXTINF:-1,DISCOVERY FAMILY
+http://livex.pop-app.live/s4n/poplive/ch526/playlist.m3u8
+#EXTINF:-1,DISCOVERY ID LAT
+http://livex.pop-app.live/s4n/poplive/ch525/playlist.m3u8
+#EXTINF:-1,DISCOVERY TURBO LAT
+http://livex.pop-app.live/s4n/poplive/ch556/playlist.m3u8
+#EXTINF:-1,E!
+http://livex.pop-app.live/s4n/poplive/ch308/playlist.m3u8
+#EXTINF:-1,ESPN DEPORTES
+http://livex.pop-app.live/s4n/poplive/ch311/playlist.m3u8
+#EXTINF:-1,ESPN MX
+http://livex.pop-app.live/s4n/poplive/ch319/playlist.m3u8
+#EXTINF:-1,ESPN US
+http://livex.pop-app.live/s4n/poplive/ch329/playlist.m3u8
+#EXTINF:-1,ESPN USA
+http://livex.pop-app.live/s4n/poplive/ch313/playlist.m3u8
+#EXTINF:-1,FOOD NETWORK
+http://livex.pop-app.live/s4n/poplive/ch211/playlist.m3u8
+#EXTINF:-1,Fox Deportes
+http://livex.pop-app.live/s4n/poplive/ch301/playlist.m3u8
+#EXTINF:-1,FOX SA
+http://livex.pop-app.live/s4n/poplive/ch312/playlist.m3u8
+#EXTINF:-1,FS1 US
+http://livex.pop-app.live/s4n/poplive/ch339/playlist.m3u8
+#EXTINF:-1,FS2 USA
+http://livex.pop-app.live/s4n/poplive/ch326/playlist.m3u8
+#EXTINF:-1,FX LAT
+http://livex.pop-app.live/s4n/poplive/ch505/playlist.m3u8
+#EXTINF:-1,FXX
+http://livex.pop-app.live/s4n/poplive/ch523/playlist.m3u8
+#EXTINF:-1,GAME SHOW
+http://livex.pop-app.live/s4n/poplive/ch535/playlist.m3u8
+#EXTINF:-1,GOL TV LAT
+http://livex.pop-app.live/s4n/poplive/ch552/playlist.m3u8
+#EXTINF:-1,GOLF CHANNEL
+http://livex.pop-app.live/s4n/poplive/ch335/playlist.m3u8
+#EXTINF:-1,GRIT
+http://livex.pop-app.live/s4n/poplive/ch563/playlist.m3u8
+#EXTINF:-1,H&H LAT
+http://livex.pop-app.live/s4n/poplive/ch524/playlist.m3u8
+#EXTINF:-1,Hallmark
+http://livex.pop-app.live/s4n/poplive/ch317/playlist.m3u8
+#EXTINF:-1,HBO FAMILY
+http://livex.pop-app.live/s4n/poplive/ch515/playlist.m3u8
+#EXTINF:-1,HBO FAMILY LAT
+http://livex.pop-app.live/s4n/poplive/ch530/playlist.m3u8
+#EXTINF:-1,HBO PLUS LAT
+http://livex.pop-app.live/s4n/poplive/ch516/playlist.m3u8
+#EXTINF:-1,HBO SIGNATURE LAT
+http://livex.pop-app.live/s4n/poplive/ch517/playlist.m3u8
+#EXTINF:-1,HGTV
+http://livex.pop-app.live/s4n/poplive/ch323/playlist.m3u8
+#EXTINF:-1,HISTORY USA
+http://livex.pop-app.live/s4n/poplive/ch342/playlist.m3u8
+#EXTINF:-1,HISTORY MX
+http://livex.pop-app.live/s4n/poplive/ch349/playlist.m3u8
+#EXTINF:-1,HOME AND HEALTH LAT
+http://livex.pop-app.live/s4n/poplive/ch352/playlist.m3u8
+#EXTINF:-1,ION
+http://livex.pop-app.live/s4n/poplive/ch565/playlist.m3u8
+#EXTINF:-1,ISAT LAT
+http://livex.pop-app.live/s4n/poplive/ch511/playlist.m3u8
+#EXTINF:-1,KENS5
+http://livex.pop-app.live/s4n/poplive/ch333/playlist.m3u8
+#EXTINF:-1,LIFETIME
+http://livex.pop-app.live/s4n/poplive/ch567/playlist.m3u8
+#EXTINF:-1,MAS CHIC LAT
+http://livex.pop-app.live/s4n/poplive/ch519/playlist.m3u8
+#EXTINF:-1,ME TV
+http://livex.pop-app.live/s4n/poplive/ch557/playlist.m3u8
+#EXTINF:-1,MLB NETWORK
+http://livex.pop-app.live/s4n/poplive/ch336/playlist.m3u8
+#EXTINF:-1,MOTOR TREND
+http://livex.pop-app.live/s4n/poplive/ch528/playlist.m3u8
+#EXTINF:-1,NAT GEO
+http://livex.pop-app.live/s4n/poplive/ch217/playlist.m3u8
+#EXTINF:-1,NAT GEO LAT
+http://livex.pop-app.live/s4n/poplive/ch509/playlist.m3u8
+#EXTINF:-1,NBATV
+http://livex.pop-app.live/s4n/poplive/ch310/playlist.m3u8
+#EXTINF:-1,NBC SPORTS
+http://livex.pop-app.live/s4n/poplive/ch331/playlist.m3u8
+#EXTINF:-1,News 4
+http://livex.pop-app.live/s4n/poplive/ch309/playlist.m3u8
+#EXTINF:-1,NFL NETWORK
+http://livex.pop-app.live/s4n/poplive/ch332/playlist.m3u8
+#EXTINF:-1,NICK TOONS
+http://livex.pop-app.live/s4n/poplive/ch513/playlist.m3u8
+#EXTINF:-1,NICKELODEON LAT
+http://livex.pop-app.live/s4n/poplive/ch512/playlist.m3u8
+#EXTINF:-1,outdoor
+http://livex.pop-app.live/s4n/poplive/ch324/playlist.m3u8
+#EXTINF:-1,OUTDOOR
+http://livex.pop-app.live/s4n/poplive/ch216/playlist.m3u8
+#EXTINF:-1,OWN
+http://livex.pop-app.live/s4n/poplive/ch566/playlist.m3u8
+#EXTINF:-1,PARAMOUNT NETWORK
+http://livex.pop-app.live/s4n/poplive/ch544/playlist.m3u8
+#EXTINF:-1,SONY LAT
+http://livex.pop-app.live/s4n/poplive/ch506/playlist.m3u8
+#EXTINF:-1,sportnet
+http://livex.pop-app.live/s4n/poplive/ch229/playlist.m3u8
+#EXTINF:-1,Discovery Channel USA
+http://livex.pop-app.live/s4n/poplive/ch212/playlist.m3u8
+#EXTINF:-1,TELEMUNDO
+http://livex.pop-app.live/s4n/poplive/ch327/playlist.m3u8
+#EXTINF:-1,TENNIS
+http://livex.pop-app.live/s4n/poplive/ch330/playlist.m3u8
+#EXTINF:-1,TLC LAT
+http://livex.pop-app.live/s4n/poplive/ch527/playlist.m3u8
+#EXTINF:-1,TNT
+http://livex.pop-app.live/s4n/poplive/ch337/playlist.m3u8
+#EXTINF:-1,TNT SERIES LAT
+http://livex.pop-app.live/s4n/poplive/ch520/playlist.m3u8
+#EXTINF:-1,TRAVEL CHANNEL
+http://livex.pop-app.live/s4n/poplive/ch558/playlist.m3u8
+#EXTINF:-1,TRUE CRIME
+http://livex.pop-app.live/s4n/poplive/ch560/playlist.m3u8
+#EXTINF:-1,TUDN USA
+http://livex.pop-app.live/s4n/poplive/ch302/playlist.m3u8
+#EXTINF:-1,UFC
+http://livex.pop-app.live/s4n/poplive/ch534/playlist.m3u8
+#EXTINF:-1,UNIVISION
+http://livex.pop-app.live/s4n/poplive/ch328/playlist.m3u8
+#EXTINF:-1, Unknown_103
+http://livex.pop-app.live/s4n/poplive/ch574/playlist.m3u8
+#EXTINF:-1, Unknown_18
+http://livex.pop-app.live/s4n/poplive/ch314/playlist.m3u8
+#EXTINF:-1, Unknown_49
+http://livex.pop-app.live/s4n/poplive/ch500/playlist.m3u8
+#EXTINF:-1, Unknown_50
+http://livex.pop-app.live/s4n/poplive/ch502/playlist.m3u8
+#EXTINF:-1, Unknown_51
+http://livex.pop-app.live/s4n/poplive/ch503/playlist.m3u8
+#EXTINF:-1, Unknown_54
+http://livex.pop-app.live/s4n/poplive/ch508/playlist.m3u8
+#EXTINF:-1, Unknown_59
+http://livex.pop-app.live/s4n/poplive/ch514/playlist.m3u8
+#EXTINF:-1, Unknown_72
+http://livex.pop-app.live/s4n/poplive/ch529/playlist.m3u8
+#EXTINF:-1, Unknown_74
+http://livex.pop-app.live/s4n/poplive/ch531/playlist.m3u8
+#EXTINF:-1, Unknown_75
+http://livex.pop-app.live/s4n/poplive/ch533/playlist.m3u8
+#EXTINF:-1, Unknown_81
+http://livex.pop-app.live/s4n/poplive/ch546/playlist.m3u8
+#EXTINF:-1, Unknown_86
+http://livex.pop-app.live/s4n/poplive/ch553/playlist.m3u8
+#EXTINF:-1, Bounce
+http://livex.pop-app.live/s4n/poplive/ch561/playlist.m3u8
+#EXTINF:-1, USA NETWORK
+http://livex.pop-app.live/s4n/poplive/ch341/playlist.m3u8
+#EXTINF:-1, WINSPORT
+http://livex.pop-app.live/s4n/poplive/ch562/playlist.m3u8
+#EXTINF:-1, ESPN 2 MX
+http://livex.pop-app.live/s4n/poplive/ch542/playlist.m3u8
+#EXTINF:-1, ESPN 3 MX
+http://livex.pop-app.live/s4n/poplive/ch320/playlist.m3u8
+#EXTINF:-1, FOX SPORTS MX HD
+http://livex.pop-app.live/s4n/poplive/ch321/playlist.m3u8
+#EXTINF:-1, FOX SPORTS 2 MX HD
+http://livex.pop-app.live/s4n/poplive/ch322/playlist.m3u8
+#EXTINF:-1, FOX SPORTS 3 MX HD
+http://livex.pop-app.live/s4n/poplive/ch338/playlist.m3u8
+#EXTINF:-1, Afizzionados
+http://livex.pop-app.live/s4n/poplive/ch548/playlist.m3u8
+#EXTINF:-1, TUDN USA
+http://livex.pop-app.live/s4n/poplive/ch302/playlist.m3u8
+#EXTINF:-1, FOX DEPORTES
+http://livex.pop-app.live/s4n/poplive/ch301/playlist.m3u8
+
+
+
 ---------------------------------------------------
 XXX
 ---------------------------------------------------
