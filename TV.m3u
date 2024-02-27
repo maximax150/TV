@@ -1966,6 +1966,39 @@ https://v2.tustreaming.cl/clicktv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Chile", Concepcion TV
 http://live.mundogo.cl/mundo/concepciontv/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/334_Canal_74_TeVe.png" group-title="Chile", Canal 74
+https://stmv5.voxtvhd.com.br/canal74hd/canal74hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/802_TV_UCT.png" group-title="Chile", UCT TV
+https://unlimited2-cl-isp.dps.live/uct/uct.smil/uct/livestream1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1317_Terranova_TV.png" group-title="Chile", Terranova TV
+https://5ff3d9babae13.streamlock.net/vghyckhmyz/vghyckhmyz/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1282_Galactika_Media.png" group-title="Chile", Galactika Media TV
+https://oracle.streaminghd.cl/galactika/galactika/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1506_Chilevisual_Retro.png" group-title="Chile", Chilevisual Classic
+https://stmv5.voxtvhd.com.br/chilevisual/chilevisual/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1506_Chilevisual_Retro.png" group-title="Chile", Chilevisual Retro
+https://stmv5.voxtvhd.com.br/chilevisualretro/chilevisualretro/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1506_Chilevisual_Retro.png" group-title="Chile", Chilevisual Kids
+https://stmv5.voxtvhd.com.br/chilevisualkids/chilevisualkids/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1506_Chilevisual_Retro.png" group-title="Chile", Chilevisual Film
+https://stmv5.voxtvhd.com.br/chilevisualfilm/chilevisualfilm/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1506_Chilevisual_Retro.png" group-title="Chile", Chilevisual Cultura
+https://stmv5.voxtvhd.com.br/chilevisualcultura/chilevisualcultura/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oo5vDBv.png" group-title="Chile", NCT
+https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1287_CDR.png" group-title="Chile", CDR
+https://live-hls-xgod.livepush.io/live_cdn/emaf6CHYV7M-RQcL2/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RXRKPvs.png" group-title="Chile", EMG Channel
 https://paneltv.online:1936/8186/8186/playlist.m3u8
 
@@ -2231,10 +2264,10 @@ https://liveingesta118.cdnmedia.tv/trivision36live/smil:dvrlive.smil/playlist.m3
 https://rtmp.info/tvsantacruz/envivo/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://teleredtelevision.com/wp-content/uploads/2023/02/LOGO-TELERED-2023-2-2.png" group-title="Costa Rica", Telered 
-https://video20.klm99.com:3558/hybrid/play.m3u8
+https://62fc643fbf1aa.streamlock.net/prueba1/prueba1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://telesistemacr.com/wp-content/uploads/2023/03/LOGO-TELESISTEMA-1-1.png" group-title="Costa Rica", Telesistema
-https://video20.klm99.com:3621/hybrid/play.m3u8
+https://62fc643fbf1aa.streamlock.net/prueba2/prueba2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/hOql4FVmYfu7xsKVoD41sltdVoryVs5cVGI9JxtB.jpg" group-title="Costa Rica", Turrialba Digital TV CR
 https://cloudvideo.servers10.com:8081/8230/index.m3u8
