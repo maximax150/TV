@@ -127,16 +127,16 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-623171af5995505c86629208.m3u8
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5f458dded93f4a0041cb1f63.m3u8
 
 #EXTINF:-1 tvg-logo="https://beacon.playback.api.brightcove.com/revry/uploads/channels/42_a940ecace8db0d6719a7dc8bdc8e8e6b.png" group-title="Variedades", Revry Latinx
-https://linear-142.frequency.stream/142/hls/master/playlist.m3u8
+https://linear-142.frequency.stream/mt/brightcove/142/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://beacon.playback.api.brightcove.com/revry/uploads/channels/53_f3f4800437428b66359121bb602f17b8.png" group-title="Variedades", Revry Brasil
-https://linear-181.frequency.stream/181/hls/master/playlist.m3u8
+https://linear-181.frequency.stream/mt/brightcove/181/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://beacon.playback.api.brightcove.com/revry/uploads/channels/54_85478c1cfc5653acbed990c16393b26a.png" group-title="Variedades", Revry Her
-https://linear-73.frequency.stream/73/hls/master/playlist.m3u8
+https://linear-73.frequency.stream/mt/brightcove/73/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/5fdbc1d5682ee122a7a5aa20/227e7450-696d-4aa3-aef8-ce0b1aa8d4fc/Revry_RainbowLogo.png" group-title="Variedades", Revry LGTBI TV
-https://linear-43.frequency.stream/dist/galxy/43/hls/master/playlist.m3u8
+https://linear-5.frequency.stream/mt/brightcove/5/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/24255bb1-0bb1-472a-88fb-bf7947ae8bd7/BSN_Plex_1500x1000_White_Transparent-Attribution_-_Lynne_Costantini.png" group-title="Variedades", Black Star Network
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64a353a864e8e3dc0a29524f.m3u8
@@ -167,6 +167,12 @@ https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KvMuTzN.png" group-title="Variedades",13 Humor
 https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://luxpro.mc/wp-content/uploads/2019/03/wfc.jpg" group-title="Variedades", World Fashion
+https://live-3.otcnet.ru/wfc-int-master/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/6099a5ebe0cbd933ace42825/1625788815396-DGKRT2XL3TV31ICWY8UV/lovestoriestv.png" group-title="Variedades", Love Stories TV
+https://lovestoriestv-lovestoriestv-1-us.ono.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="Variedades", Telemundo Novelas
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=5fc9&deviceDNT=0&deviceModel=0
@@ -770,12 +776,12 @@ https://vcp8.myplaytv.com:1936/masciclismo/masciclismo/playlist.m3u8
 https://r.mjh.nz/PlutoTV/6582f002a620e3000813b329-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6320d2755e54db000783fd87/colorLogoPNG.png" group-title="Deportes" , Claro Sports Mexico
-https://r.mjh.nz/PlutoTV/6320d2755e54db000783fd87-alt.m3u8
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6320d2755e54db000783fd87/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=70f8964e-80f4-a6f3-a0b5-322f6d2a9f2d&deviceDNT=0&deviceModel=0
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63f7e3f9dff38e00082a57af/colorLogoPNG.png" group-title="Deportes" , ITV Deportes
 https://r.mjh.nz/PlutoTV/63f7e3f9dff38e00082a57af-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_trace-sports-stars_m.png" group-title="Deportes", Trace Sport
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_trace-sports-stars_m.png" group-title="Deportes", Trace Sports
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://inthemixstyle.com/wp-content/uploads/2020/12/Redbull-TV-HD.jpg" group-title="Deportes", Red Bull TV
@@ -2275,7 +2281,7 @@ https://cloudvideo.servers10.com:8081/8230/index.m3u8
 #EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/1MARSqh5D7hPUc4qhJMQcz4KnaWUzs4PkTXxJvnl.png" group-title="Costa Rica", Multizonas TV
 https://cloudvideo.servers10.com:8081/8068/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/S0utvG5YQJSEUE2HlmVONkyxDroLiotox9kiPKIV.jpg" group-title="Costa Rica", Telesusr CR
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/S0utvG5YQJSEUE2HlmVONkyxDroLiotox9kiPKIV.jpg" group-title="Costa Rica", Telesur CR
 https://s1.tvdatta.com:3582/live/telesurlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F2rdjwJ.png" group-title="Costa Rica", RetroTV Palmares CR
