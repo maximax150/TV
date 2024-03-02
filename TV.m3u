@@ -93,8 +93,11 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazinees
 #EXTINF:-1 tvg-logo="https://www.hola.tv/wp-content/uploads/2020/09/logoholatv.jpg" group-title="Variedades", Hola Play
 https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/juntos_logo_dark_v3.png" group-title="Variedades", Juntos
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23008/freetv-familia/logo_20240222_214629_68.png" group-title="Variedades", FreeTV Familia
 https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23008/freetv-saber-mas/logo_20240222_202730_68.png" group-title="Variedades", FreeTV Saber Mas
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-distro/b8c2e2bf-6dec-46b5-8a3b-f3521fd8a8b5/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://static-prod.adweek.com/wp-content/uploads/2022/05/Tastemade-2022.jpg" group-title="Variedades", Tastemade
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadees16international24i-ono/playlist.m3u8
@@ -110,6 +113,9 @@ https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL6xy4y.png" group-title="Variedades" Punto2
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TL6xy4y.png" group-title="Variedades" Romance Channel
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/romance-channel/fcd7b1b4-4409-4bc3-bba3-3771081f4ef8/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.myzen.tv/wp-content/uploads/2019/12/My-Zen-Tv_LOGO_Couleur_vide-300x300.png" group-title="Variedades", My Zen TV
 https://str81.creacast.com/myzentv/myzentv.smil/.m3u8
@@ -150,6 +156,9 @@ https://linear-46.frequency.stream/mt/plex/46/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dLSKBEn.png" group-title="Variedades", AFV Family
 https://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23077/mediacorp-entertainment-english/logo_20240102_190017_70.png" group-title="Variedades", Mediacorp Entertaiment
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-english/9088a920-ed2a-44c6-bc61-301a66861eb2/1.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.kanalddrama.com/assets/img/logo_bottom2.png" group-title="Variedades", Kanal D
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 
@@ -165,8 +174,11 @@ https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hTUe0Pw.png" group-title="Variedades",13 Festival
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KvMuTzN.png" group-title="Variedades",13 Humor
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KvMuTzN.png" group-title="Variedades", 13 Humor
 https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.ploustv.com/ploustv.png" group-title="Variedades", PlousTV
+https://vcp7.myplaytv.com/glowtv/glowtv/chunklist_w1842335445.m3u8
 
 #EXTINF:-1 tvg-logo="https://luxpro.mc/wp-content/uploads/2019/03/wfc.jpg" group-title="Variedades", World Fashion
 https://live-3.otcnet.ru/wfc-int-master/index.m3u8
@@ -272,6 +284,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=514
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k8U0e0b.png" group-title="Kids & Geek", Dreiko TV
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22915/zaz/thumbh_20220411_193252_270.png" group-title="Kids & Geek", ZAZ TV
+https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1081_AnimeStation.png" group-title="Kids & Geek", Anime Station
 https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/chunks.m3u8
@@ -423,6 +438,9 @@ https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://staytv.net/wp-content/uploads/cropped-CCC_Mesa-de-trabajo-1.png" group-title="Cine y Series", StayTV
 https://video.misistemareseller.com/staytv/staytv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://teleclasica.com/wp-content/uploads/2022/06/Naranja.jpg" group-title="Cine y Series", Teleclasica
+https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="Cine y Series", Runtime Español
 https://run-rt-es.otteravision.com/run/rt_es/rt_es.m3u8
 
@@ -462,19 +480,22 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/viJBL6f.png" group-title="Cine y Series", Retrox TV
 https://rpn3.bozztv.com/ssh101/ssh101/retroxtvhd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cinereal_logo_dark_v3.png" group-title="Cine y Series", Cine Real
-https://cinereal-plex.amagi.tv/CineReal/master.m3u8
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23008/freetv-live/logo_20240222_212918_68.png" group-title="Cine y Series", FreeTV Live
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-distro/7249b791-6cb0-4326-ade4-6c10b6432c95/5.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2022/06/Horrorfy_logowhite295x98.png" group-title="Cine y Series", Horrorfy
-https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23008/freetv-drama-latam/logo_20240222_213151_68.png" group-title="Cine y Series", FreeTV Drama
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-distro/4cf51962-a595-4315-8e5f-415b52686517/4.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/06/CineSurreno_295x98.png" group-title="Cine y Series", Cine Sureño
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23008/freetv-terror/logo_20240222_214759_68.png" group-title="Cine y Series", FreeTV Terror
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-distro/828a9ae0-dea1-46c8-aa4c-693f891e35f6/3.m3u8
+
+#EXTINF:-1 tvg-logo"https://a.jsrdn.com/hls/23008/freetv-sureno/logo_20240222_213834_68.png" group-title="Cine y Series", FreeTV Sureño
 https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/topcine_logo_dark_v3.png" group-title="Cine y Series", Top Cine
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23008/freetv-accion-latam/logo_20240222_213952_68.png" group-title="Cine y Series", FreeTV Accion
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/06/TuCine_295x98.png" group-title="Cine y Series", Tu Cine
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23008/freetv-estelar-latam/logo_20240222_202021_68.png" group-title="Cine y Series", FreeTV Estelar
 https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://estrellamedia.com/wp-content/uploads/2023/04/CineETV-1.jpg" group-title="Cine y Series", Cine Estrella TV
@@ -615,7 +636,7 @@ https://5d16127744872.streamlock.net/canal3/canal3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/191d7f0299ec0197d15d2e7b76ff037f.png", Radio 88 Stereo CR
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/1ncDMptl6bDKmszM51w8tkfn2f7JwV7PpyVTYgUD.png", HQ Music CR
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/REelpFt0VjAwLxHjcDnXDR38kNLcd3kjz5WLRQq1.png", Super Radio TV CR
 https://250weu.bozztv.com/ssh101/ssh101/iqchannel/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/fbefcbca47462eb80eedbeaf95126474.png", VM Latino CR
@@ -651,14 +672,14 @@ https://vcp.myplaytv.com/oxigenotv/oxigenotv/.m3u8
 #EXTINF:-1, Planeta TV Music
 https://scl.edge.grupoz.cl/music/live/music.m3u8
 
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23008/freetv-hits/logo_20240222_202547_68.png", FreeTV Hits
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-distro/b4fceb4f-2ab3-4162-a4c0-b5f9f153533c/4.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23008/freetv-banda/logo_20240222_214147_68.png", FreeTV Banda
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmc-distro/a73264ef-03e8-4d36-ab12-7c149d3eed65/2.m3u8
+
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/d981e393-725f-4e9f-8444-827c6c87e126/Flou_caribe_o_LOGO_1500X1000__dark_backgrounds_.png" , FLOU Caribeno
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63adf8eff3d69d1885731c06.m3u8
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/flash_logo_light.png", Flash
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6018913ea15130002b284191.m3u8
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/e6fdc94e-6745-413a-9b22-3592b9f46441/mmc-logo.png", MMC
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-623954128ed2b3b15baecb2c.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/318f5578-72c7-4398-932f-1d993fc9d5f2/Music_Legends_logo_light.png" , Music Legends
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6196c8c01d310bf925e02615.m3u8
@@ -1874,7 +1895,7 @@ https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5
 https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/87c6e7bb59c33bfab71e154181716e90.png" group-title="Chile", UCV 
-https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PYKWn3O.png" group-title="Chile", UCV 3
 https://unlimited10-cl.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
@@ -2240,7 +2261,7 @@ http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
 https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://costaricachannel.org/wp-content/uploads/2022/08/cropped-LOGO-CR-2022-2022-768x256.png" group-title="Costa Rica", Costa Rica Channel
-https://5fa5de1a545ae.streamlock.net/8006/8006/playlist.m3u8
+https://video0.rogohosting.com:19360/8006/8006.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/cbcfd98188337b1bf79a92b1afb60ad3.png" group-title="Costa Rica", San Vito TV
 https://stmv.streamingvip.click/sanvitotv/sanvitotv/playlist.m3u8
@@ -2253,6 +2274,9 @@ https://5d16127744872.streamlock.net/TVUNO/TVUNO/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Costa Rica", TV Nosara
 https://stmv.streamingvip.click/tvnosara2/tvnosara2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Costa Rica", Faro Puntarenas TV
+https://ssh101.bozztv.com/ssh101/faroptv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5xw86wu.png" group-title="Costa Rica", Los Santos TV
 https://lstv.duckdns.org:449/hls/lstv.m3u8
