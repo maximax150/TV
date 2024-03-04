@@ -150,7 +150,7 @@ https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL6xy4y.png" group-title="Variedades", Punto2
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TL6xy4y.png" group-title="Variedades", Romance Channel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Romance_TV_Logo_2015.png/1200px-Romance_TV_Logo_2015.png" group-title="Variedades", Romance Channel
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/romance-channel/fcd7b1b4-4409-4bc3-bba3-3771081f4ef8/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.myzen.tv/wp-content/uploads/2019/12/My-Zen-Tv_LOGO_Couleur_vide-300x300.png" group-title="Variedades", My Zen TV
