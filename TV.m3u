@@ -1,8 +1,3 @@
-        ======= No todos los canales transmiten 24/7, ademas algunos canales pueden presentar cambios sin previo aviso por parte de quienes los emiten =======
-                  ======= Los Links de esta lista m3u8 son de terceros, por lo tanto no alojamos ni transmitimos ningun canal de la lista ========
-                               ======= Usar la lista de manera remota, ya que siempre estara en constante actualizacion =======
-                                  
-
 #EXTM3U list-name="Canales M3U" list-image="https://icon-library.com/images/dish-tv-icon/dish-tv-icon-8.jpg"
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/las-estrellas-m.png" group-title="Variedades", Las Estrellas 
