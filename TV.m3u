@@ -198,6 +198,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1 tvg-logo="https://www.kanalddrama.com/assets/img/logo_bottom2.png" group-title="Variedades", Kanal D
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Variedades", Novelas Turcas
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
+
 #EXTINF:-1 tvg-logo="https://images.redbox.com/images/reels/fltv/Mono/SonyCanalNovelas_MetadataLogo_Fullcolor.png" group-title="Variedades", Sony novelas
 https://spt-novelas-1-us.samsung.wurl.tv/playlist.m3u8
 
@@ -439,13 +442,7 @@ https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/863aea4fb1445b58f89afc7c692ed509.png" group-title="Cine y Series", 13 Teleseries 
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png" group-title="Cine y Series", Retro Plus TV 
-https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png" group-title="Cine y Series", Retro Plus TV 2
-https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png" group-title="Cine y Series", Retro Plus TV 3 
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png" group-title="Cine y Series", Retro Plus 3
 https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/5Cd0fF0wXhrDT8rawVjapPgIVQzQlR71lP2pNSjk.jpg" group-title="Cine y Series", GRJNGO
@@ -658,6 +655,12 @@ Musicales
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/99cc893c37784a17aac9a95ac3c7e5c8.png" group-title="Musicales", VClassicTV 
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png" group-title="Musicales", Retro Plus 
+https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png" group-title="Musicales", Retro Plus 2
+https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/355ba171055dd0e6747131673432cc18.png", VClassicTV Tropical 
 https://5eaccbab48461.streamlock.net:1936/8222/8222/playlist.m3u8
 
@@ -667,7 +670,7 @@ https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/e63c9721b2261a3213ea1a4e69776d0f.png", Oldies Hits TV
 https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://planetatv.cl/wp-content/uploads/2023/02/PLANETATV3.png" group-title="Cine y Series", Planeta TV Musica
+#EXTINF:-1 tvg-logo="https://planetatv.cl/wp-content/uploads/2023/02/PLANETATV3.png", Planeta TV Musica
 https://scl.edge.grupoz.cl/music/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://melodychannel.tv/wp-content/uploads/2022/08/cropped-melodychannel-tv.png", Melody Channel 
