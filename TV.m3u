@@ -133,7 +133,7 @@ https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
 https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23008/freetv-saber-mas/logo_20240222_202730_68.png" group-title="Variedades", FreeTV Saber Mas
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-distro/b8c2e2bf-6dec-46b5-8a3b-f3521fd8a8b5/0.m3u8
+https://sabermas-freetv.amagi.tv/SaberMas-xumo/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://static-prod.adweek.com/wp-content/uploads/2022/05/Tastemade-2022.jpg" group-title="Variedades", Tastemade
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadees16international24i-ono/playlist.m3u8
@@ -523,14 +523,11 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/viJBL6f.png" group-title="Cine y Series", Retrox TV
 https://rpn3.bozztv.com/ssh101/ssh101/retroxtvhd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23008/freetv-live/logo_20240222_212918_68.png" group-title="Cine y Series", FreeTV Live
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-distro/7249b791-6cb0-4326-ade4-6c10b6432c95/5.m3u8
-
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23008/freetv-drama-latam/logo_20240222_213151_68.png" group-title="Cine y Series", FreeTV Drama
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-distro/4cf51962-a595-4315-8e5f-415b52686517/4.m3u8
+https://cinereal-plex.amagi.tv/CineReal/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23008/freetv-terror/logo_20240222_214759_68.png" group-title="Cine y Series", FreeTV Terror
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-distro/828a9ae0-dea1-46c8-aa4c-693f891e35f6/3.m3u8
+https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
 
 #EXTINF:-1 tvg-logo"https://a.jsrdn.com/hls/23008/freetv-sureno/logo_20240222_213834_68.png" group-title="Cine y Series", FreeTV Sureño
 https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
@@ -716,10 +713,10 @@ https://vcp.myplaytv.com/oxigenotv/oxigenotv/.m3u8
 https://scl.edge.grupoz.cl/music/live/music.m3u8
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23008/freetv-hits/logo_20240222_202547_68.png", FreeTV Hits
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-distro/b4fceb4f-2ab3-4162-a4c0-b5f9f153533c/4.m3u8
+https://flash-freetv.amagi.tv/flash/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23008/freetv-banda/logo_20240222_214147_68.png", FreeTV Banda
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmc-distro/a73264ef-03e8-4d36-ab12-7c149d3eed65/2.m3u8
+https://mmc-freetv.amagi.tv/mmc-Xumo/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/d981e393-725f-4e9f-8444-827c6c87e126/Flou_caribe_o_LOGO_1500X1000__dark_backgrounds_.png" , FLOU Caribeno
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63adf8eff3d69d1885731c06.m3u8
