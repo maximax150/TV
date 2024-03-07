@@ -538,8 +538,17 @@ https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23008/freetv-estelar-latam/logo_20240222_202021_68.png" group-title="Cine y Series", FreeTV Estelar
 https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://planetatv.cl/wp-content/uploads/2023/02/PLANETATV3.png" group-title="Cine y Series", Planeta TV Movies
+https://tls-cl.cdnz.cl/movie/live/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://estrellamedia.com/wp-content/uploads/2023/04/CineETV-1.jpg" group-title="Cine y Series", Cine Estrella TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/725f7299-49ef-43f8-8fa2-9fd5a8acf53d/CM-Plex-Color_Blackbackground-CanelaCinema_-_Camila_Conti.png" group-title="Cine y Series", Canela Cinema
+https://ov.ottera.tv/channels/cnm_cn_mv/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/1f2441f3a7b5573423594e275762520da2214830c4730af87123df9773759ded.png" group-title="Cine y Series", Canela TV
+https://ov.ottera.tv/channels/cnm_ctm_ro/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/b8e36746-5a92-4d58-b415-28280a044123/cinema_logo_light-01_-_James_Stowerdx.png", Azteca Cinema
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64695233f73356567a64ce90.m3u8
@@ -657,6 +666,9 @@ https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/e63c9721b2261a3213ea1a4e69776d0f.png", Oldies Hits TV
 https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://planetatv.cl/wp-content/uploads/2023/02/PLANETATV3.png" group-title="Cine y Series", Planeta TV Musica
+https://scl.edge.grupoz.cl/music/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://melodychannel.tv/wp-content/uploads/2022/08/cropped-melodychannel-tv.png", Melody Channel 
 https://canal.mediaserver.com.co/live/MelodyChannel.m3u8
