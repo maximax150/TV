@@ -201,6 +201,15 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-sams
 #EXTINF:-1 tvg-logo="" group-title="Variedades", Novelas Turcas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
 
+#EXTINF:-1 tvg-logo="" group-title="Variedades", Novelas Inolvidables
+https://ov.ottera.tv/channels/cnm_niv/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Variedades", Todo Novelas + Pasiones
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6111
+
+#EXTINF:-1 tvg-logo="" group-title="Variedades", Todo Novelas España
+https://d2t7ujjc7lurgd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-q0go87ctcenys-ssai-prd/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.redbox.com/images/reels/fltv/Mono/SonyCanalNovelas_MetadataLogo_Fullcolor.png" group-title="Variedades", Sony novelas
 https://spt-novelas-1-us.samsung.wurl.tv/playlist.m3u8
 
@@ -344,6 +353,9 @@ https://linear-637.frequency.stream/mt/studio/637/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Kids & Geek", Siempre Teens
 https://linear-487.frequency.stream/mt/studio/487/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Kids & Geek", Canela Kids
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 
 
 
