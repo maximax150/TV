@@ -1385,9 +1385,6 @@ https://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8
 #EXTINF:-1 tvg-logo="https://static1.s123-cdn-static-a.com/uploads/2287839/2000_62422e9799a05.png" group-title="Mexico", Nueve TV
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://stream8.mexiserver.com:1936/xtinetwork/xtinetwork/playlist.m3u8" group-title="Mexico",Xti Network
-https://stream8.mexiserver.com:1936/xtinetwork/xtinetwork/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.sky.com.mx/assets/img/paquetes/canales/1111.jpg" group-title="Mexico", Canal Once 
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 
