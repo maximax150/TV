@@ -1405,9 +1405,6 @@ https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://api.rcgmedia.mx/uploads/logo_rcg_media_250_4df3b2a2e1.png" group-title="Mexico", RCG 2 Saltillo 
 https://video1.getstreamhosting.com:1936/8246/8246/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://api.rcgmedia.mx/uploads/logo_rcg_media_250_4df3b2a2e1.png" group-title="Mexico", RCG 3 Saltillo 
-https://5caf24a595d94.streamlock.net:1937/stream56/stream56/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/8633b98f64d70ee6a2758710bbe1662e.png" group-title="Mexico", NRT Mexico 
 https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8
 
@@ -1460,7 +1457,7 @@ https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist
 https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://turistiktv.com.mx/wp-content/uploads/2021/12/cropped-LOGO-TURISTIK-300-300x157.png" group-title="Mexico", Turistik TV
-https://5fa5de1a545ae.streamlock.net/8030/8030/.m3u8
+https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://setpuebla.mx/wp-content/uploads/2022/09/ICONO_16.1_APPSET_v1.png" group-title="Mexico", SET 16.1
 https://5d0d1d7a6be9e.streamlock.net/envivo/puecom/playlist.m3u8
@@ -1515,9 +1512,6 @@ https://stream.oursnetworktv.com/latin/encoder30/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W9E6qc3.png" group-title="Mexico", Canal 21 Jalisco
 https://stream.oursnetworktv.com/latin/encoder22/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qEk0QGa.png" group-title="Mexico", Conecta TV
-https://stream8.mexiserver.com:1936/conectatv/conectatv/playlist.m3u8
 
 
 ---------------------------------------------------
