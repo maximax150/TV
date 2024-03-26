@@ -39,14 +39,14 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6469502df73356567a64ce8e.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Estrella_TV_-_2020_logo.png" group-title="Entretenimiento", Estrella TV
 https://estrellatv-oando.amagi.tv/playlistR720P.m3u8
 
+#EXTINF:-1 tvg-logo="https://estrellamedia.com/wp-content/uploads/2023/03/2.png" ggroup-title="Entretenimiento", Estrella TV Games
+https://estrella-games-oando.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/1.png" group-title="Entretenimiento", RCN Xtra
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/sin_titulo_1920_x_1080_px_7.jpg" group-title="Entretenimiento", RCN Mas
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://estrellamedia.com/wp-content/uploads/2023/03/2.png" ggroup-title="Entretenimiento", Estrella TV Games
-https://estrella-games-oando.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Rvm38Mu.png" group-title="Entretenimiento", TLNovelas
 https://linear-421.frequency.stream/mt/studio/421/hls/master/playlist.m3u8
