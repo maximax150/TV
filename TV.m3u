@@ -87,6 +87,9 @@ https://d2t7ujjc7lurgd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://images.redbox.com/images/reels/fltv/Mono/SonyCanalNovelas_MetadataLogo_Fullcolor.png" group-title="Entretenimiento", Sony novelas
 https://spt-novelas-1-us.samsung.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/0b2ed753-566f-476c-9329-1f08221de7a6/CM-Amagi-Artwork_4-1500x1000_-_Camila_Conti_WHITE_LETTERS_REDLOGO.png", Canela Telenovelas
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64e6df6e4a5e9b4cedc6d529.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Novelas de Oro
 https://linear-561.frequency.stream/mt/studio/561/hls/master/playlist.m3u8
 
@@ -129,32 +132,20 @@ https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cf
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OM6BP37.png" group-title="Entretenimiento", Flou Channel
 https://amg01768-flou-flou-canelatv-yri41.amagi.tv/playlist/amg01768-flou-flou-canelatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lovemagazine.ca/wp-content/uploads/2022/09/LOGO-LOVE-PDW.png" group-title="Entretenimiento", Love Magazine
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazinees-samsungspain/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.hola.tv/wp-content/uploads/2020/09/logoholatv.jpg" group-title="Entretenimiento", Hola Play
 https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23008/freetv-familia/logo_20240222_214629_68.png" group-title="Entretenimiento", FreeTV Familia
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/9cfe65ea-0cf3-4d32-8165-a76e076878bd/FreeTVFamilia_Circle_1500x1000_-_Ralph_Campillo.png" group-title="Entretenimiento", FreeTV Familia
 https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23008/freetv-saber-mas/logo_20240222_202730_68.png" group-title="Entretenimiento", FreeTV Saber Mas
-https://sabermas-freetv.amagi.tv/SaberMas-xumo/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://static-prod.adweek.com/wp-content/uploads/2022/05/Tastemade-2022.jpg" group-title="Entretenimiento", Tastemade
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadees16international24i-ono/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://gustotv.com/wp-content/uploads/2020/05/gustotv-logo.png" group-title="Entretenimiento", Gusto
-https://gustotv-samsung-gb.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Telemundo_Puerto_Rico.svg/1200px-Telemundo_Puerto_Rico.svg.png" group-title="Entretenimiento", Telemundo Puerto Rico
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/MegaTV.png" group-title="Entretenimiento", Mega TV
 https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TL6xy4y.png" group-title="Entretenimiento", Punto2
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.myzen.tv/wp-content/uploads/2019/12/My-Zen-Tv_LOGO_Couleur_vide-300x300.png" group-title="Entretenimiento", My Zen TV
 https://str81.creacast.com/myzentv/myzentv.smil/.m3u8
@@ -164,9 +155,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/1bfcb8e4-9593-4914-aa02-14b966a2ec7e/AF_Logo_for_Light_BG__transparent__-_Jose_RiveraRDX.png" group-title="Entretenimiento", Always Funny
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5ef11486d33ab9004048a1cd.m3u8
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/d0f10def-3122-4b3b-a7ad-a50050a0babe/HAPPITV_LOGO_LIGHT.png" group-title="Entretenimiento", HappiTV
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-623171af5995505c86629208.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/revrynews-logo-v2.png" group-title="Entretenimiento", Revry News
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5f458dded93f4a0041cb1f63.m3u8
@@ -456,8 +444,14 @@ https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png" group-title="Cine y Series", Retro Plus 3
 https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/5Cd0fF0wXhrDT8rawVjapPgIVQzQlR71lP2pNSjk.jpg" group-title="Cine y Series", GRJNGO
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/76964e60-8756-4551-8748-dbd7852bd0bd/Grjngo-Westernfilme_logo_light_-_Toni_Newesil__1_.png" group-title="Cine y Series", GRJNGO
 https://amogonetworx-grjngo-2-eu.plex.wurl.tv/2000.m3u8
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/f9b44328-8571-4e8a-9066-022bd8665082/cinepride-logo.png", CINEPRIDE
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-62167144ab2095ca85353ad6.m3u8
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/73d2ac35-f4e7-48a6-9300-ce106bc56c55/Cine_y_Series_-_1500X1000_PNG_w_transparent_background_Logo_for_dark___white_backgrounds_copy_-_JuanMa_Velasquez.png" , Cine y Series
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-65f0df2a926fdb0e3f8d68b6.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="Cine y Series", Star TVE
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main_dvr.m3u8
@@ -531,19 +525,19 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/viJBL6f.png" group-title="Cine y Series", Retrox TV
 https://rpn3.bozztv.com/ssh101/ssh101/retroxtvhd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23008/freetv-drama-latam/logo_20240222_213151_68.png" group-title="Cine y Series", FreeTV Drama
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/f4639394-cbab-411c-9a11-3676a7310af0/FreeTVDrama_Circle_1500x1000_-_Ralph_Campillo.png" group-title="Cine y Series", FreeTV Drama
 https://cinereal-plex.amagi.tv/CineReal/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23008/freetv-terror/logo_20240222_214759_68.png" group-title="Cine y Series", FreeTV Terror
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/2aca9f2d-cd37-4e99-93c2-ea331d407008/FreeTVLive_logo_1500x1000RDX.png" group-title="Cine y Series", FreeTV Terror
 https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
 
-#EXTINF:-1 tvg-logo"https://a.jsrdn.com/hls/23008/freetv-sureno/logo_20240222_213834_68.png" group-title="Cine y Series", FreeTV Sureño
+#EXTINF:-1 tvg-logo"https://provider-static.plex.tv/epg/cms/production/4f350c02-7a5d-48b1-baae-a2ac437bfafb/FreeTVSureno_Circle_1500x1000_-_Ralph_Campillo.png" group-title="Cine y Series", FreeTV Sureño
 https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23008/freetv-accion-latam/logo_20240222_213952_68.png" group-title="Cine y Series", FreeTV Accion
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/f496c12b-d43f-4e47-95b7-f687763fa84f/FreeTVAccion_Circle_1500x1000_-_Ralph_Campillo.png" group-title="Cine y Series", FreeTV Accion
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23008/freetv-estelar-latam/logo_20240222_202021_68.png" group-title="Cine y Series", FreeTV Estelar
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/956f7b44-59f4-4f55-8258-e274f2183b11/FreeTVEstelar_Circle_1500x1000_-_Ralph_Campillo.png" group-title="Cine y Series", FreeTV Estelar
 https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://planetatv.cl/wp-content/uploads/2023/02/PLANETATV3.png" group-title="Cine y Series", Planeta TV Movies
@@ -557,6 +551,12 @@ https://ov.ottera.tv/channels/cnm_cn_mv/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/1f2441f3a7b5573423594e275762520da2214830c4730af87123df9773759ded.png" group-title="Cine y Series", Canela TV
 https://ov.ottera.tv/channels/cnm_ctm_ro/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/6f05b595-1f43-4399-896a-789ab42dce75/Zone_Investigacion_-_1500X1000_PNG_w_transparent_background_Logo_for_dark___white_backgrounds_-_JuanMa_Velasquez.png" , Zona Investigación
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-65f0dbeb046e6131ecc31843.m3u8
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/8b8f3c91-fb10-490f-addb-a2c74e0d4041/CONDISTA-UN_TV-1500X1000.png" , ÚN TV
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-65f0dd1c926fdb0e3f8d68b4.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/b8e36746-5a92-4d58-b415-28280a044123/cinema_logo_light-01_-_James_Stowerdx.png", Azteca Cinema
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64695233f73356567a64ce90.m3u8
@@ -1161,6 +1161,9 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23094/cgtn-documentary/logo_20230314_210542_68.png", CGTN Documentary
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-documentary.m3u8?ads.islive=1&ads.streamtype=live
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23008/freetv-saber-mas/logo_20240222_202730_68.png" group-title="Culturales", FreeTV Saber Mas
+https://sabermas-freetv.amagi.tv/SaberMas-xumo/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png", DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
