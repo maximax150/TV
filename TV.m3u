@@ -1075,14 +1075,8 @@ https://i.mjh.nz/SamsungTVPlus/USBD1700014QU.m3u8
 #EXTINF:-1, Aljazeera
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
-#EXTINF:-1, Reuters
-https://reuters-reutersnow-1-us.plex.wurl.tv/playlist.m3u8
-
 #EXTINF:-1, Sky News Extra
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
-
-#EXTINF:-1, Africanews
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/africanews/afrnabren_eng.m3u8
 
 #EXTINF:-1, CNN International
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -1120,11 +1114,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812afe1d0f0b8d55dde67
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/55b179af994403942f3061d6/colorLogoPNG.png", Newsmax
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/55b179af994403942f3061d6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f523aa5523ae000074745ec/colorLogoPNG.png", Telefe Noticias
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f523aa5523ae000074745ec/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61f94a2866401100074e9dee/colorLogoPNG.png", Chilevision Noticias
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f94a2866401100074e9dee/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
 ---------------------------------------------------
@@ -1183,7 +1172,7 @@ Cultural
 ---------------------------------------------------
 
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png", group-title="Culturales", CGTN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png", group-title="Culturales", CGTN
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23094/cgtn-documentary/logo_20230314_210542_68.png", CGTN Documentary
@@ -1204,20 +1193,14 @@ https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1080765671431200768/RM4qmbGv_400x400.jpg", TV Galicia Cultural 
 https://cultural-crtvg.flumotion.com/playlist.m3u8
 
-#EXTINF:-1, Love pets
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-lovepetsemea-samsunguk/playlist.m3u8
-
 #EXTINF:-1, INTI
 https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/.m3u8
 
-#EXTINF:-1, Viajar
-https://f4712f05a3e8493f9c73495feb9f9c1e.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/herogo001NP2/25054987/content/m.m3u8
+#EXTINF:-1, IVC
+http://stream.flynetwifi.com:1935/live/mobile-153/playlist.m3u8
 
 #EXTINF:-1, Pet Collective
 https://jkn-pc.otteravision.com/dist/ottera/174/hls/master/playlist_webvtt.m3u8
-
-#EXTINF:-1, Go Wild
-https://indigenius-toowild-1-us.plex.wurl.tv/playlist.m3u8
 
 #EXTINF:-1, Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
@@ -1226,7 +1209,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz
 https://streamer103.neterra.tv/travel/live.m3u8
 
 #EXTINF:-1, Go Traveller
-https://stream.ads.ottera.tv/cl/240112cmgbin8pc25u3n6jfoa0/subtitles_0_0_1_f.m3u8?i=475_703
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=703
 
 #EXTINF:-1, Drone TV
 https://airvuz-dronetv-1-eu.xiaomi.wurl.tv/playlist.m3u8
@@ -1243,14 +1226,14 @@ https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 #EXTINF:-1, Xplore
 https://xplore-vizio.amagi.tv/playlist.m3u8
 
+#EXTINF:-1, Wild Earth
+https://wildearth-ono.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/f9a845dc-b33b-49af-b7dd-1de1b50a61d3/documentaryplus_logo_dark_1_.png", Documentary+
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-614e286b2bac097ffd6fd6ab.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/398a08f4-ef08-46a0-b293-ffb2fe273803/gravitas-documentaries-2.png", Gravitas Documentaries
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6291409aa0ed9c2b6ae63bae.m3u8
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/wildearth_logo_dark.png", WildEarth
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-60d4edddb2fdec002c141135.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/truehistory_logo_dark_v2.png", True History
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-614398a08f30fa61e0da7c97.m3u8
@@ -1270,6 +1253,9 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64d79408e5f67b0fab47ff24.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png", Love Nature
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/love-nature-en-espaol/playlist.m3u8
 
+#EXTINF:-1, Love pets
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-lovepetsemea-samsunguk/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60dd6b1da79e4d0007309455/colorLogoPNG.png", NatureTime
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -1282,8 +1268,6 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63e6381d8895074ec6c78b16.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/AfroLandTV_logo_dark_v3.png", AfroLandTV
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-60e737a4ebef9d002c4d0a0c.m3u8
 
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/a50425a8-5b58-47b5-96c9-43c842f77806/1500X1000_PNG_w__transparent_background__Logo_suitable_for_light_backgrounds__-_Herliane_Pedro.png" , Nolly Africa HD
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64b1e1217d4037206787f384.m3u8
 
 
 ---------------------------------------------------
