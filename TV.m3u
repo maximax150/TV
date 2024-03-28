@@ -2543,7 +2543,7 @@ Venezuela
 https://vcp.myplaytv.com/promar/promar/playlist.m3u8
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_canal_i_venezuela.png" group-title="Venezuela", Canal i 
-https://vcp10.myplaytv.com/canali/canali/.m3u8
+https://vcp.myplaytv.com/canali/canali/playlist.m3u8
 
 #EXTINF:-1 logo="https://w2-venevision-com.s3.amazonaws.com/public/media/seo/logo-venevision_600x600.png" group-title="Venezuela", Venevision
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
@@ -2560,20 +2560,14 @@ https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61da
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o1CxGRy.png" group-title="Venezuela", Vivo Play
 https://linear-260.frequency.stream/mt/studio/260/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cxvkUvK.png" group-title="Venezuela", Televen
-https://setp-televen-ssai-mslv4-open.akamaized.net/hls/live/2107128/televen/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/84325e40ce60d16037b02586850d1c30.png" group-title="Venezuela", ShowVen TV 
 https://vcp.myplaytv.com/coll/coll/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J8ztiAN.png" group-title="Venezuela", TVS Maracay 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J8ztiAN.png" group-title="Venezuela", TVS
 https://vcp3.myplaytv.com/tvs/tvs/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://player.lorini.net/mdatv/mdatv.png" group-title="Venezuela", MDA TV
 https://vcp.myplaytv.com/mdatv/mdatv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/0b1c597bedf83ad81c998c648e001696.png" group-title="Venezuela", eSports Max TV 
-http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logo-Globovisi%C3%B3n.png" group-title="Venezuela", Globovision
 https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8
@@ -2583,12 +2577,6 @@ https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/ede0172917569eae7de0f05b84cfde92.png" group-title="Venezuela", Cantina TV 
 https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/691fbd76ac69d53faecf3480cecd4826.png" group-title="Venezuela", TRV 
-https://vcp3.myplaytv.com/trv/trv/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/6ce00e14d50fd87b8553b9c96201de3d.png" group-title="Venezuela", Telesol
-https://vcp2.myplaytv.com/telesol/telesol/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Logo_de_VALE_TV.png" group-title="Venezuela", Vale TV 
 https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8
@@ -2605,6 +2593,44 @@ https://ls.tves.gob.ve/hls/tves.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c1YHQ8K/tvandes.png" group-title="Venezuela", TV Andes
 https://vcp3.myplaytv.com/tvandes/tvandes/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yt6qyjL/trv.png" group-title="Venezuela", TRV
+https://vcp3.myplaytv.com/trv/trv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0bqJksL.png" group-title="Venezuela", Vepaco
+https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wFC6Xxq.png", TVO
+https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YvdzJHj.png", Telecolor
+https://streamtv.intervenhosting.net:3161/live/telecentrolive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QtRNfaj.png", Telecentro Venezuela
+https://streamtv.intervenhosting.net:3161/live/telecentrolive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jPzcb2S.png", Telearagua
+http://45.173.198.59:8080/hls/nginx3.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Logo_TAM.png", TAM TV
+https://tv.webtuya.com:3459/live/tammeridalive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jOroeJZ.png", Somos TV
+https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cCFxyIp.jpg", Kandela TV
+https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HG2DM8G/IMG-20230705-153952.jpg", Inter TV
+https://streamtv.intervenhosting.net:3175/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Znd1Ml9.png", EXC TV
+https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LBI2la0.png", Catacumbo TV
+https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vygOosC.png", BTA
+https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
 
 
 ---------------------------------------------------
