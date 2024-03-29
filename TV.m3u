@@ -1626,17 +1626,11 @@ https://alternatv.ar/stream/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uqf93Mu.png" group-title="Argentina", Nortevision
 https://vivo.solumedia.com:19360/nortevision/nortevision.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/g6KXPgt/download-58.jpg" group-title="Argentina", Tango TV
-https://video.misistemareseller.com/8118/8118/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://d3b5jqy5xuub7g.cloudfront.net/wp-content/uploads/2021/07/Encentro-2021.jpg" group-title="Argentina", Encuentro
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vFwPhPS.png" group-title="Argentina", TN
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png" group-title="Argentina", Canal 26
-http://live-edge02.telecentro.net.ar/live/c26.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xtu85tb.png" group-title="Argentina", Neo TV 
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
@@ -1701,8 +1695,8 @@ https://iptv.ixfo.com.ar:30443/live/sanpedrotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yqXORkt.png" group-title="Argentina", TeleNord 
 http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/USD6Wn8.png" group-title="Argentina", Orbe 21 
-https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://canalorbe21.com/wp-content/uploads/2024/02/ID-2024-Orbe21-500x168-1.png" group-title="Argentina", Orbe 21 
+https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/a5fb78f573ba79d41017820f70d975e9.png" group-title="Argentina", Sublime Gracia TV 
 https://5f700d5b2c46f.streamlock.net:443/sublime/sublime/playlist.m3u8
