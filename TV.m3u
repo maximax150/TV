@@ -459,9 +459,6 @@ https://amogonetworx-grjngo-2-eu.plex.wurl.tv/2000.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/f9b44328-8571-4e8a-9066-022bd8665082/cinepride-logo.png", CINEPRIDE
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-62167144ab2095ca85353ad6.m3u8
 
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/73d2ac35-f4e7-48a6-9300-ce106bc56c55/Cine_y_Series_-_1500X1000_PNG_w_transparent_background_Logo_for_dark___white_backgrounds_copy_-_JuanMa_Velasquez.png" , Cine y Series
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-65f0df2a926fdb0e3f8d68b6.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="Cine y Series", Star TVE
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main_dvr.m3u8
 
@@ -471,11 +468,11 @@ https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SlSbcp3.png" group-title="Cine y Series",Golden Edge
 https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Gnz4twB.png" group-title="Cine y Series", Golden Multiplex -1 hora
-https://linear-408.frequency.stream/mt/studio/408/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gnz4twB.png" group-title="Cine y Series", Golden Multiplex
 https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gnz4twB.png" group-title="Cine y Series", Golden Multiplex -1 hora
+https://linear-408.frequency.stream/mt/studio/408/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OOEkyM2.png" group-title="Cine y Series", Golden Plus
 https://linear-410.frequency.stream/mt/studio/410/hls/master/playlist.m3u8
@@ -557,15 +554,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lg
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/725f7299-49ef-43f8-8fa2-9fd5a8acf53d/CM-Plex-Color_Blackbackground-CanelaCinema_-_Camila_Conti.png" group-title="Cine y Series", Canela Cinema
 https://ov.ottera.tv/channels/cnm_cn_mv/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/1f2441f3a7b5573423594e275762520da2214830c4730af87123df9773759ded.png" group-title="Cine y Series", Canela TV
-https://ov.ottera.tv/channels/cnm_ctm_ro/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/6f05b595-1f43-4399-896a-789ab42dce75/Zone_Investigacion_-_1500X1000_PNG_w_transparent_background_Logo_for_dark___white_backgrounds_-_JuanMa_Velasquez.png" , Zona Investigación
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-65f0dbeb046e6131ecc31843.m3u8
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/8b8f3c91-fb10-490f-addb-a2c74e0d4041/CONDISTA-UN_TV-1500X1000.png" , ÚN TV
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-65f0dd1c926fdb0e3f8d68b4.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/b8e36746-5a92-4d58-b415-28280a044123/cinema_logo_light-01_-_James_Stowerdx.png", Azteca Cinema (FAST)
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64695233f73356567a64ce90.m3u8
@@ -777,48 +765,6 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63226c03e67cf9cd9011fcdf.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/d6fba6a2-2650-487f-ab1b-1eb034bd11c7/trace_urban_light_-_Nathan_BECKER.png" , TRACE Urban
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6322658be67cf9cd9011fcda.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://alternative.me/media/256/stingray-music-icon-czw1xxxzgpmeahvj-c.png", Stingray Classica
-https://d2bpmlqcx2tu90.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t0e1oqtyors2s/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://alternative.me/media/256/stingray-music-icon-czw1xxxzgpmeahvj-c.png", Stingray Naturescape
-https://stingray-naturescape-1-us.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://alternative.me/media/256/stingray-music-icon-czw1xxxzgpmeahvj-c.png", Stingray Hits
-https://ott-linear-channels.stingray.com/155/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://alternative.me/media/256/stingray-music-icon-czw1xxxzgpmeahvj-c.png", Stingray Hit List
-https://ott-linear-channels.stingray.com/107/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://alternative.me/media/256/stingray-music-icon-czw1xxxzgpmeahvj-c.png", Stingray Classic Rock
-https://ott-linear-channels.stingray.com/101/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://alternative.me/media/256/stingray-music-icon-czw1xxxzgpmeahvj-c.png", Stingray Rock Alt
-https://ott-linear-channels.stingray.com/102/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://alternative.me/media/256/stingray-music-icon-czw1xxxzgpmeahvj-c.png", Stingray Adult Pop
-https://ott-linear-channels.stingray.com/104/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://alternative.me/media/256/stingray-music-icon-czw1xxxzgpmeahvj-c.png", Stingray Urban
-https://ott-linear-channels.stingray.com/133/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://alternative.me/media/256/stingray-music-icon-czw1xxxzgpmeahvj-c.png", Stingray Country
-https://ott-linear-channels.stingray.com/108/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://alternative.me/media/256/stingray-music-icon-czw1xxxzgpmeahvj-c.png", Stingray Latin
-https://ott-linear-channels.stingray.com/190/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://alternative.me/media/256/stingray-music-icon-czw1xxxzgpmeahvj-c.png", Stingray 70s
-https://ott-linear-channels.stingray.com/115/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://alternative.me/media/256/stingray-music-icon-czw1xxxzgpmeahvj-c.png", Stingray 80s
-https://ott-linear-channels.stingray.com/128/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://alternative.me/media/256/stingray-music-icon-czw1xxxzgpmeahvj-c.png", Stingray 90s
-https://dgxid9pkkhl5v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eh5fc0owefye7/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://alternative.me/media/256/stingray-music-icon-czw1xxxzgpmeahvj-c.png", Stingray The Spa
-https://d9rd4243pcy92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e4dxftqz7hlvi/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg", Vevo Pop
 https://d3t95pdz2h4c90.cloudfront.net/playlist.m3u8
