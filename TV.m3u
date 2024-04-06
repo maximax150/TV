@@ -1,9 +1,9 @@
 #EXTM3U list-name="Canales M3U" list-image="https://icon-library.com/images/dish-tv-icon/dish-tv-icon-8.jpg"
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/1200px-Las_Estrellas_logo_%282016%29.svg.png" group-title="Entretenimiento", Las Estrellas 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/las-estrellas-m.png" group-title="Entretenimiento", Las Estrellas 
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/1200px-Las_Estrellas_logo_%282016%29.svg.png" group-title="Entretenimiento", Las Estrellas Latinoamerica
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/las-estrellas-m.png" group-title="Entretenimiento", Las Estrellas Latinoamerica
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/las-estrellas-m.png" group-title="Entretenimiento", Las Estrellas -1h
@@ -1156,6 +1156,16 @@ https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/.m3u8
 
 #EXTINF:-1, IVC
 http://stream.flynetwifi.com:1935/live/mobile-153/playlist.m3u8
+#EXTINF:-1, Discovery H&H
+http://stream.flynetwifi.com:1935/live/mobile-107/playlist.m3u8
+#EXTINF:-1, Discovery Turbo
+http://stream.flynetwifi.com:1935/live/mobile-109/playlist.m3u8
+#EXTINF:-1, History 2
+http://stream.flynetwifi.com:1935/live/mobile-157/playlist.m3u8
+#EXTINF:-1, El Gourmet
+http://stream.flynetwifi.com:1935/live/mobile-141/playlist.m3u8
+#EXTINF:-1, Hispan TV
+http://stream.flynetwifi.com:1935/live/mobile-147/playlist.m3u8
 
 #EXTINF:-1, Pet Collective
 https://jkn-pc.otteravision.com/dist/ottera/174/hls/master/playlist_webvtt.m3u8
