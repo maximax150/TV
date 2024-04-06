@@ -48,6 +48,15 @@ https://estrellatv-oando.amagi.tv/playlistR720P.m3u8
 #EXTINF:-1 tvg-logo="https://estrellamedia.com/wp-content/uploads/2023/03/2.png" ggroup-title="Entretenimiento", Estrella TV Games
 https://estrella-games-oando.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="Entretenimiento", Caracol
+http://stream.flynetwifi.com:1935/live/mobile-062/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9wxdWNQ.png" group-title="Entretenimiento", RCN Novelas
+http://stream.flynetwifi.com:1935/live/mobile-066/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="Entretenimiento", RCN
+http://stream.flynetwifi.com:1935/live/mobile-072/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/1.png" group-title="Entretenimiento", RCN Xtra
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
 
