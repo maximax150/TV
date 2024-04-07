@@ -323,6 +323,29 @@ https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BKkljlc.png" group-title="Kids & Geek", Meta Versus
 https://vivo.solumedia.com:19360/metaversus/metaversus.m3u8
 
+
+#EXTINF:-1 tvg-logo="" group-title="Kids & Geek",Cartoon Network
+http://stream.flynetwifi.com:1935/live/mobile-029/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kids & Geek",Tooncast
+http://stream.flynetwifi.com:1935/live/mobile-002/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kids & Geek",Cartoonito
+http://stream.flynetwifi.com:1935/live/mobile-055/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kids & Geek"Baby TV
+http://stream.flynetwifi.com:1935/live/mobile-060/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kids & Geek",Zoomoo
+http://stream.flynetwifi.com:1935/live/mobile-069/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kids & Geek",Disney junior
+http://stream.flynetwifi.com:1935/live/mobile-081/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kids & Geek",Nick
+http://stream.flynetwifi.com:1935/live/mobile-112/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kids & Geek",Nick Jr
+http://stream.flynetwifi.com:1935/live/mobile-011/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kids & Geek",Nick Music
+http://stream.flynetwifi.com:1935/live/mobile-039/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kids & Geek",Dreamworks
+http://stream.flynetwifi.com:1935/live/mobile-099/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/G7w9Ayj6II6TMmK7pf6ik9cUoM25ctHAbw4pZAlq.jpg" group-title="Kids & Geek", Max Cartoon
 https://250weu.bozztv.com/ssh101/ssh101/visionamerica/playlist.m3u8
 
@@ -520,6 +543,56 @@ https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MMhSmDK.png" group-title="Cine y Series", De Pelicula Plus
 https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Cine y Series",Space
+http://stream.flynetwifi.com:1935/live/mobile-003/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cine y Series",Paramount
+http://stream.flynetwifi.com:1935/live/mobile-004/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cine y Series",Sony Channel
+http://stream.flynetwifi.com:1935/live/mobile-035/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cine y Series",Sony Movies
+http://stream.flynetwifi.com:1935/live/mobile-034/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cine y Series",Star Channel
+http://stream.flynetwifi.com:1935/live/mobile-057/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cine y Series",TNT
+http://stream.flynetwifi.com:1935/live/mobile-074/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cine y Series",TNT Series
+http://stream.flynetwifi.com:1935/live/mobile-046/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cine y Series",Antena 3
+http://stream.flynetwifi.com:1935/live/mobile-008/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cine y Series",A3S
+http://stream.flynetwifi.com:1935/live/mobile-047/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cine y Series",A3Cine
+http://stream.flynetwifi.com:1935/live/mobile-028/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cine y Series",AMC
+http://stream.flynetwifi.com:1935/live/mobile-079/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cine y Series",AXN
+http://stream.flynetwifi.com:1935/live/mobile-048/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cine y Series",Warner
+http://stream.flynetwifi.com:1935/live/mobile-030/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cine y Series",HBO2
+http://stream.flynetwifi.com:1935/live/mobile-094/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cine y Series",FX
+http://stream.flynetwifi.com:1935/live/mobile-123/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cine y Series",Cinecanal
+http://stream.flynetwifi.com:1935/live/mobile-016/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cine y Series",A&E
+http://stream.flynetwifi.com:1935/live/mobile-158/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cine y Series",Film & Arts
+http://stream.flynetwifi.com:1935/live/mobile-142/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cine y Series",MultiPremier
+http://stream.flynetwifi.com:1935/live/mobile-021/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cine y Series",Multicinema
+http://stream.flynetwifi.com:1935/live/mobile-044/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cine y Series",Europa Europa
+http://stream.flynetwifi.com:1935/live/mobile-140/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cine y Series",Universal
+http://stream.flynetwifi.com:1935/live/mobile-064/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cine y Series",Studio
+http://stream.flynetwifi.com:1935/live/mobile-026/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cine y Series",USA
+http://stream.flynetwifi.com:1935/live/mobile-059/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://staytv.net/wp-content/uploads/cropped-CCC_Mesa-de-trabajo-1.png" group-title="Cine y Series", StayTV
 https://video.misistemareseller.com/staytv/staytv/playlist.m3u8
@@ -837,9 +910,6 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes", Zona TUDN
 https://linear-356.frequency.stream/mt/studio/356/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HBOHkgL.png" group-title="Deportes", Afizzionados
-https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/AdrenalinaSportsNetwork.png" group-title="Deportes", Adrenalina Sports Network
 https://linear-393.frequency.stream/mt/studio/393/hls/master/playlist.m3u8
 
@@ -875,6 +945,29 @@ https://r.mjh.nz/PlutoTV/638df6f8b63cf100075ccfa1-alt.m3u8
 
 #EXTINF:-1 tvg-logo="", Women's Football
 https://r.mjh.nz/PlutoTV/64b02bbd7d93410008fdae60-alt.m3u8
+
+
+#EXTINF:-1 tvg-logo="",Fox Sports MX
+http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8
+#EXTINF:-1 tvg-logo="",Fox Sports 2 MX
+http://stream.flynetwifi.com:1935/live/mobile-031/playlist.m3u8
+#EXTINF:-1 tvg-logo="",Fox Sports 3 MX
+http://stream.flynetwifi.com:1935/live/mobile-108/playlist.m3u8
+#EXTINF:-1 tvg-logo="",Fox Deportes
+http://stream.flynetwifi.com:1935/live/mobile-104/playlist.m3u8 
+#EXTINF:-1 tvg-logo="",Win+
+http://stream.flynetwifi.com:1935/live/mobile-072/playlist.m3u8
+#EXTINF:-1 tvg-logo="",ESPN
+http://stream.flynetwifi.com:1935/live/mobile-032/playlist.m3u8
+#EXTINF:-1 tvg-logo="",ESPN 2
+http://stream.flynetwifi.com:1935/live/mobile-033/playlist.m3u8
+#EXTINF:-1 tvg-logo="",ESPN 3
+http://stream.flynetwifi.com:1935/live/mobile-121/playlist.m3u8
+#EXTINF:-1 tvg-logo="",ESPN 5
+http://stream.flynetwifi.com:1935/live/mobile-007/playlist.m3u8
+#EXTINF:-1 tvg-logo="",TYC Sports
+http://stream.flynetwifi.com:1935/live/mobile-005/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_trace-sports-stars_m.png" group-title="Deportes", Trace Sports
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
@@ -1183,6 +1276,14 @@ http://stream.flynetwifi.com:1935/live/mobile-153/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-107/playlist.m3u8
 #EXTINF:-1, Discovery Turbo
 http://stream.flynetwifi.com:1935/live/mobile-109/playlist.m3u8
+#EXTINF:-1,Nat Geo
+http://stream.flynetwifi.com:1935/live/mobile-091/playlist.m3u8
+#EXTINF:-1,Discovery 
+http://stream.flynetwifi.com:1935/live/mobile-006/playlist.m3u8
+#EXTINF:-1,Animal Planet
+http://stream.flynetwifi.com:1935/live/mobile-068/playlist.m3u8
+#EXTINF:-1,History
+http://stream.flynetwifi.com:1935/live/mobile-058/playlist.m3u8
 #EXTINF:-1, History 2
 http://stream.flynetwifi.com:1935/live/mobile-157/playlist.m3u8
 #EXTINF:-1, El Gourmet
@@ -2412,6 +2513,11 @@ https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6j3FH1q.png" group-title="America Central", Esquipulas TV GT
 https://tv91.hostingnuclear.com:19360/esquipulastv/esquipulastv.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="America Central",Canal 11 GT
+http://stream.flynetwifi.com:1935/live/mobile-132/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="America Central",Guatevision
+http://stream.flynetwifi.com:1935/live/mobile-149/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://qhubotv.com/content/images/2022/08/Logo-Q-HUBO-1.png" group-title="America Central", Q Hubo tv HN
 https://5e85d90130e77.streamlock.net/6024/6024/playlist.m3u8
 
@@ -2459,6 +2565,13 @@ https://telecorporacion-es.cdn.vustreams.com:443/live/af9473b9-191c-456a-b714-57
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_6_TCS.png" group-title="America Central", Canal 6 SV
 https://telecorporacion.cdn.vustreams.com:443/live/a242095a-c49d-4263-b9ae-5958f5e0c9a1/live.isml/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="America Central",Canal 4 SV
+http://stream.flynetwifi.com:1935/live/mobile-036/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="America Central",Canal 10 SV
+http://stream.flynetwifi.com:1935/live/mobile-037/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="America Central",TVO SV
+http://stream.flynetwifi.com:1935/live/mobile-071/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.canal11.com.sv/logo11.png" group-title="America Central", TUTV Canal 11 SV
 https://streaming.grupocsanetwork.com:19360/canal11/canal11.m3u8
@@ -4092,4 +4205,4 @@ http://138.59.177.34:8000/play/a07g/index.m3u8
 #EXTINF:-1,Penthouse 
 http://45.166.92.22:58001/play/a04c/index.m3u8
 #EXTINF:-1,Brazzers
-https://cdn-main.lolokoko.tv/BRAZZERS.stream/chunks.m3u8
+http://stream.flynetwifi.com:1935/live/mobile-125/playlist.m3u8
