@@ -138,6 +138,29 @@ https://linear-312.frequency.stream/mt/studio/312/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Risas de Oro
 https://linear-313.frequency.stream/mt/studio/313/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Hola TV
+http://stream.flynetwifi.com:1935/live/mobile-013/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Pasiones
+http://stream.flynetwifi.com:1935/live/mobile-014/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Mas Chic
+http://stream.flynetwifi.com:1935/live/mobile-146/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Univision US
+http://stream.flynetwifi.com:1935/live/mobile-045/playlist.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Telemundo US
+http://stream.flynetwifi.com:1935/live/mobile-040/playlist.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Telemundo int
+http://stream.flynetwifi.com:1935/live/mobile-152/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",NBC Universo
+http://stream.flynetwifi.com:1935/live/mobile-065/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Lifetime
+http://stream.flynetwifi.com:1935/live/mobile-154/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",MTV
+http://stream.flynetwifi.com:1935/live/mobile-063/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Comedy C
+http://stream.flynetwifi.com:1935/live/mobile-001/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",E!
+http://stream.flynetwifi.com:1935/live/mobile-156/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://content.jwplatform.com/images/jNgWEGCO.png" group-title="Entretenimiento", Wapa PR
 https://live.field59.com/wapa/wapa1/.m3u8
 
