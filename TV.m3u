@@ -1496,6 +1496,18 @@ https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://rndserv.xyz/img/milenio.png" group-title="Mexico", Milenio
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cAxlcsR.png", Canal 7 SLP
+https://mvtvstream.com:444/live/6456eb2e56ab7/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kFVVGrg.png", Expresa TV
+https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z9iVlMn.png", TV Mar La Paz 
+https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z9iVlMn.png", TV Mar Puerto Vallarta
+https://5ca3e84a76d30.streamlock.net/tvmarvallarta/videotvmarvallarta/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://api.rcgmedia.mx/uploads/logo_rcg_media_250_4df3b2a2e1.png" group-title="Mexico", RCG 1 Saltillo
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
 
@@ -2014,9 +2026,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142
 Chile
 ---------------------------------------------------
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nJOVM6e.png" group-title="Chile", La Red
-https://d16pc5095tzygd.cloudfront.net/LaRed/d048098ce842377c101928b648065843.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RlZfR84.png" group-title="Chile", Mega
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
@@ -2606,6 +2615,9 @@ https://alba-ec-tvc-tvc.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.hechosecuador.com/rw_common/images/logo2021.png" group-title="Ecuador", Hechos Ecuador
 https://stmv.streamingvip.click/hechosecuador/hechosecuador/playlist.m3u8
 
+#EXTINF:-1 group-title="Ecuador", Ecuavisa
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisaqo/ecuavisaqo/.m3u8
+
 #EXTINF:-1 tvg-logo="https://wuanplus.tv/wp-content/uploads/2017/10/2-WUAN-Orange-RGB-para-WEB.png" group-title="Ecuador", Wuan Plus
 https://video2.makrodigital.com/wuanplus/wuanplus/playlist.m3u8
 
@@ -2791,10 +2803,7 @@ https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 
 #EXTINF:-1 tvg-logo="https://cultura24.tv/sites/default/files/inline-images/logo.png", Cultura 24 TV 
-https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bBnWaq2.png", Contacto TV Peru
-https://live.obslivestream.com/cdeportivo/index.m3u8
+https://www.opencaster.com/resources/hls_stream/cultura24.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-GXO0Icql4EQ/XoKCsLIBYYI/AAAAAAAAxU8/orolaAsdhtcwmmCf7538H7VopRGVo2wbwCK8BGAsYHg/s0/2020-03-30.png", Antares TV 
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8?PlaylistM3UCL
@@ -2809,7 +2818,7 @@ https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://panamericana.pe/imagenes/logo_2020.png", Panamericana 
-https://cdn75.iblups.com/hls/stream.m3u8
+https://live-evg4.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8Hvk59N.png", Latina
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
@@ -2818,7 +2827,7 @@ https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea
 https://live.obslivestream.com/autenticatvmux/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oNFOKFI.png", BHTV 
-http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+https://vdo.grupolimalive.com:3762/live/bhtvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/stvzqzd.png", Cadena TV
 https://servilive.com:3079/live/cdnatvlive.m3u8
@@ -2826,8 +2835,8 @@ https://servilive.com:3079/live/cdnatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cfHaLt2.png", Conecta2
 https://servilive.com:3114/live/liveulive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cWE1deh.png", Central TV Chosica 
-http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jCAmrwt.png", CreoTV
+https://srv1.mediastreamperu.com:19360/creotv/creotv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pu0BSB7.png", Exitosa 
 https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
@@ -2837,9 +2846,6 @@ https://s1.tvdatta.com:3804/live/diasporatvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/9872abc3f3190fc94f2d8b65f3f5cc38.png", Genios TV 
 https://live.obslivestream.com/geniostvmux/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/9a3f4907d39b27f14c40b15b6aeb02a5ba5b0e7ef3b9179c021f500e58debe01.png", Señal Peru
-https://livestream.perucast.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://soltvperu.com/wp-content/uploads/2022/10/naranja-21-03.png", Sol TV
 https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
@@ -2856,14 +2862,14 @@ https://live.obslivestream.com/telecolormux/index.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/9176c235a22b9745bcc6e930b2a7e904.png", TV Cosmos 15.1 
 https://5790d294af2dc.streamlock.net:443/8134/8134/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m50qAVY.png", TVperuanisima 
-https://59ef525c24caa.streamlock.net/TVperuanisima/TVperuanisima/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TdYNCBI.png", Cumo TV
+https://live.obslivestream.com/cumo/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sJfB0AE.png", X TV
-https://vdo.grupolimalive.com:3087/live/xtvlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KSePPeW.png", DMJ
+https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2KcpOEU.png", VZTV
-https://live.obslivestream.com/vztv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d431PkD.png", Doble AA
+https://videoserver.tmcreativos.com:19360/yvmgbdpqmp/yvmgbdpqmp.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TOnknEW.png", VNP
 https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
@@ -2889,11 +2895,25 @@ https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1q0R6R9.png", Señal Peru
 https://livestream.perucast.com/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2zCD4TB.png", Doble C
+https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
+
+#EXTINF:-1 tvg-logo="", CPN
+https://video2.lhdserver.es/cableperu/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dudxyqk.png", JN19
+https://servilive.com:3028/live/jntv19live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1FRWCa6.png", La 5ta
+https://video.ingenioperu.com:3844/stream/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9OXF9EK.png", Usil TV
+https://per01-lim01.servidor.stream/usiltv/index.m3u8
+
 
 ---------------------------------------------------
 Dominicana
 ---------------------------------------------------
-
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lizQs3n.png" group-title="Dominicana", Orbit TV 
