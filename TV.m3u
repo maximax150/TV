@@ -102,26 +102,38 @@ https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2022/07/Corazon450x300-1.png" group-title="Entretenimiento", Azteca Corazon
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826
 
-#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/61b75fb008f1b309bf36f659/bb3fa20e860e35705f5e06b179ba9e69?tr=q-80&w=1440" group-title="Entretenimiento", La Rosa de Guadalupe 24/7
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/series/la-rosa-de-guadalupe-poster-109275_V.jpg" group-title="Entretenimiento", La Rosa de Guadalupe 24/7
 https://linear-344.frequency.stream/mt/studio/344/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://st1.uvnimg.com/a7/c6/2db0cc4e4120a908207376af7d1d/comodiceeldicho-featuredshows-2x.jpg" group-title="Entretenimiento", Como dice el dicho 24/7
 https://linear-341.frequency.stream/mt/studio/341/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Novelas de romance
-https://linear-194.frequency.stream/mt/studio/194/hls/master/playlist.m3u8
+https://linear-565.frequency.stream/mt/studio/565/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Villanos de novelas
 https://linear-339.frequency.stream/mt/studio/339/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Grandes Pareas
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Grandes Parejas
 https://linear-318.frequency.stream/mt/studio/318/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Novelas en Familia
-https://linear-195.frequency.stream/mt/studio/195/hls/master/playlist.m3u8
+https://linear-566.frequency.stream/mt/studio/566/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Novelas de oro
-https://linear-196.frequency.stream/mt/studio/196/hls/master/playlist.m3u8
+https://linear-561.frequency.stream/mt/studio/561/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Pongalo Novelaclub
+https://linear-568.frequency.stream/mt/studio/568/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Miamivelas
+https://linear-578.frequency.stream/mt/studio/578/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Novelas de Asia
+https://linear-531.frequency.stream/mt/studio/531/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Amor y Palomitas
+https://linear-533.frequency.stream/mt/studio/533/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Risa Picante
 https://linear-312.frequency.stream/mt/studio/312/hls/master/playlist.m3u8
@@ -131,6 +143,21 @@ https://linear-313.frequency.stream/mt/studio/313/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Guerra de chistes
 https://linear-479.frequency.stream/mt/studio/479/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Cocina TV
+https://linear-317.frequency.stream/mt/studio/317/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Desde Venezuela
+https://linear-527.frequency.stream/mt/studio/527/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", RCTV
+https://linear-334.frequency.stream/mt/studio/334/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://theme.zdassets.com/theme_assets/12350451/9cdeed54b9c68fa55c3beb8edd8d228c5e452450.png" group-title="Entretenimiento", ViX Parejas
+https://d1f3q72l8uy8ur.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z46pswns8dp1b-ssai-prd/dist/samsungtv/318/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://theme.zdassets.com/theme_assets/12350451/9cdeed54b9c68fa55c3beb8edd8d228c5e452450.png" group-title="Entretenimiento", ViX JaJaJa
+https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/dist/samsungtv/310/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/ee/Logo_Novelas_TV.svg/1200px-Logo_Novelas_TV.svg.png" group-title="Entretenimiento", Novelas en español
 https://stormcast-novelas-2-es.samsung.wurl.tv/playlist.m3u8
@@ -158,12 +185,6 @@ https://spt-novelas-1-us.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/0b2ed753-566f-476c-9329-1f08221de7a6/CM-Amagi-Artwork_4-1500x1000_-_Camila_Conti_WHITE_LETTERS_REDLOGO.png", Canela Telenovelas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
-
-#EXTINF:-1 tvg-logo="https://theme.zdassets.com/theme_assets/12350451/9cdeed54b9c68fa55c3beb8edd8d228c5e452450.png" group-title="Entretenimiento", ViX Parejas
-https://d1f3q72l8uy8ur.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z46pswns8dp1b-ssai-prd/dist/samsungtv/318/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://theme.zdassets.com/theme_assets/12350451/9cdeed54b9c68fa55c3beb8edd8d228c5e452450.png" group-title="Entretenimiento", ViX JaJaJa
-https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/dist/samsungtv/310/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.hola.tv/wp-content/uploads/2020/09/logoholatv.jpg" group-title="Entretenimiento", Hola Play
 https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
@@ -340,9 +361,6 @@ https://magicstream.ddns.net/magicstream/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/79hrcx8.png" group-title="Kids & Geek", Bitme
 https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Kids & Geek", Siempre Teens
-https://linear-487.frequency.stream/mt/studio/487/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://energeek.cl/custom/templates/Lithium/uploads/simbolo-2.png" group-title="Kids & Geek", Energeek
 https://wifiexpert-1.energeek.cl/energeek/canal-1/playlist.m3u8
@@ -554,6 +572,18 @@ https://linear-410.frequency.stream/mt/studio/410/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GBlvQBI.png" group-title="Cine y Series", Golden Premier
 https://linear-411.frequency.stream/mt/studio/411/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Cine y Series", ViX Cine Club
+https://linear-567.frequency.stream/mt/studio/567/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Cine y Series", Moovimex
+https://linear-564.frequency.stream/mt/studio/564/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Cine y Series", ViX Cine Retro
+https://linear-562.frequency.stream/mt/studio/562/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Cine y Series", ViX Cine de oro
+https://linear-308.frequency.stream/mt/studio/308/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/99d1f745bbde1c70f7199fc8c979cd6fa8fd51d920a654e40876f49764b4f701.png" group-title="Cine y Series", Tiguerito TV
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/.m3u8
@@ -991,9 +1021,6 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 group-title="Deportes", DeporTV
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/.m3u8
 
-#EXTINF:-1 group-title="Deportes", Tigo Sports Latino
-https://linear-556.frequency.stream/mt/studio/556/hls/master/playlist.m3u8
-
 #EXTINF:-1 group-title="Deportes", Adrenalina Sports Network
 https://linear-393.frequency.stream/mt/studio/393/hls/master/playlist.m3u8
 
@@ -1015,10 +1042,7 @@ https://linear-506.frequency.stream/mt/studio/506/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Deportes", Lo mejor de la Liga MX
 https://linear-452.frequency.stream/mt/studio/452/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="Deportes", MLB
-https://linear-508.frequency.stream/mt/studio/508/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9c/Fox_Major_League_Baseball_logo.jpg" group-title="Deportes", FOX MLB
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9c/Fox_Major_League_Baseball_logo.jpg" group-title="Deportes", MLB
 https://linear-508.frequency.stream/mt/studio/508/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1212859696383696896/ljdBfeUQ_400x400.jpg" group-title="Deportes", All Sports 
