@@ -84,14 +84,8 @@ https://linear-605.frequency.stream/mt/studio/605/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://nuestravision.tv/wp-content/uploads/2024/03/Nuestra-Vision_Logo_Main-282x300.png" group-title="Entretenimiento", Nuestra Vision
 https://linear-262.frequency.stream/mt/studio/262/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="Entretenimiento", Caracol
-http://stream.flynetwifi.com:1935/live/mobile-062/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9wxdWNQ.png" group-title="Entretenimiento", RCN Novelas
 http://45.190.187.226:58092/play/a01y
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="Entretenimiento", RCN
-http://stream.flynetwifi.com:1935/live/mobile-072/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/1.png" group-title="Entretenimiento", RCN Xtra
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
