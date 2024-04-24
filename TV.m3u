@@ -1837,10 +1837,10 @@ http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/20600a504d12eb0b41587fbc1b700289.png" group-title="Bolivia", Bolivia TV 7.2 
 https://5f2c1b0d880e5.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/4dc5de183727a12e5701c57cddac2f28.png" group-title="Bolivia", Bolivision 
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/4dc5de183727a12e5701c57cddac2f28.png" group-title="Bolivia", *Bolivision (Geo Bolivia VPN)
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.redbolivision.tv.bo/wp-content/uploads/2020/12/Imagen-Conductores-Grande-1.jpg" group-title="Bolivia", UPPTV 
+#EXTINF:-1 tvg-logo="https://www.redbolivision.tv.bo/wp-content/uploads/2020/12/Imagen-Conductores-Grande-1.jpg" group-title="Bolivia", *UPPTV (Geo Bolivia VPN)
 https://alba-bo-bolivision-upptv.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/ima19723624875.jpg" group-title="Bolivia", Mega TV BO
@@ -2258,7 +2258,7 @@ https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Rvuyu7R.jpg" group-title="Colombia", Cable Sur TV
 https://tvlatina.live:1936/8012/8012/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Rvuyu7R.jpg" group-title="Colombia", *Canal 1 (Geo Colombia VPN)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/512px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="Colombia", *Canal 1 (Geo Colombia VPN)
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="Colombia", *Caracol (Geo Colombia VPN)
@@ -2518,6 +2518,13 @@ https://stream.oursnetworktv.com/latin/btvpanama/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vpvvznz.png" group-title="America Central", Hosanna Vision Panama
 https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/playlist.m3u8
 
+#EXTINF:-1,TVN PAN
+http://138.59.177.34:8000/play/a021/index.m3u8
+#EXTINF:-1,RPC PAN
+http://138.59.177.34:8000/play/a065/index.m3u8
+#EXTINF:-1,Telemetro PAN
+http://138.59.177.34:8000/play/a020/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QQBd052.png" group-title="America Central", Nex tv Panama
 https://vcp4.myplaytv.com:1936/nextv/nextv/playlist.m3u8
 
@@ -2543,13 +2550,16 @@ https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/60580
 https://srv.tropicalmoonmedia.com/somosculturatv/somosculturatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yCykjIp.png" group-title="America Central", Canal 3 GT
-https://alba-gt-chapintv-c3.stream.mediatiquestream.com/index.m3u8
+http://138.59.177.34:8000/play/a04m/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yVhUkot.png" group-title="America Central", Televisiete GT
-https://alba-gt-chapintv-c7.stream.mediatiquestream.com/index.m3u8
+http://138.59.177.34:8000/play/a04l/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UtZD3PA.png" group-title="America Central", TN23 GT
-https://alba-gt-chapintv-tn23.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nmlBLpI.png" group-title="America Central", Teleonce GT
+http://138.59.177.34:8000/play/a03f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C1yVU3J.png" group-title="America Central", Trecevision GT
+http://138.59.177.34:8000/play/a03e/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UJhQoUK.png" group-title="America Central", Azteca Guate
 https://ch1-tva.duin.dev/hls/stream.m3u8
@@ -2572,10 +2582,8 @@ https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6j3FH1q.png" group-title="America Central", Esquipulas TV GT
 https://tv91.hostingnuclear.com:19360/esquipulastv/esquipulastv.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="America Central",Canal 11 GT
-http://stream.flynetwifi.com:1935/live/mobile-132/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="America Central",Guatevision
-http://stream.flynetwifi.com:1935/live/mobile-149/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/edZjzbS.png" group-title="America Central",Canal Antigua 
+http://138.59.177.34:8000/play/a04j/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://qhubotv.com/content/images/2022/08/Logo-Q-HUBO-1.png" group-title="America Central", Q Hubo tv HN
 https://5e85d90130e77.streamlock.net/6024/6024/playlist.m3u8
@@ -2585,6 +2593,9 @@ https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4hEYFa9.png" group-title="America Central", Canal 5 Honduras
 https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
+
+#EXTINF:-1,Canal 11 Honduras
+http://138.59.177.34:8000/play/a01v/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/VTV_HN_logo_2019.png/1200px-VTV_HN_logo_2019.png" group-title="America Central", VTV Honduras
 https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
@@ -2622,15 +2633,14 @@ https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png" group-title="America Central", CANAL 2 SV
 https://telecorporacion-es.cdn.vustreams.com:443/live/af9473b9-191c-456a-b714-57eace94e2fe/live.isml/Playlist.m3u8
 
+#EXTINF:-1,Canal 4 HD ESA
+http://138.59.177.34:8000/play/a012/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_6_TCS.png" group-title="America Central", Canal 6 SV
 https://telecorporacion.cdn.vustreams.com:443/live/a242095a-c49d-4263-b9ae-5958f5e0c9a1/live.isml/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="America Central",Canal 4 SV
-http://stream.flynetwifi.com:1935/live/mobile-036/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="America Central",Canal 10 SV
-http://stream.flynetwifi.com:1935/live/mobile-037/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="America Central",TVO SV
-http://stream.flynetwifi.com:1935/live/mobile-071/playlist.m3u8
+#EXTINF:-1,Canal 10 SV
+http://138.59.177.34:8000/play/a00x/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.canal11.com.sv/logo11.png" group-title="America Central", TUTV Canal 11 SV
 https://streaming.grupocsanetwork.com:19360/canal11/canal11.m3u8
@@ -2650,7 +2660,16 @@ https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="America Central", TuCanal 25 SV
 https://ssh101.bozztv.com/ssh101/OrbitaTV25/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ztp781b.png" group-title="America Central", Canal 10 Nicaragua
+#EXTINF:-1,Canal 2 Nicaragua
+http://138.59.177.34:8000/play/a04r/index.m3u8
+#EXTINF:-1,Canal 4 Nicaragua
+http://138.59.177.34:8000/play/a063/index.m3u8
+#EXTINF:-1,Canal 6 Nicaragua
+http://138.59.177.34:8000/play/a03o/index.m3u8
+#EXTINF:-1,Canal 14 Nicaragua
+http://138.59.177.34:8000/play/a03k/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ztp781b.png" group-title="America Central", *Canal 10 NIC (Geo Nicaragua VPN)
 https://alba-ni-c10-c10.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nb81xeU.png" group-title="America Central", WTV Nicaragua
@@ -2662,10 +2681,10 @@ Ecuador
 ---------------------------------------------------
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="Ecuador", RTS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="Ecuador", *RTS (Geo Ecuador VPN)
 https://alba-ec-rts-rts.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tvc.com.ec/wp-content/themes/albavision-theme/parts-web/9212d2e4/logo.png" group-title="Ecuador", TVC 
+#EXTINF:-1 tvg-logo="https://www.tvc.com.ec/wp-content/themes/albavision-theme/parts-web/9212d2e4/logo.png" group-title="Ecuador", *TVC (Geo Ecuador VPN)
 https://alba-ec-tvc-tvc.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.hechosecuador.com/rw_common/images/logo2021.png" group-title="Ecuador", Hechos Ecuador
@@ -2797,7 +2816,7 @@ Paraguay
 ---------------------------------------------------
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SNT_2013_logotype.png" group-title="Paraguay", SNT 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SNT_2013_logotype.png" group-title="Paraguay", *SNT (Geo Paraguay VPN) 
 https://alba-py-snt-snt.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/LOGO_C9N_2022.png", C9N 
@@ -2994,7 +3013,7 @@ http://newyorkstream.ddns.net:5854/telenord12/telenord12/telenord12.m3u8
 http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zKWFgeQ.png" group-title="Dominicana", Antena 7 RD
-https://alba-do-antena7-antena7.stream.mediatiquestream.com/index.m3u8
+http://138.59.177.34:8000/play/a01x/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QE0XWLh.png" group-title="Dominicana", Antena 21 RD
 https://alba-do-antena7-c21.stream.mediatiquestream.com/index.m3u8
@@ -3568,8 +3587,6 @@ http://138.59.177.34:8000/play/a055/index.m3u8
 http://138.59.177.34:8000/play/a02z/index.m3u8
 #EXTINF:-1,Antena 3
 http://138.59.177.34:8000/play/a00s/index.m3u8
-#EXTINF:-1,Antena 7- RD
-http://138.59.177.34:8000/play/a01x/index.m3u8
 #EXTINF:-1,Atres Series
 http://138.59.177.34:8000/play/a00y/index.m3u8
 #EXTINF:-1,Azcorazon
@@ -3598,50 +3615,6 @@ http://138.59.177.34:8000/play/a05f/index.m3u8
 http://138.59.177.34:8000/play/a010/index.m3u8
 #EXTINF:-1,CNNE
 http://138.59.177.34:8000/play/a02n/index.m3u8
-#EXTINF:-1,Canal 10 - ESA
-http://138.59.177.34:8000/play/a00x/index.m3u8
-#EXTINF:-1,Canal 10 HD
-http://138.59.177.34:8000/play/a017/index.m3u8
-#EXTINF:-1,Canal 11 - GUA
-http://138.59.177.34:8000/play/a03f/index.m3u8
-#EXTINF:-1,Canal 11 - HON
-http://138.59.177.34:8000/play/a01v/index.m3u8
-#EXTINF:-1,Canal 13 - PAN
-http://138.59.177.34:8000/play/a020/index.m3u8
-#EXTINF:-1,Canal 13-GUA
-http://138.59.177.34:8000/play/a03e/index.m3u8
-#EXTINF:-1,Canal 14 - NIC
-http://138.59.177.34:8000/play/a03k/index.m3u8
-#EXTINF:-1,Canal 19  ESA
-http://138.59.177.34:8000/play/a03x/index.m3u8
-#EXTINF:-1,Canal 2 - ESA
-http://138.59.177.34:8000/play/a04o/index.m3u8
-#EXTINF:-1,Canal 2 - NIC
-http://138.59.177.34:8000/play/a04r/index.m3u8
-#EXTINF:-1,Canal 2 - PAN
-http://138.59.177.34:8000/play/a021/index.m3u8
-#EXTINF:-1,Canal 3 - GUA
-http://138.59.177.34:8000/play/a04m/index.m3u8
-#EXTINF:-1,Canal 3 Telesistemas HND
-http://138.59.177.34:8000/play/a068/index.m3u8
-#EXTINF:-1,Canal 4 - NIC
-http://138.59.177.34:8000/play/a063/index.m3u8
-#EXTINF:-1,Canal 4 - PAN
-http://138.59.177.34:8000/play/a065/index.m3u8
-#EXTINF:-1,Canal 4 HD ESA
-http://138.59.177.34:8000/play/a012/index.m3u8
-#EXTINF:-1,Canal 5 - HON
-http://138.59.177.34:8000/play/a04p/index.m3u8
-#EXTINF:-1,Canal 6 - ESA
-http://138.59.177.34:8000/play/a03g/index.m3u8
-#EXTINF:-1,Canal 6 - NI
-http://138.59.177.34:8000/play/a03o/index.m3u8
-#EXTINF:-1,Canal 7 - GUA
-http://138.59.177.34:8000/play/a04l/index.m3u8
-#EXTINF:-1,Canal Antigua - GUA
-http://138.59.177.34:8000/play/a04j/index.m3u8
-#EXTINF:-1,Canal Azteca - GUA
-http://138.59.177.34:8000/play/a04k/index.m3u8
 #EXTINF:-1,Canal Claro
 http://138.59.177.34:8000/play/a01t/index.m3u8
 #EXTINF:-1,Canal Claro HD
@@ -4243,5 +4216,3 @@ http://138.59.177.34:8000/play/a04h/index.m3u8
 http://138.59.177.34:8000/play/a07g/index.m3u8
 #EXTINF:-1,Penthouse 
 http://45.166.92.22:58001/play/a04c/index.m3u8
-#EXTINF:-1,Brazzers
-http://stream.flynetwifi.com:1935/live/mobile-125/playlist.m3u8
