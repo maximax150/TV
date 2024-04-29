@@ -120,13 +120,7 @@ https://linear-561.frequency.stream/mt/studio/561/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Pongalo Novelaclub
 https://linear-568.frequency.stream/mt/studio/568/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Miamivelas
-https://linear-578.frequency.stream/mt/studio/578/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Novelas de Asia
-https://linear-531.frequency.stream/mt/studio/531/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Amor y Palomitas
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Pequeños Gigantes 
 https://linear-533.frequency.stream/mt/studio/533/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Risa Picante
@@ -143,9 +137,6 @@ https://linear-317.frequency.stream/mt/studio/317/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Desde Venezuela
 https://linear-527.frequency.stream/mt/studio/527/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", RCTV
-https://linear-334.frequency.stream/mt/studio/334/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://theme.zdassets.com/theme_assets/12350451/9cdeed54b9c68fa55c3beb8edd8d228c5e452450.png" group-title="Entretenimiento", ViX Parejas
 https://d1f3q72l8uy8ur.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z46pswns8dp1b-ssai-prd/dist/samsungtv/318/hls/master/playlist.m3u8
@@ -167,9 +158,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
 
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Novelas Inolvidables
 https://ov.ottera.tv/channels/cnm_niv/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Todo Novelas + Pasiones
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=6111
 
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Todo Novelas España
 https://d2t7ujjc7lurgd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-q0go87ctcenys-ssai-prd/master.m3u8
@@ -216,9 +204,6 @@ https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8?delay=7
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Telemundo_Puerto_Rico.svg/1200px-Telemundo_Puerto_Rico.svg.png" group-title="Entretenimiento", Telemundo Puerto Rico
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/MegaTV.png" group-title="Entretenimiento", Mega TV
-https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.myzen.tv/wp-content/uploads/2019/12/My-Zen-Tv_LOGO_Couleur_vide-300x300.png" group-title="Entretenimiento", My Zen TV
 https://str81.creacast.com/myzentv/myzentv.smil/.m3u8
@@ -361,14 +346,8 @@ https://vivo.solumedia.com:19360/metaversus/metaversus.m3u8
 #EXTINF:-1,Teen Nick HD
 http://45.190.187.226:58092/play/a027
 
-#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/G7w9Ayj6II6TMmK7pf6ik9cUoM25ctHAbw4pZAlq.jpg" group-title="Kids & Geek", Max Cartoon
-https://250weu.bozztv.com/ssh101/ssh101/visionamerica/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/ZooMoo-Kids-Logo-Oficial-01.png/1200px-ZooMoo-Kids-Logo-Oficial-01.png" group-title="Kids & Geek", Zoomoo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1080765671431200768/RM4qmbGv_400x400.jpg" group-title="Kids & Geek", TV Galicia Xabarin
-https://crtvg-infantil-schlive.flumotion.cloud/crtvglive/channel5PRG.smil/.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-5wlAQ6nLfW4/YF5I0iHgH3I/AAAAAAABA90/HsqEimRfhGARstgd044vc0ZkynUYntbTACK8BGAsYHg/s512/2021-03-26.jpg" group-title="Kids & Geek", Pequeradio TV 
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
@@ -390,9 +369,6 @@ https://cloudvideo.servers10.com:8081/8138/index.m3u8
 
 #EXTINF:-1 group-title="Kids & Geek", Canela Kids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
-
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22915/zaz/thumbh_20220411_193252_270.png" group-title="Kids & Geek", ZAZ TV
-https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1081_AnimeStation.png" group-title="Kids & Geek", Anime Station
 https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/chunks.m3u8
@@ -477,9 +453,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fceaab478f2af00080ff5
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ff4b9ccf938f8000779eb99/colorLogoPNG.png" group-title="Kids & Geek", One Piece
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff4b9ccf938f8000779eb99/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6079be62f9f8d6000783c8a4/colorLogoPNG.png" group-title="Kids & Geek", Pluto TV Anime Heroes
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079be62f9f8d6000783c8a4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ff608e60e2996000768c366/colorLogoPNG.png" group-title="Kids & Geek", Tokusato
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff608e60e2996000768c366/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -561,9 +534,6 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-62167144ab2095ca85353ad6.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="Cine y Series", Star TVE
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main_dvr.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Gnz4twB.png" group-title="Cine y Series",Golden
-http://45.190.187.226:58092/play/a024
 
 #EXTINF:-1,Paramount HD
 http://45.190.187.226:58092/play/a00w
