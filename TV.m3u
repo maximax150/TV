@@ -2398,11 +2398,14 @@ http://45.190.187.226:58092/play/a026
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nefPi2Y.png" group-title="Costa Rica", Canal 8 Multimedios
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Costa Rica", Canal 10 CR
+https://acceso.radiosportstv.online:3138/stream/play.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/512px-Repretel_11_logo.png" group-title="Costa Rica", Repretel 11 
 https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/HowlI4G5AwJYrUNtf1g6TwAxGAmLonFpxb8i3UiS.jpg" group-title="Costa Rica", Sinart Canal 13
-https://ssh101.bozztv.com/ssh101/sinartcr/playlist.m3u8
+https://ssh101.bozztv.com/ssh101/sinart13/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvn14.com/wp-content/uploads/2023/03/cropped-logo.png" group-title="Costa Rica", TVN 14
 https://5fd8fec96951d.streamlock.net/TVN/CH14.stream_720p/playlist.m3u8
@@ -2452,8 +2455,8 @@ https://acceso.radiosportstv.online:3430/live/tvnosaralive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5xw86wu.png" group-title="Costa Rica", Los Santos TV
 https://lstv.duckdns.org:449/hls/lstv.m3u8
 
-#EXTINF:-1 tvg-logo="https://ticavisiontv.com/wp-content/uploads/2023/05/ticavision-logo-2.png" group-title="Costa Rica", TicaVision 
-https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/LmHO7ZKaDTE1Aviy9p3oPfduWcjgR1iTfwROUEgv.jpg" group-title="Costa Rica", Retro TV Online
+https://ssh101-fl.bozztv.com/ssh101/retrotvcr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OpHYYZA.png" group-title="Costa Rica", TvSur Perez Zeledon
 https://5bf8041cb3fed.streamlock.net:443/TVSURCANAL14/TVSURCANAL14/playlist.m3u8
@@ -3159,18 +3162,6 @@ https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ETB_Basque_2022_logo.svg/512px-ETB_Basque_2022_logo.svg.png" group-title="España", ETB Basque
 https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1080765671431200768/RM4qmbGv_400x400.jpg" group-title="España", TV Galicia America 
-http://america-crtvg.flumotion.com/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YBaxWQC.png" group-title="España", TV Galicia Europa
-https://europa-crtvg.flumotion.com/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YBaxWQC.png" group-title="España", TV Galicia Momentos 
-https://momentog-crtvg.flumotion.com/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YBaxWQC.png" group-title="España", TV Galicia Musigal 
-https://musigal-crtvg.flumotion.com/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.manzanares.es/sites/default/files/images/noticias/imgnot13235.jpg" group-title="España", I Mas 
 https://secure3.todostreaming.es/live/imastv-livestream.m3u8
