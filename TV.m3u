@@ -1258,9 +1258,6 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_RT_Doc.png", RT Documentary
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1080765671431200768/RM4qmbGv_400x400.jpg", TV Galicia Cultural 
-https://cultural-crtvg.flumotion.com/playlist.m3u8
-
 #EXTINF:-1, INTI
 https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/.m3u8
 
@@ -1817,10 +1814,10 @@ http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/20600a504d12eb0b41587fbc1b700289.png" group-title="Bolivia", Bolivia TV 7.2 
 https://5f2c1b0d880e5.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/4dc5de183727a12e5701c57cddac2f28.png" group-title="Bolivia", *Bolivision (Geo Bolivia VPN)
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/4dc5de183727a12e5701c57cddac2f28.png" group-title="Bolivia", Bolivision 
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.redbolivision.tv.bo/wp-content/uploads/2020/12/Imagen-Conductores-Grande-1.jpg" group-title="Bolivia", *UPPTV (Geo Bolivia VPN)
+#EXTINF:-1 tvg-logo="https://www.redbolivision.tv.bo/wp-content/uploads/2020/12/Imagen-Conductores-Grande-1.jpg" group-title="Bolivia", UPPTV
 https://alba-bo-bolivision-upptv.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/ima19723624875.jpg" group-title="Bolivia", Mega TV BO
@@ -2664,23 +2661,50 @@ Ecuador
 ---------------------------------------------------
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="Ecuador", *RTS (Geo Ecuador VPN)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="Ecuador", RTS
 https://alba-ec-rts-rts.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tvc.com.ec/wp-content/themes/albavision-theme/parts-web/9212d2e4/logo.png" group-title="Ecuador", *TVC (Geo Ecuador VPN)
+#EXTINF:-1 tvg-logo="https://www.tvc.com.ec/wp-content/themes/albavision-theme/parts-web/9212d2e4/logo.png" group-title="Ecuador", TVC
 https://alba-ec-tvc-tvc.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sEW6C5G.png" group-title="Ecuador", Canal Uno
+https://cp.panelchs.com:1936/8034/8034/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.hechosecuador.com/rw_common/images/logo2021.png" group-title="Ecuador", Hechos Ecuador
 https://stmv.streamingvip.click/hechosecuador/hechosecuador/playlist.m3u8
 
-#EXTINF:-1 group-title="Ecuador", Ecuavisa
-https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisaqo/ecuavisaqo/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J6Mc42H.png" group-title="Ecuador", Telerama
+https://envivo.telerama.ec/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wwNh4wb.png" group-title="Ecuador", TeleDigital
+https://tv.portalexpress.es:3182/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://wuanplus.tv/wp-content/uploads/2017/10/2-WUAN-Orange-RGB-para-WEB.png" group-title="Ecuador", Wuan Plus
 https://video2.makrodigital.com/wuanplus/wuanplus/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Ecuador", Nortvision
-https://plataformavideo.com/live/nortvision.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DzxGHRZ.png" group-title="Ecuador", RTV
+https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a5avk5R.png" group-title="Ecuador", Asoma Vision
+https://asomatv.duckdns.org/livestream/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ToaQxon.png" group-title="Ecuador", El Sol TV
+http://streaming5.globalhostla.com/rtplive/elsolrad/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zgGuCYL.png" group-title="Ecuador", Austral TV
+https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m1LK6rY.png" group-title="Ecuador", Bacan Te Veo
+https://cloudvideo.servers10.com:8081/8064/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8k8DsBL.png" group-title="Ecuador", Duran TV
+https://cloudvideo.servers10.com:8081/8074/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1nHxdkR.png" group-title="Ecuador", Infinita TV
+https://s2.tvdatta.com:3753/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/294FDCB.png" group-title="Ecuador", Vos y TV
+https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Ecuador", Antena 1 Radiovision
 https://tvdatta.com:3578/live/antenaunolive.m3u8
@@ -2799,7 +2823,7 @@ Paraguay
 ---------------------------------------------------
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SNT_2013_logotype.png" group-title="Paraguay", *SNT (Geo Paraguay VPN) 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SNT_2013_logotype.png" group-title="Paraguay", SNT 
 https://alba-py-snt-snt.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/LOGO_C9N_2022.png", C9N 
@@ -2818,7 +2842,7 @@ https://59ce1298bfb98.streamlock.net/mastv/mastv/playlist.m3u8
 https://59ce1298bfb98.streamlock.net/educanal/educanal/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/48MDOA0.png", Estacion Cristal 
-https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8?PlaylistM3UCL
+https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bXWzstH.png", Farra Play 
 http://159.203.148.226/live/farra.m3u8?PlaylistM3UCL
