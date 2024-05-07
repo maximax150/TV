@@ -3010,17 +3010,8 @@ https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QpnctoU.png" group-title="Dominicana", Telefuturo
 https://ss9.domint.net:3054/tf_str/telefuturo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1Ei0kB8.png" group-title="Dominicana", Telenord 10 
-http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1Ei0kB8.png" group-title="Dominicana", Telenord 12 
-http://newyorkstream.ddns.net:5854/telenord12/telenord12/telenord12.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1Ei0kB8.png" group-title="Dominicana", Telenord 8 
-http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zKWFgeQ.png" group-title="Dominicana", Antena 7 RD
-http://138.59.177.34:8000/play/a01x/index.m3u8
+https://alba-do-antena7-antena7.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QE0XWLh.png" group-title="Dominicana", Antena 21 RD
 https://alba-do-antena7-c21.stream.mediatiquestream.com/index.m3u8
@@ -3167,13 +3158,16 @@ https://5d8d85cf2c308.streamlock.net:1936/Condavision/endirecto/.m3u8
 https://ondacadiztv.es:30443/octv/directo_multi/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/1200px-TeleMadrid.svg.png" group-title="España", Telemadrid 
-https://telemadrid-23.secure2.footprint.net/master.m3u8
+https://telemadrid-23-secure2.akamaized.net/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2xRKezH.png" group-title="España", Telemadrid Internacional
-https://new-international-23.secure2.footprint.net/index.m3u8
+https://new-international-23.secure2.akamaized.net/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/La_Otra_logo_%282017%29.svg/512px-La_Otra_logo_%282017%29.svg.png" group-title="España", La Otra 
-https://laotra-1-23.secure2.footprint.net/master.m3u8
+https://laotra-1-23.secure2.akamaized.net/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q1YwYsR.png" group-title="España", Onda Madrid
+https://tvradio-1-23-secure2.akamaized.net/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://lancelot.es/imagenes/logo.png" group-title="España", Lancelot
 https://5c0956165db0b.streamlock.net/directo/lancelot.television/.m3u8
@@ -3229,9 +3223,6 @@ https://cloudvideo.servers10.com:8081/8004/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iODADvi.png" group-title="España", TVE 
 http://210.210.155.37/uq2663/h/h158/index2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q1YwYsR.png" group-title="España", Onda Madrid
-https://tvradio-1-23.secure2.footprint.net/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kUhFkVF.png" group-title="España", Onda Algeciras
 https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
 
@@ -3262,23 +3253,14 @@ https://5d8d85cf2c308.streamlock.net:1936/AlcalaTV/endirecto/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6EGV2eo.png" group-title="España", Vinx TV
 https://tv.radiocast.es:5443/vinxtv/streams/vinxtvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6EGV2eo.png" group-title="España", Univers TV
+#EXTINF:-1 tvg-logo="" group-title="España", Univers TV
 https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vuLUp3v.png" group-title="España", SX3
-https://directes-tv-es.ccma.cat/live-origin/super3-hls/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/amgBFmH.png" group-title="España", Popular TV Cantabria
 https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LK4pLgT.png" group-title="España", Mirame TV
 https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0gojkDE.png" group-title="España", IB3
-https://ythls.armelin.one/channel/UCff_CBVJDTHP4wOHPjP5BMg.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tkjUFzb.png" group-title="España", Esport3
-https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QTA40lP.png" group-title="España", Diez TV Las Villas
 https://streaming.cloud.innovasur.es/mmj2/index.m3u8
@@ -3336,7 +3318,7 @@ https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/pla
 #EXTINF:-1 tvg-logo="https://d2q0tptsfejku7.cloudfront.net/uploads/images/bek_sports_LOGO.jpg", Bek TV Sports
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cloudflare_Logo.svg/2560px-Cloudflare_Logo.svg.png", Cloudflare tV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cloudflare_Logo.svg/2560px-Cloudflare_Logo.svg.png", Cloudflare TV
 https://cloudflare.tv/hls/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/1200px-Comet_logo.svg.png", Comet
@@ -3539,9 +3521,6 @@ https://brandusa-gousa-1-in.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p16HNIM.png", Made in Hollywood
 https://connection3-ent-us.redbox.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4fqvwEk.png", MAVTV
-https://mavtv-1-ca.samsung.wurl.tv/playlist.m3u8
 
 
 ---------------------------------------------------
