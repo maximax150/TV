@@ -1338,8 +1338,8 @@ https://rtmp.info/cabinafides/envivo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://churchlivestreaming.com/images/telefides-live.jpg" group-title="Religioso", Telefides
 https://s2.cwebtv.net:4433/telefides/telefides/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/d7398833-17d8-4a93-951d-ebf387a9d8ff/Extrema%20musical%20logo.png" group-title="Religioso", Cristovision 31
-https://3a310f6ec721e6b362fcd22772b57f36a2fe6bb2.tabeelcr.com:8080/cristovision31/iptv.m3u8
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/uX2aXN5dLLQeJLKhGl9dloq4LSgCrevdf8c8EP8i.jpg" group-title="Religioso", Vision America CR
+https://ssh101.bozztv.com/ssh101/maxcartoon/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_ewtn_m.png" group-title="Religioso", EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
@@ -1356,16 +1356,11 @@ https://stream.oursnetworktv.com/latin/feVivienteGtm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ipgotv.net.br/tv/gcartoon/LOGO_GCARTOON1.png" group-title="Religioso", Gospel Cartoon 
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/b0564acdb9c67295acae4e5cf3978ed35795180f9728f21080885a8733d124cd.png" group-title="Religioso", Dios Te Ve
-https://emisoras.hn:8081/diostevetv/playlist.m3u8
+#EXTINF:-1 group-title="Religioso", Smile of a Child
+https://tbn-jw.cdn.vustreams.com/live/smile/live.isml/.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-hVk-EuKzKz0/XxuOyNLF6vI/AAAAAAAACK0/1CnjYHfAV-wwy5n5gxKOrTbTqSwjh87YgCLcBGAsYHQ/s540/diostevekids_logoroku.jpg" group-title="Religioso", Dios Te Ve Kids
-https://emisoras.hn:8081/diostevekids/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-CVm245eZ890/YE6U9N6yZSI/AAAAAAABAuE/9Auajk4UAtM5WfqNd3bWvPawI9cGHvc2ACK8BGAsYHg/s512/2021-03-14.png" group-title="Religioso", Cristiana TV 
-
-#EXTINF:-1 tvg-logo="https://www.elim.org.sv/wp-content/uploads/2016/07/ELIM-TV-PROFILE-2.png" group-title="Religioso", Elim TV
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/7e84ed301b194b7b81e86f85bb2c3a33/playlist.m3u8
+#EXTINF:-1 group-title="Religioso", Mariavision
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Bethel_tv.png" group-title="Religioso", Bethel TV
 https://d1h3uwvc88ypd2.cloudfront.net/out/v1/3bef81bd340d41f1a1fc1d10d81f61c9/index.m3u8
