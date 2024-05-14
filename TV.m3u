@@ -2399,8 +2399,8 @@ https://video0.rogohosting.com:19360/8006/8006.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/cbcfd98188337b1bf79a92b1afb60ad3.png" group-title="Costa Rica", San Vito TV
 https://video.misistemareseller.com:1936/sanvito/sanvito/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://sicultura-live.s3.amazonaws.com/public/2022-11/305398743_500202432109920_5029369673742325729_n-1.png" group-title="Costa Rica", TV+ Costa Rica 
-https://59ef525c24caa.streamlock.net/Tvpluscr/Tvpluscr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ticavisiontv.com/wp-content/uploads/2023/05/ticavision-logo-2.png" group-title="Costa Rica", Ticavision
+https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eRwYxc2.png" group-title="Costa Rica", Teleuno 
 https://5d16127744872.streamlock.net/TVUNO/TVUNO/playlist.m3u8
