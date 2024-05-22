@@ -338,7 +338,10 @@ https://wifiexpert-1.energeek.cl/energeek/canal-2/playlist.m3u8
 https://wifiexpert-1.energeek.cl/telenorte/pandamaxch/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.paste.pics/afb90bf11a606a30ee4294c8b32cf9e4.png" group-title="Kids & Geek", Varied TV
-https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
+https://cloud5.streaminglivehd.com:3874/stream/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b22f37_db459382223d48f092d71151178a3797~mv2.png/v1/crop/x_0,y_108,w_1080,h_846/fill/w_1080,h_846,al_c,q_90,enc_auto/b22f37_db459382223d48f092d71151178a3797~mv2.png" group-title="Kids & Geek", Latino Kids
+https://cloud5.streaminglivehd.com:3555/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BKkljlc.png" group-title="Kids & Geek", Meta Versus
 https://vivo.solumedia.com:19360/metaversus/metaversus.m3u8
@@ -351,9 +354,6 @@ https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg0
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-5wlAQ6nLfW4/YF5I0iHgH3I/AAAAAAABA90/HsqEimRfhGARstgd044vc0ZkynUYntbTACK8BGAsYHg/s512/2021-03-26.jpg" group-title="Kids & Geek", Pequeradio TV 
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b22f37_db459382223d48f092d71151178a3797~mv2.png/v1/crop/x_0,y_108,w_1080,h_846/fill/w_1080,h_846,al_c,q_90,enc_auto/b22f37_db459382223d48f092d71151178a3797~mv2.png" group-title="Kids & Geek", Latino Kids
-https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/1200px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="Kids & Geek", Nickelodeon en español
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=ce75&deviceDNT=0&deviceModel=0
@@ -369,9 +369,6 @@ https://cloudvideo.servers10.com:8081/8138/index.m3u8
 
 #EXTINF:-1 group-title="Kids & Geek", Canela Kids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1081_AnimeStation.png" group-title="Kids & Geek", Anime Station
-https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8WJUbSD.png" group-title="Kids & Geek", 13 Kids
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
