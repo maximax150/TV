@@ -12,6 +12,12 @@ https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" group-title="Entretenimiento",Comedy Central
 http://45.190.187.226:58092/play/a00h
 
+#EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/foto_120.jpg" group-title="Entretenimiento", Venevision Internacional
+https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Ve_Plus_Logo_2019.png" group-title="Entretenimiento", Ve Plus TV
+https://veplus.akamaized.net/hls/live/2101013/VEPLUS/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TWk9gfd.png" group-title="Entretenimiento", *A+ (Geo MX VPN)
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
