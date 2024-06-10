@@ -2860,9 +2860,6 @@ https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="España", RTVE 24H 
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/834px-La_Sexta_%28A3M%29.svg.png" group-title="España", La Sexta
-https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:11_HD.smil/manifest.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.la7tv.es/media/la7tv/images/2022/08/01/2022080110314173695.png" group-title="España", la 7
 https://rtv-murcia-live.globalmest.com/principal/principal.smil/.m3u8
 
@@ -2884,9 +2881,6 @@ https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e417
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/1d96bb1f41f4a0a3862bdc1b9c541f8a.png" group-title="España", Aragon TV 
 http://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8?
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pjqGrEo.png" group-title="España", Extremadura 
-https://cdnlive.codev8.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8?DVR=
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ap4FmYb.png" group-title="España", Canal Costa
 https://5d8d85cf2c308.streamlock.net:1936/CanalcostaTV/endirecto/.m3u8
 
@@ -2900,7 +2894,7 @@ https://ondacadiztv.es:30443/octv/directo_multi/playlist.m3u8
 https://telemadrid-23-secure2.akamaized.net/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2xRKezH.png" group-title="España", Telemadrid Internacional
-https://new-international-23.secure2.akamaized.net/index.m3u8
+https://new-international-23-secure2.akamaized.net/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/La_Otra_logo_%282017%29.svg/512px-La_Otra_logo_%282017%29.svg.png" group-title="España", La Otra 
 https://laotra-1-23.secure2.akamaized.net/master.m3u8
@@ -2918,7 +2912,7 @@ https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
 https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ETB_Basque_2022_logo.svg/512px-ETB_Basque_2022_logo.svg.png" group-title="España", ETB Basque
-https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
+https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.manzanares.es/sites/default/files/images/noticias/imgnot13235.jpg" group-title="España", I Mas 
 https://secure3.todostreaming.es/live/imastv-livestream.m3u8
@@ -2926,13 +2920,16 @@ https://secure3.todostreaming.es/live/imastv-livestream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Canal_3-24_de_TVC.jpg" group-title="España" group-title="España", 3/24
 https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c3021vn.png" group-title="España", Canal Sur
-https://cdnlive.codev8.net/rtvalive/channel1.smil/.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/CanalSur1.svg/512px-CanalSur1.svg.png" group-title="España", Canal Sur
+https://cdnlive.codev8.net/rtvalive/DtRLVjt1.smil/.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/CanalSur1.svg/512px-CanalSur1.svg.png" group-title="España", Canal Sur 2
+https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://distritotv.es/wp-content/uploads/2021/04/cropped-PROPUESTAS-LOGO-DISTRITO-TV-2-1.png" group-title="España", Distrito TV
 https://live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GzI3RC4.png" group-title="España", 101 Malaga
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GzI3RC4.png" group-title="España", 101
 https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
 
 #EXTINF:-1 tvg-logo="https://teleonuba.es/wp-content/uploads/2022/02/logovertical.png" group-title="España", Teleonuba
@@ -2980,14 +2977,8 @@ https://streamer1.streamhost.org/salive/logossaludH/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kr3U3Ub.png" group-title="España", Logos TV kids
 https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uWhVKL3.png" group-title="España", Canal Diocesano
-https://nlb2-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oGvsUH9.png" group-title="España", TBN España
 https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QQviU5m.png" group-title="España", Vivamovil
-https://5d8d85cf2c308.streamlock.net:1936/AlcalaTV/endirecto/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6EGV2eo.png" group-title="España", Vinx TV
 https://tv.radiocast.es:5443/vinxtv/streams/vinxtvlive.m3u8
