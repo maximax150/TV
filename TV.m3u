@@ -4124,13 +4124,13 @@ XXX
 
 #EXTINF:-1 tvg-logo="https://miamitvhd.com/images/logo-miamitv.png" group-title="+18", Miami TV
 https://59ec5453559f0.streamlock.net/miamitv/smil:WEB4141/.m3u8
+#EXTINF:-1 tvg-logo="https://miamitvhd.com/images/logo-miamitv.png", MIami TV Gold
+https://59ec5453559f0.streamlock.net/miamitvgold/smil:WEB/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://miamitvhd.com/images/logo-miamitv.png", Miami TV Latino
 https://59ec5453559f0.streamlock.net/Latino/smil:WEB4141/.m3u8
 #EXTINF:-1 tvg-logo="https://miamitvhd.com/images/logo-miamitv.png", MIami TV Jenny Live
 https://59ec5453559f0.streamlock.net/JennyLiveMembers/smil:PHOTOCALL/.m3u8
-#EXTINF:-1 tvg-logo="https://miamitvhd.com/images/logo-miamitv.png", MIami TV Premium
-https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://sunbeachtv.com/favImage.png", Sun Beach TV
+#EXTINF:-1 tvg-logo="https://sunbeachtv.com/favImage.png", MIami TV Mexico
 https://59ec5453559f0.streamlock.net/mexicotv/smil:SUNBEACHTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/55a44f9ce4b09a5577ad69df/1665439843263-DF4Z89NJPYRZMUCSOO17/02f1b42094067ddbe8e67c0df20fc46e?format=1000w", Kaloopy
 https://dai.google.com/ssai/event/FK1bjW0AThepH1W7CJrByg/master.m3u8
