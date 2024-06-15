@@ -2206,7 +2206,7 @@ https://ssh101.bozztv.com/ssh101/sinart13/chunks.m3u8
 https://5fd8fec96951d.streamlock.net/TVN/CH14.stream_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dr56wvhu2c8zo.cloudfront.net/universidaddecostarica/assets/4f87ad59-83c6-40fe-a93b-e36591ec8c88.png" group-title="Costa Rica", Quice UCR 
-http://163.178.170.127:1935/quinceucr/quinceucr/chunklist_w602152202.m3u8
+http://163.178.170.127:1935/quinceucr/_definst_/quinceucr.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/a4ed367c69c23110d458a332af95be0be64566f288ccb5f261689344e6ba5e0d.png" group-title="Costa Rica", Coto Brus TV
 https://cloudvideo.servers10.com:8081/8030/index.m3u8
@@ -2328,12 +2328,6 @@ https://alba-gt-chapintv-c7.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/TN232022.webp/1200px-TN232022.webp.png" group-title="America Central", TN23
 https://alba-gt-chapintv-tn23.stream.mediatiquestream.com/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UJhQoUK.png" group-title="America Central", Azteca Guate
-https://ch1-tva.duin.dev/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UJhQoUK.png" group-title="America Central", A+ Guate
-https://ch2-tva.duin.dev/hls/0/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://totovision.net/wp-content/uploads/2022/05/cropped-LOGO-PAGINA-22.png" group-title="America Central", Totovisión 
 https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
