@@ -2187,6 +2187,9 @@ https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Costa Rica", Canal 10 CR
 https://acceso.radiosportstv.online:3138/stream/play.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Costa Rica", Canal 10.1 CR
+https://acceso.radiosportstv.online:3384/stream/play.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/512px-Repretel_11_logo.png" group-title="Costa Rica", Repretel 11 
 https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
 
@@ -2299,17 +2302,11 @@ https://video.misistemareseller.com/minfavtv/minfavtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lpVZgA4.jpg" group-title="America Central", Hispania TV Panama
 https://vcp8.myplaytv.com:1936/hispaniatv/hispaniatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MmpwhAG.png" group-title="America Central", Plus TV Panama
-https://vcp4.myplaytv.com:1936/plustv/plustv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tGeHwxd.png" group-title="America Central", TVN
 https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XcrkfGh.png" group-title="America Central" TV Max Panama
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XcrkfGh.png" group-title="America Central", TV Max Panama
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kWR3END.png" group-title="America Central", Somos cultura Panama
-https://srv.tropicalmoonmedia.com/somosculturatv/somosculturatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yCykjIp.png" group-title="America Central", Canal 3 GT
 https://alba-gt-chapintv-c3.stream.mediatiquestream.com/index.m3u8
@@ -2323,9 +2320,6 @@ https://alba-gt-chapintv-tn23.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-logo="https://totovision.net/wp-content/uploads/2022/05/cropped-LOGO-PAGINA-22.png" group-title="America Central", Totovisión 
 https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mBNOSzl.png" group-title="America Central", NimTV GT
-https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jdnHci0.png" group-title="America Central", TVS Retro GT
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 
@@ -2334,9 +2328,6 @@ https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6j3FH1q.png" group-title="America Central", Esquipulas TV GT
 https://tv91.hostingnuclear.com:19360/esquipulastv/esquipulastv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/edZjzbS.png" group-title="America Central",Canal Antigua 
-http://138.59.177.34:8000/play/a04j/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://qhubotv.com/content/images/2022/08/Logo-Q-HUBO-1.png" group-title="America Central", Q Hubo tv HN
 https://5e85d90130e77.streamlock.net/6024/6024/playlist.m3u8
@@ -2357,7 +2348,7 @@ https://5e85d90130e77.streamlock.net/6022/6022/playlist.m3u8
 https://stream.alojamientowebgt.com:3656/live/tv45live.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Maya_TV_logo.png/512px-Maya_TV_logo.png" group-title="America Central", Maya TV HN
-https://media.streambrothers.com:19360/8356/8356.m3u8
+https://media.streambrothers.com:19360/8230/8230.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V9Fpd3Y.png" group-title="America Central", UNE TV Honduras
 https://amixtv.live:3395/live/unetvlive.m3u8
@@ -2380,26 +2371,11 @@ https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="America Central", TV Metropolis 19.2
 https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png" group-title="America Central", CANAL 2 SV
-https://telecorporacion.cdn.vustreams.com/live/af9473b9-191c-456a-b714-57eace94e2fe/live.isml/.m3u8
-
-#EXTINF:-1 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/1200px-Canal_4_TCS.png" group-title="America Central", Canal 4 SV
-https://telecorporacion.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_6_TCS.png" group-title="America Central", Canal 6 SV
-https://telecorporacion.cdn.vustreams.com/live/a242095a-c49d-4263-b9ae-5958f5e0c9a1/live.isml/.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Tves-Canal-10-El-Salvador-en-vivo-Online-1.png" group-title="America Central",Canal 10 SV
-https://telecorporacion.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.canal11.com.sv/logo11.png" group-title="America Central", TUTV Canal 11 SV
 https://streaming.grupocsanetwork.com:19360/canal11/canal11.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Canal_12_El_Salvador_2018.png" group-title="America Central", Canal 12 SV
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/TCS_35_2017.png/320px-TCS_35_2017.png" group-title="America Central", TCS+ SV
-https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f5877e/live.isml/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Canal-19-El-Salvador-en-vivo-Online.png" group-title="America Central", canal 19 SV
 https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8
@@ -2413,7 +2389,7 @@ https://mgv-awapa.univtec.com/hls/live/2104282/MGV_CHANNEL15/0/streamPlaylist.m3
 #EXTINF:-1 tvg-logo="" group-title="America Central", TuCanal 25 SV
 https://ssh101.bozztv.com/ssh101/OrbitaTV25/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ztp781b.png" group-title="America Central", *Canal 10 NIC (Geo Nicaragua VPN)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ztp781b.png" group-title="America Central", Canal 10 Nicaragua
 https://alba-ni-c10-c10.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nb81xeU.png" group-title="America Central", WTV Nicaragua
