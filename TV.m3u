@@ -2623,6 +2623,9 @@ Peru
 #EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="Peru", TV Peru
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="Peru", TV Peru Internacional
+https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPENOTICIAS.png", TV Peru Noticias 
 https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 
@@ -2641,9 +2644,6 @@ https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/ATV%2B_logo_2020.png", ATV+ 
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LnyVa5H.png", ATV Sur
-https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://panamericana.pe/imagenes/logo_2020.png", Panamericana 
 https://live-evg4.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
 
@@ -2655,9 +2655,6 @@ https://live.obslivestream.com/autenticatvmux/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oNFOKFI.png", BHTV 
 https://vdo.grupolimalive.com:3762/live/bhtvlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/stvzqzd.png", Cadena TV
-https://servilive.com:3079/live/cdnatvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cfHaLt2.png", Conecta2
 https://servilive.com:3114/live/liveulive.m3u8
@@ -2707,9 +2704,6 @@ https://live.obslivestream.com/vivatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.viaaltomayotv.com/panel/archivos-panel/logotipo/Logo-c7e-355.png", Via Altomayo
 https://live.obslivestream.com/viaaltomayomux/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9cmIv3q.png", USMPTV
-https://streamusmptv.ddns.net/live/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F0PWpyc.png", Unitel HD
 https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
 
@@ -2718,9 +2712,6 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/acda902f73a646daac3fdc9dcddbc971/p
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tiNvihZ.png", Top TV
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1q0R6R9.png", Señal Peru
-https://livestream.perucast.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2zCD4TB.png", Doble C
 https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
