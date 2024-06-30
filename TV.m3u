@@ -945,9 +945,6 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 #EXTINF:-1, Global News Canada
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC10000223W_20230321T235932SQUARE.png_20230321235933.png", CNN RESUMEN
-https://i.mjh.nz/SamsungTVPlus/USBC10000223W.m3u8
-
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/54ff7ba69222cb1c2624c584/colorLogoPNG.png", Bloomberg TV
 https://bloomberg-bloomberg-5-mx.samsung.wurl.tv/manifest/playlist.m3u8
 
@@ -956,9 +953,6 @@ https://i.mjh.nz/SamsungTVPlus/USAJ3400011A8.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000022Q_20230509T224438SQUARE.png_20230509224439.png", Sky News
 https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB32000103E_20230823T001627SQUARE.png_20230823001628.png", CNN Headlines
-https://i.mjh.nz/SamsungTVPlus/USBB32000103E.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200005A0_20230222T041423SQUARE.png_20230222041424.png", NBC Bay Area News
 https://i.mjh.nz/SamsungTVPlus/USBC3200005A0.m3u8
@@ -1042,7 +1036,7 @@ https://sabermas-freetv.amagi.tv/SaberMas-xumo/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png", DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png", DW Enlish
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png", DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_RT_Doc.png", RT Documentary
@@ -1080,9 +1074,6 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz
 
 #EXTINF:-1, Travel TV
 https://streamer103.neterra.tv/travel/live.m3u8
-
-#EXTINF:-1, Go Traveller
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=703
 
 #EXTINF:-1, Drone TV
 https://airvuz-dronetv-1-eu.xiaomi.wurl.tv/playlist.m3u8
@@ -1170,9 +1161,6 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WR2QoZn.png" group-title="Religioso", Jesus TV
 https://cdn.streamhispanatv.net:3189/live/jesustvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Rr9pKQh.png" group-title="Religioso", Franchs TV
-https://stream.oursnetworktv.com/latin/franchstv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PkW3cKR.png" group-title="Religioso", Fe Viviente TV
 https://stream.oursnetworktv.com/latin/feVivienteGtm/playlist.m3u8
 
@@ -1182,17 +1170,11 @@ https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 #EXTINF:-1 group-title="Religioso", Smile of a Child
 https://tbn-jw.cdn.vustreams.com/live/smile/live.isml/.m3u8
 
-#EXTINF:-1 group-title="Religioso", Mariavision
-https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Bethel_tv.png" group-title="Religioso", Bethel TV
 https://d1h3uwvc88ypd2.cloudfront.net/out/v1/3bef81bd340d41f1a1fc1d10d81f61c9/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.nuevotiempo.org/wp-content/uploads/sites/6/2020/03/logo-teste-novo-tempo-02-ES.png" group-title="Religioso", Nuevo Tiempo
-https://customer-x8zydurm357k8j9p.cloudflarestream.com/a23831aa01c4a0fd802360b889ea96ed/manifest/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/26c143_4692b6d01dd94a90a6395bd368ae5b22~mv2.png/v1/fill/w_80,h_47,al_c,q_85,usm_4.00_1.00_0.00,enc_auto/26c143_4692b6d01dd94a90a6395bd368ae5b22~mv2.png" group-title="Religioso", Esperanza TV Costa Rica
-https://5eac7b031d945.streamlock.net/REDES/REDES/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.esperanzartv.org/wp-content/uploads/2020/05/clipart610812b.fw_.png" group-title="Religioso", Esperanza TV
+https://videodelivery.net/a23831aa01c4a0fd802360b889ea96ed/manifest/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://3abn.org/img/3abn-ogg.png" group-title="Religioso", 3ABN English
 https://3abn-live.akamaized.net/hls/live/2010543/3ABN/master.m3u8
