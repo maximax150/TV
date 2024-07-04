@@ -1,13 +1,19 @@
 #EXTM3U list-name="Canales M3U" list-image="https://icon-library.com/images/dish-tv-icon/dish-tv-icon-8.jpg"
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/las-estrellas-m.png" group-title="Entretenimiento", Las Estrellas 
-https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+http://181.78.105.146:2000/play/a00g/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="Entretenimiento", Canal 5 MX
+http://181.78.105.146:2000/play/a038/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lKrRvtS.png" group-title="Entretenimiento", Imagen TV
+http://181.78.105.146:2000/play/a00h/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64e35aff6b1fdb0008ea8441/colorLogoPNG.png" group-title="Entretenimiento", Imagen TV+
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/1200px-Multimedios_Canal_Seis_Logo.svg.png" group-title="Entretenimiento", Multimedios CDMX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/NU9VE_2018.svg/1280px-NU9VE_2018.svg.png" group-title="Entretenimiento", NU9VE
-https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" group-title="Entretenimiento",Comedy Central
 http://45.190.187.226:58092/play/a00h
@@ -33,9 +39,6 @@ https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2022/07/Clic450x300.png" group-title="Entretenimiento", Azteca Clic
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64e35aff6b1fdb0008ea8441/colorLogoPNG.png" group-title="Entretenimiento", Imagen TV+
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Estrella_TV_-_2020_logo.png" group-title="Entretenimiento", Estrella TV
 https://estrellatv-oando.amagi.tv/playlistR720P.m3u8
 
@@ -53,6 +56,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gwz78jZ.png" group-title="Entretenimiento", GikTV MX
 https://pistream.ddns.net/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://miamitvhd.com/images/logo-miamitv.png", Miami TV Latino
+https://59ec5453559f0.streamlock.net/Latino/smil:WEB4141/.m3u8
 
 #EXTINF:-1 tvg-logo="https://theme.zdassets.com/theme_assets/12350451/9cdeed54b9c68fa55c3beb8edd8d228c5e452450.png" group-title="Entretenimiento", ViX Parejas
 https://d1f3q72l8uy8ur.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z46pswns8dp1b-ssai-prd/dist/samsungtv/318/hls/master/playlist.m3u8
@@ -4201,11 +4207,9 @@ XXX
 https://59ec5453559f0.streamlock.net/miamitv/smil:WEB4141/.m3u8
 #EXTINF:-1 tvg-logo="https://miamitvhd.com/images/logo-miamitv.png", MIami TV Gold
 https://59ec5453559f0.streamlock.net/miamitvgold/smil:WEB/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://miamitvhd.com/images/logo-miamitv.png", Miami TV Latino
-https://59ec5453559f0.streamlock.net/Latino/smil:WEB4141/.m3u8
 #EXTINF:-1 tvg-logo="https://miamitvhd.com/images/logo-miamitv.png", MIami TV Jenny Live
 https://59ec5453559f0.streamlock.net/JennyLiveMembers/smil:PHOTOCALL/.m3u8
-#EXTINF:-1 tvg-logo="https://sunbeachtv.com/favImage.png", MIami TV Mexico
+#EXTINF:-1 tvg-logo="https://miamitvhd.com/images/logo-miamitv.png", MIami TV Mexico
 https://59ec5453559f0.streamlock.net/mexicotv/smil:SUNBEACHTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/55a44f9ce4b09a5577ad69df/1665439843263-DF4Z89NJPYRZMUCSOO17/02f1b42094067ddbe8e67c0df20fc46e?format=1000w", Kaloopy
 https://dai.google.com/ssai/event/FK1bjW0AThepH1W7CJrByg/master.m3u8
