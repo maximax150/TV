@@ -232,22 +232,19 @@ Kids & Geek
 https://magicstream.ddns.net/magicstream/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://energeek.cl/custom/templates/Lithium/uploads/simbolo-2.png" group-title="Kids & Geek", Energeek
-https://wifiexpert-1.energeek.cl/energeek/canal-1/playlist.m3u8
+https://wifispeed.trapemn.tv:1936/energeek/canal-1p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://energeek.cl/custom/templates/Lithium/uploads/simbolo-2.png" group-title="Kids & Geek", Energeek radio
-https://wifiexpert-1.energeek.cl/energeek/radio/playlist.m3u8
+https://wifispeed.trapemn.tv:1936/energeek/radio-p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://energeek.cl/custom/templates/Lithium/uploads/simbolo-2.png" group-title="Kids & Geek", Energeek Fanpop
-https://wifiexpert-1.energeek.cl/energeek/canal-2/playlist.m3u8
+https://wifispeed.trapemn.tv:1936/energeek/canal-2p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pandamax.cl/public/assets/img/pandamaxlogo.png" group-title="Kids & Geek", Pandamax TV
-https://wifiexpert-1.energeek.cl/telenorte/pandamaxch/playlist.m3u8
+https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.paste.pics/afb90bf11a606a30ee4294c8b32cf9e4.png" group-title="Kids & Geek", Varied TV
-https://cloud5.streaminglivehd.com:3874/stream/play.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b22f37_db459382223d48f092d71151178a3797~mv2.png/v1/crop/x_0,y_108,w_1080,h_846/fill/w_1080,h_846,al_c,q_90,enc_auto/b22f37_db459382223d48f092d71151178a3797~mv2.png" group-title="Kids & Geek", Latino Kids
-https://cloud5.streaminglivehd.com:3555/stream/play.m3u8
+https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BKkljlc.png" group-title="Kids & Geek", Meta Versus
 https://vivo.solumedia.com:19360/metaversus/metaversus.m3u8
@@ -300,6 +297,9 @@ https://jmp2.uk/SamsungTVPlus/ESBC4100003WE.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Clan_TVE_logo.svg/2560px-Clan_TVE_logo.svg.png" group-title="Kids & Geek", Clan Internacional
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/645952687cb4b100084ed52e/colorLogoPNG.png", Nickelodeon Pluto TV
+https://jmp2.uk/PlutoTV/645952687cb4b100084ed52e-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60142258a54aeb0007751c15/colorLogoPNG.png", Pluto TV Retro Cartoons
 https://jmp2.uk/PlutoTV/60142258a54aeb0007751c15-alt.m3u8
