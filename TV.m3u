@@ -750,10 +750,10 @@ Deportes
 ---------------------------------------------------
 
 
-#EXTINF:-1 tvg-logo="https://dominio.beauty/img/garagetv.png" group-title="Deportes", Garage TV
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-garage_m.png" group-title="Deportes", Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 
-#EXTINF:-1 group-title="Deportes", DeporTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/DeporTV_%282020_Logo_oficial%29.png" group-title="Deportes", DeporTV
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1212859696383696896/ljdBfeUQ_400x400.jpg" group-title="Deportes", All Sports 
@@ -762,29 +762,26 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://content.jwplatform.com/images/jNgWEGCO.png" group-title="Deportes" group-title="Deportes", Wapa Deportes PR
 https://live.field59.com/wapa/wapa2/.m3u8
 
-#EXTINF:-1 tvg-logo="https://"https://meganettv.fun/storage/channel-logos/wXBtbnj6sGVnABXgLQbKEehDHWXU12QY8Izb4GCX.png" group-title="Deportes", Mega Sport
-https://video20.klm99.com:3880/live/megadeporteslive.m3u8
-
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6582f002a620e3000813b329/colorLogoPNG.png" group-title="Deportes" , Azteca Deportes FAST
 https://jmp2.uk/PlutoTV/6582f002a620e3000813b329-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65cf60d166eec80008724e6f/colorLogoPNG.png" group-title="Deportes" , Azteca Deportes Network
 https://jmp2.uk/PlutoTV/65cf60d166eec80008724e6f-alt.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/638df6f8b63cf100075ccfa1/colorLogoPNG.png", Chilevision Deportes
+https://jmp2.uk/PlutoTV/638df6f8b63cf100075ccfa1-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://t3.ftcdn.net/jpg/03/54/08/46/360_F_354084697_P1TVSVmPVS2Icy85ORBmCaqUyST8Y1wo.jpg", Women's Football
+https://jmp2.uk/PlutoTV/64b02bbd7d93410008fdae60-alt.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6320d2755e54db000783fd87/colorLogoPNG.png" group-title="Deportes" , Claro Sports Mexico
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6320d2755e54db000783fd87/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=70f8964e-80f4-a6f3-a0b5-322f6d2a9f2d&deviceDNT=0&deviceModel=0
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1570306267645624322/krGp4bK8_400x400.jpg" group-title="Deportes" , ITV Deportes
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1570306267645624322/krGp4bK8_400x400.jpg" group-title="Deportes", ITV Deportes
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
 
 #EXTINF:-1 tvg-logo="https://www.insidethegames.biz/images/2014/08/Glasgow_2014_blog_images/AYM_Sports_will_broadcast_coverage_of_the_Under-15_Baseball_World_Cup_across_the_Americas.jpg", AYM Sports
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/638df6f8b63cf100075ccfa1/colorLogoPNG.png", Chilevision Deportes
-https://r.mjh.nz/PlutoTV/638df6f8b63cf100075ccfa1-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://t3.ftcdn.net/jpg/03/54/08/46/360_F_354084697_P1TVSVmPVS2Icy85ORBmCaqUyST8Y1wo.jpg", Women's Football
-https://r.mjh.nz/PlutoTV/64b02bbd7d93410008fdae60-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://s23455.pcdn.co/wp-content/uploads/2018/08/stadium-logo-640.jpeg.optimal.jpeg", Stadium
 https://2d006483e2aa43fe812f7b464cb2916d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Stadium/playlist.m3u8?ads.wurl_channel=160&ads.wurl_name=Stadium&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
@@ -841,7 +838,7 @@ https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-5f90ebc726350a002d40b136.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/9e2e8eb4-a696-4dd2-9889-e218ade54a74/1500x1000_PFL_SHIELD_DARK_BG_-_Allie_Dinsmore.png" group-title="Deportes", PFL MMA
 https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-643f0ecd76de2b4015ae6c01.m3u8
 
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/9653867c-6eb1-4c68-a494-4d4897c22b96/SV_4C_LOGO_LIGHT_1500x1000.png" group-title="Deportes", SPEEDVISION
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/9653867c-6eb1-4c68-a494-4d4897c22b96/SV_4C_LOGO_LIGHT_1500x1000.png" group-title="Deportes", Speedvision
 https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-6349ed0eb1adc4cfa571fd37.m3u8
 
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-5ef11485d33ab9004048a1ca" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ed88a8cc-a1f4-445a-a2bc-9fbb4c7104de/SG-LIVE-WHITE-ON-ALPHA-1500x1000.png" group-title="Deportes", SportsGrid
