@@ -756,9 +756,6 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/DeporTV_%282020_Logo_oficial%29.png" group-title="Deportes", DeporTV
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1212859696383696896/ljdBfeUQ_400x400.jpg" group-title="Deportes", All Sports 
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://content.jwplatform.com/images/jNgWEGCO.png" group-title="Deportes" group-title="Deportes", Wapa Deportes PR
 https://live.field59.com/wapa/wapa2/.m3u8
 
@@ -777,14 +774,11 @@ https://jmp2.uk/PlutoTV/64b02bbd7d93410008fdae60-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6320d2755e54db000783fd87/colorLogoPNG.png" group-title="Deportes" , Claro Sports Mexico
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6320d2755e54db000783fd87/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=70f8964e-80f4-a6f3-a0b5-322f6d2a9f2d&deviceDNT=0&deviceModel=0
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1570306267645624322/krGp4bK8_400x400.jpg" group-title="Deportes", ITV Deportes
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1570306267645624322/krGp4bK8_400x400.jpg" group-title="Deportes" , ITV Deportes
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
 
 #EXTINF:-1 tvg-logo="https://www.insidethegames.biz/images/2014/08/Glasgow_2014_blog_images/AYM_Sports_will_broadcast_coverage_of_the_Under-15_Baseball_World_Cup_across_the_Americas.jpg", AYM Sports
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
-
-#EXTINF:-1 tvg-logo="https://s23455.pcdn.co/wp-content/uploads/2018/08/stadium-logo-640.jpeg.optimal.jpeg", Stadium
-https://2d006483e2aa43fe812f7b464cb2916d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Stadium/playlist.m3u8?ads.wurl_channel=160&ads.wurl_name=Stadium&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
 
 #EXTINF:-1,ESPN HD
@@ -813,6 +807,12 @@ https://ov-mvg-mv-es.ottera.tv/mvg/mv_es/mv_es.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.eutelsat.com/files/Logos/ESR.png" group-title="Deportes", ES2R
 https://eyeonesports.com/ES2RA-628g.m3u8
+
+#EXTINF:-1 tvg-logo="https://s23455.pcdn.co/wp-content/uploads/2018/08/stadium-logo-640.jpeg.optimal.jpeg", Stadium
+https://2d006483e2aa43fe812f7b464cb2916d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Stadium/playlist.m3u8?ads.wurl_channel=160&ads.wurl_name=Stadium&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1212859696383696896/ljdBfeUQ_400x400.jpg" group-title="Deportes", All Sports BR
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/f676bd67-0e26-4cd3-88dd-46fca5130bee/Plex_billiard__1500x1000__color_rdxfds.png" group-title="Deportes", Billiard TV
 https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-6334a8e48a7b2a349d903b8c.m3u8
