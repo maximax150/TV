@@ -222,6 +222,16 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d51e6949ab8e2b35bdcaa
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62aa5740a47b6c000769f407/colorLogoPNG.png" group-title="Entretenimiento", Chilevision Contigo
 https://jmp2.uk/PlutoTV/62aa5740a47b6c000769f407-alt.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6474a7958e3c0a0008b97cae/colorLogoPNG.png", Pluto TV Novelas de Mexico
+https://jmp2.uk/PlutoTV/6474a7958e3c0a0008b97cae-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6474a7e7f77b6100080a89e7/colorLogoPNG.png", Pluto TV Novelas de Colombia
+https://jmp2.uk/PlutoTV/6474a7e7f77b6100080a89e7-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6474a86917f5e100089a0c1c/colorLogoPNG.png", Pluto TV Novelas de Venezuela
+https://jmp2.uk/PlutoTV/6474a86917f5e100089a0c1c-alt.m3u8
+
+
 
 ---------------------------------------------------
 Kids & Geek
@@ -398,6 +408,22 @@ https://amogonetworx-grjngo-2-eu.plex.wurl.tv/2000.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/f9b44328-8571-4e8a-9066-022bd8665082/cinepride-logo.png", CINEPRIDE
 https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-62167144ab2095ca85353ad6.m3u8
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/251b7d5a-1a42-42fd-a238-18441919a8f1/Cindie_Lite_logo_1500x1000_transparent_for_dark_background_-_Keegan_Browder.png" , CINDIE LITE
+https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-6685abbe59703916799193a7.m3u8
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/16c58af9-70f4-4d31-a176-f0c592639587/Butaca_Tv_pack_1500X1000_RDX.png" , Butaca TV
+https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-64f0dad7c2bc9b9001d46ea8.m3u8
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/51402fbd-48ad-4307-a1be-a60c692684f6/Logotipo_C4_En_Alerta_1500x1000_for_dark_backgrounds_-_James_Stowe.png" , C4 en Alerta
+https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-65b1568052aa31b8f64da064.m3u8
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/ad57bd59-edab-4fde-b4d2-97d753b4199f/Plex_FilmRise_CrimenesVerdaderos_Color_Logo.png" , FilmRise Crimenes Veradaderos
+https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-65ec577c39fd1025c2acd277.m3u8
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/68708f25-5fbe-4553-8458-614df346dec2/Plex_FilmRise_SeriesGratis_Color_Logo.png" , FilmRise Series Gratis
+https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-65e9d0ad8fe4ef7053c3c869.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="Cine y Series", Star TVE
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main_dvr.m3u8
@@ -590,6 +616,15 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620ff0a01f9e8700076c6f
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES400002P5_20240611T061836SQUARE.png", Cuéntame cómo pasó
 https://jmp2.uk/SamsungTVPlus/ES400002P5.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6185a9a88b2ce30007de5128/colorLogoPNG.png", Pluto TV Dramas Coreanos
+https://jmp2.uk/PlutoTV/6185a9a88b2ce30007de5128-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd837642c6e9300098ad484/colorLogoPNG.png", Pluto TV Series Latinas
+https://jmp2.uk/PlutoTV/5dd837642c6e9300098ad484-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de802659167b10009e7deba/colorLogoPNG.png", Series Retro
+https://jmp2.uk/PlutoTV/5de802659167b10009e7deba-alt.m3u8
+
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ2900003ND_20240117T032717SQUARE.png_20240117032717.png", Estilo y Vida – Rakuten TV
 https://jmp2.uk/SamsungTVPlus/ESAJ2900003ND.m3u8
 
@@ -649,6 +684,14 @@ https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://planetatv.cl/wp-content/uploads/2023/02/PLANETATV3.png", Planeta TV Musica
 https://scl.edge.grupoz.cl/music/live/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/cd4c6347-92c4-4381-9d09-b8d38d9729de/1500x1000_-_white_logo_VR__Juan_M_Velasquez.png" , VR+
+https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-65a1d3996475bf522f9256e3.m3u8
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/74efde69-4b42-43c4-a8f0-a4068fdd4862/vivaldi_logo.png" , Vivaldi
+https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-61bb9a63e0b39cfe304c9a8a.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ku1CEeb.png", La Voz Grupera
 https://cloudvideo.servers10.com:8081/8128/index.m3u8
@@ -951,6 +994,9 @@ https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_5.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700014QU_20230912T232523SQUARE.png_20230912232524.png", Noticias Univision 24/7
 https://jmp2.uk/SamsungTVPlus/USBD1700014QU.m3u8
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/e0d70842-cd76-4c63-9774-97925f6bb4fa/MEGANOTICIAS_CLEAN_LOGO_FINAL_White.png" , MegaNoticias
+https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-626c288e54f3232400a45f35.m3u8
 
 #EXTINF:-1, Aljazeera
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
