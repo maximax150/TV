@@ -15,20 +15,17 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/1200px-Multimedios_Canal_Seis_Logo.svg.png" group-title="Entretenimiento", Multimedios CDMX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" group-title="Entretenimiento",Comedy Central
-http://45.190.187.226:58092/play/a00h
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TWk9gfd.png" group-title="Entretenimiento", *A+ (Geo MX VPN)
-https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="Entretenimiento", *Azteca 1 (Geo MX VPN)
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wJkbhCu.png" group-title="Entretenimiento", *Azteca 7 (Geo MX VPN)
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="Entretenimiento", Univision Lat
 http://45.190.187.226:58092/play/a011
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" group-title="Entretenimiento", Comedy Central
+http://45.190.187.226:58092/play/a00h
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="Entretenimiento", Azteca UNO
+http://181.78.105.146:2000/play/a04p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wJkbhCu.png" group-title="Entretenimiento", Azteca 7 
+http://181.78.105.146:2000/play/a00i/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rRxgBtI.png" ggroup-title="Entretenimiento", Azteca Uno -1h
 https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
@@ -1337,16 +1334,10 @@ https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/.m3u8
 https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.canal13mexico.com/wp-content/uploads/2022/10/logo-canal13-mx-150x150.png" group-title="Mexico", Canal 13 Puebla
-https://alba-mx-c13mexico-c13puebla.stream.mediatiquestream.com/index.m3u8
+https://207963.global.ssl.fastly.net/65313d270e749722b6474684/live_19c1e870dfbf11eeadd41749c3286f4a/tracks-v1/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.canal13mexico.com/wp-content/uploads/2022/10/logo-canal13-mx-150x150.png" group-title="Mexico", Canal 13 Chiapas
-https://alba-mx-c13mexico-c13chiapas.stream.mediatiquestream.com/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.canal13mexico.com/wp-content/uploads/2022/10/logo-canal13-mx-150x150.png" group-title="Mexico", Canal 13 Tapachula
-https://alba-mx-c13mexico-c13tapachula.stream.mediatiquestream.com/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.canal13mexico.com/wp-content/uploads/2022/10/logo-canal13-mx-150x150.png" group-title="Mexico", Canal 13 Guadalajara
-https://alba-mx-c13mexico-c13guadalajara.stream.mediatiquestream.com/index.m3u8
+https://207963.global.ssl.fastly.net/65313d270e749722b6474684/live_9ada1d70dfbe11eeabd66ba1b9ba93a1/tracks-a1/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://15tv.com.mx/wp-content/uploads/2019/08/logo-hd.png" group-title="Mexico", 15TV
 https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
@@ -4292,7 +4283,7 @@ XXX
 
 
 #EXTINF:-1 tvg-logo="https://miamitvhd.com/images/logo-miamitv.png" group-title="+18", Miami TV
-https://59ec5453559f0.streamlock.net/miamitv/smil:WEB4141/.m3u8
+https://stream-us-east-1.getpublica.com/cl/240727cqi409rm3pjs2kmg9500/1920x1080_5648338_0_f.m3u8?i=1187_11889
 #EXTINF:-1 tvg-logo="https://miamitvhd.com/images/logo-miamitv.png", MIami TV Gold
 https://59ec5453559f0.streamlock.net/miamitvgold/smil:WEB/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://miamitvhd.com/images/logo-miamitv.png", MIami TV Jenny Live
