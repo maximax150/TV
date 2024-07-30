@@ -93,6 +93,9 @@ https://live.field59.com/wapa/wapa1/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qs4szHD.png" group-title="Entretenimiento", Boricua TV
 https://2-fss-2.streamhoster.com/pl_138/amlst:201284-1347630/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KWAuNXn.png" group-title="Entretenimiento", Charrua TV
+https://stmv.video.gmpro.top/tvcharrua/tvcharrua/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://amariemagazine.com/wp-content/uploads/2021/04/Logo-tele11.png" group-title="Entretenimiento", Teleonce
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
 
