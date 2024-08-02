@@ -1,5 +1,8 @@
 #EXTM3U list-name="Canales M3U" list-image="https://icon-library.com/images/dish-tv-icon/dish-tv-icon-8.jpg"
 
+#EXTINF:-1 tvg-logo="https://st1.uvnimg.com/02/bc/d572397f4880876b55d384bf49ef/lcdlf.png" group-title="Entretenimiento", La casa de los famosos MX 24/7
+https://acceso.radiosportstv.online:3807/stream/play.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/las-estrellas-m.png" group-title="Entretenimiento", Las Estrellas 
 http://181.78.105.146:2000/play/a00g/index.m3u8
 
@@ -14,12 +17,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/1200px-Multimedios_Canal_Seis_Logo.svg.png" group-title="Entretenimiento", Multimedios CDMX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="Entretenimiento", Univision Lat
-http://45.190.187.226:58092/play/a011
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" group-title="Entretenimiento", Comedy Central
-http://45.190.187.226:58092/play/a00h
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="Entretenimiento", Azteca UNO
 http://181.78.105.146:2000/play/a04p/index.m3u8
@@ -77,15 +74,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
 
 #EXTINF:-1 tvg-logo="https://www.hola.tv/wp-content/uploads/2020/09/logoholatv.jpg" group-title="Entretenimiento", Hola Play
 https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1,HOLA! TV HD
-http://45.190.187.226:58092/play/a00g
-#EXTINF:-1,Pasiones HD
-http://45.190.187.226:58092/play/a010
-#EXTINF:-1,Telemundo HD
-http://45.190.187.226:58092/play/a02e
-#EXTINF:-1,E! HD
-http://45.190.187.226:58092/play/a02a
 
 #EXTINF:-1 tvg-logo="https://content.jwplatform.com/images/jNgWEGCO.png" group-title="Entretenimiento", Wapa PR
 https://live.field59.com/wapa/wapa1/.m3u8
@@ -253,9 +241,6 @@ https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BKkljlc.png" group-title="Kids & Geek", Meta Versus
 https://vivo.solumedia.com:19360/metaversus/metaversus.m3u8
 
-#EXTINF:-1,Teen Nick HD
-http://45.190.187.226:58092/play/a027
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/ZooMoo-Kids-Logo-Oficial-01.png/1200px-ZooMoo-Kids-Logo-Oficial-01.png" group-title="Kids & Geek", Zoomoo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 
@@ -421,44 +406,6 @@ https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-65e9d0ad8fe4ef7053c3c869.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="Cine y Series", Star TVE
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main_dvr.m3u8
-
-#EXTINF:-1,Paramount HD
-http://45.190.187.226:58092/play/a00w
-#EXTINF:-1,Sony Movies HD
-http://45.190.187.226:58092/play/a02h
-#EXTINF:-1,TNT HD
-http://45.190.187.226:58092/play/a00d
-#EXTINF:-1,TNT Series HD
-http://45.190.187.226:58092/play/a00x
-#EXTINF:-1,AMC HD
-http://45.190.187.226:58092/play/a02d
-#EXTINF:-1,A&E HD
-http://45.190.187.226:58092/play/a02c
-#EXTINF:-1,FX HD
-http://45.190.187.226:58092/play/a02f
-#EXTINF:-1,Film & arts HD
-http://45.190.187.226:58092/play/a02b
-#EXTINF:-1,Multicinema HD
-http://45.190.187.226:58092/play/a023
-#EXTINF:-1,UNIVERSAL CINEMA ESTE HD
-http://45.190.187.226:58092/play/a013
-#EXTINF:-1,UNIVERSAL COMEDY HD
-http://45.190.187.226:58092/play/a00o
-#EXTINF:-1,UNIVERSAL CRIME HD
-http://45.190.187.226:58092/play/a00n
-#EXTINF:-1,UNIVERSAL PREMIERE +
-http://45.190.187.226:58092/play/a00l
-#EXTINF:-1,UNIVERSAL PREMIERE HD
-http://45.190.187.226:58092/play/a00k
-#EXTINF:-1,UNIVERSAL REALITY HD
-http://45.190.187.226:58092/play/a00m
-#EXTINF:-1,DHE HD
-http://45.190.187.226:58092/play/a02i
-#EXTINF:-1,Studio Universal HD
-http://45.190.187.226:58092/play/a028
-
-#EXTINF:-1 tvg-logo="https://staytv.net/wp-content/uploads/cropped-CCC_Mesa-de-trabajo-1.png" group-title="Cine y Series", StayTV
-https://video.misistemareseller.com/staytv/staytv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://teleclasica.com/wp-content/uploads/2022/06/Naranja.jpg" group-title="Cine y Series", Teleclasica
 https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
@@ -796,6 +743,14 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/.m3u8
 #EXTINF:-1 tvg-logo="https://content.jwplatform.com/images/jNgWEGCO.png" group-title="Deportes" group-title="Deportes", Wapa Deportes PR
 https://live.field59.com/wapa/wapa2/.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UrsLSRs.png" group-title="Deportes" group-title="Deportes", Tigo Sports CR
+https://acceso.radiosportstv.online:3795/stream/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f8BkLql.png" group-title="Deportes" group-title="Deportes", FUTV CR
+https://acceso.radiosportstv.online:3206/stream/play.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6582f002a620e3000813b329/colorLogoPNG.png" group-title="Deportes" , Azteca Deportes FAST
 https://jmp2.uk/PlutoTV/6582f002a620e3000813b329-alt.m3u8
 
@@ -816,19 +771,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
 
 #EXTINF:-1 tvg-logo="https://www.insidethegames.biz/images/2014/08/Glasgow_2014_blog_images/AYM_Sports_will_broadcast_coverage_of_the_Under-15_Baseball_World_Cup_across_the_Americas.jpg", AYM Sports
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
-
-
-#EXTINF:-1,ESPN HD
-http://45.190.187.226:58092/play/a02r
-#EXTINF:-1,ESPN 2 HD
-http://45.190.187.226:58092/play/a02s
-#EXTINF:-1,ESPN 3 HD
-http://45.190.187.226:58092/play/a02t
-#EXTINF:-1,ESPN 6 HD
-http://45.190.187.226:58092/play/a02u
-#EXTINF:-1,FUTV HD CR
-http://45.190.187.226:58092/play/a00q
-
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_trace-sports-stars_m.png" group-title="Deportes", Trace Sports
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
@@ -1122,27 +1064,6 @@ https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 #EXTINF:-1, INTI
 https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/.m3u8
 
-#EXTINF:-1,Home & Health HD
-http://45.190.187.226:58092/play/a00f
-#EXTINF:-1,Nat Geo HD
-http://45.190.187.226:58092/play/a00v
-#EXTINF:-1,Discovery Channel HD
-http://45.190.187.226:58092/play/a00y
-#EXTINF:-1,Discovery ID HD
-http://45.190.187.226:58092/play/a012
-#EXTINF:-1,DISC THEATER HD
-http://45.190.187.226:58092/play/a00e
-#EXTINF:-1,Discovery World HD
-http://45.190.187.226:58092/play/a00z
-#EXTINF:-1,Animal Planet HD
-http://45.190.187.226:58092/play/a029
-#EXTINF:-1,H2 HD
-http://45.190.187.226:58092/play/a01z
-#EXTINF:-1,El Gourmet
-http://45.190.187.226:58092/play/a020
-#EXTINF:-1,Sun Channel
-http://45.190.187.226:58092/play/a021
-
 #EXTINF:-1, Pet Collective
 https://jkn-pc.otteravision.com/dist/ottera/174/hls/master/playlist_webvtt.m3u8
 
@@ -1353,12 +1274,6 @@ https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z9iVlMn.png", TV Mar Puerto Vallarta
 https://5ca3e84a76d30.streamlock.net/tvmarvallarta/videotvmarvallarta/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6qiYvhe.png", *Canal 22 (Geo MX VPN)
-https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TcB37yV.png", *MVS TV (Geo MX VPN)
-https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 
 #EXTINF:-1 tvg-logo="https://api.rcgmedia.mx/uploads/logo_rcg_media_250_4df3b2a2e1.png" group-title="Mexico", RCG 1 Saltillo
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
@@ -2196,14 +2111,14 @@ https://opa.usastreams.com:3101/live/canalopalive.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/nfKJftW.png" group-title="Costa Rica", Repretel 6 
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Teletica.png" group-title="Costa Rica", Teletica HD
-http://45.190.187.226:58092/play/a026
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Teletica.png" group-title="Costa Rica", Teletica 
+https://acceso.radiosportstv.online:3203/stream/play.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nefPi2Y.png" group-title="Costa Rica", Canal 8 Multimedios
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Costa Rica", Canal 10 CR
-https://acceso.radiosportstv.online:3138/stream/play.m3u8
+https://acceso.radiosportstv.online:3285/live/canal10costaricalive.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Costa Rica", Canal 10.1 CR
 https://acceso.radiosportstv.online:3384/stream/play.m3u8
@@ -2276,6 +2191,9 @@ https://rtmp.info/tvsantacruz/envivo/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://teleredtelevision.com/images/telered.jpg" group-title="Costa Rica", Telered 
 https://k20.usastreams.com:8081/telered/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Costa Rica", Turrialba TV
+https://acceso.radiosportstv.online:3151/live/turrialbatvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://telesistemacr.com/wp-content/uploads/2023/03/LOGO-TELESISTEMA-1-1.png" group-title="Costa Rica", Telesistema
 https://k20.usastreams.com:8081/telesistema/index.m3u8
