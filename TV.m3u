@@ -36,9 +36,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Estrella_TV_-_2020_logo.png" group-title="Entretenimiento", Estrella TV
 https://estrellatv-oando.amagi.tv/playlistR720P.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9wxdWNQ.png" group-title="Entretenimiento", RCN Novelas
-http://45.190.187.226:58092/play/a01y
-
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/1.png" group-title="Entretenimiento", RCN Xtra
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
 
