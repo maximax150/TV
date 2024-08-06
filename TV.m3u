@@ -2454,11 +2454,6 @@ Paraguay
 ---------------------------------------------------
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SNT_2013_logotype.png" group-title="Paraguay", SNT 
-https://alba-py-snt-snt.stream.mediatiquestream.com/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/LOGO_C9N_2022.png", C9N 
-https://alba-py-c9n-c9n.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OqfBMGy.png", ABC PY
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
@@ -2466,20 +2461,32 @@ https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cgTD2TW.png", Unicanal
 https://rds3gen.desdeparaguay.net/unicanal/unicanal_alta/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L2Dx1NY.png", Mas TV 
-https://59ce1298bfb98.streamlock.net/mastv/mastv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logotrececanal.png/512px-Logotrececanal.png", Trece PY
+https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/857OkFf.png", Educanal
-https://59ce1298bfb98.streamlock.net/educanal/educanal/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SNT_2013_logotype.png" group-title="Paraguay", *SNT (Geo Paraguay)
+https://alba-py-snt-snt.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/48MDOA0.png", Estacion Cristal 
-https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/LOGO_C9N_2022.png", *C9N (Geo Paraguay)
+https://alba-py-c9n-c9n.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1fb5BtN/unnamed.png", 4DMas TV 
+https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rwkpQx6/unnamed-2.png", Caritas TV
+https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkvYVyz/Captura.png", Radio GO TV
+https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/No9YzNC.png", Union TV
+https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bXWzstH.png", Farra Play 
 http://159.203.148.226/live/farra.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://cdn.rcc.com.py/2018/10/logo-retina-mobile-rcc.png", RCC TV
-https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c2rF3SS.png", NexT HD
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CALoCyo.png", Lim TV
 https://tv.invasivamedia.com/hls/limtv.m3u8
@@ -2490,17 +2497,17 @@ https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7gHFKPZ.png", TDA
 https://59ce1298bfb98.streamlock.net/tvaire/tvaire/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CaA7l86.png", Mega Tv PY
-https://ott3.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8
+#EXTINF:-1 tvg-logo="hhttps://i.imgur.com/6OlfgSQ.png", Oviedo Tv PY
+https://59ce1298bfb98.streamlock.net/oviedotv/oviedotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c2rF3SS.png", Next TV
-https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qYRw4JP/Captura.png", Republica TV
+https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sgrEt9z.png", Mi TV 
 https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xkT9d1a.png", Somos Del Este TV
-https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/npL1bPz.jpg", Salto TV
+https://ssh101.bozztv.com/ssh101/redcanindeyu/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Co3YrU0.png", Uniradio TV 
 https://59ce1298bfb98.streamlock.net/uniradiotv/uniradiotv/playlist.m3u8?PlaylistM3UCL
