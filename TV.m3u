@@ -1,8 +1,5 @@
 #EXTM3U list-name="Canales M3U" list-image="https://icon-library.com/images/dish-tv-icon/dish-tv-icon-8.jpg"
 
-#EXTINF:-1 tvg-logo="https://st1.uvnimg.com/02/bc/d572397f4880876b55d384bf49ef/lcdlf.png" group-title="Entretenimiento", La casa de los famosos MX 24/7
-https://acceso.radiosportstv.online:3807/stream/play.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/las-estrellas-m.png" group-title="Entretenimiento", Las Estrellas 
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
@@ -4116,8 +4113,6 @@ http://170.82.37.21:8000/play/a01v/index.m3u8
 http://170.82.37.21:8000/play/a01f/index.m3u8
 #EXTINF:-1,History 2
 http://170.82.37.21:8000/play/a01g/index.m3u8
-#EXTINF:-1,Hot
-http://170.82.37.21:8000/play/a04o/index.m3u8
 #EXTINF:-1,ICN Honduras
 http://170.82.37.21:8000/play/a046/index.m3u8
 #EXTINF:-1,LTV
@@ -4140,10 +4135,6 @@ http://170.82.37.21:8000/play/a005/index.m3u8
 http://170.82.37.21:8000/play/a02s/index.m3u8
 #EXTINF:-1,Multipremier
 http://170.82.37.21:8000/play/a02u/index.m3u8
-#EXTINF:-1,My Cam TV 1
-http://170.82.37.21:8000/play/a04n/index.m3u8
-#EXTINF:-1,My Cam TV 2
-http://170.82.37.21:8000/play/a04p/index.m3u8
 #EXTINF:-1,NatGeo
 http://170.82.37.21:8000/play/a01h/index.m3u8
 #EXTINF:-1,Nick
@@ -4180,7 +4171,7 @@ http://170.82.37.21:8000/play/a039/index.m3u8
 http://170.82.37.21:8000/play/a033/index.m3u8
 #EXTINF:-1,Sun Channel
 http://170.82.37.21:8000/play/a036/index.m3u8
-#EXTINF:-1,SyFy
+#EXTINF:-1,USA
 http://170.82.37.21:8000/play/a035/index.m3u8
 #EXTINF:-1,TBN Enlace
 http://170.82.37.21:8000/play/a01s/index.m3u8
@@ -4286,9 +4277,15 @@ XXX
 https://dai.google.com/ssai/event/FK1bjW0AThepH1W7CJrByg/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/auHH1Ig.png", FashionTV Midnite Secrets
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1609-294x165-FFFFFF.jpg", Miami TV
+https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/.m3u8
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1609-294x165-FFFFFF.jpg", Miami TV Fashion
+https://59ec5453559f0.streamlock.net/miamitvfashion/smil:WEB/.m3u8
 #EXTINF:-1 tvg-logo="", Babestation
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8
 
+#EXTINF:-1,Hot
+http://170.82.37.21:8000/play/a04o/index.m3u8
 #EXTINF:-1,Playboy HD
 http://45.181.123.233:8000/play/a18c
 #EXTINF:-1,Sextreme
