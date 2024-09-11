@@ -645,8 +645,11 @@ https://5d16127744872.streamlock.net/canal3/canal3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/191d7f0299ec0197d15d2e7b76ff037f.png", Radio 88 Stereo CR
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/REelpFt0VjAwLxHjcDnXDR38kNLcd3kjz5WLRQq1.png", Super Radio TV CR
-https://video20.klm99.com:3732/live/superradiotvlive.m3u8
+#EXTINF:-1 tvg-logo="", Best Music
+https://acceso.radiosportstv.online:3102/live/telemascrlive.m3u8
+
+#EXTINF:-1 tvg-logo="", La Potente TV
+https://radioaserri.com:3645/live/lapotentetvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/fbefcbca47462eb80eedbeaf95126474.png", VM Latino CR
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
@@ -664,7 +667,7 @@ https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
 http://k4.usastreams.com/videotour/videotour/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/Fg8XXH5P1j0a2RjpkWFmaAR4X50xrRKVrQ4O5LFM.png", IQ Channel
-https://video20.klm99.com:3873/live/meganettvlive.m3u8
+https://rtmp.info/iqtv/envivo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/VIVA_TV_RUSSIA_LOGO.png", Viva Russia
 https://ssh101.bozztv.com/ssh101/vivarussia/chunks.m3u8
@@ -684,23 +687,23 @@ https://flash-freetv.amagi.tv/flash/master.m3u8
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23008/freetv-banda/logo_20240222_214147_68.png", FreeTV Banda
 https://mmc-freetv.amagi.tv/mmc-Xumo/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/eIdpCJMxxs0cq10FKB02wXeyprxutS6lf2jI3yg8.png", Memorias TV
-https://rpn3.bozztv.com/ssh101/ssh101/musica/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1609-294x165-FFFFFF.jpg", Miami TV Music
+https://668e2e5a0f5bb.streamlock.net/miamitvmusic/smil:WEB/.m3u8
 
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/d981e393-725f-4e9f-8444-827c6c87e126/Flou_caribe_o_LOGO_1500X1000__dark_backgrounds_.png", FLOU Caribeno
-https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-63adf8eff3d69d1885731c06.m3u8
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1609-294x165-FFFFFF.jpg", Miami TV DJ
+https://668e2e5a0f5bb.streamlock.net/miamitvDJ/smil:WEB/.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/318f5578-72c7-4398-932f-1d993fc9d5f2/Music_Legends_logo_light.png" , Music Legends
 https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-6196c8c01d310bf925e02615.m3u8
 
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/db23a2fc-104e-4ef8-8356-6a4d87ed1a46/trace_brazuca_dark_-_Nathan_BECKER__1_.png" , TRACE Brazuca
-https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-6329474265c8569187176338.m3u8
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/db23a2fc-104e-4ef8-8356-6a4d87ed1a46/trace_brazuca_dark_-_Nathan_BECKER__1_.png" , TRACE Brasil
+https://d3b13j525hja2q.cloudfront.net/23073/Brazuka/encrypted.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/04b0a12e-b393-4456-9927-a48b793b623a/trace_latina_light_-_Nathan_BECKER.png" , TRACE Latina
-https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-63226c03e67cf9cd9011fcdf.m3u8
+https://amg01131-tracetv-tracelatinaes-samsungspain-d7byg.amagi.tv/playlist/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/d6fba6a2-2650-487f-ab1b-1eb034bd11c7/trace_urban_light_-_Nathan_BECKER.png" , TRACE Urban
-https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-6322658be67cf9cd9011fcda.m3u8
+https://amg01131-tracetv-traceurbanes-samsungspain-c6yeo.amagi.tv/playlist/amg01131-tracetv-traceurbanes-samsungspain/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg", Vevo Pop
