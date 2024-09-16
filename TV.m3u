@@ -2290,6 +2290,18 @@ https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="America Central", TV Metropolis 19.2
 https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Canal_2_TCS.png/512px-Canal_2_TCS.png" group-title="America Central", Canal 2 SV
+https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/512px-Canal_4_TCS.png" group-title="America Central", Canal 4 SV
+https://telecorporacion-es.cdn.vustreams.com/live/9c79f472-bb4d-4ab8-848f-eb613f3b1f96/live.isml/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M4muPLK.png" group-title="America Central", Canal 6 SV
+https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iYFWG06.png" group-title="America Central", TCS+
+https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.canal11.com.sv/logo11.png" group-title="America Central", TUTV Canal 11 SV
 https://streaming.grupocsanetwork.com:19360/canal11/canal11.m3u8
 
@@ -2900,7 +2912,7 @@ https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61fGOE9wmuL.png", Beach TV Panama City
 http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/ESIwTBPU4AAZEvi.png", *OAN Encore (Geo Us VPN)
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/ESIwTBPU4AAZEvi.png", OAN Encore
 https://cdn.herringnetwork.com/80A4DFF/oane_oregon/OAN_Encore.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_tbs-veryfunny-pan_m.png", *TBS USA (Geo Us VPN)
@@ -2934,19 +2946,19 @@ https://cloudflare.tv/hls/live.m3u8
 https://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png", Court TV
-https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
+https://lnc-court-tv.tubi.video/playlist_4300k.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oX5oR4d.png", Black News Channel
 https://redbox-blacknewschannel-xumo.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/800px-WABC_TV_New_2021.svg.png", ABC 7 KMGH
-https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
+https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GwxneSQ.png", Blaze live
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46fba0c43b0d00096e5ac1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e46fba0c43b0d00096e5ac1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=238&terminate=false&userId=
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PJdzoLN.png", Britbox Mistery
-https://lnc-bbc-britbox-mysteries.tubi.video/playlist.m3u8
+#EXTINF:-1 tvg-logo="", BiZ TV
+https://gideommd.mmdlive.lldns.net/gideommd/46c072b287224782a4d4ce93c3646589/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/fn3oz0ihbtp8pkhpr3jh", Sports Grid
 https://sportsgrid-xumo-us.amagi.tv/xumo.m3u8
@@ -2993,9 +3005,6 @@ https://circle-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FVWqYQG.png", Dove Channel
 https://dovenow-roku-ingest.cinedigm.com/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.castify.ai/files/channels/lw/xs95m956wa/menu_logo_image/1662032299.png", Free Movies Classics
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/free-classic-movies/manifest.m3u8
-
 #EXTINF:-1 tvg-logo="https://30a-tv.com/wp-content/uploads/2017/03/logo-30a-tv-com-300x65.png", 30A TV
 https://30a-tv.com/feeds/720p/33.m3u8
 
@@ -3029,17 +3038,11 @@ https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/CBS_News_logo_%282020%29.svg/2560px-CBS_News_logo_%282020%29.svg.png", CBS News
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/Ohio_Channel.png", The Ohio Channel
-https://5ebe6889de541.streamlock.net/live/stream_10/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/retrotv_logo.jpg", Retro TV
 https://2-fss-2.streamhoster.com/pl_118/204972-1954132-1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Fox_TV_Stations_logo.svg/800px-Fox_TV_Stations_logo.svg.png", Fox Local
 https://lnc-fox-live-now.tubi.video/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/67C50642-086D-4EC9-BF2F-0DF19FF704F0/3-1x1.png", Family Flix
-https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.verylocal.com/wp-content/uploads/2021/08/VeryLocal_Logo_Horiz_Light-600x115.png", Very Local Alabama
 https://lnc-wvtm.tubi.video/playlist.m3u8
@@ -3080,14 +3083,8 @@ https://linear-460.frequency.stream/dist/vix/460/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ethicalmarketingnews.com/wp-content/uploads/2020/05/sntv.jpg", SN TV
 https://linear-496.frequency.stream/dist/vix/496/hls/master/playlist.m3u8 
 
-#EXTINF:-1 tvg-logo="https://dejpknyizje2n.cloudfront.net/svgcustom/clipart/preview/fear-this-155-12799-550x550.png", Fear This!
-https://linear-143.frequency.stream/dist/localnow/143/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/USA_Today_2012logo.svg/1200px-USA_Today_2012logo.svg.png", USA Today
-https://lnc-usa-today.tubi.video/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/USA_Today_2012logo.svg/1200px-USA_Today_2012logo.svg.png", USA Today Sports Wire
-https://lnc-sportswire.tubi.video/playlist.m3u8
+https://brandusa-gousa-1-gb.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OjpCtGj.png", AWE
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/awe_720p/playlist.m3u8
