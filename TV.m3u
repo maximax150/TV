@@ -743,11 +743,14 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/.m3u8
 https://live.field59.com/wapa/wapa2/.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f8BkLql.png" group-title="Deportes" group-title="Deportes", FUTV CR
+https://acceso.radiosportstv.online:3206/stream/play.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UrsLSRs.png" group-title="Deportes" group-title="Deportes", Tigo Sports CR
 https://acceso.radiosportstv.online:3795/stream/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/f8BkLql.png" group-title="Deportes" group-title="Deportes", FUTV CR
-https://acceso.radiosportstv.online:3206/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UrsLSRs.png" group-title="Deportes" group-title="Deportes", Tigo Sports GT
+https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6582f002a620e3000813b329/colorLogoPNG.png" group-title="Deportes" , Azteca Deportes FAST
@@ -762,12 +765,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/638df6f8b63cf100075ccf
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66997d18a1b69e00082ee85f/colorLogoPNG.png", FIFA Plus
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66997d18a1b69e00082ee85f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-
-#EXTINF:-1 tvg-logo="https://cdn.clarosports.com/assets-v3/themes/clarosports-v3/assets/images/claroSportsSitio.png" group-title="Deportes", Claro Sports
-https://pubads.g.doubleclick.net/ssai/event/vsRdNgc4RL-rFJL_Vel1NQ/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.clarosports.com/assets-v3/themes/clarosports-v3/assets/images/claroSportsSitio.png" group-title="Deportes", Claro Sports 2
-https://pubads.g.doubleclick.net/ssai/event/8UwR2STaRKamEvzT9HfRAQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1570306267645624322/krGp4bK8_400x400.jpg" group-title="Deportes" , ITV Deportes
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
@@ -2215,11 +2212,14 @@ https://video.misistemareseller.com/minfavtv/minfavtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lpVZgA4.jpg" group-title="America Central", Hispania TV Panama
 https://vcp8.myplaytv.com:1936/hispaniatv/hispaniatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tGeHwxd.png" group-title="America Central", TVN
-https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/playlist_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YFmzkOp.png" group-title="America Central", Fabulosa Estereo Panama
+https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XcrkfGh.png" group-title="America Central", TV Max Panama
-https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8ZIBs8l.png" group-title="America Central", Planet 100.9 Panama
+https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ocTnqi7.png" group-title="America Central", Super Q Panama
+https://vcp8.myplaytv.com:1936/superq/superq/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yCykjIp.png" group-title="America Central", Canal 3 GT
 https://alba-gt-chapintv-c3.stream.mediatiquestream.com/index.m3u8
@@ -2236,14 +2236,26 @@ https://ch1-tva.duin.dev/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BtGK7iZ.png" group-title="America Central", A+ Guate
 https://ch2-tva.duin.dev/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KJWNPiz.jpg" group-title="America Central", Canal 6 GT
+https://stream.meteorito.cloud:1947/canal6/smil:canal6.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nenn6gE.png" group-title="America Central", Canal 8 Santa Rosa GT
+https://cdn.streamhispanatv.net:3697/live/canal8starosalive.m3u8
+
 #EXTINF:-1 tvg-logo="https://totovision.net/wp-content/uploads/2022/05/cropped-LOGO-PAGINA-22.png" group-title="America Central", Totovisión 
-https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
+https://glb.bozztv.com/glb/ssh101/totovision/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jdnHci0.png" group-title="America Central", TVS Retro GT
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S0JrfIl.png" group-title="America Central", Vision TV GT
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RnZU9q3.png" group-title="America Central", TVQ
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/9b8beac9026c450fb81ed895539c4665/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RnZU9q3.png" group-title="America Central", TVQ Sports
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/1b6bbade53634f5a847b953c9adfd102/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6j3FH1q.png" group-title="America Central", Esquipulas TV GT
 https://tv91.hostingnuclear.com:19360/esquipulastv/esquipulastv.m3u8
@@ -2257,7 +2269,7 @@ https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4hEYFa9.png" group-title="America Central", Canal 5 Honduras
 https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/VTV_HN_logo_2019.png/1200px-VTV_HN_logo_2019.png" group-title="America Central", VTV Honduras
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/VTV_HN_logo_2019.png/1200px-VTV_HN_logo_2019.png" group-title="America Central", VTV Honduras (Geo HN)
 https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/04/LTV-Honduras-en-vivo-Online.png" group-title="America Central", LTV Honduras
@@ -2270,16 +2282,13 @@ https://stream.alojamientowebgt.com:3656/live/tv45live.m3u8
 https://media.streambrothers.com:19360/8230/8230.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V9Fpd3Y.png" group-title="America Central", UNE TV Honduras
-https://amixtv.live:3395/live/unetvlive.m3u8
+https://catv.amixtv.live:3058/live/unetvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BcmQhry.png" group-title="America Central", CTV Internacional HN
 https://mediacp.us:8081/ctvhn/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IC30j61.png" group-title="America Central", Ebezener TV HN
 https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Dq9we3E.png" group-title="America Central", EDN TV HN
-https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ylZKG57.png" group-title="America Central", Jehova TV
 https://video.misistemareseller.com/jehovatelevision/jehovatelevision/playlist.m3u8
@@ -2305,7 +2314,7 @@ https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c
 #EXTINF:-1 tvg-logo="http://www.canal11.com.sv/logo11.png" group-title="America Central", TUTV Canal 11 SV
 https://streaming.grupocsanetwork.com:19360/canal11/canal11.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Canal_12_El_Salvador_2018.png" group-title="America Central", Canal 12 SV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Canal_12_El_Salvador_2018.png" group-title="America Central", Canal 12 SV (Geo SV)
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Canal-19-El-Salvador-en-vivo-Online.png" group-title="America Central", canal 19 SV
@@ -2314,13 +2323,10 @@ https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Canal-21.png" group-title="America Central", Canal 21 SV
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="America Central", Awapa
-https://mgv-awapa.univtec.com/hls/live/2104282/MGV_CHANNEL15/0/streamPlaylist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MNw5cJH.jpg" group-title="America Central", Awapa Sports
+https://mgv-awapa.akamaized.net/hls/live/2104282/MGV_CHANNEL15/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="America Central", TuCanal 25 SV
-https://ssh101.bozztv.com/ssh101/OrbitaTV25/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ztp781b.png" group-title="America Central", Canal 10 Nicaragua
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ztp781b.png" group-title="America Central", Canal 10 Nicaragua (Geo NIC)
 https://alba-ni-c10-c10.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nb81xeU.png" group-title="America Central", WTV Nicaragua
@@ -2332,23 +2338,14 @@ Ecuador
 ---------------------------------------------------
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="Ecuador", RTS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="Ecuador", RTS (Geo EC)
 https://alba-ec-rts-rts.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tvc.com.ec/wp-content/themes/albavision-theme/parts-web/9212d2e4/logo.png" group-title="Ecuador", TVC
+#EXTINF:-1 tvg-logo="https://www.tvc.com.ec/wp-content/themes/albavision-theme/parts-web/9212d2e4/logo.png" group-title="Ecuador", TVC (Geo EC)
 https://alba-ec-tvc-tvc.stream.mediatiquestream.com/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sEW6C5G.png" group-title="Ecuador", Canal Uno
-https://cp.panelchs.com:1936/8034/8034/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.hechosecuador.com/rw_common/images/logo2021.png" group-title="Ecuador", Hechos Ecuador
 https://stmv.streamingvip.click/hechosecuador/hechosecuador/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J6Mc42H.png" group-title="Ecuador", Telerama
-https://envivo.telerama.ec/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wwNh4wb.png" group-title="Ecuador", TeleDigital
-https://tv.portalexpress.es:3182/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://wuanplus.tv/wp-content/uploads/2017/10/2-WUAN-Orange-RGB-para-WEB.png" group-title="Ecuador", Wuan Plus
 https://video2.makrodigital.com/wuanplus/wuanplus/playlist.m3u8
