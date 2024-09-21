@@ -30,9 +30,6 @@ https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2022/07/Corazon450x300-1.png" group-title="Entretenimiento", Azteca Corazon
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Gwz78jZ.png" group-title="Entretenimiento", GikTV MX
-https://pistream.ddns.net/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/ee/Logo_Novelas_TV.svg/1200px-Logo_Novelas_TV.svg.png" group-title="Entretenimiento", Novelas en español
 https://stormcast-novelas-2-es.samsung.wurl.tv/playlist.m3u8
 
