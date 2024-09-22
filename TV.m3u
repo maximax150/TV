@@ -66,8 +66,11 @@ https://stmv.video.gmpro.top/tvcharrua/tvcharrua/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://amariemagazine.com/wp-content/uploads/2021/04/Logo-tele11.png" group-title="Entretenimiento", Teleonce
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OM6BP37.png" group-title="Entretenimiento", Flou Channel
-https://amg01768-flou-flou-canelatv-yri41.amagi.tv/playlist/amg01768-flou-flou-canelatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lared.cl/wp-content/uploads/2021/09/01164338/imagenlared.png" group-title="Entretenimiento", La Red Chile
+https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_de_eltrece_lanzado_en_2016.png" group-title="Entretenimiento", El Trece ARG
+https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/9cfe65ea-0cf3-4d32-8165-a76e076878bd/FreeTVFamilia_Circle_1500x1000_-_Ralph_Campillo.png" group-title="Entretenimiento", FreeTV Familia
 https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
@@ -292,18 +295,6 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/pakapaka/.m3u8
 https://linear-637.frequency.stream/mt/studio/637/hls/master/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD5100001G0_20240611T061825SQUARE.png", SuperToons TV
-https://jmp2.uk/SamsungTVPlus/ESBD5100001G0.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3900004ED_20240507T094215SQUARE.png", Pocoyó
-https://jmp2.uk/SamsungTVPlus/ESBC3900004ED.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300020W5_20220914T041117SQUARE.png_20220914041117.png", Caillou
-https://jmp2.uk/SamsungTVPlus/ESBA3300020W5.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Clan_TVE_logo.svg/2560px-Clan_TVE_logo.svg.png" group-title="Kids & Geek", Clan
-https://jmp2.uk/SamsungTVPlus/ESBC4100003WE.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Clan_TVE_logo.svg/2560px-Clan_TVE_logo.svg.png" group-title="Kids & Geek", Clan Internacional
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main_dvr.m3u8
 
@@ -405,6 +396,9 @@ https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/index.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/76964e60-8756-4551-8748-dbd7852bd0bd/Grjngo-Westernfilme_logo_light_-_Toni_Newesil__1_.png" group-title="Cine y Series", GRJNGO
 https://amogonetworx-grjngo-2-eu.plex.wurl.tv/2000.m3u8
 
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/51402fbd-48ad-4307-a1be-a60c692684f6/Logotipo_C4_En_Alerta_1500x1000_for_dark_backgrounds_-_James_Stowe.png" , C4 en Alerta
+https://stream.ads.ottera.tv/cl/240922crnlsvjedbv0gpkvnogg/1280x720_3071200_0_f.m3u8?i=728_2550
+
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/f9b44328-8571-4e8a-9066-022bd8665082/cinepride-logo.png", CINEPRIDE
 https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-62167144ab2095ca85353ad6.m3u8
 
@@ -413,9 +407,6 @@ https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-6685abbe59703916799193a7.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/16c58af9-70f4-4d31-a176-f0c592639587/Butaca_Tv_pack_1500X1000_RDX.png" , Butaca TV
 https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-64f0dad7c2bc9b9001d46ea8.m3u8
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/51402fbd-48ad-4307-a1be-a60c692684f6/Logotipo_C4_En_Alerta_1500x1000_for_dark_backgrounds_-_James_Stowe.png" , C4 en Alerta
-https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-65b1568052aa31b8f64da064.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/ad57bd59-edab-4fde-b4d2-97d753b4199f/Plex_FilmRise_CrimenesVerdaderos_Color_Logo.png" , FilmRise Crimenes Veradaderos
 https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-65ec577c39fd1025c2acd277.m3u8
