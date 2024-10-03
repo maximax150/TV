@@ -285,6 +285,9 @@ https://cloudvideo.servers10.com:8081/8138/index.m3u8
 #EXTINF:-1 group-title="Kids & Geek", Canela Kids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 
+#EXTINF:-1 group-title="Kids & Geek", AniRetro
+https://tv.streaming-chile.com:19360/8068/8068.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8WJUbSD.png" group-title="Kids & Geek", 13 Kids
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
 
@@ -456,21 +459,6 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/viJBL6f.png" group-title="Cine y Series", Retrox TV
 https://tvservices.fullhd-streaming.com:3867/live/retroxtvlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/f4639394-cbab-411c-9a11-3676a7310af0/FreeTVDrama_Circle_1500x1000_-_Ralph_Campillo.png" group-title="Cine y Series", FreeTV Drama
-https://cinereal-plex.amagi.tv/CineReal/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/2aca9f2d-cd37-4e99-93c2-ea331d407008/FreeTVLive_logo_1500x1000RDX.png" group-title="Cine y Series", FreeTV Terror
-https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
-
-#EXTINF:-1 tvg-logo"https://provider-static.plex.tv/epg/cms/production/4f350c02-7a5d-48b1-baae-a2ac437bfafb/FreeTVSureno_Circle_1500x1000_-_Ralph_Campillo.png" group-title="Cine y Series", FreeTV Sureño
-https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/f496c12b-d43f-4e47-95b7-f687763fa84f/FreeTVAccion_Circle_1500x1000_-_Ralph_Campillo.png" group-title="Cine y Series", FreeTV Accion
-https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/956f7b44-59f4-4f55-8258-e274f2183b11/FreeTVEstelar_Circle_1500x1000_-_Ralph_Campillo.png" group-title="Cine y Series", FreeTV Estelar
-https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://estrellamedia.com/wp-content/uploads/2023/04/CineETV-1.jpg" group-title="Cine y Series", Cine Estrella TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
@@ -668,12 +656,6 @@ https://vcp.myplaytv.com/oxigenotv/oxigenotv/.m3u8
 
 #EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/DR5bsovNMqrNLiG3J839cXETQC27BEscf8UGxw70.jpg", Cantina TV
 https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23008/freetv-hits/logo_20240222_202547_68.png", FreeTV Hits
-https://flash-freetv.amagi.tv/flash/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23008/freetv-banda/logo_20240222_214147_68.png", FreeTV Banda
-https://mmc-freetv.amagi.tv/mmc-Xumo/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1609-294x165-FFFFFF.jpg", Miami TV Music
 https://668e2e5a0f5bb.streamlock.net/miamitvmusic/smil:WEB/.m3u8
@@ -2151,14 +2133,11 @@ https://liveingesta118.cdnmedia.tv/trivision36live/smil:dvrlive.smil/playlist.m3
 #EXTINF:-1 tvg-logo="https://www.tvsantacruzcr.net/img/logotvsc_2.png" group-title="Costa Rica", TV Santa Cruz
 https://rtmp.info/tvsantacruz/envivo/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://teleredtelevision.com/images/telered.jpg" group-title="Costa Rica", Telered 
-https://k20.usastreams.com:8081/telered/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bUNLWDP.png" group-title="Costa Rica", Telesistema
-https://k20.usastreams.com:8081/telesistema/index.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Costa Rica", Turrialba TV
 https://acceso.radiosportstv.online:3151/live/turrialbatvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/lJer7QOGqUenodguYDBCl2qb4p4d4SSBghCX20GZ.png" group-title="Costa Rica", Mega TV CR
+https://fl1002.bozztv.com/ssh101/megatvcr2024/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/hOql4FVmYfu7xsKVoD41sltdVoryVs5cVGI9JxtB.jpg" group-title="Costa Rica", Turrialba Digital TV CR
 https://cloudvideo.servers10.com:8081/8230/index.m3u8
