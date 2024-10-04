@@ -2040,13 +2040,13 @@ https://alba-cr-repretel-c2.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sgRDRBK.jpg" group-title="Costa Rica", Canal 3 KMK
 https://cloudvideo.servers10.com:8081/8120/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Repretel_4_logo.png" group-title="Costa Rica", Repretel 4 
+#EXTINF:-1  tvg-logo="https://i.imgur.com/3vrH55n.png" group-title="Costa Rica", Repretel 4 
 https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://genteopa.com/wp-content/uploads/2024/03/cropped-logo-opa-1.png" group-title="Costa Rica", OPA
 https://opa.usastreams.com:3066/live/canalopalive.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/nfKJftW.png" group-title="Costa Rica", Repretel 6 
+#EXTINF:-1  tvg-logo="https://i.imgur.com/q1MWbK2.png" group-title="Costa Rica", Repretel 6 
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Teletica.png" group-title="Costa Rica", Teletica 
@@ -2064,7 +2064,7 @@ https://acceso.radiosportstv.online:3285/live/canal10costaricalive.m3u8
 #EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/Z4qkGVCLCDgc5sHhRy8Y9Jmo7WHYYaRCzlvhh5CQ.jpg" group-title="Costa Rica", Canal 10.1 CR
 https://acceso.radiosportstv.online:3384/stream/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/512px-Repretel_11_logo.png" group-title="Costa Rica", Repretel 11 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GHNqvRu.png" group-title="Costa Rica", Repretel 11 
 https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/HowlI4G5AwJYrUNtf1g6TwAxGAmLonFpxb8i3UiS.jpg" group-title="Costa Rica", Sinart Canal 13
