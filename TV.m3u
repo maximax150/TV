@@ -123,9 +123,6 @@ https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hTUe0Pw.png" group-title="Entretenimiento",13 Festival
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KvMuTzN.png" group-title="Entretenimiento", 13 Humor
-https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.ploustv.com/ploustv.png" group-title="Entretenimiento", PlousTV
 https://vcp7.myplaytv.com/glowtv/glowtv/chunklist_w1842335445.m3u8
 
@@ -244,22 +241,22 @@ Kids & Geek
 https://magicstream.ddns.net/magicstream/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://energeek.cl/custom/templates/Lithium/uploads/simbolo-2.png" group-title="Kids & Geek", Energeek
-https://wifispeed.trapemn.tv:1936/energeek/canal-1p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://energeek.cl/custom/templates/Lithium/uploads/simbolo-2.png" group-title="Kids & Geek", Energeek radio
-https://wifispeed.trapemn.tv:1936/energeek/radio-p/playlist.m3u8
+https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://energeek.cl/custom/templates/Lithium/uploads/simbolo-2.png" group-title="Kids & Geek", Energeek Fanpop
-https://wifispeed.trapemn.tv:1936/energeek/canal-2p/playlist.m3u8
+https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f_output_0.m3u8
 
-#EXTINF:-1 tvg-logo="https://pandamax.cl/public/assets/img/pandamaxlogo.png" group-title="Kids & Geek", Pandamax TV
-https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://energeek.cl/custom/templates/Lithium/uploads/simbolo-2.png" group-title="Kids & Geek", Energeek radio
+https://streaming-cl.sh1ny.space/memfs/75b105a4-2fd3-4538-a55c-480f3903a262_output_0.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.paste.pics/afb90bf11a606a30ee4294c8b32cf9e4.png" group-title="Kids & Geek", Varied TV
-https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
+#EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/max-anime-3-c.png" group-title="Kids & Geek", Max Anime
+https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BKkljlc.png" group-title="Kids & Geek", Meta Versus
 https://vivo.solumedia.com:19360/metaversus/metaversus.m3u8
+
+#EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/aniretro.png" group-title="Kids & Geek", AniRetro
+https://tv.streaming-chile.com:19360/8068/8068.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/ZooMoo-Kids-Logo-Oficial-01.png/1200px-ZooMoo-Kids-Logo-Oficial-01.png" group-title="Kids & Geek", Zoomoo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
@@ -277,16 +274,10 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=514
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k8U0e0b.png" group-title="Kids & Geek", Dreiko TV
-https://cloudvideo.servers10.com:8081/8138/index.m3u8
+https://cloudvideo.servers10.com:8081/8096/index.m3u8
 
 #EXTINF:-1 group-title="Kids & Geek", Canela Kids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
-
-#EXTINF:-1 group-title="Kids & Geek", AniRetro
-https://tv.streaming-chile.com:19360/8068/8068.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8WJUbSD.png" group-title="Kids & Geek", 13 Kids
-https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paka-paka.svg/1200px-Paka-paka.svg.png" group-title="Kids & Geek", Paka Paka
 https://538d0bde28ccf.streamlock.net/live-cont.ar/pakapaka/.m3u8
@@ -384,20 +375,23 @@ https://ss9.domint.net:3012/ttv_str/%20tigueritotv/.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/a59418e1a9cb4068b83345be503f722c.png" group-title="Cine y Series", 13 Entretencion 
 https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/544548398fcd92bf2db73e9d0fcddf5f.png" group-title="Cine y Series", 13 Prime 
-https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/863aea4fb1445b58f89afc7c692ed509.png" group-title="Cine y Series", 13 Teleseries 
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/canal-rex.png" group-title="Cine y Series", Canal Rex
+https://v4.tustreaming.cl/canalrex/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/mascine.png" group-title="Cine y Series", +Cine
+https://tv.streaming-chile.com:19360/8142/8142.m3u8
+
+#EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/terrortv.png" group-title="Cine y Series", Terror TV
+https://tv.streaming-chile.com:19360/8140/8140.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.canalcinemaplus.net/wp-content/uploads/2013/07/logo.png" group-title="Cine y Series", *Cinema+ (Geo Colombia VPN)
 https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/76964e60-8756-4551-8748-dbd7852bd0bd/Grjngo-Westernfilme_logo_light_-_Toni_Newesil__1_.png" group-title="Cine y Series", GRJNGO
 https://amogonetworx-grjngo-2-eu.plex.wurl.tv/2000.m3u8
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/51402fbd-48ad-4307-a1be-a60c692684f6/Logotipo_C4_En_Alerta_1500x1000_for_dark_backgrounds_-_James_Stowe.png" , C4 en Alerta
-https://stream.ads.ottera.tv/cl/240922crnlsvjedbv0gpkvnogg/1280x720_3071200_0_f.m3u8?i=728_2550
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/f9b44328-8571-4e8a-9066-022bd8665082/cinepride-logo.png", CINEPRIDE
 https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-62167144ab2095ca85353ad6.m3u8
@@ -445,9 +439,6 @@ https://run-cl-es.otteravision.com/run/cl_es/cl_es.m3u8
 #EXTINF:-1 tvg-logo="https://cineramatv.com/wp-content/uploads/2023/02/logo-2.jpg" group-title="Cine y Series", Cinerama
 https://5d00db0e0fcd5.streamlock.net/7062/7062/.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD7000017L_20230523T230719SQUARE.png_20230523230720.png" tvg-chno="1253" group-title="Cine y Series" , AMC en Español
-https://i.mjh.nz/SamsungTVPlus/USBD7000017L.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.wowelsalvador.com/imagen/logo2.png" group-title="Cine y Series", WOW TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
@@ -455,7 +446,7 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/viJBL6f.png" group-title="Cine y Series", Retrox TV
-https://tvservices.fullhd-streaming.com:3867/live/retroxtvlive.m3u8
+https://acceso.radiosportstv.online:3259/live/retroxtvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://estrellamedia.com/wp-content/uploads/2023/04/CineETV-1.jpg" group-title="Cine y Series", Cine Estrella TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
@@ -463,14 +454,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lg
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/725f7299-49ef-43f8-8fa2-9fd5a8acf53d/CM-Plex-Color_Blackbackground-CanelaCinema_-_Camila_Conti.png" group-title="Cine y Series", Canela Cinema
 https://ov.ottera.tv/channels/cnm_cn_mv/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/b8e36746-5a92-4d58-b415-28280a044123/cinema_logo_light-01_-_James_Stowerdx.png", Azteca Cinema (FAST)
-https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-64695233f73356567a64ce90.m3u8
-
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/59b63843-4b98-42fd-bf78-c269ce56cdb5/COPS_en_espanol_-_channel_logo_colour_-_1500x1000.png_James_Roebuck.png" group-title="Cine y Series", Cops en Español
 https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-6477b95b7ba9c0d593859bfc.m3u8
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/4/epg/channels/logos/gracenote/451eef6dc017decca399d54abcf5340a.png" group-title="Cine y Series", The Film Detective
-https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-5eea605674085f0040ddc7a3.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/spi_filmstream_1.png" group-title="Cine y Series", Filmstream
 https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-5f5132e162fe160040f26bdb.m3u8
