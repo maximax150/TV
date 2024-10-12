@@ -1597,10 +1597,7 @@ Brasil
 ---------------------------------------------------
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tc1ALuu.png" group-title="Brazil", SBT
-https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IkZfa4j.png" group-title="Brazil", SBT interior
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IkZfa4j.png" group-title="Brazil", SBT
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aNkP7Zd.png" group-title="Brazil", Agro Brasil TV 
@@ -1608,9 +1605,6 @@ https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KgetM8j.png" group-title="Brazil", Adesso TV
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hy7abJz.png"group-title="Brazil", Band 
-http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f032a160e2b4cbb9de8f0080b845c9ca.webp" group-title="Brazil", Classique TV 
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
@@ -1620,9 +1614,6 @@ https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HZDRG0K.png" group-title="Brazil", Record News 
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jMHaHAR.png" group-title="Brazil", Rede Premium TV 
-https://5c483b9d1019c.streamlock.net:443/8066/8066/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-wwNFkMbc-0w/X0ESydKsgCI/AAAAAAAA4ys/9x97hUqe3L0y-na-wRdQ1B3_wzzXj1C-gCK8BGAsYHg/s0/2020-08-22.jpg" group-title="Brazil", TV Mundial BR
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
@@ -1642,15 +1633,6 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/82/Logo_of_RedeTV_of_Brazil.png" group-title="Brazil", Rede TV
 https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/af/Logotipo_da_TV_Brasil_Oeste.png" group-title="Brazil", TV Brasil Oeste
-https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rede-brasil-de-comunicacao-br.png" group-title="Brazil", Rede Brasil
-https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/.m3u8
-
-#EXTINF:-1 tvg-logo="https://rwtv.com.br/wp-content/uploads/2023/04/Rede-Web-TV-bordado.png" group-title="Brazil", Rede Web TV
-https://serv3.videovox.pw/alexandre8915/alexandre8915/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XZS13xD.png" group-title="Brazil", TVN Brasil
 http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
 
@@ -1669,23 +1651,11 @@ https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CFSSTID.png" group-title="Brazil", Anime TV BR
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LnWWKzP.png" group-title="Brazil", Canal Libras
-https://canallibras-stream.ebc.com.br/mux_video_ts/index-1.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4m7Iazm.png" group-title="Brazil", Master TV
 https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/22jXTu4.png" group-title="Brazil", Central TV
-https://tv02.zas.media:1936/centraltv/centraltv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZPYK5jr.png" group-title="Brazil", Combate
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GrjGwKM.png" group-title="Brazil", COM Brasil
-https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XN6jjMR.png" group-title="Brazil", Conecta TV BR
-https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S0ISpmU.png" group-title="Brazil", CWB TV
 https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/playlist.m3u8
@@ -1699,23 +1669,14 @@ https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="6102e04e9ab1db0007a980a1" tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="Brazil",Pluto TV Record News
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="6144d088516ea8000739076a" tvg-logo="https://images.pluto.tv/channels/6144d088516ea8000739076a/colorLogoPNG.png" group-title="Brazil",FUEL TV BR
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6144d088516ea8000739076a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 #EXTINF:-1 tvg-id="5f5141c1605ddf000748eb1b" tvg-logo="https://images.pluto.tv/channels/5f5141c1605ddf000748eb1b/colorLogoPNG.png" group-title="Brazil",FailArmy BR
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5141c1605ddf000748eb1b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-id="620aca7a4d8ea4000778338a" tvg-logo="https://images.pluto.tv/channels/620aca7a4d8ea4000778338a/colorLogoPNG.png" group-title="Brazil",Schitt's Creek
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620aca7a4d8ea4000778338a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-id="5f357e91b18f0b00073583d2" tvg-logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png" group-title="Brazil",Comedy Central BR
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583d2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-id="5fd1419a3b4f4b000773ba85" tvg-logo="https://images.pluto.tv/channels/5fd1419a3b4f4b000773ba85/colorLogoPNG.png" group-title="Brazil",Tastemade BR
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd1419a3b4f4b000773ba85/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-id="5f516730b78b7600079294f5" tvg-logo="https://images.pluto.tv/channels/5f516730b78b7600079294f5/colorLogoPNG.png" group-title="Brazil",Fashionstream BR
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f516730b78b7600079294f5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-id="5f997e44949bc70007a6941e" tvg-logo="https://images.pluto.tv/channels/5f997e44949bc70007a6941e/colorLogoPNG.png" group-title="Brazil",Turma da Monica
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -2124,11 +2085,8 @@ https://fl1002.bozztv.com/ssh101/megatvcr2024/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/hOql4FVmYfu7xsKVoD41sltdVoryVs5cVGI9JxtB.jpg" group-title="Costa Rica", Turrialba Digital TV CR
 https://cloudvideo.servers10.com:8081/8230/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/1MARSqh5D7hPUc4qhJMQcz4KnaWUzs4PkTXxJvnl.png" group-title="Costa Rica", Multizonas TV
-https://cloudvideo.servers10.com:8081/8068/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/S0utvG5YQJSEUE2HlmVONkyxDroLiotox9kiPKIV.jpg" group-title="Costa Rica", Telesur CR
-https://s1.tvdatta.com:3582/live/telesurlive.m3u8
+https://k20.usastreams.com:8081/tvsur/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F2rdjwJ.png" group-title="Costa Rica", RetroTV Palmares CR
 https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
@@ -2143,32 +2101,6 @@ Centroamérica
 ---------------------------------------------------
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiYVtgB.png" group-title="America Central", BTV Panama
-https://stream.oursnetworktv.com/latin/btvpanama/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vpvvznz.png" group-title="America Central", Hosanna Vision Panama
-https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QQBd052.png" group-title="America Central", Nex tv Panama
-https://vcp4.myplaytv.com:1936/nextv/nextv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y0h8dlX.png" group-title="America Central", +23 Panama
-https://vcp4.myplaytv.com:1936/mas23/mas23/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Vj5nNbF/FAV-TV-LOGO-BLANCO.png" group-title="America Central", Minfav TV Panama
-https://video.misistemareseller.com/minfavtv/minfavtv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lpVZgA4.jpg" group-title="America Central", Hispania TV Panama
-https://vcp8.myplaytv.com:1936/hispaniatv/hispaniatv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YFmzkOp.png" group-title="America Central", Fabulosa Estereo Panama
-https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8ZIBs8l.png" group-title="America Central", Planet 100.9 Panama
-https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ocTnqi7.png" group-title="America Central", Super Q Panama
-https://vcp8.myplaytv.com:1936/superq/superq/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yCykjIp.png" group-title="America Central", Canal 3 GT
 https://alba-gt-chapintv-c3.stream.mediatiquestream.com/index.m3u8
@@ -2208,6 +2140,9 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/1b6bbade53634f5a847b953c9adfd102/i
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6j3FH1q.png" group-title="America Central", Esquipulas TV GT
 https://tv91.hostingnuclear.com:19360/esquipulastv/esquipulastv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vpvvznz.png" group-title="America Central", Hosanna Vision Panama
+https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://qhubotv.com/content/images/2022/08/Logo-Q-HUBO-1.png" group-title="America Central", Q Hubo tv HN
 https://5e85d90130e77.streamlock.net/6024/6024/playlist.m3u8
@@ -2281,6 +2216,27 @@ https://alba-ni-c10-c10.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nb81xeU.png" group-title="America Central", WTV Nicaragua
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QQBd052.png" group-title="America Central", Nex tv Panama
+https://vcp4.myplaytv.com:1936/nextv/nextv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y0h8dlX.png" group-title="America Central", +23 Panama
+https://vcp4.myplaytv.com:1936/mas23/mas23/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vj5nNbF/FAV-TV-LOGO-BLANCO.png" group-title="America Central", Minfav TV Panama
+https://video.misistemareseller.com/minfavtv/minfavtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lpVZgA4.jpg" group-title="America Central", Hispania TV Panama
+https://vcp8.myplaytv.com:1936/hispaniatv/hispaniatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YFmzkOp.png" group-title="America Central", Fabulosa Estereo Panama
+https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8ZIBs8l.png" group-title="America Central", Planet 100.9 Panama
+https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ocTnqi7.png" group-title="America Central", Super Q Panama
+https://vcp8.myplaytv.com:1936/superq/superq/playlist.m3u8
+
 
 ---------------------------------------------------
 Ecuador
@@ -2299,9 +2255,6 @@ https://stmv.streamingvip.click/hechosecuador/hechosecuador/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wuanplus.tv/wp-content/uploads/2017/10/2-WUAN-Orange-RGB-para-WEB.png" group-title="Ecuador", Wuan Plus
 https://video2.makrodigital.com/wuanplus/wuanplus/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DzxGHRZ.png" group-title="Ecuador", RTV
-https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a5avk5R.png" group-title="Ecuador", Asoma Vision
 https://asomatv.duckdns.org/livestream/stream.m3u8
 
@@ -2311,20 +2264,11 @@ http://streaming5.globalhostla.com/rtplive/elsolrad/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zgGuCYL.png" group-title="Ecuador", Austral TV
 https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m1LK6rY.png" group-title="Ecuador", Bacan Te Veo
-https://cloudvideo.servers10.com:8081/8064/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8k8DsBL.png" group-title="Ecuador", Duran TV
 https://cloudvideo.servers10.com:8081/8074/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1nHxdkR.png" group-title="Ecuador", Infinita TV
 https://s2.tvdatta.com:3753/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/294FDCB.png" group-title="Ecuador", Vos y TV
-https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Ecuador", Antena 1 Radiovision
-https://tvdatta.com:3578/live/antenaunolive.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Ecuador", FM Mundo
 https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8
@@ -3890,6 +3834,200 @@ http://190.61.106.107:8000/play/a033/index.m3u8
 http://190.61.106.107:8000/play/a002/index.m3u8
 
 
+
+#EXTINF:-1 group-title="Latinos 4",
+#EXTINF:-1 tvg-id="ParaguayTV",ParaguayTV
+http://170.83.242.9:4000/play/a01o
+#EXTINF:-1 tvg-id="Telefuturo",Telefuturo
+http://170.83.242.9:4000/play/a03e
+#EXTINF:-1 tvg-id="Unicanal",Unicanal
+http://170.83.242.9:4000/play/a0v5
+#EXTINF:-1 tvg-id="TV CAMARA",TV CAMARA
+http://170.83.242.9:4000/play/a00m
+#EXTINF:-1 tvg-id="SNT",SNT
+http://170.83.242.9:4000/play/a03d
+#EXTINF:-1 tvg-id="Trece PY",Trece PY
+http://170.83.242.9:4000/play/a01j
+#EXTINF:-1,13 C
+http://170.83.242.9:4000/play/a10z
+#EXTINF:-1 tvg-id="AE Mundo",AE Mundo
+http://170.83.242.9:4000/play/a00y
+#EXTINF:-1,AXN
+http://170.83.242.9:4000/play/a12p
+#EXTINF:-1 tvg-id="America TV PY",America TV PY
+http://170.83.242.9:4000/play/a01l
+#EXTINF:-1 tvg-id="Animal Planet",Animal Planet
+http://170.83.242.9:4000/play/a00p
+#EXTINF:-1 tvg-id="BabyFirst",BabyFirst
+http://170.83.242.9:4000/play/a0mg
+#EXTINF:-1,CHV HD
+http://170.83.242.9:4000/play/a11k
+#EXTINF:-1 tvg-id="CNN Chile",CNN Chile
+http://170.83.242.9:4000/play/a036
+#EXTINF:-1 tvg-id="Canal Estrellas",Canal Estrellas
+http://170.83.242.9:4000/play/a012
+#EXTINF:-1 tvg-id="Cartoon Network",Cartoon Network
+http://170.83.242.9:4000/play/a03a
+#EXTINF:-1 tvg-id="Cinecanal",Cinecanal
+http://170.83.242.9:4000/play/a030
+#EXTINF:-1,Cinemax
+http://170.83.242.9:4000/play/a12o
+#EXTINF:-1,Cinemax HD
+http://170.83.242.9:4000/play/a10o
+#EXTINF:-1 tvg-id="Claro Cinema",Claro Cinema
+http://170.83.242.9:4000/play/a00d
+#EXTINF:-1,Comedy Central HD
+http://170.83.242.9:4000/play/a10p
+#EXTINF:-1 tvg-id="Discovery Channel",Discovery Channel
+http://170.83.242.9:4000/play/a00o
+#EXTINF:-1,Discovery H&H
+http://170.83.242.9:4000/play/a12u
+#EXTINF:-1 tvg-id="Discovery H&H HD",Discovery H&H HD
+http://170.83.242.9:4000/play/a0zl
+#EXTINF:-1 tvg-id="Discovery ID",Discovery ID
+http://170.83.242.9:4000/play/a017
+#EXTINF:-1 tvg-id="Discovery Kids",Discovery Kids
+http://170.83.242.9:4000/play/a02b
+#EXTINF:-1 tvg-id="Discovery Kids HD",Discovery Kids HD
+http://170.83.242.9:4000/play/a0zk
+#EXTINF:-1,Discovery Theater HD
+http://170.83.242.9:4000/play/a109
+#EXTINF:-1 tvg-id="Discovery Turbo",Discovery Turbo
+http://170.83.242.9:4000/play/a00f
+#EXTINF:-1 tvg-id="Disney Channel",Disney Channel
+http://170.83.242.9:4000/play/a00n
+#EXTINF:-1 tvg-id="Disney Jr",Disney Jr
+http://170.83.242.9:4000/play/a02s
+#EXTINF:-1 tvg-id="E Entertainment",E Entertainment
+http://170.83.242.9:4000/play/a00r
+#EXTINF:-1 tvg-id="ESPN",ESPN
+http://170.83.242.9:4000/play/a00u
+#EXTINF:-1 tvg-id="ESPN 2",ESPN 2
+http://170.83.242.9:4000/play/a02u
+#EXTINF:-1,ESPN 2 HD
+http://170.83.242.9:4000/play/a10n
+#EXTINF:-1 tvg-id="ESPN 2 Latin",ESPN 2 Latin
+http://170.83.242.9:4000/play/a00t
+#EXTINF:-1,ESPN 3
+http://170.83.242.9:4000/play/a12v
+#EXTINF:-1 tvg-id="ESPN 3",ESPN 3
+http://170.83.242.9:4000/play/a00h
+#EXTINF:-1,ESPN 3 HD
+http://170.83.242.9:4000/play/a10l
+#EXTINF:-1 tvg-id="ESPN 4 HD",ESPN 4 HD
+http://170.83.242.9:4000/play/a0zp
+#EXTINF:-1,ESPN 5
+http://170.83.242.9:4000/play/a12j
+#EXTINF:-1,ESPN 6
+http://170.83.242.9:4000/play/a12r
+#EXTINF:-1,ESPN 6HD
+http://170.83.242.9:4000/play/a12l
+#EXTINF:-1,ESPN 7
+http://170.83.242.9:4000/play/a12q
+#EXTINF:-1,ESPN 7HD
+http://170.83.242.9:4000/play/a12m
+#EXTINF:-1 tvg-id="ESPN HD",ESPN HD
+http://170.83.242.9:4000/play/a0zv
+#EXTINF:-1 tvg-id="ESPN4",ESPN4
+http://170.83.242.9:4000/play/a01h
+#EXTINF:-1,EWTN
+http://170.83.242.9:4000/play/a117
+#EXTINF:-1 tvg-id="Enlace",Enlace
+http://170.83.242.9:4000/play/a03f
+#EXTINF:-1,FOX Sports 2 HD
+http://170.83.242.9:4000/play/a10d
+#EXTINF:-1,FX
+http://170.83.242.9:4000/play/a12s
+#EXTINF:-1,FX HD
+http://170.83.242.9:4000/play/a10g
+#EXTINF:-1,Fox Sports 3 HD
+http://170.83.242.9:4000/play/a10m
+#EXTINF:-1 tvg-id="GOL TV",GOL TV
+http://170.83.242.9:4000/play/a00v
+#EXTINF:-1 tvg-id="HBO",HBO
+http://170.83.242.9:4000/play/a001
+#EXTINF:-1 tvg-id="HBO 2",HBO 2
+http://170.83.242.9:4000/play/a02o
+#EXTINF:-1 tvg-id="HBO Family",HBO Family
+http://170.83.242.9:4000/play/a02r
+#EXTINF:-1 tvg-id="HBO Plus",HBO Plus
+http://170.83.242.9:4000/play/a02p
+#EXTINF:-1 tvg-id="HBO XTREME SD",HBO XTREME SD
+http://170.83.242.9:4000/play/a02q
+#EXTINF:-1,HOLA TV HD
+http://170.83.242.9:4000/play/a11n
+#EXTINF:-1 tvg-id="History Channel",History Channel
+http://170.83.242.9:4000/play/a02z
+#EXTINF:-1 tvg-id="HomeandHealth",HomeandHealth
+http://170.83.242.9:4000/play/a01c
+#EXTINF:-1,ID HD
+http://170.83.242.9:4000/play/a10q
+#EXTINF:-1 tvg-id="La Tele",La Tele
+http://170.83.242.9:4000/play/a00j
+#EXTINF:-1 tvg-id="MTV",MTV
+http://170.83.242.9:4000/play/a033
+#EXTINF:-1 tvg-id="Nat Geo",Nat Geo
+http://170.83.242.9:4000/play/a02y
+#EXTINF:-1 tvg-id="Nick Jr",Nick Jr
+http://170.83.242.9:4000/play/a00e
+#EXTINF:-1 tvg-id="Nickelodeon",Nickelodeon
+http://170.83.242.9:4000/play/a02w
+#EXTINF:-1,Pasiones HD
+http://170.83.242.9:4000/play/a10i
+#EXTINF:-1 tvg-id="Playboy HD",Playboy HD
+http://170.83.242.9:4000/play/a0zs
+#EXTINF:-1 tvg-id="RCN Novelas",RCN Novelas
+http://170.83.242.9:4000/play/a016
+#EXTINF:-1 tvg-id="STAR CHANNEL",STAR CHANNEL
+http://170.83.242.9:4000/play/a037
+#EXTINF:-1,STAR CHANNEL HD
+http://170.83.242.9:4000/play/a10a
+#EXTINF:-1 tvg-id="Sextreme",Sextreme
+http://170.83.242.9:4000/play/a0zd
+#EXTINF:-1 tvg-id="Sony",Sony
+http://170.83.242.9:4000/play/a003
+#EXTINF:-1 tvg-id="Space",Space
+http://170.83.242.9:4000/play/a005
+#EXTINF:-1 tvg-id="TBS",TBS
+http://170.83.242.9:4000/play/a01a
+#EXTINF:-1 tvg-id="TCM",TCM
+http://170.83.242.9:4000/play/a038
+#EXTINF:-1 tvg-id="TLC",TLC
+http://170.83.242.9:4000/play/a010
+#EXTINF:-1 tvg-id="TNT",TNT
+http://170.83.242.9:4000/play/a03b
+#EXTINF:-1,TNT HD
+http://170.83.242.9:4000/play/a10k
+#EXTINF:-1 tvg-id="TNT Novelas",TNT Novelas
+http://170.83.242.9:4000/play/a0yl
+#EXTINF:-1,TNT Series HD
+http://170.83.242.9:4000/play/a10f
+#EXTINF:-1,TRUTV HD
+http://170.83.242.9:4000/play/a11x
+#EXTINF:-1 tvg-id="TVE",TVE
+http://170.83.242.9:4000/play/a0oy
+#EXTINF:-1 tvg-id="Telefe",Telefe
+http://170.83.242.9:4000/play/a00b
+#EXTINF:-1 tvg-id="Telemundo",Telemundo
+http://170.83.242.9:4000/play/a015
+#EXTINF:-1 tvg-id="Telenovelas",Telenovelas
+http://170.83.242.9:4000/play/a0z9
+#EXTINF:-1 tvg-id="TyC",TyC
+http://170.83.242.9:4000/play/a00w
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://170.83.242.9:4000/play/a10b
+#EXTINF:-1 tvg-id="Universal",Universal
+http://170.83.242.9:4000/play/a031
+#EXTINF:-1 tvg-id="Universal Cinema SD",Universal Cinema SD
+http://170.83.242.9:4000/play/a0kp
+#EXTINF:-1 tvg-id="Universal Comedy SD",Universal Comedy SD
+http://170.83.242.9:4000/play/a0kq
+#EXTINF:-1 tvg-id="Universal Premiere SD",Universal Premiere SD
+http://170.83.242.9:4000/play/a0ko
+#EXTINF:-1,Venus
+http://170.83.242.9:4000/play/a11g
+#EXTINF:-1 tvg-id="Warner",Warner
+http://170.83.242.9:4000/play/a00q
 
 
 ---------------------------------------------------
