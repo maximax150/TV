@@ -1624,6 +1624,12 @@ https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/MQ6lJpS.png" group-title="Brazil", TVE 
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Brazil", TVCOM Maiceio
+https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Brazil", Record TV
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-rqwv7VWv5MY/X0EdvriEGRI/AAAAAAAA42Q/dICId1HhEWs0HceSVwcd7e210pkv3SpjACK8BGAsYHg/s0/2020-08-22.png" group-title="Brazil", Canal 29 
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 
