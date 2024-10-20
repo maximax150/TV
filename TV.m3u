@@ -1,22 +1,22 @@
 #EXTM3U list-name="Canales M3U" list-image="https://icon-library.com/images/dish-tv-icon/dish-tv-icon-8.jpg"
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rRxgBtI.png" ggroup-title="Entretenimiento", Azteca Uno -1h
+https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/las-estrellas-m.png" group-title="Entretenimiento", Las Estrellas 
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/1200px-Multimedios_Canal_Seis_Logo.svg.png" group-title="Entretenimiento", Multimedios CDMX
-https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
-
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64e35aff6b1fdb0008ea8441/colorLogoPNG.png" group-title="Entretenimiento", Imagen TV+
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rRxgBtI.png" ggroup-title="Entretenimiento", Azteca Uno -1h
-https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="Entretenimiento", Azteca Internacional
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8
 
 #EXTINF:-1 tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2022/07/Clic450x300.png" group-title="Entretenimiento", Azteca Clic
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/1200px-Multimedios_Canal_Seis_Logo.svg.png" group-title="Entretenimiento", Multimedios CDMX
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Estrella_TV_-_2020_logo.png" group-title="Entretenimiento", Estrella TV
 https://estrellatv-oando.amagi.tv/playlistR720P.m3u8
@@ -2005,7 +2005,7 @@ https://opa.usastreams.com:3066/live/canalopalive.m3u8
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/live2/alba-cr-repretel-c6_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Teletica.png" group-title="Costa Rica", Teletica 
-https://acceso.radiosportstv.online:3203/stream/play.m3u8
+http://190.7.192.163:8014/play/s17
 
 #EXTINF:-1,Teletica Radio
 http://190.7.192.163:8014/play/s18
