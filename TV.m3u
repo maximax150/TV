@@ -2228,14 +2228,20 @@ https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Canal-21.png" group-title="America Central", Canal 21 SV
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MNw5cJH.jpg" group-title="America Central", Awapa Sports
-https://mgv-awapa.akamaized.net/hls/live/2104282/MGV_CHANNEL15/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iSpZ2Ng.png" group-title="America Central", TN8 Nicaragua
+https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ztp781b.png" group-title="America Central", Canal 10 Nicaragua (Geo NIC)
 https://alba-ni-c10-c10.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nb81xeU.png" group-title="America Central", WTV Nicaragua
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JqaW7Ei.png" group-title="America Central", Megabox Nicaragua
+https://hdbox.chunklistv.com/live?stream=megabox
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FNk6rdz.png" group-title="America Central", TV One Nicaragua
+https://hdbox.chunklistv.com/live?stream=tvone
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QQBd052.png" group-title="America Central", Nex tv Panama
 https://vcp4.myplaytv.com:1936/nextv/nextv/playlist.m3u8
@@ -2270,6 +2276,9 @@ https://alba-ec-rts-rts.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvc.com.ec/wp-content/themes/albavision-theme/parts-web/9212d2e4/logo.png" group-title="Ecuador", TVC (Geo EC)
 https://alba-ec-tvc-tvc.stream.mediatiquestream.com/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="Ecuador", Ecuavisa
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa/.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.hechosecuador.com/rw_common/images/logo2021.png" group-title="Ecuador", Hechos Ecuador
 https://stmv.streamingvip.click/hechosecuador/hechosecuador/playlist.m3u8
 
@@ -2291,8 +2300,23 @@ https://cloudvideo.servers10.com:8081/8074/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1nHxdkR.png" group-title="Ecuador", Infinita TV
 https://s2.tvdatta.com:3753/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Ecuador", FM Mundo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1nNnYQO.png" group-title="Ecuador", FM Mundo
 https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gUqKymM.png" group-title="Ecuador", America Estereo
+https://video.makrodigital.com/americaestereoquito/americaestereoquito/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4r2Ycju.png" group-title="Ecuador", Nuka TV
+https://cloudvideo.servers10.com:8081/8118/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IHKBGmu.png" group-title="Ecuador", Multicanal Catamayo
+https://multicanal.streamseguro.com/hls/streaming.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yID5T2S.jpg" group-title="Ecuador", Metropoli Medios TV
+https://eu1.servers10.com:8081/8214/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QJW6khK.jpg" group-title="Ecuador", TV Color 
+https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
 
 
 ---------------------------------------------------
