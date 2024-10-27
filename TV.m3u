@@ -54,6 +54,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
 #EXTINF:-1 tvg-logo="https://www.hola.tv/wp-content/uploads/2020/09/logoholatv.jpg" group-title="Entretenimiento", Hola Play
 https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://fotos.perfil.com/2024/03/01/trim/1280/720/caras-tv-1763217.jpg" group-title="Entretenimiento", Caras TV
+https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://content.jwplatform.com/images/jNgWEGCO.png" group-title="Entretenimiento", Wapa PR
 https://live.field59.com/wapa/wapa1/.m3u8
 
@@ -395,6 +398,9 @@ https://tv.streaming-chile.com:19360/8140/8140.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.canalcinemaplus.net/wp-content/uploads/2013/07/logo.png" group-title="Cine y Series", *Cinema+ (Geo Colombia VPN)
 https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cinema.png", AZ CINEMA FAST
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/76964e60-8756-4551-8748-dbd7852bd0bd/Grjngo-Westernfilme_logo_light_-_Toni_Newesil__1_.png" group-title="Cine y Series", GRJNGO
 https://amogonetworx-grjngo-2-eu.plex.wurl.tv/2000.m3u8
@@ -1194,14 +1200,17 @@ https://mvtvstream.com:444/live/667ec6d70825c/index.m3u8
 #EXTINF:-1 tvg-logo="https://static1.s123-cdn-static-a.com/uploads/2287839/2000_62422e9799a05.png" group-title="Mexico", Nueve TV
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-10-Cancun-en-vivo-Online.png" group-title="Mexico", Canal 10 Cancun 
+https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_Actual_Canal_Once.png" group-title="Mexico", Canal Once 
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_Actual_Canal_Once.png" group-title="Mexico", Canal Once.3
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-10-Cancun-en-vivo-Online.png" group-title="Mexico", Canal 10 Cancun 
-https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.canalcatorce.tv/descargas/logo_descargas.jpg" group-title="Mexico", Canal 14 MX
+https://s5.mexside.net:1936/canal14/canal14/.m3u8
 
 #EXTINF:-1 tvg-logo="https://15tv.com.mx/wp-content/uploads/2019/08/logo-hd.png" group-title="Mexico", 15TV
 https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
@@ -2042,9 +2051,6 @@ http://163.178.170.127:1935/quinceucr/_definst_/quinceucr.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/LoFbtkWuFbMsclHeX666IxsYhqlyECJpQ1PnG3Aq.png" group-title="Costa Rica", GAM TV
 https://v2.azulstream.com:8081/gamtv/gamtv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/a4ed367c69c23110d458a332af95be0be64566f288ccb5f261689344e6ba5e0d.png" group-title="Costa Rica", Coto Brus TV
-https://cloudvideo.servers10.com:8081/8030/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/obTnd32.png" group-title="Costa Rica", Sarapiqui TV
 http://tiquiciatv.com:1935/stv/envivo/playlist.m3u8
