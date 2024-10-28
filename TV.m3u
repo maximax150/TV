@@ -1751,7 +1751,10 @@ https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 https://unlimited1-us.dps.live/ucvtveventos/ucvtveventos.smil/ucvtveventos/livestream1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VrqjFUf.png" group-title="Chile", STGO.TV 
-https://stv4.janus.cl/playlist/stream.m3u8?
+https://stv4.janus.cl/playlist/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5vFMTxt/Logo-tvu.png" group-title="Chile", TVU Concepcion
+https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GaJzjt5.png" group-title="Chile", Enfoque digital
 https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8
@@ -1794,6 +1797,15 @@ https://v4.tustreaming.cl/graciatv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Avx4Ecf.png" group-title="Chile", Atacama Noticias
 https://v2.tustreaming.cl/atacamanoticias/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZJNSpfZ.png" group-title="Chile", UTV
+https://v2.tustreaming.cl/utv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BdZGS66.png" group-title="Chile", UATV
+https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HxUZseV.png" group-title="Chile", U Los Lagos TV
+http://tv.ulagos.cl/web/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwS082hL/atacama-tv.png" group-title="Chile", Atacama TV
 https://v2.tustreaming.cl/atacamatv/index.m3u8
