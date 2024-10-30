@@ -1651,8 +1651,8 @@ http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Brazil", TVCOM Maiceio
 https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Brazil", Record TV
-https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7igGMwH.png" group-title="Brazil", Canal 25 Jundai
+https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-rqwv7VWv5MY/X0EdvriEGRI/AAAAAAAA42Q/dICId1HhEWs0HceSVwcd7e210pkv3SpjACK8BGAsYHg/s0/2020-08-22.png" group-title="Brazil", Canal 29 
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
@@ -1689,6 +1689,27 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S0ISpmU.png" group-title="Brazil", CWB TV
 https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ifGQGJx.png" group-title="Brazil", Bem TV
+http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/co7TCWC.png" group-title="Brazil", Canal 38 Brazil
+https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OOB7nrS.png" group-title="Brazil", Canal Educação
+https://canaleducacao-stream.ebc.com.br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SnaIMgj.png" group-title="Brazil", Chroma TV 
+https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GrjGwKM.png" group-title="Brazil", COM Brasil
+https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Brazil", Kuriakos Cine
+https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Brazil", Kuriakos Kids
+https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Md3xibE.png" group-title="Brazil", Demais TV
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
