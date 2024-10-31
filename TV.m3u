@@ -1438,6 +1438,9 @@ http://arcast.net:1935/mp/mp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://atvargentina.com/wp-content/uploads/2021/07/atvargentina-x1.png" group-title="Argentina", ATV Argentina
 https://stream.arcast.com.ar/atbargentina/atbargentina/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.unifetv.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Funife-gray.d4fe5735.png" group-title="Argentina", UNIFE
+https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5X8gdCv.png" group-title="Argentina", TeleJunin
 https://videostream.shockmedia.com.ar:19360/telejunin/telejunin.m3u8
 
