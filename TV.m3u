@@ -936,25 +936,80 @@ Internacional
 
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/4ESi2La.png" group-title="Internacional", NHK World Premium
-http://112.72.4.108/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+https://cdn.nhkworld.jp/www11/nhkworld-tv/pre/hlscomp.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png", NHK World Español
 https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kNrzk3X.png", Antenna 2 Italy
+https://58f12ffd2447a.streamlock.net/Antenna2/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y1Yq3iV.png", Aurora Arte Italy
+https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SRFzjja.png", CafeTV 24 Italy
+https://srvx1.selftv.video/cafe/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://canale7.tv/assets/front/img/fb_logo.jpg", Canale 7 Italy
+http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ccdwsWj.png", Company TV Italy
+https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/39cSNHs.png", Donna TV Italy
+https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Yzc47k9.png", Gold TV Italy
+https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ja6c2YZ.png", Kiss Kiss TV Italy
+https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lalgu75.png", La 7 Italy
+https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4Bx2321.png", PrimAntenna TV Italy
+https://5f22d76e220e1.streamlock.net/primantenna14/primantenna14/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JgnjgvF.png", A12 TV France
+https://video1.getstreamhosting.com:1936/8420/8420/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YQjm4U5.png", Bip TV France
+https://biptv.tv/live/biptvstream_orig/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h7t0l6q.png", BFM Marselle France
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_MARSEILLEPROV/index.m3u8?end=END&start=LIVE
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WJuJkag.png", BFM Paris France
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_PARIS/index.m3u8?end=END&start=LIVE
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FQ0FpXV.png", BFM Tech & Co France
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?end=END&start=LIVE
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YJCcczD.png", BFM TV France
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/40mdgqQ.png", C8 France
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/c8.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/atlgnum.png", Cannes Lerins TV France
+https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w4kAX1V.png", C Star France
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cstar.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ab6p2SW.png", DBM TV France
 https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aDdwjjc.png", BS Fuji Japan
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D8lhZCI.png", BS Nippon Japan
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h20eGKq.png", BS TBS Japan
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yJfA6ak.png", TV Tokio Japan
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5LNZeVq.png", GNT TV Japan
 https://cgntvliveweb-944.acs.wecandeo.com/ms/2850/944/index.m3u8
