@@ -941,15 +941,71 @@ https://cdn.nhkworld.jp/www11/nhkworld-tv/pre/hlscomp.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png", NHK World Español
 https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="",
-#EXTINF:-1 tvg-logo="",
-#EXTINF:-1 tvg-logo="",
-#EXTINF:-1 tvg-logo="",
-#EXTINF:-1 tvg-logo="",
-#EXTINF:-1 tvg-logo="",
-#EXTINF:-1 tvg-logo="",
-#EXTINF:-1 tvg-logo="",
-#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hvGJ2oa.png", Anixe + Germany
+https://ma.anixa.tv/clips/stream/anixesd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hvGJ2oa.png", Anixe HD Germany
+https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DLVjeno.png", Aristo TV Germany
+https://ma.anixa.tv/clips/stream/aristo/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/27AKMUL.png", Augsburg TV Germany
+https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png", Baden TV Germany
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RLwmrk3.png", Bibel TV Germany
+https://bibint01.iptv-playoutcenter.de/bibint01/bibint01.stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Das_Erste_HD_Corner-Logo_2015.png/512px-Das_Erste_HD_Corner-Logo_2015.png", DAS Erste Germany
+https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qu7t15Y.png", Deluxe Dance Germany
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EjZa6eK.png", Deluxe Flashback Germany
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HimuPPb.png", Deluxe Music Germany
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GadfTwF.png", Dokusat Germany
+https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Yo1GMku.png", EMS TV Germany
+https://h058.video-stream-hosting.de/ev1tv-live/_definst_/mp4:stream1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3pGGLLD.png", Franken Fernsehen Germany
+https://frankentv.iptv-playoutcenter.de/frankentv/frankentv.stream_1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vZdNp5S.png", Kika TV Germany
+https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HuGaMJj.png", L TV Germany
+https://live2.telvi.de/hls/l-tv_s1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IFGXK6u.png", MDF.1 Germany
+http://58bd5b7a98e04.streamlock.net/medienasa-live/mdf1_high/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lt7xNWW.png", Munchen TV Germany
+https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zA22TQH.png", MyTV Plus Germany
+https://mytvplus.iptv-playoutcenter.de/mytvplus/mytvplus.stream_1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/512px-Logo_NDR_Fernsehen_2017.svg.png", NDR Fernsehen International
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RbqDMYx.png", WDR 1 Live Germany
+https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/92XNBmr.png", SFR Germany
+https://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zZOk3nh.png", ProSieben Germany
+http://85.187.13.40:18000/ProSieben
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kNrzk3X.png", Antenna 2 Italy
 https://58f12ffd2447a.streamlock.net/Antenna2/livestream/playlist.m3u8
