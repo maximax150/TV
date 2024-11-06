@@ -3217,10 +3217,7 @@ United Kingdom
 
 
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6490267016014400085c4ab5/colorLogoPNG.png" group-title="United Kingdom", TMNT: The 90's Movies
-https://stitcher.pluto.tv/stitch/hls/channel/6490267016014400085c4ab5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=626b2305-62bc-11ef-a3c9-3a1e0aa74d84
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/654a464a53fc9700083acdd4/colorLogoPNG.png", Beverly Hills 90210
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/654a464a53fc9700083acdd4/colorLogoPNG.png" group-title="United Kingdom", Beverly Hills 90210
 https://stitcher.pluto.tv/stitch/hls/channel/654a464a53fc9700083acdd4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=626b2305-62bc-11ef-a3c9-3a1e0aa74d84
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66275eed5e23700008f8c8f9/colorLogoPNG.png", Melrose Place
