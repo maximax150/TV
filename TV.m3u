@@ -2160,7 +2160,7 @@ https://cloudvideo.servers10.com:8081/8120/index.m3u8
 https://alba-cr-repretel-c4.stream.mediatiquestream.com/live2/alba-cr-repretel-c4_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://genteopa.com/wp-content/uploads/2024/03/cropped-logo-opa-1.png" group-title="Costa Rica", OPA
-https://opa.usastreams.com:3066/live/canalopalive.m3u8
+https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/q1MWbK2.png" group-title="Costa Rica", Repretel 6 
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/live2/alba-cr-repretel-c6_720p/chunks.m3u8
@@ -2182,6 +2182,9 @@ https://acceso.radiosportstv.online:3384/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GHNqvRu.png" group-title="Costa Rica", Repretel 11 
 https://alba-cr-repretel-c11.stream.mediatiquestream.com/live2/alba-cr-repretel-c11_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.extratvcr.com/wp-content/uploads/2024/10/logo-Extra-tv-blanco-1-e1728675680531-150x32.png" group-title="Costa Rica", Extra TV
+https://d2axu5ozwr5gk0.cloudfront.net/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/HowlI4G5AwJYrUNtf1g6TwAxGAmLonFpxb8i3UiS.jpg" group-title="Costa Rica", Sinart Canal 13
 https://ssh101.bozztv.com/ssh101/sinart13/chunks.m3u8
@@ -2238,7 +2241,7 @@ https://lstv.duckdns.org:449/hls/lstv.m3u8
 https://ssh101-fl.bozztv.com/ssh101/retrotvcr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OpHYYZA.png" group-title="Costa Rica", TvSur Perez Zeledon
-https://5bf8041cb3fed.streamlock.net:443/TVSURCANAL14/TVSURCANAL14/playlist.m3u8
+https://k20.usastreams.com:8081/tvsur/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://trivisioncr.com/wp-content/uploads/2024/03/LOGOWEB400x100.png" group-title="Costa Rica", Trivision
 https://liveingesta118.cdnmedia.tv/trivision36live/smil:dvrlive.smil/playlist.m3u8?DVR
@@ -2259,7 +2262,6 @@ https://cloudvideo.servers10.com:8081/8230/index.m3u8
 https://k20.usastreams.com:8081/tvsur/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F2rdjwJ.png" group-title="Costa Rica", RetroTV Palmares CR
-https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XvktUBB.jpg" group-title="Costa Rica", Zurqui TV
 https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
