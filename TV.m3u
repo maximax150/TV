@@ -3733,9 +3733,7 @@ Cable
 #EXTINF:-1 group-title="Latinos 1",
 #EXTINF:-1,13 C
 http://45.181.123.233:8000/play/a0m1
-#EXTINF:-1,24 HORAS
-http://45.181.123.233:8000/play/a0qs
-#EXTINF:-1,24hras
+#EXTINF:-1,24 horas Chile
 http://45.181.123.233:8000/play/a17c
 #EXTINF:-1,AMC HD
 http://45.181.123.233:8000/play/a13z
@@ -3763,8 +3761,6 @@ http://45.181.123.233:8000/play/a15o
 http://45.181.123.233:8000/play/a0qe
 #EXTINF:-1,Canal 13 HD
 http://45.181.123.233:8000/play/a0lh
-#EXTINF:-1,Canal 24 Horas HD
-http://45.181.123.233:8000/play/a0xk
 #EXTINF:-1,Caracol HD
 http://45.181.123.233:8000/play/a0lk
 #EXTINF:-1,Cartoon Network HD
@@ -3775,8 +3771,6 @@ http://45.181.123.233:8000/play/a0n4
 http://45.181.123.233:8000/play/a15j
 #EXTINF:-1,Cinecanal HD
 http://45.181.123.233:8000/play/a0iv
-#EXTINF:-1,Cinecanalhd
-http://45.181.123.233:8000/play/a184
 #EXTINF:-1,Cinemax
 http://45.181.123.233:8000/play/a185
 #EXTINF:-1,Cinemax HD
@@ -3785,7 +3779,7 @@ http://45.181.123.233:8000/play/a0kw
 http://45.181.123.233:8000/play/a0ut
 #EXTINF:-1,Comedy Central HD
 http://45.181.123.233:8000/play/a17k
-#EXTINF:-1,De PelŦcula
+#EXTINF:-1,De Pelicula
 http://45.181.123.233:8000/play/a0xw
 #EXTINF:-1,Discovery Channel
 http://45.181.123.233:8000/play/a166
@@ -4455,160 +4449,6 @@ http://190.61.106.107:8000/play/a033/index.m3u8
 http://190.61.106.107:8000/play/a002/index.m3u8
 
 
-
-#EXTINF:-1 group-title="Latinos 4",
-#EXTINF:-1 tvg-id="ParaguayTV",Paraguay TV
-http://170.83.242.9:4000/play/a01o
-#EXTINF:-1 tvg-id="Telefuturo",Telefuturo
-http://170.83.242.9:4000/play/a03e
-#EXTINF:-1 tvg-id="Unicanal",Unicanal
-http://170.83.242.9:4000/play/a0v5
-#EXTINF:-1 tvg-id="TV CAMARA",TV CAMARA
-http://170.83.242.9:4000/play/a00m
-#EXTINF:-1 tvg-id="SNT",SNT
-http://170.83.242.9:4000/play/a03d
-#EXTINF:-1 tvg-id="Trece PY",Trece PY
-http://170.83.242.9:4000/play/a01j
-#EXTINF:-1,13 C
-http://170.83.242.9:4000/play/a10z
-#EXTINF:-1 tvg-id="AE Mundo",AE Mundo
-http://170.83.242.9:4000/play/a00y
-#EXTINF:-1,AXN
-http://170.83.242.9:4000/play/a12p
-#EXTINF:-1 tvg-id="America TV PY",America TV PY
-http://170.83.242.9:4000/play/a01l
-#EXTINF:-1 tvg-id="Animal Planet",Animal Planet
-http://170.83.242.9:4000/play/a00p
-#EXTINF:-1 tvg-id="BabyFirst",BabyFirst
-http://170.83.242.9:4000/play/a0mg
-#EXTINF:-1,CHV HD
-http://170.83.242.9:4000/play/a11k
-#EXTINF:-1 tvg-id="CNN Chile",CNN Chile
-http://170.83.242.9:4000/play/a036
-#EXTINF:-1 tvg-id="Canal Estrellas",Canal Estrellas
-http://170.83.242.9:4000/play/a012
-#EXTINF:-1 tvg-id="Cartoon Network",Cartoon Network
-http://170.83.242.9:4000/play/a03a
-#EXTINF:-1 tvg-id="Cinecanal",Cinecanal
-http://170.83.242.9:4000/play/a030
-#EXTINF:-1,Cinemax HD
-http://170.83.242.9:4000/play/a10o
-#EXTINF:-1 tvg-id="Claro Cinema",Claro Cinema
-http://170.83.242.9:4000/play/a00d
-#EXTINF:-1,Comedy Central HD
-http://170.83.242.9:4000/play/a10p
-#EXTINF:-1 tvg-id="Discovery Channel",Discovery Channel
-http://170.83.242.9:4000/play/a00o
-#EXTINF:-1 tvg-id="Discovery H&H HD",Discovery H&H HD
-http://170.83.242.9:4000/play/a0zl
-#EXTINF:-1 tvg-id="Discovery ID",Discovery ID
-http://170.83.242.9:4000/play/a017
-#EXTINF:-1 tvg-id="Discovery Kids HD",Discovery Kids HD
-http://170.83.242.9:4000/play/a0zk
-#EXTINF:-1,Discovery Theater HD
-http://170.83.242.9:4000/play/a109
-#EXTINF:-1 tvg-id="Discovery Turbo",Discovery Turbo
-http://170.83.242.9:4000/play/a00f
-#EXTINF:-1 tvg-id="Disney Channel",Disney Channel
-http://170.83.242.9:4000/play/a00n
-#EXTINF:-1 tvg-id="Disney Jr",Disney Jr
-http://170.83.242.9:4000/play/a02s
-#EXTINF:-1 tvg-id="E Entertainment",E Entertainment
-http://170.83.242.9:4000/play/a00r
-#EXTINF:-1 tvg-id="ESPN HD",ESPN HD
-http://170.83.242.9:4000/play/a0zv
-#EXTINF:-1,ESPN 2 HD
-http://170.83.242.9:4000/play/a10n
-#EXTINF:-1 tvg-id="ESPN 2 Latin",ESPN 2 Latin
-http://170.83.242.9:4000/play/a00t
-#EXTINF:-1,ESPN 3 HD
-http://170.83.242.9:4000/play/a10l
-#EXTINF:-1 tvg-id="ESPN 4 HD",ESPN 5 HD
-http://170.83.242.9:4000/play/a0zp
-#EXTINF:-1,ESPN 6 HD
-http://170.83.242.9:4000/play/a12l
-#EXTINF:-1,ESPN 7 HD
-http://170.83.242.9:4000/play/a12m
-#EXTINF:-1 tvg-id="ESPN4",ESPN4
-http://170.83.242.9:4000/play/a01h
-#EXTINF:-1,EWTN
-http://170.83.242.9:4000/play/a117
-#EXTINF:-1 tvg-id="Enlace",Enlace
-http://170.83.242.9:4000/play/a03f
-#EXTINF:-1,FX HD
-http://170.83.242.9:4000/play/a10g
-#EXTINF:-1 tvg-id="GOL TV",GOL TV
-http://170.83.242.9:4000/play/a00v
-#EXTINF:-1 tvg-id="HBO",HBO
-http://170.83.242.9:4000/play/a001
-#EXTINF:-1 tvg-id="HBO 2",HBO 2
-http://170.83.242.9:4000/play/a02o
-#EXTINF:-1 tvg-id="HBO Family",HBO Family
-http://170.83.242.9:4000/play/a02r
-#EXTINF:-1 tvg-id="HBO Plus",HBO Plus
-http://170.83.242.9:4000/play/a02p
-#EXTINF:-1 tvg-id="HBO XTREME SD",HBO XTREME SD
-http://170.83.242.9:4000/play/a02q
-#EXTINF:-1,HOLA TV HD
-http://170.83.242.9:4000/play/a11n
-#EXTINF:-1 tvg-id="History Channel",History Channel
-http://170.83.242.9:4000/play/a02z
-#EXTINF:-1,ID HD
-http://170.83.242.9:4000/play/a10q
-#EXTINF:-1 tvg-id="La Tele",La Tele
-http://170.83.242.9:4000/play/a00j
-#EXTINF:-1 tvg-id="MTV",MTV
-http://170.83.242.9:4000/play/a033
-#EXTINF:-1 tvg-id="Nat Geo",Nat Geo
-http://170.83.242.9:4000/play/a02y
-#EXTINF:-1 tvg-id="Nick Jr",Nick Jr
-http://170.83.242.9:4000/play/a00e
-#EXTINF:-1 tvg-id="Nickelodeon",Nickelodeon
-http://170.83.242.9:4000/play/a02w
-#EXTINF:-1,Pasiones HD
-http://170.83.242.9:4000/play/a10i
-#EXTINF:-1 tvg-id="RCN Novelas",RCN Novelas
-http://170.83.242.9:4000/play/a016
-#EXTINF:-1,STAR CHANNEL HD
-http://170.83.242.9:4000/play/a10a
-#EXTINF:-1 tvg-id="Sony",Sony
-http://170.83.242.9:4000/play/a003
-#EXTINF:-1 tvg-id="Space",Space
-http://170.83.242.9:4000/play/a005
-#EXTINF:-1 tvg-id="TBS",TNT Novelas
-http://170.83.242.9:4000/play/a01a
-#EXTINF:-1 tvg-id="TCM",TCM
-http://170.83.242.9:4000/play/a038
-#EXTINF:-1 tvg-id="TLC",TLC
-http://170.83.242.9:4000/play/a010
-#EXTINF:-1,TNT HD
-http://170.83.242.9:4000/play/a10k
-#EXTINF:-1,TNT Series HD
-http://170.83.242.9:4000/play/a10f
-#EXTINF:-1,Adult Swim HD
-http://170.83.242.9:4000/play/a11x
-#EXTINF:-1 tvg-id="TVE",TVE
-http://170.83.242.9:4000/play/a0oy
-#EXTINF:-1 tvg-id="Telefe",Telefe
-http://170.83.242.9:4000/play/a00b
-#EXTINF:-1 tvg-id="Telemundo",Telemundo
-http://170.83.242.9:4000/play/a015
-#EXTINF:-1 tvg-id="Telenovelas",Telenovelas
-http://170.83.242.9:4000/play/a0z9
-#EXTINF:-1 tvg-id="TyC",TyC
-http://170.83.242.9:4000/play/a00w
-#EXTINF:-1,UNIVERSAL CHANNEL HD
-http://170.83.242.9:4000/play/a10b
-#EXTINF:-1 tvg-id="Universal Cinema SD",Universal Cinema SD
-http://170.83.242.9:4000/play/a0kp
-#EXTINF:-1 tvg-id="Universal Comedy SD",Universal Comedy SD
-http://170.83.242.9:4000/play/a0kq
-#EXTINF:-1 tvg-id="Universal Premiere SD",Universal Premiere SD
-http://170.83.242.9:4000/play/a0ko
-#EXTINF:-1 tvg-id="Warner",Warner
-http://170.83.242.9:4000/play/a00q
-
-
 ---------------------------------------------------
 XXX
 ---------------------------------------------------
@@ -4630,8 +4470,6 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3
 #EXTINF:-1,Playboy HD
 http://45.181.123.233:8000/play/a18c
 #EXTINF:-1,Sextreme
-http://45.181.123.233:8000/play/a18f
+http://45.181.123.233:8000/play/a18v
 #EXTINF:-1,Venus
-http://45.181.123.233:8000/play/a18e
-#EXTINF:-1,Penthouse 
-http://45.166.92.22:58001/play/a04c/index.m3u8
+http://45.181.123.233:8000/play/a18u
