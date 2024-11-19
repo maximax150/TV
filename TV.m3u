@@ -1497,9 +1497,6 @@ https://vivo.solumedia.com:19360/vivetv/vivetv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="Argentina", 5TV 
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/1200px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png" group-title="Argentina", TVP Canal 7
-https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/C7neuquenlogo2023.png" group-title="Argentina", Canal 7 Neuquen
 https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 
@@ -2257,9 +2254,6 @@ https://fl1002.bozztv.com/ssh101/megatvcr2024/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/hOql4FVmYfu7xsKVoD41sltdVoryVs5cVGI9JxtB.jpg" group-title="Costa Rica", Turrialba Digital TV CR
 https://cloudvideo.servers10.com:8081/8230/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/S0utvG5YQJSEUE2HlmVONkyxDroLiotox9kiPKIV.jpg" group-title="Costa Rica", Telesur CR
-https://k20.usastreams.com:8081/tvsur/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F2rdjwJ.png" group-title="Costa Rica", RetroTV Palmares CR
 
