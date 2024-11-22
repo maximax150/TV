@@ -2195,6 +2195,12 @@ http://163.178.170.127:1935/quinceucr/_definst_/quinceucr.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/LoFbtkWuFbMsclHeX666IxsYhqlyECJpQ1PnG3Aq.png" group-title="Costa Rica", GAM TV
 https://v2.azulstream.com:8081/gamtv/gamtv/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cIvfnsa.jpg" group-title="Costa Rica", Telered
+https://glb.bozztv.com/glb/ssh101/teleredmastv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bUNLWDP.png" group-title="Costa Rica", Telesistema
+https://fl1002.bozztv.com/ssh101/telesistemacrtv/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/obTnd32.png" group-title="Costa Rica", Sarapiqui TV
 http://tiquiciatv.com:1935/stv/envivo/playlist.m3u8
 
