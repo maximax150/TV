@@ -1,6 +1,6 @@
 #EXTM3U list-name="Canales M3U" list-image="https://icon-library.com/images/dish-tv-icon/dish-tv-icon-8.jpg"
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rRxgBtI.png" ggroup-title="Entretenimiento", Azteca Uno -1h
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="Entretenimiento", Azteca Uno -1h
 https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/las-estrellas-m.png" group-title="Entretenimiento", Las Estrellas 
@@ -66,8 +66,8 @@ https://2-fss-2.streamhoster.com/pl_138/amlst:201284-1347630/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KWAuNXn.png" group-title="Entretenimiento", Charrua TV
 https://stmv.video.gmpro.top/tvcharrua/tvcharrua/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/9cfe65ea-0cf3-4d32-8165-a76e076878bd/FreeTVFamilia_Circle_1500x1000_-_Ralph_Campillo.png" group-title="Entretenimiento", FreeTV Familia
-https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
+#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_familia_1080x1080_02092024.jpg" group-title="Entretenimiento", FreeTV Familia
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-ono/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static-prod.adweek.com/wp-content/uploads/2022/05/Tastemade-2022.jpg" group-title="Entretenimiento", Tastemade
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadees16international24i-ono/playlist.m3u8
@@ -391,6 +391,24 @@ https://tv.streaming-chile.com:19360/8142/8142.m3u8
 #EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/terrortv.png" group-title="Cine y Series", Terror TV
 https://tv.streaming-chile.com:19360/8140/8140.m3u8
 
+#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_accion_1080x1080_02092024.jpg" group-title="Cine y Series", Free TV Accion
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_drama_1080x1080_02092024_0.jpg" group-title="Cine y Series", Free TV Drama
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_estelar_1080x1080_02092024.jpg" group-title="Cine y Series", Free TV Estelar
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_live_1080x1080_02092024.jpg" group-title="Cine y Series", Free TV Live
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_terror_1080x1080_02092024.jpg" group-title="Cine y Series", Free TV Terror
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_sureno_1080x1080_02092024.jpg" group-title="Cine y Series", Free TV Sureño
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-ono/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.canalcinemaplus.net/wp-content/uploads/2013/07/logo.png" group-title="Cine y Series", *Cinema+ (Geo Colombia VPN)
 https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/index.m3u8
 
@@ -615,6 +633,12 @@ https://acceso.radiosportstv.online:3102/live/telemascrlive.m3u8
 
 #EXTINF:-1 tvg-logo="", La Potente TV
 https://radioaserri.com:3645/live/lapotentetvlive.m3u8
+
+#EXTINF:-1 tvg-logo="", Free TV Banda
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmcfreetv-ono/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", Free TV Hits
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-ono/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/fbefcbca47462eb80eedbeaf95126474.png", VM Latino CR
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
