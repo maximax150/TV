@@ -1569,8 +1569,8 @@ https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5X8gdCv.png" group-title="Argentina", TeleJunin
 https://videostream.shockmedia.com.ar:19360/telejunin/telejunin.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Aire_de_Santa_Fe_16249327825119739.jpg/600px-Aire_de_Santa_Fe_16249327825119739.jpg" group-title="Argentina", Aire Digital
-https://sc1.stweb.tv/airedigital/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V2ldYVd.jpg" group-title="Argentina", ECO TV
+https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/descarga_7.png" group-title="Argentina", Uniteve
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
@@ -1587,14 +1587,14 @@ https://stream.arcast.live/quatro/quatro/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://alternatv.ar/alternatv.png" group-title="Argentina", Alterna TV
 https://alternatv.ar/stream/hls/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Uqf93Mu.png" group-title="Argentina", Nortevision
-https://vivo.solumedia.com:19360/nortevision/nortevision.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eIX71c9.png" group-title="Argentina", Neox TV ARG
+https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 
-#EXTINF:-1 tvg-logo="https://d3b5jqy5xuub7g.cloudfront.net/wp-content/uploads/2021/07/Encentro-2021.jpg" group-title="Argentina", Encuentro
-https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wy3Mz9C/MP.png" group-title="Argentina", Malbec Play
+https://streamlov.alsolnet.com/malbecplay/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vFwPhPS.png" group-title="Argentina", TN
-https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4hDCB1M.png" group-title="Argentina", CN 24/7
+https://panel.host-live.com:19360/cn247tv/passthru.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xtu85tb.png" group-title="Argentina", Neo TV 
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
@@ -1605,8 +1605,8 @@ https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="Argentina", Cosmos TV
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.elrural.com/wp-content/themes/el-rural2016/images/canal-rural.png" group-title="Argentina", Canal Rural 
-https://cda2.alsolnet.com/elrural/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg" group-title="Argentina", Canal E
+https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_cba-24n_m.png" group-title="Argentina", Canal U 
 https://stream.arcast.live/canalu/canalu/playlist.m3u8
@@ -1618,7 +1618,7 @@ https://vivo.solumedia.com:19360/playtv/playtv.m3u8
 https://stream1.sersat.com/hls/argentinisima.m3u8
 
 #EXTINF:-1 tvg-logo="https://multivision.tv/wp-content/uploads/2023/06/LOGO-CANAL-9-MULTIVISION-300x99-FEDERAL.png" group-title="Argentina", Multivisión 
-https://panel.dattalive.com/8250/8250/.m3u8
+https://panel.host-live.com/825000/825000/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QIGSf4L.png" group-title="Argentina", Litus TV
 https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8
@@ -2703,6 +2703,9 @@ https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/0eced46643f53066ae90b546061ced0a.png", Autentica TV 
 https://live.obslivestream.com/autenticatvmux/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://canala1.com/wp-content/uploads/2024/07/logo-ba-a-1.png", Antena 1 Peru
+https://play.agenciastreaming.com:8081/antena1/tracks-v1/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oNFOKFI.png", BHTV 
 https://vdo.grupolimalive.com:3762/live/bhtvlive.m3u8
