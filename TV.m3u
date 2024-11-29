@@ -21,9 +21,6 @@ https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Estrella_TV_-_2020_logo.png" group-title="Entretenimiento", Estrella TV
 https://estrellatv-oando.amagi.tv/playlistR720P.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/1.png" group-title="Entretenimiento", RCN Xtra
-https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/sin_titulo_1920_x_1080_px_7.jpg" group-title="Entretenimiento", RCN Mas
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 
@@ -56,9 +53,6 @@ https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://fotos.perfil.com/2024/03/01/trim/1280/720/caras-tv-1763217.jpg" group-title="Entretenimiento", Caras TV
 https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://content.jwplatform.com/images/jNgWEGCO.png" group-title="Entretenimiento", Wapa PR
-https://live.field59.com/wapa/wapa1/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qs4szHD.png" group-title="Entretenimiento", Boricua TV
 https://2-fss-2.streamhoster.com/pl_138/amlst:201284-1347630/playlist.m3u8
@@ -111,9 +105,11 @@ https://linear-73.frequency.stream/mt/brightcove/73/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/5fdbc1d5682ee122a7a5aa20/227e7450-696d-4aa3-aef8-ce0b1aa8d4fc/Revry_RainbowLogo.png" group-title="Entretenimiento", Revry LGTBI TV
 https://linear-5.frequency.stream/mt/brightcove/5/hls/master/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/633-294x165-FFFFFF.jpg" group-title="Entretenimiento", Miami TV Latino
 https://59ec5453559f0.streamlock.net/Latino/smil:VIVALIVE/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3469-960x540-000000.jpg" group-title="Entretenimiento", Miami TV Life
+https://59ec5453559f0.streamlock.net/miamitvlife/smil:WEB/.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/sony_canal_competencias_logo_dark.png" group-title="Entretenimiento", Sony Competencias
 https://spt-competencias-1-us.samsung.wurl.tv/playlist.m3u8
@@ -252,6 +248,9 @@ https://streaming-cl.sh1ny.space/memfs/75b105a4-2fd3-4538-a55c-480f3903a262_outp
 
 #EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/max-anime-3-c.png" group-title="Kids & Geek", Max Anime
 https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/max-anime-3-c.png" group-title="Kids & Geek", Esports Max
+https://vcp13.myplaytv.com/esportsmax/esportsmax/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BKkljlc.png" group-title="Kids & Geek", Meta Versus
 https://vivo.solumedia.com:19360/metaversus/metaversus.m3u8
@@ -733,10 +732,6 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/DeporTV_%282020_Logo_oficial%29.png" group-title="Deportes", DeporTV
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/.m3u8
-
-#EXTINF:-1 tvg-logo="https://content.jwplatform.com/images/jNgWEGCO.png" group-title="Deportes" group-title="Deportes", Wapa Deportes PR
-https://live.field59.com/wapa/wapa2/.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f8BkLql.png" group-title="Deportes" group-title="Deportes", FUTV CR
 https://acceso.radiosportstv.online:3206/stream/play.m3u8
