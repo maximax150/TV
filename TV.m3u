@@ -2193,12 +2193,6 @@ http://190.7.192.163:8014/play/s18
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nefPi2Y.png" group-title="Costa Rica", Canal 8 Multimedios
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 
-#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/1BadtItRgvDTcYKpvCYPkwqPZlbSCfdNc7TOdFuF.jpg" group-title="Costa Rica", Canal 10 CR
-https://acceso.radiosportstv.online:3285/live/canal10costaricalive.m3u8
-
-#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/Z4qkGVCLCDgc5sHhRy8Y9Jmo7WHYYaRCzlvhh5CQ.jpg" group-title="Costa Rica", Canal 10.1 CR
-https://acceso.radiosportstv.online:3384/stream/play.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GHNqvRu.png" group-title="Costa Rica", Repretel 11 
 https://alba-cr-repretel-c11.stream.mediatiquestream.com/live2/alba-cr-repretel-c11_720p/chunks.m3u8
 
@@ -2277,6 +2271,9 @@ https://rtmp.info/tvsantacruz/envivo/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Costa Rica", Turrialba TV
 https://acceso.radiosportstv.online:3151/live/turrialbatvlive.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Costa Rica", Garabito TV
+https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/lJer7QOGqUenodguYDBCl2qb4p4d4SSBghCX20GZ.png" group-title="Costa Rica", Mega TV CR
 https://fl1002.bozztv.com/ssh101/megatvcr2024/tracks-v1a1/mono.m3u8
 
@@ -2347,6 +2344,9 @@ https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4hEYFa9.png" group-title="America Central", Canal 5 Honduras
 https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
 
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/444fe9f91ed0b4703ee2bcbb41316ea66c70987aa59f43d81d8791b383dd04cd.png" group-title="America Central", Canal 6 Honduras
+https://envivo.canal6.com.hn/memfs/17335dd6-da2d-4556-af98-1b069bf4e829_output_0.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/VTV_HN_logo_2019.png/1200px-VTV_HN_logo_2019.png" group-title="America Central", VTV Honduras (Geo HN)
 https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
 
@@ -2390,7 +2390,7 @@ https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92
 https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.canal11.com.sv/logo11.png" group-title="America Central", TUTV Canal 11 SV
-https://streaming.grupocsanetwork.com:19360/canal11/canal11.m3u8
+https://stream.giostreaming.net:19360/canal11/canal11.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Canal_12_El_Salvador_2018.png" group-title="America Central", Canal 12 SV (Geo SV)
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
