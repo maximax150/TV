@@ -2187,7 +2187,7 @@ https://alba-cr-repretel-c6.stream.mediatiquestream.com/live2/alba-cr-repretel-c
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Teletica.png" group-title="Costa Rica", Teletica 
 http://190.7.192.163:8014/play/s17
 
-#EXTINF:-1,Teletica Radio
+#EXTINF:-1 tvg-logo="https://www.teleticaradio.com/img/Logo-Color.png",Teletica Radio
 http://190.7.192.163:8014/play/s18
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nefPi2Y.png" group-title="Costa Rica", Canal 8 Multimedios
@@ -2197,7 +2197,7 @@ https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 https://alba-cr-repretel-c11.stream.mediatiquestream.com/live2/alba-cr-repretel-c11_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.extratvcr.com/wp-content/uploads/2024/10/logo-Extra-tv-blanco-1-e1728675680531-150x32.png" group-title="Costa Rica", Extra TV
-https://d2axu5ozwr5gk0.cloudfront.net/index.m3u8
+https://d2axu5ozwr5gk0.cloudfront.net/live2/gxtra-cr-dxtra-tv_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/HowlI4G5AwJYrUNtf1g6TwAxGAmLonFpxb8i3UiS.jpg" group-title="Costa Rica", Sinart Canal 13
 https://ssh101.bozztv.com/ssh101/sinart13/chunks.m3u8
@@ -3439,7 +3439,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/622f498d119b4c000719c0b7/master.m3u
 #EXTINF:-1 https://images.pluto.tv/channels/5dc2ba1a9c91420009db4858/colorLogoPNG.png", Nosey UK
 https://stitcher.pluto.tv/stitch/hls/channel/5dc2ba1a9c91420009db4858/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=626b2305-62bc-11ef-a3c9-3a1e0aa74d84
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e6f38792075160007d85823/colorLogoPNG.png" group-title="Entertainment" tvg-chno="452", Hell's Kitchen
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e6f38792075160007d85823/colorLogoPNG.png", Hell's Kitchen
 https://stitcher.pluto.tv/stitch/hls/channel/5e6f38792075160007d85823/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=626b2305-62bc-11ef-a3c9-3a1e0aa74d84
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5bd833b41843b56328bac189/colorLogoPNG.png", Mythbusters
