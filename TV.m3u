@@ -2621,7 +2621,7 @@ https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 #EXTINF:-1 tvg-logo="https://cultura24.tv/sites/default/files/inline-images/logo.png", Cultura 24 TV 
 https://www.opencaster.com/resources/hls_stream/cultura24.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-GXO0Icql4EQ/XoKCsLIBYYI/AAAAAAAAxU8/orolaAsdhtcwmmCf7538H7VopRGVo2wbwCK8BGAsYHg/s0/2020-03-30.png", Antares TV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/05gwtk2.png", Antares TV 
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png", ATV
@@ -2646,13 +2646,16 @@ https://live.obslivestream.com/autenticatvmux/index.m3u8
 https://play.agenciastreaming.com:8081/antena1/tracks-v1/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oNFOKFI.png", BHTV 
-https://vdo.grupolimalive.com:3762/live/bhtvlive.m3u8
+https://play.agenciastreaming.com:8081/bhtv/tracks-v1/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cfHaLt2.png", Conecta2
 https://servilive.com:3114/live/liveulive.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7bGVFBa.png", Asiri TV
+https://video2.lhdserver.es/asiritv/live.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jCAmrwt.png", CreoTV
-https://srv1.mediastreamperu.com:19360/creotv/creotv.m3u8
+https://srv1.mediastreamperu.com/creotv/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pu0BSB7.png", Exitosa 
 https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
@@ -2675,17 +2678,14 @@ https://live.obslivestream.com/uraniotv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/35c791e364c3adb7c6c2ef98504041a0.png", Telecolor TV 
 https://live.obslivestream.com/telecolormux/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/9176c235a22b9745bcc6e930b2a7e904.png", TV Cosmos 15.1 
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/9176c235a22b9745bcc6e930b2a7e904.png", TV Cosmos
 https://5790d294af2dc.streamlock.net:443/8134/8134/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TdYNCBI.png", Cumo TV
-https://live.obslivestream.com/cumo/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q5jxzr2.png", Identidad TV
+https://cast.stre.live7.la:3322/live/identidadtvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KSePPeW.png", DMJ
 https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/d431PkD.png", Doble AA
-https://videoserver.tmcreativos.com:19360/yvmgbdpqmp/yvmgbdpqmp.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TOnknEW.png", VNP
 https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
@@ -2699,23 +2699,20 @@ https://live.obslivestream.com/viaaltomayomux/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F0PWpyc.png", Unitel HD
 https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lVpDLVU.png", Unife Peru
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/acda902f73a646daac3fdc9dcddbc971/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tiNvihZ.png", Top TV
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2zCD4TB.png", Doble C
-https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CsW4Op8.png", Andes TV
+https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", CPN
+#EXTINF:-1 tvg-logo="https://cableperu.pe/wp-content/uploads/2024/06/CPN-274x300.png", CPN
 https://video2.lhdserver.es/cableperu/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dudxyqk.png", JN19
 https://servilive.com:3028/live/jntv19live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1FRWCa6.png", La 5ta
-https://video.ingenioperu.com:3844/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1uLGa3w.png", Agro TV Peru
+https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9OXF9EK.png", Usil TV
 https://per01-lim01.servidor.stream/usiltv/index.m3u8
