@@ -246,9 +246,6 @@ https://vcp13.myplaytv.com/esportsmax/esportsmax/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BKkljlc.png" group-title="Kids & Geek", Meta Versus
 https://vivo.solumedia.com:19360/metaversus/metaversus.m3u8
 
-#EXTINF:-1 tvg-shift="0",OnceKids
-http://181.78.105.146:2000/play/a04f/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/aniretro.png" group-title="Kids & Geek", AniRetro
 https://tv.streaming-chile.com:19360/8068/8068.m3u8
 
