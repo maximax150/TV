@@ -78,9 +78,6 @@ https://linear-46.frequency.stream/mt/plex/46/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dLSKBEn.png" group-title="Entretenimiento", AFV Family
 https://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://30a.media/wp-content/uploads/2023/08/pzaz-30atv-2-230x366-ridiculous.jpg" group-title="Entretenimiento", 30A Ridiculous TV
-https://30a-tv.com/feeds/720p/63.m3u8
-
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/revrynews-logo-v2.png" group-title="Entretenimiento", Revry News
 https://linear-44.frequency.stream/mt/brightcove/44/hls/master/playlist.m3u8
 
@@ -3150,6 +3147,9 @@ https://brandusa-gousa-1-in.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p16HNIM.png", Made in Hollywood
 https://connection3-ent-us.redbox.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://30a.media/wp-content/uploads/2023/08/pzaz-30atv-2-230x366-ridiculous.jpg" group-title="Entretenimiento", 30A Ridiculous TV
+https://30a-tv.com/feeds/720p/63.m3u8
 
 
 
