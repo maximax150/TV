@@ -625,6 +625,12 @@ https://vcp.myplaytv.com/oxigenotv/oxigenotv/.m3u8
 #EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/DR5bsovNMqrNLiG3J839cXETQC27BEscf8UGxw70.jpg", Cantina TV
 https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3523-320x180-000000.jpg", Energy TV Music 
+https://59ec5453559f0.streamlock.net/energytvmusic/smil:VIVALIVETV/.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3522-320x180-000000.jpg", Energy TV DJ
+https://59ec5453559f0.streamlock.net/energytvDJ/smil:VIVALIVETV/.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1609-294x165-FFFFFF.jpg", Miami TV Music
 https://668e2e5a0f5bb.streamlock.net/miamitvmusic/smil:WEB/.m3u8
 
