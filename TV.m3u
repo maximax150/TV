@@ -2135,7 +2135,7 @@ https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.extratvcr.com/wp-content/uploads/2024/10/logo-Extra-tv-blanco-1-e1728675680531-150x32.png" group-title="Costa Rica", Extra TV
-https://d2axu5ozwr5gk0.cloudfront.net/480p.m3u8
+https://d2axu5ozwr5gk0.cloudfront.net/live2/gxtra-cr-dxtra-tv_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/HowlI4G5AwJYrUNtf1g6TwAxGAmLonFpxb8i3UiS.jpg" group-title="Costa Rica", Sinart Canal 13
 https://ssh101.bozztv.com/ssh101/sinart13/chunks.m3u8
