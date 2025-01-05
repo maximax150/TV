@@ -1,7 +1,7 @@
 #EXTM3U list-name="Canales M3U" list-image="https://icon-library.com/images/dish-tv-icon/dish-tv-icon-8.jpg"
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="Entretenimiento", Azteca Uno -1h
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="Entretenimiento", Azteca Uno
 https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/Azteca13/20-hls/live-media.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="Entretenimiento", Azteca Uno -1h
