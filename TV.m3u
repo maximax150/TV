@@ -701,12 +701,6 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/DeporTV_%282020_Logo_oficial%29.png" group-title="Deportes", DeporTV
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/f8BkLql.png" group-title="Deportes", FUTV CR
-https://acceso.radiosportstv.online:3206/stream/play.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UrsLSRs.png" group-title="Deportes", Tigo Sports CR
-https://acceso.radiosportstv.online:3795/stream/play.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UrsLSRs.png" group-title="Deportes", Tigo Sports GT
 https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
 
