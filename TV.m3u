@@ -55,7 +55,7 @@ https://ov.ottera.tv/channels/cnm_niv/master.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
 
 #EXTINF:-1 tvg-logo="https://www.hola.tv/wp-content/uploads/2020/09/logoholatv.jpg" group-title="Entretenimiento", Hola Play
-https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
+https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/9c4e73ba-0c49-4401-89c6-86fbeacb0a14/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://fotos.perfil.com/2024/03/01/trim/1280/720/caras-tv-1763217.jpg" group-title="Entretenimiento", Caras TV
 https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
@@ -108,9 +108,6 @@ https://59ec5453559f0.streamlock.net/Latino/smil:VIVALIVE/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3469-960x540-000000.jpg" group-title="Entretenimiento", Miami TV Life
 https://59ec5453559f0.streamlock.net/miamitvlife/smil:WEB/.m3u8
 
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/sony_canal_competencias_logo_dark.png" group-title="Entretenimiento", Sony Competencias
-https://spt-competencias-1-us.samsung.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn.rudo.video/assets/canal-13/live/live_4eb6696e72efa5710a41290aa9cffbe41678456336.png" group-title="Entretenimiento",13 Realities
 https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
 
@@ -118,10 +115,13 @@ https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.ploustv.com/ploustv.png" group-title="Entretenimiento", PlousTV
-https://vcp7.myplaytv.com/glowtv/glowtv/chunklist_w1842335445.m3u8
+https://vcp.myplaytv.com/glowtv/glowtv/.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/6099a5ebe0cbd933ace42825/1625788815396-DGKRT2XL3TV31ICWY8UV/lovestoriestv.png" group-title="Entretenimiento", Love Stories TV
 https://lovestoriestv-lovestoriestv-1-us.ono.wurl.tv/playlist.m3u8
+
+EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/655f626d57fe4a00085c7c3e/colorLogoPNG.png" group-title="Entretenimiento", Series de Comedia
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/655f626d57fe4a00085c7c3e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="Entretenimiento", Telemundo Novelas Clasicas
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=5fc9&deviceDNT=0&deviceModel=0
@@ -234,26 +234,23 @@ Kids & Geek
 #EXTINF:-1 tvg-logo="https://i.paste.pics/d70bd8de125ec9cee654a09743c6d533.png" group-title="Kids & Geek", Magic Kids TV 
 https://magicstream.ddns.net/magicstream/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://energeek.cl/custom/templates/Lithium/uploads/simbolo-2.png" group-title="Kids & Geek", Energeek
+#EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/Marca-512.png" group-title="Kids & Geek", Energeek
 https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65_output_0.m3u8
 
-#EXTINF:-1 tvg-logo="https://energeek.cl/custom/templates/Lithium/uploads/simbolo-2.png" group-title="Kids & Geek", Energeek Fanpop
+#EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/Fanpop-512.png" group-title="Kids & Geek", Energeek Fanpop
 https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f_output_0.m3u8
 
-#EXTINF:-1 tvg-logo="https://energeek.cl/custom/templates/Lithium/uploads/simbolo-2.png" group-title="Kids & Geek", Energeek radio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/euaoN1A.png" group-title="Kids & Geek", Energeek radio
 https://streaming-cl.sh1ny.space/memfs/75b105a4-2fd3-4538-a55c-480f3903a262_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/max-anime-3-c.png" group-title="Kids & Geek", Max Anime
 https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/max-anime-3-c.png" group-title="Kids & Geek", Esports Max
-https://vcp13.myplaytv.com/esportsmax/esportsmax/playlist.m3u8
+https://vcp8.myplaytv.com:1936/esportsmax/ngrp:esportsmax_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BKkljlc.png" group-title="Kids & Geek", Meta Versus
 https://vivo.solumedia.com:19360/metaversus/metaversus.m3u8
-
-#EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/aniretro.png" group-title="Kids & Geek", AniRetro
-https://tv.streaming-chile.com:19360/8068/8068.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/ZooMoo-Kids-Logo-Oficial-01.png/1200px-ZooMoo-Kids-Logo-Oficial-01.png" group-title="Kids & Geek", Zoomoo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
@@ -275,6 +272,9 @@ https://cloudvideo.servers10.com:8081/8096/index.m3u8
 
 #EXTINF:-1 group-title="Kids & Geek", Canela Kids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
+
+#EXTINF:-1 tvg-logo="" group-title="Kids & Geek", ZAZ
+https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paka-paka.svg/1200px-Paka-paka.svg.png" group-title="Kids & Geek", Paka Paka
 https://538d0bde28ccf.streamlock.net/live-cont.ar/pakapaka/.m3u8
@@ -1445,11 +1445,11 @@ https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qB6I274.png" group-title="Argentina", Canal 4 Jujuy 
 https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zRsbCQ057WQ/XsSJeLXVw5I/AAAAAAAAv24/FcMy1_I8EVcTB6PkfCz7BuAfWZcJZfo-ACNcBGAsYHQ/s1600/LOGO%2BCANAL%2B4%2BDEGRADE_OK%25282%2529.png" group-title="Argentina", Canal 4 Posadas 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tElJr3e.png" group-title="Argentina", Canal 4 Posadas 
 http://iptv.ixfo.com.ar:8081/live/C4POS/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/2154f26cfec10ed6642020dad09849b3.png" group-title="Argentina", 5R TV Santa Fe
-http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qGddRW4.png" group-title="Argentina", Gen TV
+https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 
 #EXTINF:-1 tvg-logo="https://statics.colsecornoticias.com.ar/2023/09/6500815c9db59.png" group-title="Argentina", Vive TV
 https://vivo.solumedia.com:19360/vivetv/vivetv.m3u8
@@ -1468,6 +1468,9 @@ https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/216f13d3a32f35802881b19c2fa39554.png" group-title="Argentina", Canal 9 Litoral
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xqgRFpC.png" group-title="Argentina", Canal 9 Resistencia
+http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cm4NOuM.jpg" group-title="Argentina", Telediez 
 https://videohd.live:19360/8020/8020.m3u8
@@ -3705,104 +3708,6 @@ Cable
 
 
 #EXTINF:-1 group-title="Latinos 1",
-#EXTINF:-1,A&E HD
-http://186.148.181.155:8000/play/a02l
-#EXTINF:-1,ATRES SERIES HD
-http://186.148.181.155:8000/play/a02o
-#EXTINF:-1,AXN HD
-http://186.148.181.155:8000/play/a02n
-#EXTINF:-1,Adult Swim HD
-http://186.148.181.155:8000/play/a02q
-#EXTINF:-1,America TV HD
-http://186.148.181.155:8000/play/a036
-#EXTINF:-1,Animal Planet HD
-http://186.148.181.155:8000/play/a022
-#EXTINF:-1,Antena 3
-http://186.148.181.155:8000/play/a03l
-#EXTINF:-1,Canal 1 HD
-http://186.148.181.155:8000/play/a03q
-#EXTINF:-1,Caracol HD
-http://186.148.181.155:8000/play/a035
-#EXTINF:-1,Cartoon Network HD
-http://186.148.181.155:8000/play/a02p
-#EXTINF:-1,Cartoon Network HD
-http://186.148.181.155:8000/play/a009
-#EXTINF:-1,City TV
-http://186.148.181.155:8000/play/a03i
-#EXTINF:-1,Comedy Central
-http://186.148.181.155:8000/play/a01p
-#EXTINF:-1,Comedy Central HD
-http://186.148.181.155:8000/play/a02t
-#EXTINF:-1,DW Espaæol
-http://186.148.181.155:8000/play/a03m
-#EXTINF:-1,Discovery HD
-http://186.148.181.155:8000/play/a02s
-#EXTINF:-1,E! HD
-http://186.148.181.155:8000/play/a03r
-#EXTINF:-1,ESPN 2 HD
-http://186.148.181.155:8000/play/a01i
-#EXTINF:-1,ESPN 4HD
-http://186.148.181.155:8000/play/a03d
-#EXTINF:-1,ESPN HD
-http://186.148.181.155:8000/play/a033
-#EXTINF:-1,Ecuavisa
-http://186.148.181.155:8000/play/a02x
-#EXTINF:-1,Europa Europa
-http://186.148.181.155:8000/play/a03n
-#EXTINF:-1,FOX Sports 2 HD
-http://186.148.181.155:8000/play/a01l
-#EXTINF:-1,Fox Sports 1
-http://186.148.181.155:8000/play/a01h
-#EXTINF:-1,France 24
-http://186.148.181.155:8000/play/a03j
-#EXTINF:-1,Gamavisiðn
-http://186.148.181.155:8000/play/a02w
-#EXTINF:-1,Golden HD
-http://186.148.181.155:8000/play/a03p
-#EXTINF:-1,HOGAR TV
-http://186.148.181.155:8000/play/a02j
-#EXTINF:-1,History 2
-http://186.148.181.155:8000/play/a03k
-#EXTINF:-1,History Channel HD
-http://186.148.181.155:8000/play/a02k
-#EXTINF:-1,Nat Geo HD
-http://186.148.181.155:8000/play/a021
-#EXTINF:-1,Nick HD
-http://186.148.181.155:8000/play/a018
-#EXTINF:-1,OROMAR TV
-http://186.148.181.155:8000/play/a02v
-#EXTINF:-1,PYC
-http://186.148.181.155:8000/play/a031
-#EXTINF:-1,Pasiones
-http://186.148.181.155:8000/play/a02u
-#EXTINF:-1,RANCHENATO
-http://186.148.181.155:8000/play/a015
-#EXTINF:-1,RCN HD
-http://186.148.181.155:8000/play/a034
-#EXTINF:-1,STAR CHANNEL HD
-http://186.148.181.155:8000/play/a037
-#EXTINF:-1,Sony HD
-http://186.148.181.155:8000/play/a02m
-#EXTINF:-1,Space HD
-http://186.148.181.155:8000/play/a007
-#EXTINF:-1,Studio Universal HD
-http://186.148.181.155:8000/play/a00g
-#EXTINF:-1,Sun Channel HD
-http://186.148.181.155:8000/play/a01y
-#EXTINF:-1,TELENOVELAS
-http://186.148.181.155:8000/play/a03e
-#EXTINF:-1,TNT HD
-http://186.148.181.155:8000/play/a032
-#EXTINF:-1,TOONCAST
-http://186.148.181.155:8000/play/a03g
-#EXTINF:-1,TV AGRO
-http://186.148.181.155:8000/play/a03f
-#EXTINF:-1,UNIVERSAL CHANNEL HD
-http://186.148.181.155:8000/play/a039
-#EXTINF:-1,Warner Channel HD
-http://186.148.181.155:8000/play/a00e
-#EXTINF:-1,telenostalgia
-http://186.148.181.155:8000/play/a03h
 #EXTINF:-1,3ABN
 http://190.216.158.199:8000/play/a005/index.m3u8
 #EXTINF:-1,A3SERIES
