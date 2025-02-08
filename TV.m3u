@@ -2519,14 +2519,6 @@ https://streamtv.intervenhosting.net:3639/live/latinatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/usrP6T2.png", Onza TV
 https://stmv1.srvstm.com/gproducciones/gproducciones/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HG2DM8G/IMG-20230705-153952.jpg", Inter TV
-https://streamtv.intervenhosting.net:3175/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LN92K6h/IMG-20230705-154347.jpg", Guaro TV
-https://streamtv.intervenhosting.net:3061/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/a9E0DTY.jpeg", LGD TV
-https://streamtv.intervenhosting.net:3259/hybrid/play.m3u8
 
 
 
@@ -4082,60 +4074,10 @@ http://181.13.173.86:8000/play/a0b7/index.m3u8
 
 
 #EXTINF:-1 group-title="Latinos 3",
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vJYzGt1.png",LN+
-https://is.gd/Mdl6Zo
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OdhF7ym.png",A24
-https://is.gd/TdK62R
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k2Ku8Ib.png",Cronica
 https://g5.vxral-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/Playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telearg.weebly.com/uploads/1/3/1/2/131240845/canal-50-morteros_1.png",IP
 https://online.coopmorteros.coop/canal50/vivo.m3u8
-#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1124.png",El Trece
-https://is.gd/Gsefnj
-#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1123.png",Telefe
-https://ssl.cloud.telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
-#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1120.png",América
-https://is.gd/5ny4Z0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cJHP7bU.png",El Nueve
-https://is.gd/wijsNf
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V1xZV72.png",Ciudad Magazine
-https://is.gd/fIKFdB
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EWmshtx.png",NET
-https://is.gd/Z9JkKp
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR55X4gm1nNor98Q-s7k7eJGhbuJ9tAmsF3sQ&usqp=CAU",Canal 10 de Córdoba
-https://is.gd/QAqCEf
-#EXTINF:-1 tvg-logo="https://imgur.com/HfyKPpD.png",El Doce
-https://ythls.armelin.one/channel/UCiaePeoCqpU8hBHiNrgkzrA.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bs4truU.png",ARGENTINISIMA
-https://is.gd/NQal1m
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqBiaIDqM0zgNG17tipScg3kQptL3ZLpqc4w&usqp=CAU",RT
-https://is.gd/rZtbrR
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q4zaCuM.png",Pakapaka
-https://is.gd/jL71Oq
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9JEnv7G.png",Cartoonito
-https://is.gd/dWtEca
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6vvB5g3/Disney-Channel.png",DISNEY
-https://is.gd/hnEt2s
-#EXTINF:-1 tvg-logo="https://i.imgur.com/roN9yBg.png",Nickelodeon
-https://is.gd/QgJtrb
-#EXTINF:-1 tvg-logo="https://www.babytv.com/app/uploads/2019/12/VideoIcon-round.png",Baby
-https://is.gd/pZH4Kt
-#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1629_AR.png",TYC Sport
-https://is.gd/eF7FuB
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/10/El-Garage-TV-en-VIVO-Online-1.png?fit=1920,1080&ssl=1",Garage TV
-https://is.gd/fW1tmt
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QKtsD5H/ESPN.png",Espn
-https://is.gd/qxSx8b
-#EXTINF:-1 tvg-logo="https://telearg.weebly.com/uploads/1/3/1/2/131240845/quiero-musica_1.png",Quiero
-https://is.gd/82MkCR
-#EXTINF:-1 tvg-logo="https://www.movistar.com.ar/documents/10180/92712757/htv.png",HTV
-https://is.gd/x4Mxaq
-#EXTINF:-1 tv-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0_J3K8OpViXVrNvfBluOQk9MLS96YlnuS1Q&s",DW
-https://is.gd/kONAEp
-#EXTINF:-1 tvg-logo="https://www.telcocom.com.ar/img/canales/tcm.png",TCM
-https://is.gd/SZR5TG
-#EXTINF:-1 tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2020/06/26/C374514E-C545-43D0-9482-E0BDF200DB0B//720x540.jpg",A3S
-https://is.gd/gSpahf
 #EXTINF:-1 tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2021/03/HBO-plus.png",HBO+
 http://170.254.18.106/HBO_PLUS/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/inspirationlinks/refs/heads/live/Logos/hbofamily.png",HBO Family
