@@ -2926,6 +2926,15 @@ https://canalcoin.garjim.es/hls/directo.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YSi1zW.png" group-title="España", Aragon TV
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="España", Factoria de Carnaval
+https://eu1.servers10.com:8081/8116/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WpGR7RQ.png" group-title="España", UNE Vinalopo
+https://streamingtvi.gestec-video.com/hls/unesd.m3u8
+
+#EXTINF:-1 tvg-logo="https://karyganet.com/wp-content/uploads/tv-33.jpg" group-title="España", 33TV
+https://limited43.todostreaming.es/live/simbana-livestream.m3u8
+
 
 
 ---------------------------------------------------
