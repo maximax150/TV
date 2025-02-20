@@ -33,6 +33,9 @@ https://stormcast-novelas-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.novelisima.com/assets/images/logo.png" group-title="Entretenimiento", Novelisima
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Romance Channel
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/romance-channel/manifest.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.kanalddrama.com/assets/img/logo_bottom2.png" group-title="Entretenimiento", Kanal D
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 
@@ -41,6 +44,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HZw19jM.png" group-title="Entretenimiento", Novelas Inolvidables
 https://ov.ottera.tv/channels/cnm_niv/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Todo Novelas Mas Pasiones
+https://4ff77b38.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Q2FuZWxhVFZfVG9kb0RyYW1hX0hMUw/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/0b2ed753-566f-476c-9329-1f08221de7a6/CM-Amagi-Artwork_4-1500x1000_-_Camila_Conti_WHITE_LETTERS_REDLOGO.png", Canela Telenovelas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
@@ -726,6 +732,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_trace-sports-stars_m.png" group-title="Deportes", Trace Sports
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Deportes", Fox Sports en Tubi
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
+
 #EXTINF:-1 tvg-logo="https://inthemixstyle.com/wp-content/uploads/2020/12/Redbull-TV-HD.jpg" group-title="Deportes", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
@@ -922,6 +931,9 @@ https://cdn.nhkworld.jp/www11/nhkworld-tv/pre/hlscomp.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png", NHK World Español
 https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0ZHm9f6.png", Cubavision Internacional
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hvGJ2oa.png", Anixe + Germany
 https://ma.anixa.tv/clips/stream/anixesd/index.m3u8
 
@@ -1116,6 +1128,12 @@ https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WaGRlFO.png", Xplore
 https://xplore-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", Love The Planel 
+https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", Tu Universo TV
+https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vhv5gjN.png", Wild Earth
 https://wildearth-ono.amagi.tv/playlist.m3u8
