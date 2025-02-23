@@ -21,6 +21,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Estrella_TV_-_2020_logo.png" group-title="Entretenimiento", Estrella TV
 https://estrellatv-oando.amagi.tv/playlistR720P.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z52nEnH.png" group-title="Entretenimiento", Estrella TV Games
+https://apollo.production-public.tubi.io/live/ac-estrella-games.m3u8
+
 #EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/sin_titulo_1920_x_1080_px_7.jpg" group-title="Entretenimiento", RCN Mas
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 
@@ -116,6 +119,9 @@ https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.ploustv.com/ploustv.png" group-title="Entretenimiento", PlousTV
 https://vcp.myplaytv.com/glowtv/glowtv/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/auHH1Ig.png", Fashion TV 
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/6099a5ebe0cbd933ace42825/1625788815396-DGKRT2XL3TV31ICWY8UV/lovestoriestv.png" group-title="Entretenimiento", Love Stories TV
 https://lovestoriestv-lovestoriestv-1-us.ono.wurl.tv/playlist.m3u8
@@ -719,6 +725,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/638df6f8b63cf100075ccf
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66997d18a1b69e00082ee85f/colorLogoPNG.png", FIFA Plus
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66997d18a1b69e00082ee85f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/659bfdc66e4f6a0008ae4a3c/colorLogoPNG.png", Women's Football
+https://stitcher.pluto.tv/stitch/hls/channel/659bfdc66e4f6a0008ae4a3c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=626b2305-62bc-11ef-a3c9-3a1e0aa74d84
 
 #EXTINF:-1 tvg-logo="https://www.estilomma.com/images/noticias/thumbnails/Do0-qzJjXwGBUbhK7nCQiVro2YT51DHhBw7OnTvJr35PEACSqaqhxfHdmedSZrEiLTiuqERb=s900-c-k-c0x00ffffff-no-rj_thumb_297x297.jpg" group-title="Deportes", UFC
 https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
@@ -732,8 +740,11 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_trace-sports-stars_m.png" group-title="Deportes", Trace Sports
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes", Fox Sports en Tubi
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/512px-FOX_Deportes_logo.png" group-title="Deportes", Fox Deportes en Tubi
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qFNRJLb.png" group-title="Deportes", Fubo Sports
+https://apollo.production-public.tubi.io/live/ac-fubo.m3u8
 
 #EXTINF:-1 tvg-logo="https://inthemixstyle.com/wp-content/uploads/2020/12/Redbull-TV-HD.jpg" group-title="Deportes", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
@@ -746,9 +757,6 @@ https://ov-mvg-mv-es.ottera.tv/mvg/mv_es/mv_es.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.eutelsat.com/files/Logos/ESR.png" group-title="Deportes", ES2R
 https://eyeonesports.com/ES2RA-628g.m3u8
-
-#EXTINF:-1 tvg-logo="https://t3.ftcdn.net/jpg/03/54/08/46/360_F_354084697_P1TVSVmPVS2Icy85ORBmCaqUyST8Y1wo.jpg" group-title="Deportes", Women Sports Retro
-https://bozztv.com/gusa/gusa-tvswsn/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/a3974870-48f2-4030-8b46-9534dc2b4772/FTFSports_750x500_logo_dark.png" , FTF Sports
 https://1199970269.rsc.cdn77.org/FTF/FTF_SCTE.m3u8
@@ -792,6 +800,12 @@ https://apollo.production-public.tubi.io/live/ac-nhra.m3u8
 #EXTINF:-1 tvg-logo="https://surfchanneltv.com/wp-content/uploads/2021/03/logo512.png" group-title="Deportes", Surf channel
 https://surfchannel-surfchannel-01-es.samsung.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/?q=bein" group-title="Deportes", Bein Sports Xtra US
+https://apollo.production-public.tubi.io/live/ac-bein.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/?q=bein" group-title="Deportes", Bein Sports Xtra Español
+https://aegis-cloudfront-1.tubi.video/82c7f2de-f4ea-44a4-8200-069c5c0bb639/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3500003YK_20230510T044211SQUARE.png_20230510044211.png" group-title="Deportes" , MyPadel TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01970-mypadeldigitals-mypadeltv-samsungspain/playlist.m3u8
 
@@ -824,9 +838,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/59b722526996084038c01e
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5417a212ff9fba68282fbf5e/colorLogoPNG.png" group-title="Deportes", GLORY Kickboxing
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="Deportes",beIN SPORTS XTRA
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5c01df1759ee03633e7b272c/colorLogoPNG.png" group-title="Deportes", Lucha Libre AAA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -906,17 +917,17 @@ https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000022Q_20230509T224438SQUARE.png_20230509224439.png", Sky News
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png", NBC News Now
-https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_nbcnewsnow_001.m3u8
-
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400010RH_20230322T000008SQUARE.png_20230322000009.png", ABC7 Bay Area
 https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZnmAXVv.png", FRANCE 24
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24sp_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1JnyzHv.png", Live Now From FOX
+https://livetv-fa.tubi.video/fox-live-now/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/55b179af994403942f3061d6/colorLogoPNG.png", Newsmax
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/55b179af994403942f3061d6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51-mh06-gIL.png", Newsmax
+https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51-mh06-gIL.png", Newsmax 2
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
 
 
@@ -2960,26 +2971,29 @@ U.S.A.
 ---------------------------------------------------
 
 
-#EXTINF:-1 tvg-logo="https://iptv-org.github.io/" group-title="USA", Atlanta Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MOGQAns.png" group-title="USA", Atlanta Channel
 http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/1200px-AXS_TV_logo.svg.png", AXS TV Now
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lYa793q.png", AXS TV Now
 https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png", ABC 2 Atlanta
+https://apollo.production-public.tubi.io/live/ac-wsb2.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png", ABC 5 Oklahoma
+https://apollo.production-public.tubi.io/live/ac-koco.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png", ABC 10 San Diego
+https://apollo.production-public.tubi.io/live/ac-kgtv2.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png", ABC 28 Tampa
+https://apollo.production-public.tubi.io/live/ac-wfts2.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61fGOE9wmuL.png", Beach TV Panama City
 http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/ESIwTBPU4AAZEvi.png", OAN Encore
-https://cdn.herringnetwork.com/80A4DFF/oane_oregon/OAN_Encore.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_tbs-veryfunny-pan_m.png", *TBS USA (Geo Us VPN)
-https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png",*TNT USA (Geo Us VPN)
-https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png",*TruTV USA (Geo Us VPN)
-https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0xW69iu.png", OAN 
+https://oneamericanews-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mma.prnewswire.com/media/974554/LATV_Logo.jpg?p=facebook",*LATV (Geo Us VPN)
 https://amg00779-latv-amg00779c1-klowdtv-us-2135.playouts.now.amagi.tv/playlist/amg00779-latvnetworkllc-latv-klowdtvus/playlist.m3u8
@@ -2990,7 +3004,7 @@ https://ketsdt.lls.pbs.org/out/v1/03c094dbd7874a4a8c3fe9fb10081bdb/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/640px-PBS_logo.svg.png",*PBS (Geo Us VPN)
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.northpine.com/blog/wp-content/uploads/2023/02/BEK-TV.png", Bek TV News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m80uxdz.png", Bek TV News
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://d2q0tptsfejku7.cloudfront.net/uploads/images/bek_sports_LOGO.jpg", Bek TV Sports
@@ -3003,7 +3017,7 @@ https://cloudflare.tv/hls/live.m3u8
 https://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png", Court TV
-https://lnc-court-tv.tubi.video/playlist_4300k.m3u8
+https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oX5oR4d.png", Black News Channel
 https://redbox-blacknewschannel-xumo.amagi.tv/playlist.m3u8
@@ -3014,20 +3028,14 @@ https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GwxneSQ.png", Blaze live
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46fba0c43b0d00096e5ac1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e46fba0c43b0d00096e5ac1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=238&terminate=false&userId=
 
-#EXTINF:-1 tvg-logo="", BiZ TV
-https://gideommd.mmdlive.lldns.net/gideommd/46c072b287224782a4d4ce93c3646589/manifest.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/fn3oz0ihbtp8pkhpr3jh", Sports Grid
-https://sportsgrid-xumo-us.amagi.tv/xumo.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.pcmag.com/imagery/reviews/03UWU9gp9zia9frJZkIubqd-1..v1652280373.png", Shout Factory TV
 https://shoutfactory-xumo.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://s13686.pcdn.co/wp-content/themes/reelz2/assets/images/reelz_logo-fd3325243b.png", Reelz Channel
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxreelzchannel/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V6Kaqha.png", ACCDN
+https://aegis-cloudfront-1.tubi.video/ce6650c2-26ea-4433-9276-8a5ebf3992cc/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/newscms/2019_22/2874566/190528-nbc-news-now-logo-ac-1055p.jpg", NBC News Now
-https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_nbcnewsnow_001.m3u8
+https://livetv-fa.tubi.video/nbc-news-now/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://mma.prnewswire.com/media/1321317/NBCLX_Logo.jpg", NBC LX
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
@@ -3035,32 +3043,86 @@ https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
 #EXTINF:-1 tvg-logo="https://media3.s-nbcnews.com/i/newscms/2018_21/2442286/today-og-image_c986de7e1bb6ad2281723b692aa61990.png", NBC Today
 https://xxbnziss6u5lk5.data.mediastore.us-east-1.amazonaws.com/live/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q4DRG10.png", NBC Atlanta
+https://livetv-fa.tubi.video/wxia/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q4DRG10.png", NBC Oklahoma
+https://apollo.production-public.tubi.io/live/ac-kjrh.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q4DRG10.png", NBC Seattle
+https://livetv-fa.tubi.video/king/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/True_Crime_Network_logo.svg/512px-True_Crime_Network_logo.svg.png", True Crime Network
+https://livetv-fa.tubi.video/wkyc/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q4DRG10.png", NBC New Orleans
+https://apollo.production-public.tubi.io/live/ac-wdsu.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UNZ8bef.png", NHL
+https://apollo.production-public.tubi.io/live/ac-nhl.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mPGtwAP.png", NFL
+https://apollo.production-public.tubi.io/live/ac-nfl2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jZgcm4k.png", NHRA
+https://apollo.production-public.tubi.io/live/ac-nhra.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J0TY9dG.png", PGA
+https://apollo.production-public.tubi.io/live/ac-pga3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ym3su2J.png", MLB
+https://livetv-fa.tubi.video/mlb3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1603HED.png", Poker GO
+https://apollo.production-public.tubi.io/live/ac-pokergo.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Eufk8rl.png", Racing America
+https://livetv-fa.tubi.video/racing-america/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/WMOR.svg/512px-WMOR.svg.png", WMOR TV
+https://apollo.production-public.tubi.io/live/ac-wmor.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QYFWdb1.png", Top Rank Classics
+https://apollo.production-public.tubi.io/live/ac-top-rank.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eLIe7Va.png", TMZ
+https://apollo.production-public.tubi.io/live/ac-tmz.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/Masked_Singer_USA_Logo.png", Masked Singer
+https://apollo.production-public.tubi.io/live/ac-masked-singer.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/512px-Reelz.svg.png", Reelz 
+https://apollo.production-public.tubi.io/live/ac-reelz.m3u8
+
 #EXTINF:-1 tvg-logo="https://media-s3-us-east-1.ceros.com/outside-mag/images/2022/09/19/dc379f61d14fd547f2710e40aaef6cdc/outsidetv-logo-2021-digital-black.png", Outside Plus
 https://outsidetvplus-xumo.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51-mh06-gIL.png", Newsmax
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-newsmaxxumo/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h1ejU90.png", MovieSphere
+https://livetv-fa.tubi.video/moviesphere/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://mma.prnewswire.com/media/1003361/Food52_Logo.jpg", Food 52
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfood52A/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1luzP3T.png", Kartoon Channel
+https://apollo.production-public.tubi.io/live/ac-kartoon.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Filmrise.svg/1200px-Filmrise.svg.png", Filmrise Free Movies
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Love Quest
+https://apollo.production-public.tubi.io/live/ac-all-real.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Filmrise.svg/1200px-Filmrise.svg.png", Filmrise Classic
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmriseclassictv/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tiy3Ur2.png", LOL Network
+https://apollo.production-public.tubi.io/live/lol-network3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pcmag.com/imagery/reviews/04Li6b38DUaSVJWLgQ01tHq-8..v1585676136.png", Crackle
-https://crackle-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tiy3Ur2.png", LOL Stand Up
+https://apollo.production-public.tubi.io/live/lol-stand-up2.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.rockmedia.it/wp-content/uploads/2023/03/unnamed.jpg", Complex
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcomplex/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Craftsy TV
+https://linear-492.frequency.stream/dist/xumo/492/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nGSsUd4.png", BBC Earth
+https://apollo.production-public.tubi.io/live/ac-bbc-earth2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Circle_Network_logo.svg/512px-Circle_Network_logo.svg.png", Circle
 https://circle-xumo.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FVWqYQG.png", Dove Channel
-https://dovenow-roku-ingest.cinedigm.com/master.m3u8
+https://dovenow-tcl.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://30a-tv.com/wp-content/uploads/2017/03/logo-30a-tv-com-300x65.png", 30A TV
 https://30a-tv.com/feeds/720p/33.m3u8
@@ -3077,20 +3139,20 @@ https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mma.prnewswire.com/media/1502591/Fox_Soul_Logo.jpg", Fox Soul
 https://foxsoul-vizio.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://fox5sandiego.com/wp-content/uploads/sites/15/2020/01/cropped-logo-3.png", Fox 5
-https://lnc-wnyw.tubi.video/index.m3u8
+#EXTINF:-1 tvg-logo="https://fox5sandiego.com/wp-content/uploads/sites/15/2020/01/cropped-logo-3.png", Fox 5 Atlanta
+https://apollo.production-public.tubi.io/live/ac-waga.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Fts-seattle-a.svg/1200px-Fts-seattle-a.svg.png", Fox 13
-https://lnc-kcpq.tubi.video/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Fts-seattle-a.svg/1200px-Fts-seattle-a.svg.png", Fox 13 Salt Lake
+https://apollo.production-public.tubi.io/live/ac-kstu2.m3u8
 
 #EXTINF:-1 tvg-logo="https://fox17.com/resources/media/94f003bb-4490-421e-8dd8-cae55b1d7659-large16x9_WZTV_LOGO_700x400.png", Fox 17
-https://lnc-wxmi.tubi.video/playlist.m3u8
+https://apollo.production-public.tubi.io/live/ac-wxmi.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/512px-Buzzr_logo.svg.png", Buzzr
-https://buzzr-samsungus.amagi.tv/playlist.m3u8
+https://apollo.production-public.tubi.io/live/ac-buzzr.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ABC_News_logo_2021.svg/2560px-ABC_News_logo_2021.svg.png", ABC News
-https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
+https://livetv-fa.tubi.video/abc-news/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/CBS_News_logo_%282020%29.svg/2560px-CBS_News_logo_%282020%29.svg.png", CBS News
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
@@ -3098,11 +3160,14 @@ https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/retrotv_logo.jpg", Retro TV
 https://2-fss-2.streamhoster.com/pl_118/204972-1954132-1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Fox_TV_Stations_logo.svg/800px-Fox_TV_Stations_logo.svg.png", Fox Local
-https://lnc-fox-live-now.tubi.video/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png", CBS Seattle
+https://apollo.production-public.tubi.io/live/ac-kiro.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.verylocal.com/wp-content/uploads/2021/08/VeryLocal_Logo_Horiz_Light-600x115.png", Very Local Alabama
-https://lnc-wvtm.tubi.video/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png", CBS Texas
+https://livetv-fa.tubi.video/khou/live.m3u8
+
+#EXTINF:-1 tvg-logo="", Cosmos
+https://livetv-fa.tubi.video/khou/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PF71rdZ.png", BX arts
 https://reflect-stream-bronxnet.cablecast.tv/live-19/live/live.m3u8
@@ -3123,19 +3188,19 @@ https://reflect-stream-bronxnet.cablecast.tv/live-16/live/live.m3u8
 https://linear-252.frequency.stream/dist/vix/252/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/1200px-Ion_logo.svg.png", ION
-https://linear-432.frequency.stream/dist/vix/432/hls/master/playlist.m3u8
+https://apollo.production-public.tubi.io/live/ac-ion.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.scrippsnetworks.com/wp-content/uploads/2022/02/snn_logo-IONPlus.png", ION Plus
-https://linear-433.frequency.stream/dist/vix/433/hls/master/playlist.m3u8
+https://apollo.production-public.tubi.io/live/ac-ion-plus.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/1200px-ION_Mystery_logo.svg.png", ION Mistery
-https://linear-436.frequency.stream/dist/vix/436/hls/master/playlist.m3u8
+https://livetv-fa.tubi.video/ion-mystery/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.bouncetv.com/wp-content/themes/wp-bootstrap-starter/images/bouncexl/header-logo.png", Bounce XL
-https://linear-434.frequency.stream/dist/vix/434/hls/master/playlist.m3u8
+https://apollo.production-public.tubi.io/live/ac-bounce-xl.m3u8
 
 #EXTINF:-1 tvg-logo="https://mma.prnewswire.com/media/2074342/SCRIPPS_SN_Primary_Logo.jpg", Scripps News
-https://linear-460.frequency.stream/dist/vix/460/hls/master/playlist.m3u8
+https://livetv-fa.tubi.video/scripps-news/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://ethicalmarketingnews.com/wp-content/uploads/2020/05/sntv.jpg", SN TV
 https://linear-496.frequency.stream/dist/vix/496/hls/master/playlist.m3u8 
@@ -3143,20 +3208,17 @@ https://linear-496.frequency.stream/dist/vix/496/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/USA_Today_2012logo.svg/1200px-USA_Today_2012logo.svg.png", USA Today
 https://brandusa-gousa-1-gb.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OjpCtGj.png", AWE
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/awe_720p/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0utwZ63.png", AWE Encore
 https://aweencore-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1hHW3IK.png", CCX Media
 https://reflect-ccx.cablecast.tv/live-9/live/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1rxmu2u.png", Charge
-https://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8mAJuut.png", Dateline
+https://apollo.production-public.tubi.io/live/ac-dateline.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tuP9GW8.png", Cheddar News
-https://lnc-cheddar.tubi.video/index.m3u8
+#EXTINF:-1 tvg-logo="", Ebony TV
+https://aegis-cloudfront-1.tubi.video/22574bab-8a1f-44f4-b62f-ae2963c6a875/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6FFkc3.png", Arts
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
@@ -3167,25 +3229,22 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f15e32b297f960007
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XHQxv0x.png", Classic TV Drama
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f15e3cccf49290007053c67/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f15e3cccf49290007053c67&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=520&terminate=false&userId=
 
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb5541.png", Daystar
-https://hls-live-media.cdn01.net/dvr/stream_37099_1.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/10062020/Drama_Life_190x190.png", Drama Life
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f24662bebe0f0000767de32/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KbmXdjm.png", Freebie TV
 https://d1h1d6qoy9vnra.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Freebie-Plex/187.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pu4BC3M.png", GFN
-https://d3jxchypmk8fja.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/GFNTV-Plex/169.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6w1Wj3j.png", Grit Xtra
+https://livetv-fa.tubi.video/grit-extra/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pu4BC3M.png", GO Usa
 https://brandusa-gousa-1-in.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p16HNIM.png", Made in Hollywood
-https://connection3-ent-us.redbox.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sOYAnTB.png", Hi Yah!
+https://apollo.production-public.tubi.io/live/ac-hi-yah.m3u8
 
-#EXTINF:-1 tvg-logo="https://30a.media/wp-content/uploads/2023/08/pzaz-30atv-2-230x366-ridiculous.jpg" group-title="Entretenimiento", 30A Ridiculous TV
+#EXTINF:-1 tvg-logo="https://30a.media/wp-content/uploads/2023/08/pzaz-30atv-2-230x366-ridiculous.jpg", 30A Ridiculous TV
 https://30a-tv.com/feeds/720p/63.m3u8
 
 
@@ -3657,9 +3716,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/5ad8d819e738977e2c31096a/master.m3u
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65dde148ec9fda0008b3c541/colorLogoPNG.png", Love Pets UK
 https://stitcher.pluto.tv/stitch/hls/channel/65dde148ec9fda0008b3c541/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=626b2305-62bc-11ef-a3c9-3a1e0aa74d84
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/659bfdc66e4f6a0008ae4a3c/colorLogoPNG.png", Women's Football
-https://stitcher.pluto.tv/stitch/hls/channel/659bfdc66e4f6a0008ae4a3c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=626b2305-62bc-11ef-a3c9-3a1e0aa74d84
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65b14aae0cb1a100087a216e/colorLogoPNG.png", Ringside
 https://stitcher.pluto.tv/stitch/hls/channel/65b14aae0cb1a100087a216e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=626b2305-62bc-11ef-a3c9-3a1e0aa74d84
@@ -4495,8 +4551,6 @@ XXX
 
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/55a44f9ce4b09a5577ad69df/1665439843263-DF4Z89NJPYRZMUCSOO17/02f1b42094067ddbe8e67c0df20fc46e?format=1000w"  group-title="+18", Kaloopy
 https://dai.google.com/ssai/event/FK1bjW0AThepH1W7CJrByg/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/auHH1Ig.png", FashionTV Midnite Secrets
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1609-294x165-FFFFFF.jpg", Miami TV
 https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1609-294x165-FFFFFF.jpg", Miami TV Fashion
