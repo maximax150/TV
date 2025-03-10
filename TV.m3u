@@ -57,24 +57,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
 #EXTINF:-1 tvg-logo="https://fotos.perfil.com/2024/03/01/trim/1280/720/caras-tv-1763217.jpg" group-title="Entretenimiento", Caras TV
 https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Venevision
-https://venevision.akamaized.net/hls/live/2098814/VENEVISION/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Venevision Internacional
-https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3/5160000.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Ve Plus
-https://veplus.akamaized.net/hls/live/2101013/VEPLUS/0/streamPlaylist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Venevision +Show
-https://cis-masshow.akamaized.net/hls/live/2112240/CIS_MASSHOW/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Venevision +Risas
-https://vod2live.univtec.com/manifest/18d656bf-fea5-42a3-ac03-98e9f02596af/1660000.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Venevision +Retos
-https://vod2live.univtec.com/manifest/ffdcd545-207f-4df8-88fa-65be669aa60b.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qs4szHD.png" group-title="Entretenimiento", Boricua TV
 https://2-fss-2.streamhoster.com/pl_138/amlst:201284-1347630/playlist.m3u8
 
@@ -2379,6 +2361,9 @@ https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="America Central", TV Metropolis 19.2
 https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="America Central", Telemas HN
+https://viewhn.com/telemas/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Canal_2_TCS.png/512px-Canal_2_TCS.png" group-title="America Central", Canal 2 SV
 https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
