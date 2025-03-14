@@ -1857,10 +1857,13 @@ https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 #EXTINF:-1 tvg-logo="https://www.lared.cl/wp-content/uploads/2021/09/01164338/imagenlared.png" group-title="Chile", La Red Chile
 https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pLobTRW.png" group-title="Chile" Canal 5 Puerto Montt 
+https://stmv5.voxtvhd.com.br/canal5/canal5/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://ott-assets.mdstrm.com/51tv/assets/images/logo-light-white.png" group-title="Chile", Wapp TV
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/wapptv/wapptv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DmdBf9S.png" group-title="Chile", Dance FM
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/ff3e1e1045a1968dcdbcda3824a94eb3.png" group-title="Chile", Dance FM
 https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZpXXLox.png" group-title="Chile", Iquique TV
@@ -1907,6 +1910,12 @@ https://unlimited1-cl-isp.dps.live/pucontv/pucontv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tJ8F8XJL/339934625-6637234786303842-283053087769760685-n-removebg-preview.png" group-title="Chile", ITV Patagonia 
 https://unlimited1-cl-isp.dps.live/itv/itv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9dwZoxz.png" group-title="Chile", TVM
+https://stream.skarnetchile.com:19360/canaltvm/canaltvm.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KisHIpA.png" group-title="Chile", T-Vinet
+https://unlimited1-cl-isp.dps.live/inet2/inet2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/45e025a4deee9ffaeabe6af0b964a6c8.png" group-title="Chile", T13 Radio 
 https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8
@@ -1971,20 +1980,11 @@ https://stmv5.voxtvhd.com.br/canal74hd/canal74hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/802_TV_UCT.png" group-title="Chile", UCT TV
 https://unlimited2-cl-isp.dps.live/uct/uct.smil/uct/livestream1/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1506_Chilevisual_Retro.png" group-title="Chile", Chilevisual Classic
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1506_Chilevisual_Retro.png" group-title="Chile", Chilevisual
 https://stmv5.voxtvhd.com.br/chilevisual/chilevisual/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1506_Chilevisual_Retro.png" group-title="Chile", Chilevisual Retro
-https://stmv5.voxtvhd.com.br/chilevisualretro/chilevisualretro/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1506_Chilevisual_Retro.png" group-title="Chile", Chilevisual Kids
-https://stmv5.voxtvhd.com.br/chilevisualkids/chilevisualkids/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1506_Chilevisual_Retro.png" group-title="Chile", Chilevisual Film
-https://stmv5.voxtvhd.com.br/chilevisualfilm/chilevisualfilm/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1506_Chilevisual_Retro.png" group-title="Chile", Chilevisual Cultura
-https://stmv5.voxtvhd.com.br/chilevisualcultura/chilevisualcultura/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VlKl2VB.png" group-title="Chile", VC Online
+https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oo5vDBv.png" group-title="Chile", NCT
 https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8
