@@ -270,6 +270,15 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=514
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k8U0e0b.png" group-title="Kids & Geek", Dreiko TV
 https://cloudvideo.servers10.com:8081/8096/index.m3u8
 
+#EXTINF:-1 group-title="Kids & Geek", Taltal TV
+https://giatv.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/chunks.m3u8
+
+#EXTINF:-1 group-title="Kids & Geek", Anime Station
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/livestreamingtv/chunks.m3u8
+
+#EXTINF:-1 group-title="Kids & Geek", Go Go Play
+https://stream.gia.tv/giatv/giatv-NEOGOGOPLAYTVE/NEOGOGOPLAYTVE/chunks.m3u8
+
 #EXTINF:-1 group-title="Kids & Geek", Canela Kids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 
@@ -582,20 +591,17 @@ Musicales
 #EXTINF:-1 tvg-logo="https://vclassictv.cl/wp-content/uploads/2024/09/lovovclassictv_24-e1725897773915.png" group-title="Musicales", VClassicTV 
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://vclassictv.cl/wp-content/uploads/2024/09/lovovclassictv_24-e1725897773915.png", VClassicTV Tropical 
-https://5eaccbab48461.streamlock.net:1936/8222/8222/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png" group-title="Musicales", Retro Plus 
 https://scl.edge.grupoz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.portalfoxmix.cl/web/wp-content/uploads/2016/03/logoPFM.png", Portal FoxMix 
 https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XIwTM1h.png", La mia TV
-https://ss5.domint.net:3184/mia_str/lamiatv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nkgOsSv.jpg", La Luperrona
 https://stream.ontvmx.com/ontv/TxZDojVwOpd3sgeHcI/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://meganetfun.com/storage/channel-logos/S9ES3pL6F6SWH5HzADCLYHwV3GElWhmhjXlJkGBA.png", 93.3 CentroTV CR
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/centrotv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/1yeVCQoEYPNMrJVCeegIi3nyrstnkYnymfvL0ZSY.jpg", Colosal Radio
 https://5d16127744872.streamlock.net/canal3/canal3/playlist.m3u8
@@ -630,12 +636,6 @@ http://k4.usastreams.com/videotour/videotour/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/Fg8XXH5P1j0a2RjpkWFmaAR4X50xrRKVrQ4O5LFM.png", IQ Channel
 https://rtmp.info/iqtv/envivo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/VIVA_TV_RUSSIA_LOGO.png", Viva Russia
-https://ssh101.bozztv.com/ssh101/vivarussia/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/Gbi5Z9fgukTib8vrlNRIaioAlt9UBkLagMKzscrk.png", Oxigeno TV
-https://vcp.myplaytv.com/oxigenotv/oxigenotv/.m3u8
-
 #EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/DR5bsovNMqrNLiG3J839cXETQC27BEscf8UGxw70.jpg", Cantina TV
 https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
 
@@ -663,13 +663,10 @@ https://amg01131-tracetv-traceurbanes-samsungspain-c6yeo.amagi.tv/playlist/amg01
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qu7t15Y.png", Deluxe Dance Germany
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EjZa6eK.png", Deluxe Flashback Germany
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HimuPPb.png", Deluxe Music Germany
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ab6p2SW.png", DBM TV France
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ab6p2SW.png", DBM TV
 https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
 
 
@@ -1091,6 +1088,9 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23094/cgtn-documentary/logo_20230314_210542_68.png", CGTN Documentary
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-documentary.m3u8?ads.islive=1&ads.streamtype=live
+
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/Gbi5Z9fgukTib8vrlNRIaioAlt9UBkLagMKzscrk.png", Oxigeno TV
+https://vcp.myplaytv.com/oxigenotv/oxigenotv/.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/colorLogoPNG.png", Pluto TV Naturaleza
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
