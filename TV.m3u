@@ -84,9 +84,6 @@ https://linear-46.frequency.stream/mt/plex/46/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dLSKBEn.png" group-title="Entretenimiento", AFV Family
 https://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3741-540x304-FFFFFF.jpg" group-title="Entretenimiento", Humor Channel
-https://stream-us-east-1.getpublica.com/cl/250328cvivbcktocs2hnvll4s0/1280x720_1500000_0_f.m3u8?
-
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/revrynews-logo-v2.png" group-title="Entretenimiento", Revry News
 https://linear-44.frequency.stream/mt/brightcove/44/hls/master/playlist.m3u8
 
@@ -101,9 +98,6 @@ https://linear-73.frequency.stream/mt/brightcove/73/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/5fdbc1d5682ee122a7a5aa20/227e7450-696d-4aa3-aef8-ce0b1aa8d4fc/Revry_RainbowLogo.png" group-title="Entretenimiento", Revry LGTBI TV
 https://linear-5.frequency.stream/mt/brightcove/5/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2122-294x165-FFFFFF.jpg" group-title="Entretenimiento", Mund2 TV
-https://stream-us-east-1.getpublica.com/cl/250327cviu366e6to5eei2bur0/1280x720_1500000_0_f.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/633-294x165-FFFFFF.jpg" group-title="Entretenimiento", Miami TV Latino
 https://59ec5453559f0.streamlock.net/Latino/smil:VIVALIVE/playlist.m3u8
@@ -4610,7 +4604,7 @@ https://dai.google.com/ssai/event/FK1bjW0AThepH1W7CJrByg/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1609-294x165-FFFFFF.jpg", Miami TV
 https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1609-294x165-FFFFFF.jpg", Miami TV Jenny
-https://stream-us-east-1.getpublica.com/cl/250328cviv9u1f5741de2olo6g/1280x720_1896000_0_f.m3u8
+https://59ec5453559f0.streamlock.net/JennyLive/_definst_/smil:41235/.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1609-294x165-FFFFFF.jpg", Miami TV Fashion
 https://59ec5453559f0.streamlock.net/miamitvfashion/smil:VIVALIVE/.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1609-294x165-FFFFFF.jpg", Sun Beach TV
