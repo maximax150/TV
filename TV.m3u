@@ -267,8 +267,8 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81j8DgLstPL.png" group-title="Kids & Geek", Toon Googles
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=514
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k8U0e0b.png" group-title="Kids & Geek", Dreiko TV
-https://cloudvideo.servers10.com:8081/8096/index.m3u8
+#EXTINF:-1 tvg-logo="https://dreikotv.com/wp-content/uploads/2024/12/cropped-cropped-logo.png" group-title="Kids & Geek", Dreiko TV
+https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 
 #EXTINF:-1 group-title="Kids & Geek", Taltal TV
 https://giatv.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/chunks.m3u8
@@ -276,21 +276,11 @@ https://giatv.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/chunks.
 #EXTINF:-1 group-title="Kids & Geek", Anime Station
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/livestreamingtv/chunks.m3u8
 
-#EXTINF:-1 group-title="Kids & Geek", Go Go Play
-https://stream.gia.tv/giatv/giatv-NEOGOGOPLAYTVE/NEOGOGOPLAYTVE/chunks.m3u8
-
 #EXTINF:-1 group-title="Kids & Geek", Canela Kids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 
 #EXTINF:-1 tvg-logo="" group-title="Kids & Geek", ZAZ
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paka-paka.svg/1200px-Paka-paka.svg.png" group-title="Kids & Geek", Paka Paka
-https://538d0bde28ccf.streamlock.net/live-cont.ar/pakapaka/.m3u8
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/c1076d1034157bf2bdc32bb9052cfa8f3beacd4f0a9bd199c12b537ec134b234.jpg" group-title="Kids & Geek", La Pantera Rosa
-https://linear-637.frequency.stream/mt/studio/637/hls/master/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Clan_TVE_logo.svg/2560px-Clan_TVE_logo.svg.png" group-title="Kids & Geek", Clan Internacional
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main_dvr.m3u8
