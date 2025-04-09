@@ -276,6 +276,9 @@ https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 #EXTINF:-1 group-title="Kids & Geek", Taltal TV
 https://giatv.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/chunks.m3u8
 
+#EXTINF:-1 group-title="Kids & Geek", Gogoplay
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/gogoplay/playlist.m3u8
+
 #EXTINF:-1 group-title="Kids & Geek", Anime Station
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/livestreamingtv/chunks.m3u8
 
@@ -374,9 +377,6 @@ https://stream.gia.tv/giatv/giatv-wowmovies/wowmovies/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/99d1f745bbde1c70f7199fc8c979cd6fa8fd51d920a654e40876f49764b4f701.png" group-title="Cine y Series", Tiguerito TV
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/a59418e1a9cb4068b83345be503f722c.png" group-title="Cine y Series", 13 Entretencion 
-https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/863aea4fb1445b58f89afc7c692ed509.png" group-title="Cine y Series", 13 Teleseries 
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 
@@ -388,9 +388,6 @@ https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/mascine.png" group-title="Cine y Series", +Cine
 https://tv.streaming-chile.com:19360/8142/8142.m3u8
-
-#EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/terrortv.png" group-title="Cine y Series", Terror TV
-https://tv.streaming-chile.com:19360/8140/8140.m3u8
 
 #EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_accion_1080x1080_02092024.jpg" group-title="Cine y Series", Free TV Accion
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8
@@ -464,9 +461,6 @@ https://run-rr-es.otteravision.com/run/rr_es/rr_es.m3u8
 #EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="Cine y Series", Runtime Classics
 https://run-cl-es.otteravision.com/run/cl_es/cl_es.m3u8
 
-#EXTINF:-1 tvg-logo="https://cineramatv.com/wp-content/uploads/2023/02/logo-2.jpg" group-title="Cine y Series", Cinerama
-https://5d00db0e0fcd5.streamlock.net/7062/7062/.m3u8
-
 #EXTINF:-1 tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2020/09/site-logo.png" group-title="Cine y Series", My time Network
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
@@ -478,9 +472,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lg
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/725f7299-49ef-43f8-8fa2-9fd5a8acf53d/CM-Plex-Color_Blackbackground-CanelaCinema_-_Camila_Conti.png" group-title="Cine y Series", Canela Cinema
 https://ov.ottera.tv/channels/cnm_cn_mv/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/spi_filmstream_1.png" group-title="Cine y Series", Filmstream
-https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p16HNIM.png" group-title="Cine y Series", Made In Hollywood
 https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
@@ -1285,6 +1276,9 @@ https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_Actual_Canal_Once.png" group-title="Mexico", Canal Once.3
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Mexico", Canal 13 MX
+https://stream-207963.castr.net/65313d270e749722b6474684/live_185f5f10888711ee83e2f144889e3879/tracks-a1/index.fmp4.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k0XbBp8.png" group-title="Mexico", Quiero TV
 https://stream.ontvmx.com/ontv/4TPYXhKo5pByLzfNgQ/playlist.m3u8
 
@@ -1843,6 +1837,9 @@ Chile
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NnkSyta.png" group-title="Chile", NTV 
 https://marine2.miplay.cl/ntv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Chile", Caracola TV
+https://stream.gia.tv/giatv/giatv-medioscaracola@gmail.com/medioscaracola@gmail.com/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oYFto0V.png" group-title="Chile", *TV Chile (Geo Chile VPN)
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
@@ -4175,42 +4172,6 @@ http://181.13.173.86:8000/play/a0b7/index.m3u8
 https://g5.vxral-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/Playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telearg.weebly.com/uploads/1/3/1/2/131240845/canal-50-morteros_1.png",IP
 https://online.coopmorteros.coop/canal50/vivo.m3u8
-#EXTINF:-1 tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2021/03/HBO-plus.png",HBO+
-http://170.254.18.106/HBO_PLUS/tracks-v1a2/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/inspirationlinks/refs/heads/live/Logos/hbofamily.png",HBO Family
-http://170.254.18.106/HBO_FAMILY/tracks-v1a2/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/inspirationlinks/refs/heads/live/Logos/hbo2.png",HBO 2
-http://170.254.18.106/HBO2/tracks-v1a2/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/inspirationlinks/refs/heads/live/Logos/hbomundi.png",HBO Mundi
-http://170.254.18.106/HBO_MUNDI/tracks-v1a2/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/inspirationlinks/refs/heads/live/Logos/hboXtreme.png",HBO Xtreme
-http://170.254.18.106/HBO_XTREME/tracks-v1a2/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/153-1531080_hbo-signature-hbo-signature-logo-hd-png-download.png",HBO SIGNATURE 
-http://170.254.18.106/HBO_SIG/tracks-v1a2/mono.m3u8
-#EXTINF:-1 tvg-logo="https://vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/logo-canal-hbo-pop-252x252.png",HBO POP
-http://170.254.18.106/HBO_POP/tracks-v1a2/mono.m3u8
-#EXTINF:-1 tvg-logo="", FX Latino
-http://170.254.18.106/FX/tracks-v1a2/mono.m3u8
-#EXTINF:-1 tvg-logo="", AXN Latin
-http://170.254.18.106/AXN/tracks-v1a2/mono.m3u8
-#EXTINF:-1 tvg-logo="", STAR Channel LAT
-http://170.254.18.106/STAR/tracks-v1a2/mono.m3u8
-#EXTINF:-1 tvg-logo="", Lifetime Latino
-http://170.254.18.106/LIFETIME/tracks-v1a2/mono.m3u8
-#EXTINF:-1 tvg-logo="", Bravo
-http://170.254.18.106/BRAVO/tracks-v1a2/mono.m3u8
-#EXTINF:-1 tvg-logo="", TNT USA
-http://170.254.18.106/TNT/tracks-v1a2/mono.m3u8
-#EXTINF:-1 tvg-logo="", AMC USA
-http://170.254.18.106/AMC/tracks-v1a2/mono.m3u8
-#EXTINF:-1 tvg-logo="", BET USA
-http://170.254.18.106/BET/tracks-v1a2/mono.m3u8
-#EXTINF:-1 tvg-logo="", Comedy Central USA
-http://170.254.18.106/COMEDY_CENTRAL/tracks-v1a2/mono.m3u8
-#EXTINF:-1 tvg-logo="", Paramount USA
-http://170.254.18.106/PARAMOUNT/tracks-v1a2/mono.m3u8
-#EXTINF:-1 tvg-logo="", VH1 USA
-http://170.254.18.106/VH1/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-logo="", ABC 
 http://143.244.60.30/ABC_EAST/index.m3u8
 #EXTINF:-1 tvg-logo="", NBC
