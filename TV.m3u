@@ -2017,18 +2017,6 @@ Colombia
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/512px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="Colombia", Canal 1 COL
-https://stream.gia.tv/giatv/giatv-TvUnoColTvUnoCol/TvUnoColTvUnoCol/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="Colombia", Caracol
-https://stream.gia.tv/giatv/giatv-carcolhd1carcolhd1/carcolhd1carcolhd1/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="Colombia", Caracol HD2
-https://stream.gia.tv/giatv/giatv-carcolhd2carcolhd2/carcolhd2carcolhd2/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://colombia.mom-gmr.org/uploads/_processed_/6/f/csm_512-941_import_f1aa777d55.png" group-title="Colombia", City TV
-https://stream.gia.tv/giatv/giatv-ctybog1ctybog1/ctybog1ctybog1/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/79sX78u.png" group-title="Colombia", ATN TV 
 https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
 
