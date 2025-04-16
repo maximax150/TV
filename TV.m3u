@@ -4314,8 +4314,8 @@ http://200.229.147.142:8000/play/a01v/index.m3u8
 http://200.229.147.142:8000/play/a06j/index.m3u8
 #EXTINF:-1,ESPN 1 HD CA
 http://200.229.147.142:8000/play/a05z/index.m3u8
-#EXTINF:-1,ESPN 2 HD CA
-http://200.229.147.142:8000/play/a085/index.m3u8
+#EXTINF:-1,ESPN 2 CA
+http://200.229.147.142:8000/play/a03b/index.m3u8
 #EXTINF:-1,ESPN 3 HD CA
 http://200.229.147.142:8000/play/a061/index.m3u8
 #EXTINF:-1,ESPN 4 HD CA
