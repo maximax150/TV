@@ -636,7 +636,7 @@ https://59ec5453559f0.streamlock.net/energytvDJ/smil:VIVALIVETV/.m3u8
 https://668e2e5a0f5bb.streamlock.net/miamitvmusic/smil:WEB/.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1609-294x165-FFFFFF.jpg", Miami TV DJ
-https://668e2e5a0f5bb.streamlock.net/miamitvDJ/smil:WEB/.m3u8
+https://59ec5453559f0.streamlock.net/miamitvDJ/smil:56925/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/db23a2fc-104e-4ef8-8356-6a4d87ed1a46/trace_brazuca_dark_-_Nathan_BECKER__1_.png", TRACE Brasil
 https://d3b13j525hja2q.cloudfront.net/23073/Brazuka/encrypted.m3u8
@@ -687,14 +687,14 @@ Deportes
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-garage_m.png" group-title="Deportes", Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/DeporTV_%282020_Logo_oficial%29.png" group-title="Deportes", DeporTV
-https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UrsLSRs.png" group-title="Deportes", Tigo Sports GT
 https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes" CombaTV
+#EXTINF:-1 tvg-logo="" group-title="Deportes", CombaTV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5090
+
+#EXTINF:-1 tvg-logo="" group-title="Deportes", Fox en Tubi
+https://aegis-cloudfront-1.tubi.video/d2a92f5d-7acb-4520-8f42-1ab7c17d5968/index_4.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6582f002a620e3000813b329/colorLogoPNG.png" group-title="Deportes" , Azteca Deportes FAST
