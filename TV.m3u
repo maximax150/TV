@@ -2214,6 +2214,9 @@ http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lj2jRn3.png" group-title="Costa Rica", Nicoya TV 
 https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Costa Rica", Turrialba Sports TV
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/turrialbatv/turrialbatv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N4pFVVF.png" group-title="Costa Rica", Costa Rica Channel
 https://video0.rogohosting.com:19360/8006/8006.m3u8
 
