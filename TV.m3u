@@ -2828,32 +2828,26 @@ https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="España", RTVE 24H 
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="España", La 1
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/b73e27a5281da28f40c01e1f3542666e7c19b4be0b820948d83434b3056d0792.png" group-title="España", Hispan TV
+https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.la7tv.es/media/la7tv/images/2022/08/01/2022080110314173695.png" group-title="España", la 7
 https://rtv-murcia-live.globalmest.com/principal/principal.smil/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EQmRrTF.png" group-title="España", 8 Mediterraneo
 https://streaming004.gestec-video.com/hls/8TV.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/800px-Esport3.svg.png" group-title="España", *Esport3 (Geo ES VPN)
-https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/a3uR3vu.png" group-title="España", *El 33 SX3 (Geo ES VPN)
-https://directes-tv-es.ccma.cat/live-origin/c33-super3-hls/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.ccma.cat/multimedia/png/4/6/1664266377464.png" group-title="España", *SX3 (Geo ES VPN)
-https://directes-tv-es.ccma.cat/live-origin/super3-hls/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iBgsCOV.png" group-title="España", *Atresmedia Kids (Geo ES VPN)
-https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61.m3u8
-
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/1d96bb1f41f4a0a3862bdc1b9c541f8a.png" group-title="España", Aragon TV 
 http://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8?
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ap4FmYb.png" group-title="España", Canal Costa
-https://5d8d85cf2c308.streamlock.net:1936/CanalcostaTV/endirecto/.m3u8
+https://5f71743aa95e4.streamlock.net:1936/CanalcostaTV/endirecto/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dlrazec.png" group-title="España", Condavision
-https://5d8d85cf2c308.streamlock.net:1936/Condavision/endirecto/.m3u8
+https://5f71743aa95e4.streamlock.net:1936/Condavision/endirecto/.m3u8
 
 #EXTINF:-1 tvg-logo="https://ondacadiz.es/sites/default/files/logo_onda_cadiz_web_120_100_0.png" group-title="España", Onda Cadiz
 https://ondacadiztv.es:30443/octv/directo_multi/playlist.m3u8
@@ -2895,16 +2889,16 @@ https://live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
 https://www.streaming101tv.es:19360/axarquia/axarquia.m3u8
 
 #EXTINF:-1 tvg-logo="https://teleonuba.es/wp-content/uploads/2022/02/logovertical.png" group-title="España", Teleonuba
-https://5d8d85cf2c308.streamlock.net:1936/Teleonuba/endirecto/.m3u8
+https://5f71743aa95e4.streamlock.net:1936/Teleonuba/endirecto/.m3u8
 
-tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=4bf39d&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fondaazulmalaga.png" group-title="España", Canal Malaga
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=4bf39d&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fondaazulmalaga.png" group-title="España", Canal Malaga
 https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/radio-television-ceuta-logo-AD2377C554-seeklogo.com.png" group-title="España", RTVCE
 https://cdnlive.codev8.net/rtvcelive/channel1.smil/.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EowJfr0.png" group-title="España", Telesafor
-https://video.telesafor.com/hls/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EowJfr0.png" group-title="España", El Toro TV
+https://streaming-1.eltorotv.com/eltorotv-streaming-web/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VCUZKiw.png" group-title="España", Activa TV
 https://streamtv.mediasector.es/hls/activatv/index.m3u8
@@ -2948,9 +2942,6 @@ http://amaru.dyndns.org:8870/0.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kr3U3Ub.png" group-title="España", Logos TV
 https://streamer1.streamhost.org/salive/logosH/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Kr3U3Ub.png" group-title="España", Logos TV Salud
-https://streamer1.streamhost.org/salive/logossaludH/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kr3U3Ub.png" group-title="España", Logos TV kids
 https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
 
@@ -2974,9 +2965,6 @@ https://streaming.cloud.innovasur.es/mmj2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3QPJIpa.png" group-title="España", Canal Coin
 https://canalcoin.garjim.es/hls/directo.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6YSi1zW.png" group-title="España", Aragon TV
-https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="España", Factoria de Carnaval
 https://eu1.servers10.com:8081/8116/tracks-v1a1/mono.m3u8
