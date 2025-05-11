@@ -1454,9 +1454,6 @@ http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/C7neuquenlogo2023.png" group-title="Argentina", Canal 7 Neuquen
 https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://catamarcartv.com/wp-content/uploads/2023/01/logo-cuadrado.jpg" group-title="Argentina", Canal 7 Catamarca
-https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Canal_Siete_Jujuy.png" group-title="Argentina", Canal 7 Jujuy 
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 
@@ -1465,12 +1462,6 @@ https://stream.arcast.live/ahora/ahora/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xqgRFpC.png" group-title="Argentina", Canal 9 Resistencia
 http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cm4NOuM.jpg" group-title="Argentina", Telediez 
-https://videohd.live:19360/8020/8020.m3u8
-
-#EXTINF:-1 tvg-logo="https://diario10.com.ar/wp-content/uploads/2024/04/LOGO-DIARIO10-2020-OK_544-X-180.png" group-title="Argentina", Diario 10
-https://panel.host-live.com/tvrionegro/ngrp:tvrionegro_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yYExcq1.jpg" group-title="Argentina", Canal 11 de la Costa
 https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
@@ -1496,10 +1487,16 @@ https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OI97Sgq.png" group-title="Argentina", Canal 13 La Rioja
 http://arcast.net:1935/mp/mp/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k2Ku8Ib.png",Cronica
+https://g5.vxral-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/Playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://telearg.weebly.com/uploads/1/3/1/2/131240845/canal-50-morteros_1.png",IP
+https://online.coopmorteros.coop/canal50/vivo.m3u8
+
 #EXTINF:-1 tvg-logo="https://atvargentina.com/wp-content/uploads/2021/07/atvargentina-x1.png" group-title="Argentina", ATV Argentina
 https://stream.arcast.com.ar/atbargentina/atbargentina/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.unifetv.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Funife-gray.d4fe5735.png" group-title="Argentina", UNIFE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/UNIFE.jpg" group-title="Argentina", Unife
 https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5X8gdCv.png" group-title="Argentina", TeleJunin
@@ -1513,9 +1510,6 @@ https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U9NuJQC.png" group-title="Argentina", Cable Imagen Armstrong
 https://stream.arcast.com.ar/casse/casse/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/magazine_0.jpg" group-title="Argentina", Ciudad Magazine
-https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fhHFGwv.png" group-title="Argentina", Quatro TV
 https://stream.arcast.live/quatro/quatro/playlist.m3u8
@@ -1544,9 +1538,6 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg" group-title="Argentina", Canal E
 https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_cba-24n_m.png" group-title="Argentina", Canal U 
-https://stream.arcast.live/canalu/canalu/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nR85vvb/2021-01-03.jpg" group-title="Argentina", Play TV
 https://vivo.solumedia.com:19360/playtv/playtv.m3u8
 
@@ -1556,8 +1547,8 @@ https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
 #EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/UlID8RfiuSq2HGrxlvqQxMLniixModFP1vRqRsKh.png" group-title="Argentina", Argentinisima
 https://stream1.sersat.com/hls/argentinisima.m3u8
 
-#EXTINF:-1 tvg-logo="https://multivision.tv/wp-content/uploads/2023/06/LOGO-CANAL-9-MULTIVISION-300x99-FEDERAL.png" group-title="Argentina", Multivisión 
-https://panel.host-live.com/825000/825000/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://multivision.tv/wp-content/uploads/2023/06/LOGO-CANAL-9-MULTIVISION-300x99-FEDERAL.png" group-title="Argentina", Multivisión
+https://panel.host-live.com:19360/8250/8250.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QIGSf4L.png" group-title="Argentina", Litus TV
 https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8
@@ -1565,17 +1556,11 @@ https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.radiopower.com.ar/powerhd/webroot/img/logoPwrHD_small.png" group-title="Argentina", Power TV
 https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/aunar.png" group-title="Argentina", Aunar
-https://538d0bde28ccf.streamlock.net/live-cont.ar/mirador/.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x5EA74J.png" group-title="Argentina", Somos La Pampa
 https://stream.arcast.com.ar/somosnoticias/somosnoticias/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZDenyAE.png" group-title="Argentina", TeleCinco Trelew
 https://videohd.live:19360/8016/8016.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4HJc1c.png" group-title="Argentina", Telediario TV
-https://stmvideo2.livecastv.com/telediario/telediario/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://sanpedrotv.com.ar/img/logo4.png" group-title="Argentina", San Pedro TV
 https://iptv.ixfo.com.ar:30443/live/sanpedrotv/playlist.m3u8
@@ -4114,10 +4099,6 @@ http://181.13.173.86:8000/play/a0b7/index.m3u8
 
 
 #EXTINF:-1 group-title="Latinos 3",
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k2Ku8Ib.png",Cronica
-https://g5.vxral-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/Playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telearg.weebly.com/uploads/1/3/1/2/131240845/canal-50-morteros_1.png",IP
-https://online.coopmorteros.coop/canal50/vivo.m3u8
 #EXTINF:-1 tvg-logo="", ABC 
 http://143.244.60.30/ABC_EAST/index.m3u8
 #EXTINF:-1 tvg-logo="", NBC
