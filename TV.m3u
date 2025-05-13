@@ -350,9 +350,6 @@ Cine y series
 
 
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.acsnetwork.tv/wp-content/uploads/2023/05/acs-network-tv-icon-new.png" group-title="Cine y Series", ACS Network
-https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2893-800x450-FFFFFF.jpg" group-title="Cine y Series", Mega Cine TV
 https://cnn.hostlagarto.com/megacinetv/tracks-v1a1/mono.m3u8
 
@@ -360,7 +357,7 @@ https://cnn.hostlagarto.com/megacinetv/tracks-v1a1/mono.m3u8
 https://stream.gia.tv/giatv/giatv-wowmovies/wowmovies/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/99d1f745bbde1c70f7199fc8c979cd6fa8fd51d920a654e40876f49764b4f701.png" group-title="Cine y Series", Tiguerito TV
-https://ss9.domint.net:3012/ttv_str/%20tigueritotv/.m3u8
+https://cdn.mycloudstream.io/hls/live/broadcast/mzhbcpi0/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/863aea4fb1445b58f89afc7c692ed509.png" group-title="Cine y Series", 13 Teleseries 
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
@@ -370,9 +367,6 @@ https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="Cine y Series", Telemundo Romance
 https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/mascine.png" group-title="Cine y Series", +Cine
-https://tv.streaming-chile.com:19360/8142/8142.m3u8
 
 #EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_accion_1080x1080_02092024.jpg" group-title="Cine y Series", Free TV Accion
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8
@@ -394,9 +388,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-ono/play
 
 #EXTINF:-1 tvg-logo="https://www.canalcinemaplus.net/wp-content/uploads/2013/07/logo.png" group-title="Cine y Series", *Cinema+ (Geo Colombia VPN)
 https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cinema.png", AZ CINEMA FAST
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/76964e60-8756-4551-8748-dbd7852bd0bd/Grjngo-Westernfilme_logo_light_-_Toni_Newesil__1_.png" group-title="Cine y Series", GRJNGO
 https://amogonetworx-grjngo-2-eu.plex.wurl.tv/2000.m3u8
@@ -454,9 +445,6 @@ https://acceso.radiosportstv.online:3259/live/retroxtvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://estrellamedia.com/wp-content/uploads/2023/04/CineETV-1.jpg" group-title="Cine y Series", Cine Estrella TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/725f7299-49ef-43f8-8fa2-9fd5a8acf53d/CM-Plex-Color_Blackbackground-CanelaCinema_-_Camila_Conti.png" group-title="Cine y Series", Canela Cinema
-https://ov.ottera.tv/channels/cnm_cn_mv/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p16HNIM.png" group-title="Cine y Series", Made In Hollywood
 https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
