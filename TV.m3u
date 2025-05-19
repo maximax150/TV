@@ -820,6 +820,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6404
 #EXTINF:-1 group-title="Noticias", Telediario Now MX
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png", RT Español
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/I/infowars-logo-46BD275A56-seeklogo.com.png" group-title="Noticias", Infowars
 https://freespeech.akamaized.net/hls/live/2024573/live2/playlist.m3u8
 
@@ -833,7 +836,7 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/fa402feb-1ae2-48bf-9dda-9c42384a324d/Logo_Euronews_stacked_white_on_spanish_1500x1000wht.png, Euronews Español
-https://euronews-euronews-spanish-2-mx.samsung.wurl.tv/manifest/playlist.m3u8
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60492dcf1c9b6a00089f41df/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28a357-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fa72d986-0119-4efe-aab7-e87e09aafd24
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/1c24a0e4-ecc3-4e51-8eb6-f5c8e2ed1ff9/Untitled.png", i24 NEWS
 https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/profile_0/chunklist_dvr.m3u8
@@ -893,14 +896,8 @@ Internacional
 ---------------------------------------------------
 
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/4ESi2La.png" group-title="Internacional", NHK World Premium
-https://cdn.nhkworld.jp/www11/nhkworld-tv/pre/hlscomp.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png", NHK World Español
-https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0ZHm9f6.png", Cubavision Internacional
-https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/4ESi2La.png" group-title="Internacional", NHK World
+https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hvGJ2oa.png", Anixe + Germany
 https://ma.anixa.tv/clips/stream/anixesd/index.m3u8
@@ -944,9 +941,6 @@ http://58bd5b7a98e04.streamlock.net/medienasa-live/mdf1_high/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lt7xNWW.png", Munchen TV Germany
 https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zA22TQH.png", MyTV Plus Germany
-https://mytvplus.iptv-playoutcenter.de/mytvplus/mytvplus.stream_1/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/512px-Logo_NDR_Fernsehen_2017.svg.png", NDR Fernsehen International
 https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
 
@@ -974,17 +968,11 @@ http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ccdwsWj.png", Company TV Italy
 https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/39cSNHs.png", Donna TV Italy
-https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Yzc47k9.png", Gold TV Italy
 https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ja6c2YZ.png", Kiss Kiss TV Italy
 https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lalgu75.png", La 7 Italy
-https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4Bx2321.png", PrimAntenna TV Italy
 https://5f22d76e220e1.streamlock.net/primantenna14/primantenna14/playlist.m3u8
@@ -992,14 +980,8 @@ https://5f22d76e220e1.streamlock.net/primantenna14/primantenna14/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JgnjgvF.png", A12 TV France
 https://video1.getstreamhosting.com:1936/8420/8420/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YQjm4U5.png", Bip TV France
-https://biptv.tv/live/biptvstream_orig/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h7t0l6q.png", BFM Marselle France
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_MARSEILLEPROV/index.m3u8?end=END&start=LIVE
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WJuJkag.png", BFM Paris France
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_PARIS/index.m3u8?end=END&start=LIVE
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FQ0FpXV.png", BFM Tech & Co France
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?end=END&start=LIVE
@@ -1007,20 +989,11 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?end=END&sta
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YJCcczD.png", BFM TV France
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/40mdgqQ.png", C8 France
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/c8.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/atlgnum.png", Cannes Lerins TV France
 https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w4kAX1V.png", C Star France
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cstar.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5LNZeVq.png", GNT TV Japan
-https://cgntvliveweb-944.acs.wecandeo.com/ms/2850/944/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7DqgELX.png", KBS World Korea
-https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+http://mytv.dothome.co.kr/ch/catv/7.php
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Asu5pE9.png", Arirang TV Korea
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
@@ -1030,9 +1003,6 @@ https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EBS_2TV_Logo.svg/512px-EBS_2TV_Logo.svg.png", EBS 2 Korea
 https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png", RT Español
-https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gBbLyqh.png", CCTV 4
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8?ads.islive=1&ads.streamtype=live
