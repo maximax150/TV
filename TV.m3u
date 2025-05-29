@@ -12,6 +12,9 @@ https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/1200px-Multimedios_Canal_Seis_Logo.svg.png" group-title="Entretenimiento", Multimedios CDMX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/1200px-Multimedios_Canal_Seis_Logo.svg.png" group-title="Entretenimiento", Multimedios 6 Delay
+https://mdstrm.com/live-stream-playlist/67b0cd1d72d61c6acc069916.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="Entretenimiento", Azteca Internacional
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8
 
@@ -42,20 +45,14 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-logo="https://www.kanalddrama.com/assets/img/logo_bottom2.png" group-title="Entretenimiento", Kanal D
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HZw19jM.png" group-title="Entretenimiento", Novelas Turcas
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HZw19jM.png" group-title="Entretenimiento", Novelas Inolvidables
-https://ov.ottera.tv/channels/cnm_niv/master.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Todo Novelas Mas Pasiones
 https://4ff77b38.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Q2FuZWxhVFZfVG9kb0RyYW1hX0hMUw/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/0b2ed753-566f-476c-9329-1f08221de7a6/CM-Amagi-Artwork_4-1500x1000_-_Camila_Conti_WHITE_LETTERS_REDLOGO.png", Canela Telenovelas
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
-
 #EXTINF:-1 tvg-logo="https://fotos.perfil.com/2024/03/01/trim/1280/720/caras-tv-1763217.jpg" group-title="Entretenimiento", Caras TV
 https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qs4szHD.png" group-title="Entretenimiento", Wapa PR
+https://live.field59.com/t/1748559480_1493818535be21fefd7a0818572705a5d6cc0ce9_1748566800/wapa/wapa1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qs4szHD.png" group-title="Entretenimiento", Boricua TV
 https://2-fss-2.streamhoster.com/pl_138/amlst:201284-1347630/playlist.m3u8
@@ -107,9 +104,6 @@ https://59ec5453559f0.streamlock.net/miamitvlife/smil:WEB/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dut8Ftk.png" group-title="Entretenimiento", Sony One Competencias
 https://spt-competencias-1-us.xumo.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9Qq8DKh.png" group-title="Entretenimiento", Sony Kal Hindi
-https://spt-sonykal-1-us.xumo.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.ploustv.com/ploustv.png" group-title="Entretenimiento", PlousTV
 https://vcp.myplaytv.com/glowtv/glowtv/.m3u8
@@ -356,8 +350,8 @@ https://cnn.hostlagarto.com/megacinetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://gia.tv/streams/logo/208301.png" group-title="Cine y Series", Wow Movies
 https://stream.gia.tv/giatv/giatv-wowmovies/wowmovies/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/99d1f745bbde1c70f7199fc8c979cd6fa8fd51d920a654e40876f49764b4f701.png" group-title="Cine y Series", Tiguerito TV
-https://cdn.mycloudstream.io/hls/live/broadcast/mzhbcpi0/mono.m3u8
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/99d1f745bbde1c70f7199fc8c979cd6fa8fd51d920a654e40876f49764b4f701.png" group-title="Cine y Series", Tigueritos TV
+https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/863aea4fb1445b58f89afc7c692ed509.png" group-title="Cine y Series", 13 Teleseries 
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
@@ -394,6 +388,15 @@ https://amogonetworx-grjngo-2-eu.plex.wurl.tv/2000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mL3lLAF.png", Planeta TV
 https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.produ.com/fotos/1223/bigwp-CineYSeriesTV.jpg", Cine y Series A3
+https://atresmedia-ceries-1-us.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fubo.tv/station_logos/ZonaInvestigacion_c.png", Zona Investiacion A3
+https://atresmedia-zitv-1-us.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.produ.com/fotos/1223/bigwp-PromoUnicaTV.jpg", Unica A3
+https://atresmedia-unica-1-us.plex.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8j2npVc.png", FilmRise Black TV
 https://apollo.production-public.tubi.io/live/ac-filmrise-blacktv.m3u8
@@ -2120,9 +2123,6 @@ http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lj2jRn3.png" group-title="Costa Rica", Nicoya TV 
 https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Costa Rica", Turrialba Sports TV
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/turrialbatv/turrialbatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N4pFVVF.png" group-title="Costa Rica", Costa Rica Channel
 https://video0.rogohosting.com:19360/8006/8006.m3u8
