@@ -51,9 +51,6 @@ https://4ff77b38.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Q2FuZW
 #EXTINF:-1 tvg-logo="https://fotos.perfil.com/2024/03/01/trim/1280/720/caras-tv-1763217.jpg" group-title="Entretenimiento", Caras TV
 https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qs4szHD.png" group-title="Entretenimiento", Wapa PR
-https://live.field59.com/t/1748559480_1493818535be21fefd7a0818572705a5d6cc0ce9_1748566800/wapa/wapa1/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qs4szHD.png" group-title="Entretenimiento", Boricua TV
 https://2-fss-2.streamhoster.com/pl_138/amlst:201284-1347630/playlist.m3u8
 
@@ -2142,8 +2139,8 @@ https://5d16127744872.streamlock.net/TVUNO/TVUNO/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2MNzXN7/Channels4-profile-9.jpg" group-title="Costa Rica", Norte Informativo
 https://videohd.live:19360/8076/8076.m3u8
 
-#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/xycjNJNHcnWKQcIiFH3TC0NLo0c3wBF3oMZa7QRf.jpg" group-title="Costa Rica", TV Nosara
-https://acceso.radiosportstv.online:3430/live/tvnosaralive.m3u8
+#EXTINF:-1 tvg-logo="https://meganetfun.com/storage/channel-logos/pu1FekotUO22xwemJs3uzfMQYdu3uzYrwdmb5UM0.png" group-title="Costa Rica", Canal 10 CR
+https://acceso.radiosportstv.online:3285/live/canal10costaricalive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5xw86wu.png" group-title="Costa Rica", Los Santos TV
 https://lstv.duckdns.org:449/hls/lstv.m3u8
