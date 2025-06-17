@@ -1223,7 +1223,7 @@ https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Mexico", Canal 13 MX
-https://stream-207963.castr.net/65313d270e749722b6474684/live_185f5f10888711ee83e2f144889e3879/tracks-a1/index.fmp4.m3u8
+https://207963.global.ssl.fastly.net/65313d270e749722b6474684/live_1c690d40dfb711eeabd66ba1b9ba93a1/tracks-a1/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k0XbBp8.png" group-title="Mexico", Quiero TV
 https://stream.ontvmx.com/ontv/4TPYXhKo5pByLzfNgQ/playlist.m3u8
