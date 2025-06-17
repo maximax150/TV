@@ -2189,26 +2189,23 @@ https://ch1-tva.duin.dev/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BtGK7iZ.png" group-title="America Central", A+ Guate
 https://ch2-tva.duin.dev/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="America Central", BUM TV GT
-https://video.radiozona3.com:3551/stream/play.m3u8
+#EXTINF:-1 tvg-logo="" group-title="America Central", Verapaz TV GT
+https://tvstream.alojawebgt.net:3960/live/verapaztvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Nenn6gE.png" group-title="America Central", Canal 8 Santa Rosa GT
-https://cdn.streamhispanatv.net:3697/live/canal8starosalive.m3u8
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/20cde9eba25fe967e7faed7405a7fd9fcaa649019e552fd0b3e3a1623a34eac2.png" group-title="America Central", Canal GTV Guatemala
+https://vdo.voxhdnet.com:3035/live/gtvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://totovision.net/wp-content/uploads/2022/05/cropped-LOGO-PAGINA-22.png" group-title="America Central", Totovisión 
-https://glb.bozztv.com/glb/ssh101/totovision/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jdnHci0.png" group-title="America Central", TVS Retro GT
-https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+https://cdn.streamhispanatv.net:3652/live/totovisiongtlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S0JrfIl.png" group-title="America Central", Vision TV GT
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mbmHPnO.png" group-title="America Central", Guatevision
-https://video.radiozona3.com:3901/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DVC5w6H.png" group-title="America Central", Auroramedia Films GT
+https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/edZjzbS.png" group-title="America Central", Canal Antiua
-https://video.radiozona3.com:3502/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Maya_TV_logo.png/1200px-Maya_TV_logo.png" group-title="America Central", TV Maya GT
+https://5ca9af4645e15.streamlock.net/mayas/videomayas/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://qhubotv.com/content/images/2022/08/Logo-Q-HUBO-1.png" group-title="America Central", Q Hubo tv HN
 https://5e85d90130e77.streamlock.net/6024/6024/playlist.m3u8
