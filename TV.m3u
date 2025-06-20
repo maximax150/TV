@@ -660,9 +660,6 @@ Deportes
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-garage_m.png" group-title="Deportes", Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UrsLSRs.png" group-title="Deportes", Tigo Sports GT
-https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Deportes", CombaTV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5090
 
