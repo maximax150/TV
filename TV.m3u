@@ -4288,14 +4288,12 @@ XXX
 https://dai.google.com/ssai/event/FK1bjW0AThepH1W7CJrByg/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1609-294x165-FFFFFF.jpg", Miami TV
 https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/.m3u8
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1609-294x165-FFFFFF.jpg", Miami TV Premium
+https://59ec5453559f0.streamlock.net/sunbeachtv/smil:WEB/.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1609-294x165-FFFFFF.jpg", Miami TV Jenny
 https://59ec5453559f0.streamlock.net/JennyLive/_definst_/smil:41235/.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1609-294x165-FFFFFF.jpg", Miami TV Fashion
 https://59ec5453559f0.streamlock.net/miamitvfashion/smil:VIVALIVE/.m3u8
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1609-294x165-FFFFFF.jpg", Sun Beach TV
-https://59ec5453559f0.streamlock.net/sunbeachtv/smil:WEB/.m3u8
-
-
 #EXTINF:-1,Playboy
 http://200.229.147.142:8000/play/a00u/index.m3u8
 #EXTINF:-1 tvg-logo="http://200.52.150.5:8000/playlist/tvg-logo/a0w1.png",Venus
