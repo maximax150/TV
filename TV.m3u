@@ -27,6 +27,9 @@ https://estrellatv-oando.amagi.tv/playlistR720P.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z52nEnH.png" group-title="Entretenimiento", Estrella TV Games
 https://apollo.production-public.tubi.io/live/ac-estrella-games.m3u8
 
+#EXTINF:-1 tvg-logo="https://meganetfun.com/storage/channel-logos/zPAS8Y1HZT1BoAwoFAkPuzaLX2UGBMNGvM6jGFcb.jpg" group-title="Entretenimiento", Bienestar TV
+https://video20.klm99.com:3391/live/meganettvlive.m3u8
+
 #EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/sin_titulo_1920_x_1080_px_7.jpg" group-title="Entretenimiento", RCN Mas
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 
@@ -572,6 +575,9 @@ http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 #EXTINF:-1 tvg-logo="", La Potente TV
 https://radioaserri.com:3645/live/lapotentetvlive.m3u8
 
+#EXTINF:-1 tvg-logo="", Ti506
+https://live20.bozztv.com/akamaissh101/ssh101/meganettv/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="", Free TV Banda
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmcfreetv-ono/playlist.m3u8
 
@@ -665,6 +671,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5090
 
 #EXTINF:-1 tvg-logo="" group-title="Deportes", Fox en Tubi
 https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist720p.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Deportes", Mega Sports CR
+https://video20.klm99.com:3703/live/megasportlive.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6582f002a620e3000813b329/colorLogoPNG.png" group-title="Deportes" , Azteca Deportes FAST
@@ -2038,7 +2047,7 @@ https://d2n1dt6uwqq83r.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.extratvcr.com/wp-content/uploads/2024/10/logo-Extra-tv-blanco-1-e1728675680531-150x32.png" group-title="Costa Rica", Extra TV
 https://d2axu5ozwr5gk0.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.extratvcr.com/wp-content/uploads/2024/10/logo-Extra-tv-blanco-1-e1728675680531-150x32.png" group-title="Costa Rica", Extra Radio 
-https://d30exmp0xfb5jr.cloudfront.net/index.m3u8
+https://live.airstream.run/gxtra-cr-dxtra-radio/live/b8e029f7-ecc6-4b26-83fc-ab2ecc30e2ad/ts:abr.m3u8
 #EXTINF:-1 tvg-logo="https://www.extratvcr.com/wp-content/uploads/2024/10/logo-Extra-tv-blanco-1-e1728675680531-150x32.png" group-title="Costa Rica", E-Music
 https://gxtra-cr-dxtra-radio2.stream.mediatiquestream.com/index.m3u8
 
