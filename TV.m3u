@@ -989,6 +989,9 @@ https://5f22d76e220e1.streamlock.net/primantenna14/primantenna14/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JgnjgvF.png", A12 TV France
 https://video1.getstreamhosting.com:1936/8420/8420/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/drk4BWw/tv5inf.png",TV5 Monde INFO FR
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h7t0l6q.png", BFM Marselle France
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_MARSEILLEPROV/index.m3u8?end=END&start=LIVE
 
