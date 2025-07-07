@@ -253,7 +253,7 @@ https://giatv.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/chunks.
 https://stream-us-east-1.getpublica.com/cl/250706d1lg0k2m6rgtrf7aul80/1280x720_1500000_0_f.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Clan_TVE_logo.svg/2560px-Clan_TVE_logo.svg.png" group-title="Kids & Geek", Clan Internacional
-https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main_dvr.m3u8
+https://rtvelivestream.rtve.es/rtvesec/int/clan_int_main_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/645952687cb4b100084ed52e/colorLogoPNG.png", Nickelodeon Pluto TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/645952687cb4b100084ed52e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -399,10 +399,22 @@ https://apollo.production-public.tubi.io/live/ac-filmrise-true-crime.m3u8
 https://apollo.production-public.tubi.io/live/ac-unsolved-mysteries.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="Cine y Series", Star TVE
-https://rtvelivestream.akamaized.net/rtvesec/int/star_main_dvr.m3u8
+https://rtvelivestream.rtve.es/rtvesec/int/star_main_dvr.m3u8
 
-#EXTINF:-1 tvg-logo="http://teleclasica.com/wp-content/uploads/2022/06/Naranja.jpg" group-title="Cine y Series", Teleclasica
-https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://la.sonyone.com/static/images/logos/sonyonelatam-logo.png" group-title="Cine y Series", Sony One Hits Accion
+https://de9yx47crxs6l.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://la.sonyone.com/static/images/logos/sonyonelatam-logo.png" group-title="Cine y Series", Sony One Series Thriller
+https://d1wuti7vf6eqt9.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://la.sonyone.com/static/images/logos/sonyonelatam-logo.png" group-title="Cine y Series", Sony One Series Comedia
+https://d1fhd07bw4d2d6.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://la.sonyone.com/static/images/logos/sonyonelatam-logo.png" group-title="Cine y Series", Sony One Exitos
+https://d1hcj42s7cseno.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://la.sonyone.com/static/images/logos/sonyonelatam-logo.png" group-title="Cine y Series", Sony One Blacklist
+https://d25v414d53fogv.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="Cine y Series", Runtime Español
 https://run-rt-es.otteravision.com/run/rt_es/rt_es.m3u8
@@ -442,6 +454,18 @@ https://aegis-cloudfront-1.tubi.video/647bc22c-e1bb-4bca-afaf-5de99cbc2286/playl
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tthm8Q5.png" group-title="Cine y Series", TV One 
 https://apollo.production-public.tubi.io/live/ac-tv-one.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.artsatl.org/wp-content/uploads/Miramax-Films-e1335460617269.jpg" group-title="Cine y Series" Miramax Movie Channel
+https://d3d9ae4yefa76z.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Universal_Pictures_logo.png" group-title="Cine y Series", Universal Crime
+https://d4whmvwm0rdvi.cloudfront.net/10007/99993021/hls/master.m3u8?ads.xumo_channelId=99993021
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Universal_Pictures_logo.png" group-title="Cine y Series", Universal Action
+https://d4whmvwm0rdvi.cloudfront.net/10007/99993045/hls/master.m3u8?ads.xumo_channelId=99993045
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Universal_Pictures_logo.png" group-title="Cine y Series", Universal Movies
+https://d4whmvwm0rdvi.cloudfront.net/10007/99993051/hls/master.m3u8?ads.xumo_channelId=99993051
 
 #EXTINF:-1, Zona TV
 https://cloudvideo.servers10.com:8081/8234/index.m3u8
@@ -589,6 +613,15 @@ https://rtmp.info/iqtv/envivo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/DR5bsovNMqrNLiG3J839cXETQC27BEscf8UGxw70.jpg", Cantina TV
 https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/39/2/exa-tv-logo-png_seeklogo-398623.png", EXA TV
+https://mvs-live.daioncdn.net/exatv/exatv.m3u8
+
+#EXTINF:-1, La Voz Grupera
+https://cloudvideo.servers10.com:8081/8128/index.m3u8
+
+#EXTINF:-1, Hits Mexicanos
+https://d3s7x6kmqcnb6b.cloudfront.net/hls/OQTXJ5I/m.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3523-320x180-000000.jpg", Energy TV Music 
 https://59ec5453559f0.streamlock.net/energytvmusic/smil:VIVALIVETV/.m3u8
