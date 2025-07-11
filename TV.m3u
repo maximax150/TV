@@ -9,11 +9,10 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64e35aff6b1fdb0008ea8441/colorLogoPNG.png" group-title="Entretenimiento" group-title="Mexico", Imagen TV+
 https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/1200px-Multimedios_Canal_Seis_Logo.svg.png" group-title="Entretenimiento group-title="Mexico", Multimedios CDMX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/1200px-Multimedios_Canal_Seis_Logo.svg.png" group-title="Entretenimiento" group-title="Mexico", Multimedios CDMX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/1200px-Multimedios_Canal_Seis_Logo.svg.png" group-title="Entretenimiento" group-title="Mexico", Multimedios 6 Delay
-
 https://mdstrm.com/live-stream-playlist/67b0cd1d72d61c6acc069916.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="Entretenimiento" group-title="Mexico", Azteca Internacional
@@ -1975,7 +1974,6 @@ Colombia
 ---------------------------------------------------
 
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/79sX78u.png" group-title="Colombia", ATN TV 
 https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
 
@@ -2122,7 +2120,7 @@ https://d2n1dt6uwqq83r.cloudfront.net/index.m3u8
 https://d2axu5ozwr5gk0.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.extratvcr.com/wp-content/uploads/2024/10/logo-Extra-tv-blanco-1-e1728675680531-150x32.png" group-title="Costa Rica", Extra Radio 
 https://live.airstream.run/gxtra-cr-dxtra-radio/live/b8e029f7-ecc6-4b26-83fc-ab2ecc30e2ad/ts:abr.m3u8
-#EXTINF:-1 tvg-logo="https://www.extratvcr.com/wp-content/uploads/2024/10/logo-Extra-tv-blanco-1-e1728675680531-150x32.png" group-title="Costa Rica", E-Music
+#EXTINF:-1 tvg-logo="https://www.extratvcr.com/wp-content/uploads/2024/10/logo-Extra-tv-blanco-1-e1728675680531-150x32.png" group-title="Costa Rica group-title="Musicales" E-Music
 https://gxtra-cr-dxtra-radio2.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://sinartdigital.com/media/zoo/images/canal-trece_slidemenu_a6abcec3786aa051f4b121c684d84c03.png" group-title="Costa Rica", Sinart Canal 13
@@ -2137,10 +2135,10 @@ http://163.178.170.127:1935/quinceucr/_definst_/quinceucr.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xFCS7wM/GAMTVCR.png" group-title="Costa Rica", GAM TV
 https://v2.azulstream.com:8081/gamtv/gamtv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cIvfnsa.jpg" group-title="Costa Rica", Telered
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cIvfnsa.jpg" group-title="Costa Rica" group-title="Cine y Series", Telered
 https://k20.usastreams.com:8081/telered/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bUNLWDP.png" group-title="Costa Rica", Telesistema
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bUNLWDP.png" group-title="Costa Rica" group-title="Cine y Series", Telesistema
 https://k20.usastreams.com:8081/telesistema/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/obTnd32.png" group-title="Costa Rica", Sarapiqui TV
@@ -2164,7 +2162,7 @@ https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N4pFVVF.png" group-title="Costa Rica", Costa Rica Channel
 https://video0.rogohosting.com:19360/8006/8006.m3u8
 
-#EXTINF:-1 tvg-logo="https://meganetfun.com/storage/channel-logos/q8OrvMkGTpkTmdQ2SBT5f7xq6ZSakeP2MplANv4Z.jpg" group-title="Costa Rica", Telemas CR
+#EXTINF:-1 tvg-logo="https://meganetfun.com/storage/channel-logos/q8OrvMkGTpkTmdQ2SBT5f7xq6ZSakeP2MplANv4Z.jpg" group-title="Costa Rica" group-title="Cine y Series", Telemas CR
 https://mist01.homestream.fun/hls/tlmas904/0_1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/cbcfd98188337b1bf79a92b1afb60ad3.png" group-title="Costa Rica", San Vito TV
@@ -2212,17 +2210,14 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvretropalmares/playlist.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XvktUBB.jpg" group-title="Costa Rica", Zurqui TV
 https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
 
-#EXTINF:-1 tvg-logo="https://meganetfun.com/storage/channel-logos/S9ES3pL6F6SWH5HzADCLYHwV3GElWhmhjXlJkGBA.png" group-title="Costa Rica" group-title="Musicales", 93.3 CentroTV CR
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/centrotv/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/1yeVCQoEYPNMrJVCeegIi3nyrstnkYnymfvL0ZSY.jpg" group-title="Costa Rica" group-title="Musicales", Colosal Radio
 https://5d16127744872.streamlock.net/canal3/canal3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/191d7f0299ec0197d15d2e7b76ff037f.png" group-title="Costa Rica" group-title="Musicales", Radio 88 Stereo CR
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Costa Rica" group-title="Musicales", La Potente TV
-https://radioaserri.com:3645/live/lapotentetvlive.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/lapotentecr.com/wp-content/uploads/2024/06/D1%402x-8.png?" group-title="Costa Rica" group-title="Musicales", La Potente TV
+https://latamvdo.com:3626/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Costa Rica" group-title="Musicales", Ti506
 https://live20.bozztv.com/akamaissh101/ssh101/meganettv/chunks.m3u8
