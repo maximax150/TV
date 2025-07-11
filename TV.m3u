@@ -799,19 +799,19 @@ Noticias
 ---------------------------------------------------
 
 
-#EXTINF:-1 tvg-logo="https://selectra.mx/sites/selectra.mx/files/images/logos/teleformula-100x100.png" group-title="Noticias", Teleformula MX
+#EXTINF:-1 tvg-logo="https://selectra.mx/sites/selectra.mx/files/images/logos/teleformula-100x100.png" group-title="Noticias" group-title="Mexico", Teleformula MX
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="Noticias", ADN 40 MX
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="Noticias" group-title="Mexico", ADN 40 MX
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
-#EXTINF:-1 tvg-logo="https://rndserv.xyz/img/milenio.png" group-title="Noticias", Milenio MX
+#EXTINF:-1 tvg-logo="https://rndserv.xyz/img/milenio.png" group-title="Noticias" group-title="Mexico", Milenio MX
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 
-#EXTINF:-1 group-title="Noticias", C4 En Alerta
+#EXTINF:-1 group-title="Noticias" group-title="Mexico", C4 En Alerta
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6404
 
-#EXTINF:-1 group-title="Noticias", Telediario Now MX
+#EXTINF:-1 group-title="Noticias" group-title="Mexico", Telediario Now MX
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png", RT Español
@@ -1787,7 +1787,7 @@ https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/5fdbc1d5682ee122a7a5aa20/ed35e1a4-ec0a-426a-8ad4-0f41bd8a3675/RevryLogo_1920w.png" group-title="Entretenimiento", Revry Brazil
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/5fdbc1d5682ee122a7a5aa20/ed35e1a4-ec0a-426a-8ad4-0f41bd8a3675/RevryLogo_1920w.png" group-title="Brazil" group-title="Entretenimiento", Revry Brazil
 https://b245f0f0181c44fbb580e464d0e167ee.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-181-REVRYBRASIL-24i/mt/24i/181/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="6102e04e9ab1db0007a980a1" tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="Brazil",Pluto TV Record News
@@ -1838,10 +1838,10 @@ https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9LEiQPJ.png" group-title="Chile", TVN3 
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.rudo.video/assets/canal-13/live/live_4eb6696e72efa5710a41290aa9cffbe41678456336.png" group-title="Entretenimiento",13 Realities
+#EXTINF:-1 tvg-logo="https://cdn.rudo.video/assets/canal-13/live/live_4eb6696e72efa5710a41290aa9cffbe41678456336.png" group-title="Chile" group-title="Entretenimiento",13 Realities
 https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hTUe0Pw.png" group-title="Entretenimiento",13 Festival
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hTUe0Pw.png" group-title="Chile" group-title="Entretenimiento",13 Festival
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lared.cl/wp-content/uploads/2021/09/01164338/imagenlared.png" group-title="Chile", La Red Chile
