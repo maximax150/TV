@@ -1442,8 +1442,11 @@ https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OI97Sgq.png" group-title="Argentina", Canal 13 La Rioja
 http://arcast.net:1935/mp/mp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k2Ku8Ib.png",Cronica
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k2Ku8Ib.png"  group-title="Argentina",Cronica
 https://g5.vxral-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/Playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://telearg.weebly.com/uploads/1/3/1/2/131240845/canal-50-morteros_1.png" group-title="Argentina", IP
+https://online.coopmorteros.coop/canal50/vivo.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/07ki2df.png" group-title="Argentina" group-title="Deportes", CNAR Deportes
 https://stmv6.voxtvhd.com.br/cnardeportes/cnardeportes/playlist.m3u8
@@ -1453,9 +1456,6 @@ https://stmv3.voxtvhd.com.br/xtremaretrocartoons/xtremaretrocartoons/playlist.m3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X2d8y4e.png" group-title="Argentina" group-title="Kids & Geek", Xtrema Cartoons
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://telearg.weebly.com/uploads/1/3/1/2/131240845/canal-50-morteros_1.png",IP
-https://online.coopmorteros.coop/canal50/vivo.m3u8
 
 #EXTINF:-1 tvg-logo="https://atvargentina.com/wp-content/uploads/2021/07/atvargentina-x1.png" group-title="Argentina", ATV Argentina
 https://stream.arcast.com.ar/atbargentina/atbargentina/playlist.m3u8
@@ -2127,7 +2127,7 @@ https://d2n1dt6uwqq83r.cloudfront.net/index.m3u8
 https://d2axu5ozwr5gk0.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://gxtra-cr-extratv.cdn.mediatiquepress.com/wp-content/uploads/2024/10/logo-Extra-tv-blanco-1-e1728675680531-150x32.png" group-title="Costa Rica", Extra Radio 
 https://live.airstream.run/gxtra-cr-dxtra-radio/live/b8e029f7-ecc6-4b26-83fc-ab2ecc30e2ad/ts:abr.m3u8
-#EXTINF:-1 tvg-logo="https://gxtra-cr-extratv.cdn.mediatiquepress.com/wp-content/uploads/2024/10/logo-Extra-tv-blanco-1-e1728675680531-150x32.png" group-title="Costa Rica" group-title="Musicales" E-Music
+#EXTINF:-1 tvg-logo="https://gxtra-cr-extratv.cdn.mediatiquepress.com/wp-content/uploads/2024/10/logo-Extra-tv-blanco-1-e1728675680531-150x32.png" group-title="Costa Rica" group-title="Musicales", E-Music
 https://gxtra-cr-dxtra-radio2.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://sinartdigital.com/media/zoo/images/canal-trece_slidemenu_a6abcec3786aa051f4b121c684d84c03.png" group-title="Costa Rica", Sinart Canal 13
