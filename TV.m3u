@@ -2631,11 +2631,14 @@ https://d1svme839xkbsn.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png", ATV Sur
 https://d3r5ioyjqcy69v.cloudfront.net/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://panamericana.pe/imagenes/logo_2020.png", Panamericana 
-https://live-evg4.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8Hvk59N.png", Latina
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8Hvk59N.png", Latina Clasicos
+https://jireh-4-hls-video-us-isp.dps.live/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8Hvk59N.png", Latina Noticias
+https://jireh-5-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/0eced46643f53066ae90b546061ced0a.png", Autentica TV 
 https://live.obslivestream.com/autenticatvmux/index.m3u8
@@ -2643,17 +2646,14 @@ https://live.obslivestream.com/autenticatvmux/index.m3u8
 #EXTINF:-1 tvg-logo="https://canala1.com/wp-content/uploads/2024/07/logo-ba-a-1.png", Antena 1 Peru
 https://play.agenciastreaming.com:8081/antena1/tracks-v1/index.fmp4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oNFOKFI.png", BHTV 
-https://play.agenciastreaming.com:8081/bhtv/tracks-v1/index.fmp4.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cfHaLt2.png", Conecta2
-https://servilive.com:3114/live/liveulive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zcehR4M.png", Intuitiva TV
+https://video2.lhdserver.es/cableperu/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7bGVFBa.png", Asiri TV
 https://video2.lhdserver.es/asiritv/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jCAmrwt.png", CreoTV
-https://srv1.mediastreamperu.com/creotv/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zK1YcpJ.png", Mega TV Jaen
+https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pu0BSB7.png", Exitosa 
 https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
@@ -2662,7 +2662,7 @@ https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
 https://s1.tvdatta.com:3804/live/diasporatvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/9872abc3f3190fc94f2d8b65f3f5cc38.png", Genios TV 
-https://live.obslivestream.com/geniostvmux/index.m3u8
+https://sc1.wasidata.com/Genios/tracks-v1/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://soltvperu.com/wp-content/uploads/2022/10/naranja-21-03.png", Sol TV
 https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
@@ -2680,7 +2680,7 @@ https://live.obslivestream.com/telecolormux/index.m3u8
 https://5790d294af2dc.streamlock.net:443/8134/8134/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q5jxzr2.png", Identidad TV
-https://cast.stre.live7.la:3322/live/identidadtvlive.m3u8
+https://stream.mediacorp.pe/srt/2/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KSePPeW.png", DMJ
 https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
@@ -2695,7 +2695,7 @@ https://live.obslivestream.com/vivatv/index.m3u8
 https://live.obslivestream.com/viaaltomayomux/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F0PWpyc.png", Unitel HD
-https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
+https://play.agenciastreaming.com:8081/uniteltv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tiNvihZ.png", Top TV
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
@@ -2712,8 +2712,8 @@ https://servilive.com:3028/live/jntv19live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1uLGa3w.png", Agro TV Peru
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9OXF9EK.png", Usil TV
-https://per01-lim01.servidor.stream/usiltv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QrUYjOS.png", Trivu
+https://www.chasquirouter.com/salida/sd/trivu.m3u8
 
 
 ---------------------------------------------------
