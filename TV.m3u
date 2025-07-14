@@ -3690,8 +3690,8 @@ http://200.229.147.142:8000/play/a012/index.m3u8
 http://200.229.147.142:8000/play/a01v/index.m3u8
 #EXTINF:-1,ENLACE
 http://200.229.147.142:8000/play/a06j/index.m3u8
-#EXTINF:-1,ESPN 1 HD CA
-http://200.229.147.142:8000/play/a05z/index.m3u8
+#EXTINF:-1,ESPN 1 CA
+http://200.229.147.142:8000/play/a05v/index.m3u8
 #EXTINF:-1,ESPN 2 CA
 http://200.229.147.142:8000/play/a03b/index.m3u8
 #EXTINF:-1,ESPN 3 HD CA
@@ -3706,6 +3706,8 @@ http://200.229.147.142:8000/play/a04v/index.m3u8
 http://200.229.147.142:8000/play/a05d/index.m3u8
 #EXTINF:-1,EURO Channel
 http://200.229.147.142:8000/play/a02d/index.m3u8
+#EXTINF:-1,EVO TV
+http://200.229.147.142:8000/play/a08d/index.m3u8
 #EXTINF:-1,EWTN
 http://200.229.147.142:8000/play/a01n/index.m3u8
 #EXTINF:-1,El Gourmet
@@ -3772,6 +3774,8 @@ http://200.229.147.142:8000/play/a02k/index.m3u8
 http://200.229.147.142:8000/play/a065/index.m3u8
 #EXTINF:-1,MEGACLASICOS
 http://200.229.147.142:8000/play/a05w/index.m3u8
+#EXTINF:-1,MI Musica Regional
+http://200.229.147.142:8000/play/a07u/index.m3u8
 #EXTINF:-1,MTV 00s HD
 http://200.229.147.142:8000/play/a03q/index.m3u8
 #EXTINF:-1,MTV 80s
@@ -3912,7 +3916,7 @@ http://200.229.147.142:8000/play/a03s/index.m3u8
 http://200.229.147.142:8000/play/a03t/index.m3u8
 #EXTINF:-1,UNIVISION MIAMI
 http://200.229.147.142:8000/play/a02i/index.m3u8
-#EXTINF:-1,UNAM TV
+#EXTINF:-1,UTV HONDURAS
 http://200.229.147.142:8000/play/a03a/index.m3u8
 #EXTINF:-1,Universal
 http://200.229.147.142:8000/play/a04d/index.m3u8
