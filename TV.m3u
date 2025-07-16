@@ -114,6 +114,9 @@ https://59ec5453559f0.streamlock.net/Latino/smil:VIVALIVE/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3469-960x540-000000.jpg" group-title="Entretenimiento", Miami TV Life
 https://59ec5453559f0.streamlock.net/miamitvlife/smil:WEB/.m3u8
 
+#EXTINF:-1 tvg-logo="https://iprotv.es/wp-content/uploads/2024/10/Logo_BLANC.png" group-title="Entretenimiento", iPROTV España
+https://59ec5453559f0.streamlock.net/iprotv/iprotv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.ploustv.com/ploustv.png" group-title="Entretenimiento", PlousTV
 https://vcp.myplaytv.com/glowtv/glowtv/.m3u8
 
@@ -245,6 +248,15 @@ https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 
 #EXTINF:-1 group-title="Kids & Geek", Taltal TV
 https://giatv.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/chunks.m3u8
+
+#EXTINF:-1 group-title="Kids & Geek", Anime Vision Classics
+https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
+
+#EXTINF:-1 group-title="Kids & Geek", Anime Onegai
+https://d2se29pyn6ypkx.cloudfront.net/v1/master/964e44f31073da95414e409f230fb47a468175f5/6469fafa-ca3b-40cd-b903-ab9c3eeea757/6469fafa-ca3b-40cd-b903-ab9c3eeea757/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids & Geek", Anime Vision
+https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a682dd_51f45efdbf30473ca7a606fefcd7007a~mv2.png/v1/fill/w_214,h_104,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/logo_ZAZ_prop_002_edit%20(1)%20copy.png" group-title="Kids & Geek", ZAZ
 https://stream-us-east-1.getpublica.com/cl/250706d1lg0k2m6rgtrf7aul80/1280x720_1500000_0_f.m3u8
@@ -575,10 +587,10 @@ https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nkgOsSv.jpg", La Luperrona
 https://stream.ontvmx.com/ontv/TxZDojVwOpd3sgeHcI/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", Free TV Banda
+#EXTINF:-1 tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/h/i/hits.png", Free TV Banda
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmcfreetv-ono/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", Free TV Hits
+#EXTINF:-1 tvg-logo="https://www.freecast.com/_next/image?url=https%3A%2F%2Fd3e3bui7xn67l.cloudfront.net%2Fcms_media%2Fmedia%2Flive%2Fchannel%2F0ee1ae4a-4921-45b1-a7da-64b5637ce1cd-1707856574.429607.256x256.png", Free TV Hits
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-ono/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/DR5bsovNMqrNLiG3J839cXETQC27BEscf8UGxw70.jpg", Cantina TV
@@ -586,6 +598,9 @@ https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/39/2/exa-tv-logo-png_seeklogo-398623.png", EXA TV
 https://mvs-live.daioncdn.net/exatv/exatv.m3u8
+
+#EXTINF:-1 tvg-logo="https://lamegamundial.com//wp-content/uploads/2024/08/cropped-logolamega-vector-01-1-2048x876.png", La Mega Mundial
+https://server40.servistreaming.com:3477/stream/play.m3u8
 
 #EXTINF:-1, La Voz Grupera
 https://cloudvideo.servers10.com:8081/8128/index.m3u8
@@ -1981,6 +1996,9 @@ https://movil.ejeserver.com/live/canalatv.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1836009952420274177/FfYonU6r_400x400.jpg" group-title="Colombia", MCI TV
 https://video.ejeserver.com/live/mcitelevision.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/tdi-colombia-4792.jpg" group-title="Colombia" group-title="Musicales", TDI Colombia
+https://cdn.amelbasoluciones.co:8081/tdicolombia/index.fmp4.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zAYtbYi.png" group-title="Colombia", Canal Capital 
 https://cdns.livewave.co:8081/canalcapital/index.m3u8
 
@@ -2002,7 +2020,7 @@ https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D1s1Q3k.png" group-title="Colombia", Telefamilia
 https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CSbmQlu.png" group-title="Colombia", *Mi Gente (Geo Colombia VPN)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CSbmQlu.png" group-title="Colombia" group-title="Musicales", *Mi Gente (Geo Colombia VPN)
 https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cw5k96N.png" group-title="Colombia", Frecuencia F
@@ -2367,7 +2385,7 @@ https://hdbox.chunklistv.com/live?stream=tvone
 https://vcp4.myplaytv.com:1936/nextv/nextv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y0h8dlX.png" group-title="America Central", +23 Panama
-https://vcp4.myplaytv.com:1936/mas23/mas23/playlist.m3u8
+https://vcp8.myplaytv.com/mas23/mas23/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vj5nNbF/FAV-TV-LOGO-BLANCO.png" group-title="America Central", Minfav TV Panama
 https://video.misistemareseller.com/minfavtv/minfavtv/playlist.m3u8
@@ -2473,6 +2491,9 @@ https://vcp12.myplaytv.com/trt/trt/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLGeznX.png" group-title="Venezuela", UniTV
 https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://gust-production.s3.amazonaws.com/uploads/startup/logo_image/1321282/LOGO-03_20copy.png" group-title="Venezuela" group-title="Musicales", ZUT
+https://streams2.sofast.tv/dash/c86661f4fe3941eda14c2551a7bf262a/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0rYsbRk/Logo-TNO-2021-white.png" group-title="Venezuela", TNO radio
 https://stmv1.srvstm.com/tnovideo1/tnovideo1/playlist.m3u8
@@ -2778,6 +2799,10 @@ https://rdn.essastream.com:3258/live/telecanal12live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u5ECnZd.png" group-title="Dominicana", Megavision TV
 http://server3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1853-294x165-FFFFFF.jpg" group-title="Dominicana" group-title="Musicales", Hits 360
+https://cdn.essastream.com:3023/live/hits360tvlive.m3u8
+
 
 
 ---------------------------------------------------
