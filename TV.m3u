@@ -56,7 +56,7 @@ https://4ff77b38.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Q2FuZW
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="Novelas", Telemundo Novelas Clasicas
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=5fc9&deviceDNT=0&deviceModel=0
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6474a86917f5e100089a0c1c/colorLogoPNG.png" group-title="Novelas", Novelas de Venezuela
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6474a86917f5e100089a0c1c/colorLogoPNG.png" group-title="Novelas" group-title="Venezuela", Novelas de Venezuela
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6474a86917f5e100089a0c1c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6474a7e7f77b6100080a89e7/colorLogoPNG.png" group-title="Novelas" group-title="Colombia", Novelas de Colombia
@@ -2411,32 +2411,32 @@ Ecuador
 ---------------------------------------------------
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="Ecuador", RTS (Geo EC)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="Ecuador", RTS 
 https://alba-ec-rts-rts.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tvc.com.ec/wp-content/themes/albavision-theme/parts-web/9212d2e4/logo.png" group-title="Ecuador", TVC (Geo EC)
+#EXTINF:-1 tvg-logo="https://www.tvc.com.ec/wp-content/themes/albavision-theme/parts-web/9212d2e4/logo.png" group-title="Ecuador", TVC 
 https://alba-ec-tvc-tvc.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="Ecuador", Ecuavisa
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa/.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.hechosecuador.com/rw_common/images/logo2021.png" group-title="Ecuador", Hechos Ecuador
-https://stmv.streamingvip.click/hechosecuador/hechosecuador/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vDDEKx6.jpg" group-title="Ecuador", Ecuador TV
+https://samson.streamerr.co:8081/shogun/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://wuanplus.tv/wp-content/uploads/2017/10/2-WUAN-Orange-RGB-para-WEB.png" group-title="Ecuador", Wuan Plus
-https://video2.makrodigital.com/wuanplus/wuanplus/playlist.m3u8
+https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a5avk5R.png" group-title="Ecuador", Asoma Vision
 https://asomatv.duckdns.org/livestream/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ToaQxon.png" group-title="Ecuador", El Sol TV
-http://streaming5.globalhostla.com/rtplive/elsolrad/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mkf2TJ6.png" group-title="Ecuador", Ciracu TV
+https://cloud37.ecuatel.com/ciracutv/live/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zgGuCYL.png" group-title="Ecuador", Austral TV
 https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8k8DsBL.png" group-title="Ecuador", Duran TV
-https://cloudvideo.servers10.com:8081/8074/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lY9Bx2u.png" group-title="Ecuador", Educa TV
+https://vid2.ecuamedia.net/educatv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1nHxdkR.png" group-title="Ecuador", Infinita TV
 https://s2.tvdatta.com:3753/hybrid/play.m3u8
@@ -2445,13 +2445,43 @@ https://s2.tvdatta.com:3753/hybrid/play.m3u8
 https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gUqKymM.png" group-title="Ecuador", America Estereo
-https://video.makrodigital.com/americaestereoquito/americaestereoquito/playlist.m3u8
+https://video2.makrodigital.com/americaestereoquito/americaestereoquito/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4r2Ycju.png" group-title="Ecuador", Nuka TV
-https://cloudvideo.servers10.com:8081/8118/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gUqKymM.png" group-title="Ecuador", America Estereo Guayaquil
+https://video2.makrodigital.com/americaestereoguayaquil/americaestereoguayaquil/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ligysaM.jpg" group-title="Ecuador", UCSG TV
+https://stream.catomedia.net/catomedia-app/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/flbMpMP.png" group-title="Ecuador", Señal Positiva
+https://eu1.servers10.com:8081/8108/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eUoj9bG.png" group-title="Ecuador", Capricho TV
+https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DzxGHRZ.png" group-title="Ecuador", RTV
+https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TZqOINg.png" group-title="Ecuador", Plus TV
+https://plustv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mZkW342.png" group-title="Ecuador", Manavision
+https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ez1NxwJ.jpg" group-title="Ecuador", Marca TV
+https://eu1.servers10.com:8081/8030/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CYldC2R.png" group-title="Ecuador", Puruwa TV
+https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://canalunoecuador.com/wp-content/uploads/2023/04/UNO-LOGO.png" group-title="Ecuador", Canal Uno Ecuador
+https://movil.ejeserver.com/live/canaluno.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ligysaM.jpg" group-title="Ecuador", Makro Digital TV
+https://makrodigitaltv.makrodigital.com/makrodigitaltelevision/iptv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IHKBGmu.png" group-title="Ecuador", Multicanal Catamayo
-https://multicanal.streamseguro.com/hls/streaming.m3u8
+https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yID5T2S.jpg" group-title="Ecuador", Metropoli Medios TV
 https://eu1.servers10.com:8081/8214/index.m3u8
@@ -2469,13 +2499,19 @@ Venezuela
 https://vcp.myplaytv.com/promar/promar/playlist.m3u8
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_canal_i_venezuela.png" group-title="Venezuela", Canal i 
-https://canali-live.akamaized.net/hls/live/2112725/CANALI_LIVE/master.m3u8
+https://canaliliv-ioriver-cdn.encoders.immergo.tv/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.telesurtv.net/export/sites/telesur/arte/log-iso-telesur.png_253617125.png" group-title="Venezuela", Telesur 
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/audio/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.telesurtv.net/export/sites/telesur/arte/log-iso-telesur.png_253617125.png" group-title="Venezuela", Telesur English 
-https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/unE2LGz.jpg" group-title="Venezuela", Mas Talk
+https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vtGED07.jpg" group-title="Venezuela", Venevision Internacional
+https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QtRNfaj.png" group-title="Venezuela", Telecentro VE
+https://streamtv.intervenhosting.net:3161/live/telecentrolive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wpWBsgf/IMG-20230705-154622.jpg" group-title="Venezuela", Aguacate TV
 https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
@@ -2484,7 +2520,7 @@ https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
 https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.panavision.tv/panavisiontv.png" group-title="Venezuela", Panavision
-https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8
+https://transcoder4.cef-technology.com/monitor/canal_panavision/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Canal_trt_logo.PNG" group-title="Venezuela", TRT
 https://vcp12.myplaytv.com/trt/trt/playlist.m3u8
@@ -2499,13 +2535,16 @@ https://streams2.sofast.tv/dash/c86661f4fe3941eda14c2551a7bf262a/index.m3u8
 https://stmv1.srvstm.com/tnovideo1/tnovideo1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yt6qyjL/trv.png" group-title="Venezuela", TRV
-https://vcp3.myplaytv.com/trv/trv/playlist.m3u8
+https://streaming5.globalhostla.com/rtplive/trvnetve/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0bqJksL.png" group-title="Venezuela", Vepaco
 https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wFC6Xxq.png", TVO
 https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8
+
+#EXTINF:-1 tvg-logo="https://un24.tv/wp-content/uploads/2024/05/UN24.png", UN24
+https://59d39900ebfb8.streamlock.net/untv-720/untv-720/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LBI2la0.png", Catacumbo TV
 https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8
@@ -2522,6 +2561,9 @@ http://45.173.198.59:8080/hls/nginx3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jOroeJZ.png", Somos TV
 https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jOroeJZ.png", Chivacoa TV
+https://live20.bozztv.com/akamaissh101/ssh101/1234chivacoa/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cCFxyIp.jpg", Kandela TV
 https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
 
@@ -2531,6 +2573,11 @@ https://streamtv.intervenhosting.net:3639/live/latinatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/usrP6T2.png", Onza TV
 https://stmv1.srvstm.com/gproducciones/gproducciones/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HG2DM8G/IMG-20230705-153952.jpg", Inter TV
+https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LN92K6h/IMG-20230705-154347.jpg",Guaro TV
+https://streamtv.intervenhosting.net:3592/stream/play.m3u8
 
 
 
@@ -2540,17 +2587,8 @@ Paraguay
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OqfBMGy.png" group-title="Paraguay", ABC PY
-https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CaA7l86.png" group-title="Paraguay", Mega TV PY
-https://ott3.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logotrececanal.png/512px-Logotrececanal.png" group-title="Paraguay", Trece PY
-https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Co3YrU0.png", Uniradio TV 
-https://59ce1298bfb98.streamlock.net/uniradiotv/uniradiotv/playlist.m3u8
+https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fkK7i8g.png", Paraguay TV
 https://stream.paraguaytv.gov.py/memfs/400fcc83-8f04-4497-8011-150847d44702.m3u8
@@ -2579,29 +2617,17 @@ http://159.203.148.226/live/farra.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c2rF3SS.png", NexT HD
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CALoCyo.png", Lim TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CALoCyo.png", Avi TV
 https://tv.invasivamedia.com/hls/limtv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XwmUbfp.png", Venusmedia
-https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7gHFKPZ.png", TDA
-https://59ce1298bfb98.streamlock.net/tvaire/tvaire/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="hhttps://i.imgur.com/6OlfgSQ.png", Oviedo Tv PY
-https://59ce1298bfb98.streamlock.net/oviedotv/oviedotv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qYRw4JP/Captura.png", Republica TV
-https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sgrEt9z.png", Mi TV 
 https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/npL1bPz.jpg", Salto TV
-https://ssh101.bozztv.com/ssh101/redcanindeyu/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkvYVyz/Captura.png", GO Radio TV
+https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://app.invasivamedia.com/assets/invasiva_logo.png", Invasiva TV
-https://tv.invasivamedia.com/hls/limtv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5KX4NvS.jpg", Panambi Digital
+https://video.hostingcaaguazu.com:19360/panambiveratv/panambiveratv.m3u8
 
 
 
