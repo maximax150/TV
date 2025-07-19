@@ -1556,14 +1556,11 @@ http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tKLYYys.png" group-title="Bolivia", Bolivia TV 7.2 
 https://5f2c1b0d880e5.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/4dc5de183727a12e5701c57cddac2f28.png" group-title="Bolivia", Bolivision 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Bolivisi%C3%B3n2025.png" group-title="Bolivia", Bolivision 
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Kwvbyr0/unnamed.jpg" group-title="Bolivia", UPPTV
-https://alba-bo-bolivision-upptv.stream.mediatiquestream.com/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://gigavision.tv/wp-content/uploads/2023/04/LOGO-GIGA-CENTRO-2.png" group-title="Bolivia", Gigavision
-https://tv2.bitstreaming.net:3896/live/gigavisionlplive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p7tt72X.png" group-title="Bolivia", Tele 6
+https://envivo.bolivia-link.com:3337/live/tele6live.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cadenaa.tv/wp-content/uploads/2022/03/logoaweb.png" group-title="Bolivia", Cadena A
 https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
@@ -1571,13 +1568,13 @@ https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/PAT_Logotype.png" group-title="Bolivia", PAT La Paz
 https://www.redpat.tv/proxy/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y3bymuv.jpg", TVA
-https://play.agenciastreaming.com:19360/8160/8160.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JkCywl5.png", TDT Multimedia
+https://video01.kshost.com.br:4443/juan6318/juan6318/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WGkMt2j.png" group-title="Bolivia", Red AD Venir Internacional 
 http://streamer1.streamhost.org:1935/salive/GMIredadvenirl/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://rtpbolivia.com.bo/wp-content/uploads/elementor/thumbs/Logo800-q7ydinf88s6s2skjnyjd1vt91n6zi980xvt55ezhae.png" group-title="Bolivia", RTP Bolivia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cECNvvr.png" group-title="Bolivia", RTP Bolivia
 https://rtp.noxun.net/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TUhFzql.png" group-title="Bolivia", VTV Canal 17
@@ -1589,17 +1586,32 @@ https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qgrWDIs.png" group-title="Bolivia", Univalle TV
 https://master.tucableip.com/univalletv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ce29Mbv.png" group-title="Bolivia", Marvision TV 
-https://vdo.grupolimalive.com:3631/live/marvisionlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4eNH7JS.png" group-title="Bolivia", IN TV 
+https://envivo.bolivia-link.com:3580/live/intvlive.m3u8
 
-#EXTINF:-1 tvg-logo="tvg-logo="https://i.imgur.com/TmSNZTg.jpg" group-title="Bolivia", Radio Uno
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TmSNZTg.jpg" group-title="Bolivia", Radio Uno
 https://master.tucableip.com/pstbolivia/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qYNmeDe.png" group-title="Bolivia", Red America TV
-https://videostream.shockmedia.com.ar:19360/redamericatv/redamericatv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8XHSVWY/IMG-20210613-153444.png" group-title="Bolivia", Imperial TV
+https://play.agenciastreaming.com:19360/8122/8122.m3u8
 
 #EXTINF:-1 tvg-logo="https://teleestrella.tv.bo/wp-content/uploads/2023/02/Imagen1-4-1024x336.png" group-title="Bolivia", TL Estrella
 https://envivo.bolivia-link.com:3785/live/teleestrellalive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jZ7g58e.png" group-title="Bolivia", FAP TV
+https://envivo.bolivia-link.com:3234/live/faptvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OEsT0KN.png" group-title="Bolivia", F10
+https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ljKb0UX.png" group-title="Bolivia", CTV
+https://live.ctvbolivia.com/hls/ctv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xDrc5MD/CORALTv.png" group-title="Bolivia", Coral TV
+https://tv.mediacp.eu:8081/coraltv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvu.umsa.bo/documents/780216/12171558/logo+tvu+icon.png" group-title="Bolivia", UMSA TVU
+https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8
 
 
 
@@ -2755,10 +2767,13 @@ Dominicana
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QpnctoU.png" group-title="Dominicana", Telefuturo
-https://ss9.domint.net:3054/tf_str/telefuturo/playlist.m3u8
+https://app-tf23.socialcast.com.do/memfs/5f90bcdb-589e-4e88-ad71-669aca24e7a7.m3u8
 
 #EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/logos/4rd.jpg" group-title="Dominicana", Canal 4 RD
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WhgySAk.png" group-title="Dominicana", Telemicro Canal 5
+https://live2.telemicro.com.do/live/55/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zKWFgeQ.png" group-title="Dominicana", Antena 7 RD
 https://alba-do-antena7-antena7.stream.mediatiquestream.com/index.m3u8
@@ -2770,13 +2785,13 @@ https://alba-do-antena7-c21.stream.mediatiquestream.com/index.m3u8
 https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XjGb2UM.png" group-title="Dominicana", Carivision
-https://ss5.domint.net:3174/car_str/carivision/playlist.m3u8
+https://ss2.tvrdomi.com:1936/carivision/carivision/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eQyjIgf.png"group-title="Dominicana", CDN Noticias 
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eQyjIgf.png"group-title="Dominicana", RDN
+https://vdo2.streamgato.us:3278/live/rdntvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MUEbjeP.png" group-title="Dominicana", Amé 
-https://ss9.domint.net:3040/ame_str/amecanal47/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mmjbcGr.png" group-title="Dominicana", Television del ESte
+https://vdo2.streamgato.us:3632/live/televisiondelestelive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I2wRq88.png" group-title="Dominicana", Bajo Techo TV 
 https://rdn.essastream.com:3042/live/bajotechotvlive.m3u8
@@ -2790,8 +2805,8 @@ https://tv.livestreaminggroup.info:3513/live/canal35live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gVtLpMD.png" group-title="Dominicana", Entelevision 
 https://tv.livestreaminggroup.info:3985/live/entelevisionlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sroIZuc.png" group-title="Dominicana", GDM TV
-https://ss2.domint.net:3200/gdm_str/gdmtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://enhd.ar/wp-content/uploads/2022/01/0e4a83fc-ba5b-4f26-a333-31f8bd544bcb-300x260.jpeg" group-title="Dominicana", Citrico TV
+https://rdn.essastream.com:3996/live/citricotvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xhkiiO3.png" group-title="Dominicana", GH Television
 https://tv.ghtelevision.com:3018/live/ghtelevisionlive.m3u8
@@ -2799,26 +2814,50 @@ https://tv.ghtelevision.com:3018/live/ghtelevisionlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DP6HmDV.png" group-title="Dominicana", Imagen Universal
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O6USO8r.png" group-title="Dominicana", Alegre TV
-https://vsrv2.az-streamingserver.com:3149/live/alegretvlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7F4jQ13.png" group-title="Dominicana", ZTV
+https://lb00zdigital.streamprolive.com/mnt/hls/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wMl1fNZ.png" group-title="Dominicana", Microvision
 https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Ei0kB8.png" group-title="Dominicana", Telenord Canal 8
+https://rdn.essastream.com:3170/live/telenord8live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Ei0kB8.png" group-title="Dominicana", Telenord Canal 10
+https://rdn.essastream.com:3676/live/telenord10live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Ei0kB8.png" group-title="Dominicana", Telenord Canal 12
+https://vdo1.streamgato.us:3345/live/telenord12live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KSquHTG.png" group-title="Dominicana", Boreal TV
+https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HcLs5eM.png" group-title="Dominicana", Canal 56
+https://vdopanel.jlahozconsulting.com/p/3124/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gK0M1jB.png" group-title="Dominicana", Canal del sol
+https://5790d294af2dc.streamlock.net/sol65/sol65/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KF7fLTx.png" group-title="Dominicana", Punta Cana TV
+https://rdn.essastream.com:3544/live/puntacanatvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZONPQhR.png" group-title="Dominicana", Ready TV
+https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XIwTM1h.png" group-title="Dominicana", La Mia TV
-https://vdo1.streamgato.us:3711/live/megatvlive.m3u8
+https://ss2.tvrdomi.com:1936/lamiatv/lamiatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/get-tv-do.png" group-title="Dominicana", GET TV
 https://cnn.livestreaminggroup.info:3050/live/gettvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UAfyeYT.png" group-title="Dominicana", Latina TV Internacional
-https://ss3.domint.net:3156/ltv_str/latinatvint/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/en1vCZB.png" group-title="Dominicana", Banao TV
+https://bonaotv.com/stream2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DKDFpHt.png" group-title="Dominicana", La Voz del Tropico
-https://ss2.domint.net:3226/vttv_str/tropicotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rI8c5UM.png" group-title="Dominicana", Tele Santo Domingo
+https://vdopanel.jlahozconsulting.com/p/3668/live/santodomingolive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/12Z9qPw.png" group-title="Dominicana", RNN 
-https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8
+https://2-fss-2.streamhoster.com/pl_120/206532-5753030-1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/90cTK8S.png" group-title="Dominicana", Telecanal 12 
 https://rdn.essastream.com:3258/live/telecanal12live.m3u8
