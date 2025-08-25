@@ -672,10 +672,10 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deportes", CombaTV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5090
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes", Fox en Tubi
+#EXTINF:-1 tvg-logo="https://images.icon-icons.com/2699/PNG/512/fox_logo_icon_170126.png" group-title="Deportes", Fox en Tubi
 https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist720p.m3u8
 
-#EXTINF:-1 group-title="Deportes", Fox Deportes Español
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/512px-FOX_Deportes_logo.png" group-title="Deportes", Fox Deportes en Tubi
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Deportes", Mega Sports CR
@@ -703,9 +703,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_trace-sports-stars_m.png" group-title="Deportes", Trace Sports
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/512px-FOX_Deportes_logo.png" group-title="Deportes", Fox Deportes en Tubi
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qFNRJLb.png" group-title="Deportes", Fubo Sports
 https://apollo.production-public.tubi.io/live/ac-fubo.m3u8
