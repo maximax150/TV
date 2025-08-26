@@ -255,6 +255,12 @@ https://d2se29pyn6ypkx.cloudfront.net/v1/master/964e44f31073da95414e409f230fb47a
 #EXTINF:-1 group-title="Kids & Geek", Anime Vision
 https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.kanade.cl/assets/img/profilepic_512px.png" group-title="Kids & Geek", Kanade
+https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH
+
+#EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/Marca-512.png" group-title="Kids & Geek", Energeek
+https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
+
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a682dd_51f45efdbf30473ca7a606fefcd7007a~mv2.png/v1/fill/w_214,h_104,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/logo_ZAZ_prop_002_edit%20(1)%20copy.png" group-title="Kids & Geek", ZAZ
 https://stream-us-east-1.getpublica.com/cl/250706d1lg0k2m6rgtrf7aul80/1280x720_1500000_0_f.m3u8
 
@@ -1908,6 +1914,9 @@ https://stream.skarnetchile.com:19360/canaltvm/canaltvm.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KisHIpA.png" group-title="Chile", T-Vinet
 https://unlimited1-cl-isp.dps.live/inet2/inet2.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FnInQRd.png" group-title="Chile", Tevex
+https://v4.tustreaming.cl/tevexinter/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/45e025a4deee9ffaeabe6af0b964a6c8.png" group-title="Chile", T13 Radio 
 https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8
 
@@ -1968,8 +1977,8 @@ https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oo5vDBv.png" group-title="Chile", NCT
 https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RXRKPvs.png" group-title="Chile", EMG Channel
-https://paneltv.online:1936/8186/8186/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NklUi6Y.png" group-title="Chile", Pura Noticia TV
+https://pnt.janusmedia.tv/hls/pnt.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LvzLg33.png" group-title="Chile", Campus TV
 https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8
@@ -4715,8 +4724,6 @@ https://59ec5453559f0.streamlock.net/sunbeachtv/smil:WEB/.m3u8
 https://59ec5453559f0.streamlock.net/JennyLive/_definst_/smil:41235/.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1609-294x165-FFFFFF.jpg", Miami TV Fashion
 https://59ec5453559f0.streamlock.net/miamitvfashion/smil:VIVALIVE/.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Porn_Barnstar_Hires.png",Europulse
-http://api.alpaca.t62a.com/hls/9108/stream0.m3u8
 #EXTINF:-1,Playboy
 http://200.229.147.142:8000/play/a00u/index.m3u8
 #EXTINF:-1 tvg-logo="http://200.52.150.5:8000/playlist/tvg-logo/a0w1.png",Venus
