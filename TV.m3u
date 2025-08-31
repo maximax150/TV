@@ -2231,7 +2231,7 @@ https://s1.tvdatta.com:3072/live/cotobrustvlive.m3u8
 https://liveingesta118.cdnmedia.tv/trivisionlive/smil:rtmp01.smil/playlist.m3u8?DVR
 
 #EXTINF:-1 tvg-logo="" group-title="Costa Rica", Radio Turrialba TV
-https://acceso.radiosportstv.online:3723/live/radioturrialbatvlive.m3u8
+https://acceso.radiosportstv.online:3723/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sAYNKJ8.png" group-title="Costa Rica", Garabito TV
 https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
