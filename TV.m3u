@@ -33,17 +33,7 @@ https://video20.klm99.com:3391/live/meganettvlive.m3u8
 #EXTINF:-1 tvg-logo="https://images.fubo.tv/station_logos/RCN-Mas_m.png" group-title="Entretenimiento" group-title="Colombia", RCN Mas
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/abc-broadcast-logo-png-transparent.png",ABC
-http://72.76.253.25:8000/play/a08l/index.m3u8
-#EXTINF:-1 tvg-logo="https://mycielo.org/wp-content/uploads/2020/10/telemundo-logo.png",TELEMUNDO
-http://72.76.253.25:8000/play/a07a/index.m3u8
-#EXTINF:-1 tvg-logo="https://hotdog.com/wp-content/uploads/unimas.png",UNIMAS
-http://72.76.253.25:8000/play/a08b/index.m3u8
-#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2023/10/Univision-Logo.png",UNIVISION
-http://72.76.253.25:8000/play/a07t/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2022/07/Corazon450x300-1.png" group-title="Novelas", Azteca Corazon
+#EXTINF:-1 tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2022/07/Corazon450x300-1.png" group-title="Novelas", Azteca Corazon Fast
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/ee/Logo_Novelas_TV.svg/1200px-Logo_Novelas_TV.svg.png" group-title="Novelas", Novelas en español
