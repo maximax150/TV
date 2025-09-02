@@ -30,9 +30,17 @@ https://apollo.production-public.tubi.io/live/ac-estrella-games.m3u8
 #EXTINF:-1 tvg-logo="https://meganetfun.com/storage/channel-logos/zPAS8Y1HZT1BoAwoFAkPuzaLX2UGBMNGvM6jGFcb.jpg" group-title="Entretenimiento", Bienestar TV
 https://video20.klm99.com:3391/live/meganettvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/sin_titulo_1920_x_1080_px_7.jpg" group-title="Entretenimiento" group-title="Colombia", RCN Mas
+#EXTINF:-1 tvg-logo="https://images.fubo.tv/station_logos/RCN-Mas_m.png" group-title="Entretenimiento" group-title="Colombia", RCN Mas
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/abc-broadcast-logo-png-transparent.png",ABC
+http://72.76.253.25:8000/play/a08l/index.m3u8
+#EXTINF:-1 tvg-logo="https://mycielo.org/wp-content/uploads/2020/10/telemundo-logo.png",TELEMUNDO
+http://72.76.253.25:8000/play/a07a/index.m3u8
+#EXTINF:-1 tvg-logo="https://hotdog.com/wp-content/uploads/unimas.png",UNIMAS
+http://72.76.253.25:8000/play/a08b/index.m3u8
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2023/10/Univision-Logo.png",UNIVISION
+http://72.76.253.25:8000/play/a07t/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2022/07/Corazon450x300-1.png" group-title="Novelas", Azteca Corazon
