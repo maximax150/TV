@@ -2119,13 +2119,13 @@ http://190.7.192.164:8018/play/s46
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sgRDRBK.jpg" group-title="Costa Rica", Canal 3 KMK
 https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/RepretelCanal42024.svg/1200px-RepretelCanal42024.svg.png" group-title="Costa Rica", Repretel 4 
+#EXTINF:-1 tvg-logo="https://alba-cr-repretel.cdn.mediatiquepress.com/wp-content/uploads/2024/11/LOGOS_CANALES4-150x84.png" group-title="Costa Rica", Repretel 4 
 http://190.7.192.164:8022/play/s33
 
 #EXTINF:-1 tvg-logo="https://genteopa.com/wp-content/uploads/2024/03/cropped-logo-opa-1.png" group-title="Costa Rica", OPA
 https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/RepretelCanal62024.svg/1200px-RepretelCanal62024.svg.png" group-title="Costa Rica", Repretel 6 
+#EXTINF:-1 tvg-logo="https://alba-cr-repretel.cdn.mediatiquepress.com/wp-content/uploads/2024/11/LOGOS_CANALES6-150x84.png" group-title="Costa Rica", Repretel 6 
 http://190.7.192.162:8001/play/s2
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Teletica.png" group-title="Costa Rica", Teletica 
@@ -2137,10 +2137,10 @@ http://190.7.192.162:8007/play/s11
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nefPi2Y.png" group-title="Costa Rica", Canal 8 Multimedios
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Costa Rica", Unife CR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TLM592m.png" group-title="Costa Rica", Unife CR
 http://190.7.192.164:8020/play/s41
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/RepretelCanal112024.svg/1200px-RepretelCanal112024.svg.png" group-title="Costa Rica", Repretel 11 
+#EXTINF:-1 tvg-logo="https://alba-cr-repretel.cdn.mediatiquepress.com/wp-content/uploads/2024/11/LOGOS_CANALES11-150x84.png" group-title="Costa Rica", Repretel 11 
 http://190.7.192.164:8018/play/s45
 
 #EXTINF:-1 tvg-logo="https://gxtra-cr-extratv.cdn.mediatiquepress.com/wp-content/uploads/2024/10/logo-Extra-tv-blanco-1-e1728675680531-150x32.png" group-title="Costa Rica", Extra TV
@@ -2166,10 +2166,10 @@ http://163.178.170.127:1935/quinceucr/_definst_/quinceucr.stream/playlist.m3u8
 https://v2.azulstream.com:8081/gamtv/gamtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cIvfnsa.jpg" group-title="Costa Rica" group-title="Cine y Series", Telered
-https://k20.usastreams.com:8081/telered/index.m3u8
+https://rtv.fullhd-streaming.com:19360/telered/telered.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bUNLWDP.png" group-title="Costa Rica" group-title="Cine y Series", Telesistema
-https://k20.usastreams.com:8081/telesistema/index.m3u8
+https://rtv.fullhd-streaming.com:19360/telesistemas/telesistemas.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Costa Rica" group-title="Cine y Series", Soy 506 TV
 https://cp.panelchs.com:1936/crwfnxfxvj/crwfnxfxvj/playlist.m3u8
@@ -2191,6 +2191,9 @@ http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lj2jRn3.png" group-title="Costa Rica", Nicoya TV 
 https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EBtgnxR.png" group-title="Costa Rica", 360 RFTV 
+https://acceso.radiosportstv.online:3417/live/360rftvcrlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N4pFVVF.png" group-title="Costa Rica", Costa Rica Channel
 https://video0.rogohosting.com:19360/8006/8006.m3u8
@@ -2224,9 +2227,6 @@ https://k20.usastreams.com:8081/tvsur/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vJZqrFY/a4ed367c69c23110d458a332af95be0be64566f288ccb5f261689344e6ba5e0d.png" group-title="Costa Rica", Coto Brus TV
 https://s1.tvdatta.com:3072/live/cotobrustvlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://trivisioncr.com/wp-content/uploads/2024/03/LOGOWEB400x100.png" group-title="Costa Rica", Trivision
-https://liveingesta118.cdnmedia.tv/trivisionlive/smil:rtmp01.smil/playlist.m3u8?DVR
 
 #EXTINF:-1 tvg-logo="" group-title="Costa Rica", Radio Turrialba TV
 https://acceso.radiosportstv.online:3723/stream/play.m3u8
