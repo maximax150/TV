@@ -5127,8 +5127,11 @@ https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/.m3u8
 https://59ec5453559f0.streamlock.net/sunbeachtv/smil:WEB/.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1609-294x165-FFFFFF.jpg", Miami TV Jenny
 https://59ec5453559f0.streamlock.net/JennyLive/_definst_/smil:41235/.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1609-294x165-FFFFFF.jpg", Miami TV Fashion
+https://cd3ab99e1e2247709dfc4c19848e7915.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-fashion/playlist.m3u8
 https://59ec5453559f0.streamlock.net/miamitvfashion/smil:VIVALIVE/.m3u8
+
 #EXTINF:-1,Playboy
 http://200.229.147.142:8000/play/a00u/index.m3u8
 #EXTINF:-1 tvg-logo="http://200.52.150.5:8000/playlist/tvg-logo/a0w1.png",Venus
