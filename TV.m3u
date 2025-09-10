@@ -2229,7 +2229,7 @@ https://k20.usastreams.com:8081/tvsur/index.m3u8
 https://s1.tvdatta.com:3072/live/cotobrustvlive.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Costa Rica", Radio Turrialba TV
-https://acceso.radiosportstv.online:3723/stream/play.m3u8
+https://acceso.radiosportstv.online:3723/live/radioturrialbatvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sAYNKJ8.png" group-title="Costa Rica", Garabito TV
 https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
@@ -5125,7 +5125,9 @@ https://dai.google.com/ssai/event/FK1bjW0AThepH1W7CJrByg/master.m3u8
 https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1609-294x165-FFFFFF.jpg", Miami TV Premium
 https://59ec5453559f0.streamlock.net/sunbeachtv/smil:WEB/.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1609-294x165-FFFFFF.jpg", Miami TV Jenny
+https://bdc8100df748400cabc7e133824c8ceb.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-jennylive/playlist.m3u8
 https://59ec5453559f0.streamlock.net/JennyLive/_definst_/smil:41235/.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1609-294x165-FFFFFF.jpg", Miami TV Fashion
