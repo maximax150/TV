@@ -4591,8 +4591,6 @@ http://45.163.139.42:8000/play/a03r/index.m3u8
 http://45.163.139.42:8000/play/a00e/index.m3u8
 #EXTINF:-1,Univision HD
 http://45.163.139.42:8000/play/a00g/index.m3u8
-#EXTINF:-1,VENUS
-http://45.163.139.42:8000/play/a04c/index.m3u8
 #EXTINF:-1,VM Latino
 http://45.163.139.42:8000/play/a03d/index.m3u8
 #EXTINF:-1,Vintage Music
@@ -4736,8 +4734,6 @@ http://200.92.227.238:8000/play/a0mh/index.m3u8
 http://200.92.227.238:8000/play/a0ok/index.m3u8
 #EXTINF:-1,Digital 15 RD
 http://200.92.227.238:8000/play/a0s6/index.m3u8
-#EXTINF:-1,Discovery Channel
-http://200.92.227.238:8000/play/a0o2/index.m3u8
 #EXTINF:-1,Discovery Channel HD
 http://200.92.227.238:8000/play/a0q0/index.m3u8
 #EXTINF:-1,Discovery Home & Health
@@ -5736,10 +5732,6 @@ http://user.tvcluboficial.com/live/m/m/292.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsportsplus.png",Win Sports +
 #EXTVLCOPT:http-user-agent=dfghdfghfghdfghdfg
 http://user.tvcluboficial.com/live/m/m/881.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/yugioh.png" ,Yu-Gi-Oh! 24/7
-#EXTVLCOPT:http-user-agent=dfghdfghfghdfghdfg
-http://user.tvcluboficial.com/live/m/m/664.m3u8
-
 
 
 ---------------------------------------------------
@@ -5758,5 +5750,5 @@ https://cd3ab99e1e2247709dfc4c19848e7915.mediatailor.us-east-2.amazonaws.com/v1/
 
 #EXTINF:-1,Playboy
 http://200.229.147.142:8000/play/a00u/index.m3u8
-#EXTINF:-1 tvg-logo="http://200.52.150.5:8000/playlist/tvg-logo/a0w1.png",Venus
-http://200.229.147.142:8000/play/a01r/index.m3u8
+#EXTINF:-1,VENUS
+http://45.163.139.42:8000/play/a04c/index.m3u8
