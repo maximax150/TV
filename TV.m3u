@@ -5724,7 +5724,7 @@ http://user.tvcluboficial.com/live/m/m/413.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/vtv.png",VTV Uruaguay
 #EXTVLCOPT:http-user-agent=dfghdfghfghdfghdfg
 http://user.tvcluboficial.com/live/m/m/708.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/wapa.png" group-title="Puerto Rico",Wapa PR
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/wapa.png",Wapa PR
 #EXTVLCOPT:http-user-agent=dfghdfghfghdfghdfg
 http://user.tvcluboficial.com/live/m/m/327.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/warnerchannel.png" ,Warner Channel
@@ -5733,7 +5733,7 @@ http://user.tvcluboficial.com/live/m/m/102.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsports.png" ,Win Sports
 #EXTVLCOPT:http-user-agent=dfghdfghfghdfghdfg
 http://user.tvcluboficial.com/live/m/m/292.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsportsplus.png" group-title="HD",Win Sports +
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsportsplus.png",Win Sports +
 #EXTVLCOPT:http-user-agent=dfghdfghfghdfghdfg
 http://user.tvcluboficial.com/live/m/m/881.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/yugioh.png" ,Yu-Gi-Oh! 24/7
