@@ -5120,16 +5120,10 @@ https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/MTVHITS/20-hls/live-media.
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/NATGEO/40-hls/live-media.m3u8
 #EXTINF:-1 ,NICK
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/NICK/20-hls/live-media.m3u8
-#EXTINF:-1 ,NICK
-http://185.189.225.150:85/nickelodeon/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,NICK JR
 http://185.189.225.150:85/NickJr/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,OuterMax
-http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/109.m3u8
 #EXTINF:-1 ,PARAMOUNT
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/PARAMOUNT/20-hls/live-media.m3u8
-#EXTINF:-1 ,PARAMOUNT
-http://185.189.225.150:85/Paramount/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,PASIONES
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/PASIONES/20-hls/live-media.m3u8
 #EXTINF:-1 ,RCN
@@ -5178,10 +5172,8 @@ http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/124.m3u8
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/125.m3u8
 #EXTINF:-1 ,STUDIO UNIVERSAL
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/STUDIOUNIVERSAL/40-hls/live-media.m3u8
-#EXTINF:-1 ,SYFY
+#EXTINF:-1 ,USA
 http://185.189.225.150:85/syfy/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,TBS
-https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/TBS/40-hls/live-media.m3u8
 #EXTINF:-1 ,TCM
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/TCM/20-hls/live-media.m3u8
 #EXTINF:-1 ,TELEHIT
@@ -5190,7 +5182,7 @@ https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/TELEHIT/20-hls/live-media.
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/TELEHITMUSICA/20-hls/live-media.m3u8
 #EXTINF:-1 ,TELEMUNDO
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/TELEMUNDO/40-hls/live-media.m3u8
-#EXTINF:-1 ,TITAN
+#EXTINF:-1 ,TITAN CHANNEL
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/TITAN/40-hls/live-media.m3u8
 #EXTINF:-1 ,TLNOVELAS
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/TLNOVELAS/20-hls/live-media.m3u8
@@ -5202,7 +5194,7 @@ http://51.79.81.69:8080/live/ff1bb2e6a4044117b3304befef31b640/29967f2f03d542fd94
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/TNTSERIES/40-hls/live-media.m3u8
 #EXTINF:-1 ,TOONCAST
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/TOONCAST/20-hls/live-media.m3u8
-#EXTINF:-1 ,TYC SPORT
+#EXTINF:-1 ,TYC SPORTS
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/TYCSPORT/40-hls/live-media.m3u8
 #EXTINF:-1 ,UNIVERSAL
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/UNIVERSALCH/40-hls/live-media.m3u8
@@ -5711,10 +5703,10 @@ http://user.tvcluboficial.com/live/m/m/98.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal.png" ,Universal
 #EXTVLCOPT:http-user-agent=dfghdfghfghdfghdfg
 http://user.tvcluboficial.com/live/m/m/137.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/univision.png" ,Univision
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/univision.png",Univision USA
 #EXTVLCOPT:http-user-agent=dfghdfghfghdfghdfg
 http://user.tvcluboficial.com/live/m/m/99.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" ,Univision Tlnovelas
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png",Univision Tlnovelas
 #EXTVLCOPT:http-user-agent=dfghdfghfghdfghdfg
 http://user.tvcluboficial.com/live/m/m/413.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/vtv.png",VTV Uruaguay
@@ -5723,10 +5715,10 @@ http://user.tvcluboficial.com/live/m/m/708.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/wapa.png",Wapa PR
 #EXTVLCOPT:http-user-agent=dfghdfghfghdfghdfg
 http://user.tvcluboficial.com/live/m/m/327.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/warnerchannel.png" ,Warner Channel
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/warnerchannel.png",Warner Channel
 #EXTVLCOPT:http-user-agent=dfghdfghfghdfghdfg
 http://user.tvcluboficial.com/live/m/m/102.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsports.png" ,Win Sports
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsports.png",Win Sports
 #EXTVLCOPT:http-user-agent=dfghdfghfghdfghdfg
 http://user.tvcluboficial.com/live/m/m/292.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsportsplus.png",Win Sports +
