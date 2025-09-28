@@ -22,10 +22,10 @@ https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
 
 #EXTINF:-1 tvg-logo="https://static-ottera.com/prod/est/linear_channel/thumbnails/square/etv_-_1920x1920_1_0.jpg" group-title="Entretenimiento", Estrella TV
-https://estrellatv-oando.amagi.tv/playlistR720P.m3u8
+https://estrellatv-oando.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z52nEnH.png" group-title="Entretenimiento", Estrella TV Games
-https://apollo.production-public.tubi.io/live/ac-estrella-games.m3u8
+https://amg00567-estrellamedia-estrellagames-estrellamedia-zy1f4.amagi.tv/ts-us-e2-n1/playlist/amg00567-estrellamedia-estrellagames-estrellamedia/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://meganetfun.com/storage/channel-logos/zPAS8Y1HZT1BoAwoFAkPuzaLX2UGBMNGvM6jGFcb.jpg" group-title="Entretenimiento", Bienestar TV
 https://video20.klm99.com:3391/live/meganettvlive.m3u8
@@ -247,9 +247,6 @@ https://giatv.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/chunks.
 #EXTINF:-1 group-title="Kids & Geek", Anime Vision Classics
 https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
 
-#EXTINF:-1 group-title="Kids & Geek", Anime Onegai
-https://d2se29pyn6ypkx.cloudfront.net/v1/master/964e44f31073da95414e409f230fb47a468175f5/6469fafa-ca3b-40cd-b903-ab9c3eeea757/6469fafa-ca3b-40cd-b903-ab9c3eeea757/playlist.m3u8
-
 #EXTINF:-1 group-title="Kids & Geek", Anime Vision
 https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
 
@@ -260,7 +257,7 @@ https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH
 https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a682dd_51f45efdbf30473ca7a606fefcd7007a~mv2.png/v1/fill/w_214,h_104,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/logo_ZAZ_prop_002_edit%20(1)%20copy.png" group-title="Kids & Geek", ZAZ
-https://stream-us-east-1.getpublica.com/cl/250706d1lg0k2m6rgtrf7aul80/1280x720_1500000_0_f.m3u8
+https://cloud.fastchannel.es/mic/manifiest/hls/zaztv1/zaztv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Clan_TVE_logo.svg/2560px-Clan_TVE_logo.svg.png" group-title="Kids & Geek", Clan Internacional
 https://rtvelivestream.rtve.es/rtvesec/int/clan_int_main_dvr.m3u8
@@ -2023,6 +2020,9 @@ http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/giPOGyi.png" group-title="Colombia", ATV Colombia
 https://movil.ejeserver.com/live/canalatv.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/telebolivar-6347.jpg" group-title="Colombia", TeleBolivar
+https://live20.bozztv.com/akamaissh101/ssh101/telebolivar/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1836009952420274177/FfYonU6r_400x400.jpg" group-title="Colombia", MCI TV
 https://video.ejeserver.com/live/mcitelevision.m3u8
@@ -5525,8 +5525,10 @@ XXX
 https://dai.google.com/ssai/event/FK1bjW0AThepH1W7CJrByg/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1609-294x165-FFFFFF.jpg", Miami TV
 https://59ec5453559f0.streamlock.net/sunbeachtv/smil:WEB/.m3u8
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1609-294x165-FFFFFF.jpg", Miami TV Jenny
-https://bdc8100df748400cabc7e133824c8ceb.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-jennylive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1609-294x165-FFFFFF.jpg", Miami TV 2
+https://59ec5453559f0.streamlock.net/miamitv/smil:95304/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1609-294x165-FFFFFF.jpg", Miami TV Models
+https://158c4a71a80948ceb6c3c0696f90f164.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-models/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1609-294x165-FFFFFF.jpg", Miami TV Fashion
 https://cd3ab99e1e2247709dfc4c19848e7915.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-fashion/playlist.m3u8
 
