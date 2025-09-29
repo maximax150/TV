@@ -435,16 +435,7 @@ https://acceso.radiosportstv.online:3259/live/retroxtvlive.m3u8
 #EXTINF:-1 tvg-logo="https://estrellamedia.com/wp-content/uploads/2023/04/CineETV-1.jpg" group-title="Cine y Series", Cine Estrella TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p16HNIM.png" group-title="Cine y Series", Made In Hollywood
-https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PJdzoLN.png" group-title="Cine y Series", BritBox Mysteries
-https://aegis-cloudfront-1.tubi.video/647bc22c-e1bb-4bca-afaf-5de99cbc2286/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tthm8Q5.png" group-title="Cine y Series", TV One 
-https://apollo.production-public.tubi.io/live/ac-tv-one.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.artsatl.org/wp-content/uploads/Miramax-Films-e1335460617269.jpg" group-title="Cine y Series" Miramax Movie Channel
+#EXTINF:-1 tvg-logo="https://www.artsatl.org/wp-content/uploads/Miramax-Films-e1335460617269.jpg" group-title="Cine y Series", Miramax Movie Channel
 https://d3d9ae4yefa76z.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Universal_Pictures_logo.png" group-title="Cine y Series", Universal Crime
@@ -693,9 +684,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5090
 #EXTINF:-1 tvg-logo="https://images.icon-icons.com/2699/PNG/512/fox_logo_icon_170126.png" group-title="Deportes", Fox en Tubi
 https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/512px-FOX_Deportes_logo.png" group-title="Deportes", Fox Deportes en Tubi
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Deportes", Mega Sports CR
 https://video20.klm99.com:3703/live/megasportlive.m3u8
 
@@ -721,9 +709,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_trace-sports-stars_m.png" group-title="Deportes", Trace Sports
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qFNRJLb.png" group-title="Deportes", Fubo Sports
-https://apollo.production-public.tubi.io/live/ac-fubo.m3u8
 
 #EXTINF:-1 tvg-logo="https://inthemixstyle.com/wp-content/uploads/2020/12/Redbull-TV-HD.jpg" group-title="Deportes", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
@@ -768,22 +753,16 @@ https://apollo.production-public.tubi.io/live/ac-fast-studios-womens-sports.m3u8
 https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FiteTV-Nuestra/263.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/bd7d2cc4-3374-46bf-b031-fb8b3082ed06/INFAST_logo_dark_-_brittany_benton.png" group-title="Deportes", INFAST
-https://jmp2.uk/sam-CABA800001IQ.m3u8
 
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/603d35f3-bea2-4f06-b179-1a98c0adf534/Untitled_15.png" group-title="Deportes", Racing America
-https://apollo.production-public.tubi.io/live/ac-racing-america.m3u8
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/NHRA_logo_dark.png" group-title="Deportes", NHRA TV
-https://apollo.production-public.tubi.io/live/ac-nhra.m3u8
 
 #EXTINF:-1 tvg-logo="https://surfchanneltv.com/wp-content/uploads/2021/03/logo512.png" group-title="Deportes", Surf channel
-https://surfchannel-surfchannel-01-es.samsung.wurl.tv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/?q=bein" group-title="Deportes", Bein Sports Xtra US
-https://apollo.production-public.tubi.io/live/ac-bein.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://iptv-org.github.io/?q=bein" group-title="Deportes", Bein Sports Xtra Español
-https://aegis-cloudfront-1.tubi.video/82c7f2de-f4ea-44a4-8200-069c5c0bb639/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3500003YK_20230510T044211SQUARE.png_20230510044211.png" group-title="Deportes" , MyPadel TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01970-mypadeldigitals-mypadeltv-samsungspain/playlist.m3u8
@@ -3303,16 +3282,15 @@ https://livetv-fa.tubi.video/khou/live.m3u8
 https://linear-291.frequency.stream/mt/ovationtv/291/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/1200px-Ion_logo.svg.png", ION
-https://apollo.production-public.tubi.io/live/ac-ion.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.scrippsnetworks.com/wp-content/uploads/2022/02/snn_logo-IONPlus.png", ION Plus
-https://apollo.production-public.tubi.io/live/ac-ion-plus.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/1200px-ION_Mystery_logo.svg.png", ION Mistery
 https://livetv-fa.tubi.video/ion-mystery/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.bouncetv.com/wp-content/themes/wp-bootstrap-starter/images/bouncexl/header-logo.png", Bounce XL
-https://apollo.production-public.tubi.io/live/ac-bounce-xl.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://mma.prnewswire.com/media/2074342/SCRIPPS_SN_Primary_Logo.jpg", Scripps News
 https://livetv-fa.tubi.video/scripps-news/playlist.m3u8
@@ -3328,9 +3306,6 @@ https://reflect-ccx.cablecast.tv/live-9/live/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8mAJuut.png", Dateline
 https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8
-
-#EXTINF:-1 tvg-logo="", Ebony TV
-https://aegis-cloudfront-1.tubi.video/22574bab-8a1f-44f4-b62f-ae2963c6a875/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6FFkc3.png", Arts
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
