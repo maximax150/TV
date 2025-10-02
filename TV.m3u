@@ -21,6 +21,9 @@ https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2022/07/Clic450x300.png" group-title="Entretenimiento", Azteca Clic
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
 
+#EXTINF:-1 tvg-logo="https://clarotv.claropy.net/img/topLogo.png" group-title="Entretenimiento", Canal Claro
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/68224482c5d53e1351aaf2f2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 #EXTINF:-1 tvg-logo="https://static-ottera.com/prod/est/linear_channel/thumbnails/square/etv_-_1920x1920_1_0.jpg" group-title="Entretenimiento", Estrella TV
 https://estrellatv-oando.amagi.tv/playlist.m3u8
 
@@ -62,6 +65,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6474a7e7f77b6100080a89
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6474a7958e3c0a0008b97cae/colorLogoPNG.png" group-title="Novelas" group-title="Mexico", Novelas de Mexico
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6474a7958e3c0a0008b97cae/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/686eed4c677f2f98b4a1ccd4/colorLogoPNG.png" group-title="Novelas" group-title="Mexico", Novelas de otros continentes
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/686eed4c677f2f98b4a1ccd4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qs4szHD.png" group-title="Entretenimiento", Boricua TV
@@ -271,8 +277,15 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c
 #EXTINF:-1 tvg-logo="https://fontmeme.com/images/Spongebob-TV-Series.png" group-title="Kids & Geek", Bob Esponja
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=cb17&deviceDNT=0&deviceModel=0
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/677d93afe650a700081e5f18/colorLogoPNG-1667576393608.png", Popeye el Marino
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/677d93afe650a700081e5f18/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=cb17&deviceDNT=0&deviceModel=0
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6322099c822bbc00074857db/colorLogoPNG-1667576393608.png", Los Padrinos Mágicos
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6322099c822bbc00074857db/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=cb17&deviceDNT=0&deviceModel=0
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6870072ca9d5c45c3e9466f1/colorLogoPNG-1667576393608.png", Pokemon
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6870072ca9d5c45c3e9466f1/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=cb17&deviceDNT=0&deviceModel=0
+
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/619d5e6a093e7c0007489211/colorLogoPNG.png" group-title="Kids & Geek",Baby Shark TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619d5e6a093e7c0007489211/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
