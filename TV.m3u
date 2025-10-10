@@ -113,7 +113,7 @@ https://e1020cd35a264d63afeb5bfbc9c99157.mediatailor.us-west-2.amazonaws.com/v1/
 https://8a5ca32b32db4d4c91cca727d42d63b3.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-5-REVRYGLOBAL-24i/mt/24i/5/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/633-294x165-FFFFFF.jpg" group-title="Entretenimiento", Miami TV Latino
-https://6478139b04f94cf6a3e52c06b84c8d48.mediatailor.us-east-2.amazonaws.com/v1/manifest/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-latino/93ef6b5a-d3f0-4932-90d5-93285e4756a1/0.m3u8
+https://77f7ee394fe8493493685681bfe14df3.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/VivaLive-Latino/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3469-960x540-000000.jpg" group-title="Entretenimiento", Miami TV Life
 https://3b3df95821f549fa8df20812c44194a5.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-life/playlist.m3u8
@@ -5511,14 +5511,15 @@ XXX
 
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/55a44f9ce4b09a5577ad69df/1665439843263-DF4Z89NJPYRZMUCSOO17/02f1b42094067ddbe8e67c0df20fc46e?format=1000w"  group-title="+18", Kaloopy
 https://dai.google.com/ssai/event/FK1bjW0AThepH1W7CJrByg/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1609-294x165-FFFFFF.jpg", Miami TV
-https://59ec5453559f0.streamlock.net/sunbeachtv/smil:WEB/.m3u8
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1609-294x165-FFFFFF.jpg", Miami TV 2
-https://59ec5453559f0.streamlock.net/miamitv/smil:95304/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1609-294x165-FFFFFF.jpg", Miami TV 
+https://43d129f5f27a459c9905c5e874866316.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/VivaLive-MiamiTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1609-294x165-FFFFFF.jpg", Miami TV Models
 https://158c4a71a80948ceb6c3c0696f90f164.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-models/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1609-294x165-FFFFFF.jpg", Miami TV Fashion
 https://cd3ab99e1e2247709dfc4c19848e7915.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-fashion/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1609-294x165-FFFFFF.jpg", Miami TV SunBeach
+https://59ec5453559f0.streamlock.net/sunbeachtv/smil:WEB/.m3u8
 
 #EXTINF:-1,Playboy
 http://200.229.147.142:8000/play/a00u/index.m3u8
