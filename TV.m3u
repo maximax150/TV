@@ -2501,22 +2501,22 @@ Peru
 
 
 #EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="Peru", TV Peru
-https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
+https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="Peru", TV Peru Internacional
-https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
+https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c27.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPENOTICIAS.png", TV Peru Noticias 
-https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
+https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e47.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Identidad_Peruana_ipe_2020.png/1200px-Identidad_Peruana_ipe_2020.png", IPE
-https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
+#EXTINF:-1 tvg-logo="https://www.canalipe.gob.pe/sites/default/themes/concise_drupal/static/media/header/logo.png", IPE
+https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e677.m3u8
 
 #EXTINF:-1 tvg-logo="https://cultura24.tv/sites/default/files/inline-images/logo.png", Cultura 24 TV 
 https://www.opencaster.com/resources/hls_stream/cultura24.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/05gwtk2.png", Antares TV 
-https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8?PlaylistM3UCL
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png", ATV
 https://d19e55ehz2il4i.cloudfront.net/index.m3u8
