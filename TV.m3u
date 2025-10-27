@@ -1439,8 +1439,6 @@ Bolivia
 ---------------------------------------------------
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tKLYYys.png" group-title="Bolivia", Bolivia TV 7.1 
-http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Bolivisi%C3%B3n2025.png" group-title="Bolivia", Bolivision 
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
@@ -1451,11 +1449,14 @@ https://www.redpat.tv/proxylpz/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JkCywl5.png", TDT Multimedia
 https://video01.kshost.com.br:4443/juan6318/juan6318/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qgrWDIs.png", Univalle TV
+https://master.tucableip.com/univalletv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WGkMt2j.png" group-title="Bolivia", Red AD Venir Internacional 
 http://streamer1.streamhost.org:1935/salive/GMIredadvenirl/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cECNvvr.png" group-title="Bolivia", RTP Bolivia
-https://rtp.noxun.net:444/hls720/stream3.m3u8
+https://rtp.noxun.net/hls720/stream3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YC5FRmq.png" group-title="Bolivia", Red CCTV
 https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
@@ -1475,8 +1476,11 @@ https://live.ctvbolivia.com/hls/ctv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xDrc5MD/CORALTv.png" group-title="Bolivia", Coral TV
 https://tv.mediacp.eu:8081/coraltv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvu.umsa.bo/documents/780216/12171558/logo+tvu+icon.png" group-title="Bolivia", UMSA TVU
+#EXTINF:-1 tvg-logo="https://tvu.umsa.bo/documents/780216/12171558/logo+tvu+icon.png" group-title="Bolivia", TVU
 https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvu.umsa.bo/documents/780216/12171558/logo+tvu+icon.png" group-title="Bolivia", TVU Internacional
+https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8
 
 
 
@@ -1706,8 +1710,8 @@ Chile
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NnkSyta.png" group-title="Chile", NTV 
 https://marine2.miplay.cl/ntv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Chile", Caracola TV
-https://stream.gia.tv/giatv/giatv-medioscaracola@gmail.com/medioscaracola@gmail.com/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.caracolatv.cl/wp-content/uploads/2022/11/cropped-LOGO-CARACOLA-05-1-768x432.png" group-title="Chile", Caracola TV
+https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oYFto0V.png" group-title="Chile", *TV Chile (Geo Chile VPN)
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
