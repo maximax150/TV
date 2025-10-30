@@ -5805,6 +5805,12 @@ XXX
 https://dai.google.com/ssai/event/FK1bjW0AThepH1W7CJrByg/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/auHH1Ig.png", Fashion TV 
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Miami Swim Bikini
+https://rpn3.bozztv.com/dvrfl07/ushba-t8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="", Afreeca TV
+https://fl1001.bozztv.com/ushba43/index.m3u8
+#EXTINF:-1 tvg-logo="", F Channel
+https://fl1004.bozztv.com/ushba-m5/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1609-294x165-FFFFFF.jpg", Miami TV 
 https://43d129f5f27a459c9905c5e874866316.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/VivaLive-MiamiTV/playlist.m3u8
