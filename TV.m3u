@@ -5045,8 +5045,7 @@ https://cd3ab99e1e2247709dfc4c19848e7915.mediatailor.us-east-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1609-294x165-FFFFFF.jpg", Miami TV SunBeach
 https://59ec5453559f0.streamlock.net/sunbeachtv/smil:WEB/.m3u8
 
-#EXTINF:-1,Playboy
-http://200.229.147.142:8000/play/a00u/index.m3u8
+
 #EXTINF:-1,Playboy HD
 http://177.234.230.206:8011/play/a0oo/index.m3u8
 #EXTINF:-1,Venus
