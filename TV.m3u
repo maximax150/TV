@@ -2009,6 +2009,9 @@ http://190.7.192.162:8007/play/s10
 
 #EXTINF:-1 tvg-logo="https://www.teleticaradio.com/img/Logo-Color.png",Teletica Radio
 http://190.7.192.162:8007/play/s11
+
+#EXTINF:-1,XperTv HD
+http://45.163.139.42:8000/play/a02x/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nefPi2Y.png" group-title="Costa Rica", Canal 8 Multimedios
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
@@ -2745,57 +2748,142 @@ https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iODADvi.png" group-title="España", TVE America
 https://rtvelivestream.rtve.es/rtvesec/int/tvei_ame_main_dvr.m3u8
 
+
+#EXTINF:-1,24h HD
+http://176.65.146.237:8401/play/a094/index.m3u8
+#EXTINF:-1,A3Series
+http://176.65.146.237:8401/play/a0ai/index.m3u8
+#EXTINF:-1,AndaluciaTV
+http://176.65.146.237:8401/play/a09g/index.m3u8
+#EXTINF:-1,Antena 3
+http://176.65.146.237:8401/play/a0ae/index.m3u8
+#EXTINF:-1,BOM
+http://176.65.146.237:8401/play/a09d/index.m3u8
+#EXTINF:-1,BOM RADIO
+http://176.65.146.237:8401/play/a09o/index.m3u8
+#EXTINF:-1,BeMad tv HD
+http://176.65.146.237:8401/play/a0aj/index.m3u8
+#EXTINF:-1,Boing
+http://176.65.146.237:8401/play/a0ad/index.m3u8
+#EXTINF:-1,C.S.R. Malaga
+http://176.65.146.237:8401/play/a09a/index.m3u8
+#EXTINF:-1,CADENA 100
+http://176.65.146.237:8401/play/a09m/index.m3u8
+#EXTINF:-1,COPE
+http://176.65.146.237:8401/play/a0aa/index.m3u8
+#EXTINF:-1,Canal Fiesta R.
+http://176.65.146.237:8401/play/a09e/index.m3u8
+#EXTINF:-1,CanalSur2
+http://176.65.146.237:8401/play/a099/index.m3u8
+#EXTINF:-1,CanalSurHD
+http://176.65.146.237:8401/play/a09c/index.m3u8
+#EXTINF:-1,Clan HD
+http://176.65.146.237:8401/play/a09t/index.m3u8
+#EXTINF:-1,Cuatro HD
+http://176.65.146.237:8401/play/a09s/index.m3u8
+#EXTINF:-1,DIAL
+http://176.65.146.237:8401/play/a0a4/index.m3u8
+#EXTINF:-1,DKISS
+http://176.65.146.237:8401/play/a09y/index.m3u8
+#EXTINF:-1,DMAX
+http://176.65.146.237:8401/play/a09j/index.m3u8
+#EXTINF:-1,Disney Channel
+http://176.65.146.237:8401/play/a09h/index.m3u8
+#EXTINF:-1,Divinity
+http://176.65.146.237:8401/play/a09q/index.m3u8
+#EXTINF:-1,EUROPA FM
+http://176.65.146.237:8401/play/a0a7/index.m3u8
+#EXTINF:-1,Energy
+http://176.65.146.237:8401/play/a0ac/index.m3u8
+#EXTINF:-1,FDF
+http://176.65.146.237:8401/play/a09p/index.m3u8
+#EXTINF:-1,FlamencoRadio.com
+http://176.65.146.237:8401/play/a09b/index.m3u8
+#EXTINF:-1,GOL PLAY HD
+http://176.65.146.237:8401/play/a09k/index.m3u8
+#EXTINF:-1,HIT FM
+http://176.65.146.237:8401/play/a0a0/index.m3u8
+#EXTINF:-1,Kiss FM
+http://176.65.146.237:8401/play/a09z/index.m3u8
+#EXTINF:-1,LOS40
+http://176.65.146.237:8401/play/a0a3/index.m3u8
+#EXTINF:-1,LOS40 Classic
+http://176.65.146.237:8401/play/a0am/index.m3u8
+#EXTINF:-1,LOS40 Urban
+http://176.65.146.237:8401/play/a0an/index.m3u8
+#EXTINF:-1,La 1 HD
+http://176.65.146.237:8401/play/a095/index.m3u8
+#EXTINF:-1,La 1 UHD
+http://176.65.146.237:8401/play/a09u/index.m3u8
+#EXTINF:-1,La 2 HD
+http://176.65.146.237:8401/play/a098/index.m3u8
+#EXTINF:-1,MEGA
+http://176.65.146.237:8401/play/a0a5/index.m3u8
+#EXTINF:-1,Melodia FM
+http://176.65.146.237:8401/play/a0a8/index.m3u8
+#EXTINF:-1,ONDA CERO
+http://176.65.146.237:8401/play/a0a6/index.m3u8
+#EXTINF:-1,PARAMOUNT NETWORK
+http://176.65.146.237:8401/play/a09i/index.m3u8
+#EXTINF:-1,R.A.I. Malaga
+http://176.65.146.237:8401/play/a09f/index.m3u8
+#EXTINF:-1,RADIO MARCA
+http://176.65.146.237:8401/play/a09l/index.m3u8
+#EXTINF:-1,RADIO MARIA
+http://176.65.146.237:8401/play/a09n/index.m3u8
+#EXTINF:-1,RNE Andalucía
+http://176.65.146.237:8401/play/a096/index.m3u8
+#EXTINF:-1,Radio 5 RNE
+http://176.65.146.237:8401/play/a097/index.m3u8
+#EXTINF:-1,Radio Clasica HQ RNE
+http://176.65.146.237:8401/play/a09v/index.m3u8
+#EXTINF:-1,Radio Exterior RNE
+http://176.65.146.237:8401/play/a09x/index.m3u8
+#EXTINF:-1,Radio3 HQ RNE
+http://176.65.146.237:8401/play/a09w/index.m3u8
+#EXTINF:-1,Radiolé
+http://176.65.146.237:8401/play/a0ao/index.m3u8
+#EXTINF:-1,Realmadrid TV HD
+http://176.65.146.237:8401/play/a0ak/index.m3u8
+#EXTINF:-1,Rock FM
+http://176.65.146.237:8401/play/a0ab/index.m3u8
+#EXTINF:-1,SER
+http://176.65.146.237:8401/play/a0a2/index.m3u8
+#EXTINF:-1,TEN
+http://176.65.146.237:8401/play/a0al/index.m3u8
+#EXTINF:-1,TRECE
+http://176.65.146.237:8401/play/a0a9/index.m3u8
+#EXTINF:-1,Telecinco HD
+http://176.65.146.237:8401/play/a09r/index.m3u8
+#EXTINF:-1,esRadio
+http://176.65.146.237:8401/play/a0a1/index.m3u8
+#EXTINF:-1,laSexta
+http://176.65.146.237:8401/play/a0af/index.m3u8
+#EXTINF:-1,neox
+http://176.65.146.237:8401/play/a0ag/index.m3u8
+#EXTINF:-1,nova
+http://176.65.146.237:8401/play/a0ah/index.m3u8
+#EXTINF:-1,tdp HD
+http://176.65.146.237:8401/play/a093/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TV3.svg/300px-TV3.svg.png" group-title="España", TV3 
 https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NYLnABb.png" group-title="España", Cuatro TV
-http://185.189.225.150:85/CuatroHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/49ZENis.png" group-title="España", 3Cat Plats Bruts
+https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/65OX8Gj.png" group-title="España", Bom Cine
-http://185.189.225.150:85/BOM/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/FDF_2012.png/500px-FDF_2012.png" group-title="España", Factoria de Ficcion
-http://185.189.225.150:85/fdf/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wiqdIjd.png" group-title="España", 3Cat El Bunquer
+https://fast-tailor.3catdirectes.cat/v1/channel/bunquer/hls.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/5194tl8duqL.png" group-title="España", Hola Play
 https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKV5voq.png" group-title="España", La Sexta
-http://185.189.225.150:85/LaSexta/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Udrt2eK.png" group-title="España", Mega ES
-http://185.189.225.150:85/mega/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Neox_2023_logo.svg/500px-Neox_2023_logo.svg.png" group-title="España", Neox
-http://185.189.225.150:85/neox/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="España", Antena 3
-http://185.189.225.150:85/Antena3HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptv-web.app/ES/Boing.es/" group-title="España", Boing
-http://185.189.225.150:85/boing/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptv-web.app/ES/Nickelodeon.es/" group-title="España", Nickelodeon Es
-http://185.189.225.150:85/nickelodeon/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vx1F4o5.png" group-title="España", Nova ES
-https://i.imgur.com/Vx1F4o5.png
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZjnlY3D.jpeg" group-title="España", 8 Madrid TV 
-http://185.189.225.150:85/8madrid/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="España", Paramount ES
-http://185.189.225.150:85/Paramount/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4vcGzcC.png" group-title="España", Fibwi
 https://hostcdn3.fibwi.com/fibwi_diario/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RP8VcqZ.png" group-title="España", Canal Taronja
 https://ingest1-video.streaming-pro.com/canaltaronja/anoia/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/b73e27a5281da28f40c01e1f3542666e7c19b4be0b820948d83434b3056d0792.png" group-title="España", Hispan TV
-https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s59AaqG.png" group-title="España", Galicia TV
 https://crtvg-europa.flumotion.cloud/playlist_dvr.m3u8
@@ -4153,8 +4241,6 @@ http://45.163.139.42:8000/play/a00y/index.m3u8
 http://45.163.139.42:8000/play/a007/index.m3u8
 #EXTINF:-1,Pasiones HD
 http://45.163.139.42:8000/play/a00b/index.m3u8
-#EXTINF:-1,Playboy
-http://45.163.139.42:8000/play/a01h/index.m3u8
 #EXTINF:-1,SOY
 http://45.163.139.42:8000/play/a03e/index.m3u8
 #EXTINF:-1,SPACE
@@ -4185,9 +4271,6 @@ http://45.163.139.42:8000/play/a00g/index.m3u8
 http://45.163.139.42:8000/play/a03d/index.m3u8
 #EXTINF:-1,Vintage Music
 http://45.163.139.42:8000/play/a03f/index.m3u8
-#EXTINF:-1,XperTv HD
-http://45.163.139.42:8000/play/a02x/index.m3u8
-
 
 
 
