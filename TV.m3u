@@ -398,7 +398,7 @@ https://run-cl-es.otteravision.com/run/cl_es/cl_es.m3u8
 #EXTINF:-1 tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2020/09/site-logo.png" group-title="Cine y Series", My time Network
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/viJBL6f.png" group-title="Cine y Series", Retrox TV
+#EXTINF:-1 tvg-logo="" group-title="Cine y Series", Cine Plus
 https://acceso.radiosportstv.online:3259/live/retroxtvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://estrellamedia.com/wp-content/uploads/2023/04/CineETV-1.jpg" group-title="Cine y Series", Cine Estrella TV
@@ -1987,7 +1987,7 @@ Costa Rica
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KhNS8Dy/cropped-logoo-1.png" group-title="Costa Rica", Canal 1 CR
-https://video20.klm99.com:3993/live/canal1crlive.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/canaluno/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nn8BtH5.png" group-title="Costa Rica", CDR Canal 2 
 http://190.7.192.164:8018/play/s46
@@ -2124,8 +2124,8 @@ http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/lapotentecr.com/wp-content/uploads/2024/06/D1%402x-8.png?" group-title="Costa Rica" group-title="Musicales", La Potente TV
 https://latamvdo.com:3626/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Costa Rica" group-title="Musicales", Ti506
-https://live20.bozztv.com/akamaissh101/ssh101/meganettv/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Costa Rica", Retrox TV
+https://tvservices.fullhd-streaming.com:3953/live/retroxtvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/fbefcbca47462eb80eedbeaf95126474.png" group-title="Costa Rica" group-title="Musicales", VM Latino CR
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
@@ -2142,8 +2142,8 @@ https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-QUz4UviUPiE/X3YnewzIm7I/AAAAAAAA6Ho/xpUvyAvSX6Qj0Lvl8qhuZnDdz9VPZWy4QCK8BGAsYHg/s0/2020-10-01.png" group-title="Costa Rica" group-title="Musicales", Video Tour Channel CR
 http://k4.usastreams.com/videotour/videotour/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/Fg8XXH5P1j0a2RjpkWFmaAR4X50xrRKVrQ4O5LFM.png" group-title="Costa Rica" group-title="Musicales", IQ Channel
-https://rtmp.info/iqtv/envivo/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.iqmedios.com/imgsnuevas/bannerIQChannel.png" group-title="Costa Rica" group-title="Musicales", IQ Channel
+http://tv.ticosmedia.com:1935/IQ/IQ/playlist.m3u8
 
 
 
