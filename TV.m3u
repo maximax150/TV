@@ -3051,18 +3051,6 @@ U.S.A.
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MOGQAns.png" group-title="USA", Atlanta Channel
 http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/WSB-TV_logo_2010_%28cropped%29.svg/1200px-WSB-TV_logo_2010_%28cropped%29.svg.png", WBS 2 Atlanta
-https://apollo.production-public.tubi.io/live/ac-wsb2.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png", ABC 5 Oklahoma
-https://apollo.production-public.tubi.io/live/ac-koco.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png", ABC 10 San Diego
-https://apollo.production-public.tubi.io/live/ac-kgtv2.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Scripps_News_logo.svg/1200px-Scripps_News_logo.svg.png", Scripps News Tampa
-https://apollo.production-public.tubi.io/live/ac-wfts2.m3u8
-
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61fGOE9wmuL.png", Beach TV Panama City
 http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
 
