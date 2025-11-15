@@ -3087,16 +3087,6 @@ http://143.244.60.30/TCM/index.m3u8
 http://143.244.60.30/NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Fashion_TV_logo.svg", Fashion TV
 http://91.247.68.229:8000/play/Fashion/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/copIbc9.png", BET
-https://fl3.moveonjoy.com/BET_EAST/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/BET_Jams_2021.png/512px-BET_Jams_2021.png", BET JAMS
-https://fl3.moveonjoy.com/BET_Jams/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VeuTWUb.png", BET Soul
-https://fl3.moveonjoy.com/BET_SOUL/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JmTIRLF.png", Bravo
-https://fl3.moveonjoy.com/BRAVO/index.m3u8
-#EXTINF:-1 tvg-logo="",Big Ten Network
-https://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oX5oR4d.png", Black News Channel
 https://redbox-blacknewschannel-xumo.amagi.tv/playlist.m3u8
@@ -3108,7 +3098,7 @@ https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46fba0c43b0d00096e5ac1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e46fba0c43b0d00096e5ac1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=238&terminate=false&userId=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V6Kaqha.png", ACCDN
-https://aegis-cloudfront-1.tubi.video/ce6650c2-26ea-4433-9276-8a5ebf3992cc/playlist.m3u8
+https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/newscms/2019_22/2874566/190528-nbc-news-now-logo-ac-1055p.jpg", NBC News Now
 https://livetv-fa.tubi.video/nbc-news-now/master.m3u8
@@ -3119,44 +3109,38 @@ https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q4DRG10.png", NBC Atlanta
 https://livetv-fa.tubi.video/wxia/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q4DRG10.png", NBC Oklahoma
-https://apollo.production-public.tubi.io/live/ac-kjrh.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q4DRG10.png", NBC Seattle
 https://livetv-fa.tubi.video/king/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q4DRG10.png", NBC Ohio
 https://livetv-fa.tubi.video/wkyc/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q4DRG10.png", NBC New Orleans
-https://apollo.production-public.tubi.io/live/ac-wdsu.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UNZ8bef.png", NHL
-https://apollo.production-public.tubi.io/live/ac-nhl.m3u8
+https://nhl-firetv.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mPGtwAP.png", NFL
-https://apollo.production-public.tubi.io/live/ac-nfl2.m3u8
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5105-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6477ef85-3680-442c-94d8-27197903b1f6
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1603HED.png", Poker GO
-https://apollo.production-public.tubi.io/live/ac-pokergo.m3u8
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fc54366b04b2300072e31af/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b6274-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a68d07ef-a794-43f8-a287-3bd7f27d909b
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Eufk8rl.png", Racing America
 https://livetv-fa.tubi.video/racing-america/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/WMOR.svg/512px-WMOR.svg.png", WMOR TV
-https://apollo.production-public.tubi.io/live/ac-wmor.m3u8
+#EXTINF:-1 tvg-logo="", The Archive
+https://cineverse.g-mana.live/media/09899328-5b22-4d3e-ba1e-111856798c99/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QYFWdb1.png", Top Rank Classics
-https://apollo.production-public.tubi.io/live/ac-top-rank.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QM8rLs6J/tvland.png", TV Land
+https://fl31.moveonjoy.com/TV_LAND/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eLIe7Va.png", TMZ
-https://apollo.production-public.tubi.io/live/ac-tmz.m3u8
+https://livetv-fa.tubi.video/tmz/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/Masked_Singer_USA_Logo.png", Masked Singer
-https://apollo.production-public.tubi.io/live/ac-masked-singer.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MTVrbd5.png", Pluto TV Comedy US
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e92178946c8000079a3160/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b8d23-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7bb58dcf-41b0-4375-8a36-1b947b81616b
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/512px-Reelz.svg.png", Reelz 
-https://apollo.production-public.tubi.io/live/ac-reelz.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GhpMbfPr/justepourrire.png", Just Pour Rire
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60afa1508284e60007163c08/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e05edb3-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a0ee8bde-7a09-45e2-b51d-4cf3012304cd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0UMmG41.png", Outside Plus
 https://outsidetv-firetv.amagi.tv/playlist.m3u8
@@ -3165,19 +3149,13 @@ https://outsidetv-firetv.amagi.tv/playlist.m3u8
 https://livetv-fa.tubi.video/moviesphere/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1luzP3T.png", Kartoon Channel
-https://apollo.production-public.tubi.io/live/ac-kartoon.m3u8
+https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Tiy3Ur2.png", LOL Network
-https://apollo.production-public.tubi.io/live/lol-network3.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Tiy3Ur2.png", LOL Stand Up
-https://apollo.production-public.tubi.io/live/lol-stand-up2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V5h4R83.png", Camera Smile
+https://rpn.bozztv.com/gusa/gusa-camerasmile/index.m3u8
 
 #EXTINF:-1 tvg-logo="", Craftsy TV
 https://linear-492.frequency.stream/dist/xumo/492/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nGSsUd4.png", BBC Earth
-https://apollo.production-public.tubi.io/live/ac-bbc-earth2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Circle_Network_logo.svg/512px-Circle_Network_logo.svg.png", Circle
 https://circle-xumo.amagi.tv/playlist.m3u8
@@ -3188,8 +3166,8 @@ https://linear-896.frequency.stream/dist/xumo/896/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://30a-tv.com/wp-content/uploads/2017/03/logo-30a-tv-com-300x65.png", 30A TV
 https://30a-tv.com/feeds/720p/33.m3u8
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71SdC9w4CQL.png", TV Florida
-https://srv1.zcast.com.br/tvflorida/tvflorida/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png", Fox + Chicago
+https://dg9kqrb1yimus.cloudfront.net/playlist/amg00488-foxdigital-wfld-lgus/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/abn-prod/wp-content/uploads/sites/3/2021/02/Fox-News-logo-Feb-2018.png", Fox News
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
@@ -3197,17 +3175,8 @@ https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mma.prnewswire.com/media/1502591/Fox_Soul_Logo.jpg", Fox Soul
 https://foxsoul-vizio.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://fox5sandiego.com/wp-content/uploads/sites/15/2020/01/cropped-logo-3.png", Fox 5 Atlanta
-https://apollo.production-public.tubi.io/live/ac-waga.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Fts-seattle-a.svg/1200px-Fts-seattle-a.svg.png", Fox 13 Salt Lake
-https://apollo.production-public.tubi.io/live/ac-kstu2.m3u8
-
-#EXTINF:-1 tvg-logo="https://fox17.com/resources/media/94f003bb-4490-421e-8dd8-cae55b1d7659-large16x9_WZTV_LOGO_700x400.png", Fox 17
-https://apollo.production-public.tubi.io/live/ac-wxmi.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/512px-Buzzr_logo.svg.png", Buzzr
-https://apollo.production-public.tubi.io/live/ac-buzzr.m3u8
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812bfbe4ced4f7b601b12e6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c276ad1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=23022078-db68-4a8c-ad1c-683fb029b53d
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ABC_News_logo_2021.svg/2560px-ABC_News_logo_2021.svg.png", ABC News
 https://livetv-fa.tubi.video/abc-news/index.m3u8
@@ -3215,31 +3184,23 @@ https://livetv-fa.tubi.video/abc-news/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/CBS_News_logo_%282020%29.svg/2560px-CBS_News_logo_%282020%29.svg.png", CBS News
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png", CBS Seattle
-https://apollo.production-public.tubi.io/live/ac-kiro.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png", CBS Texas
 https://livetv-fa.tubi.video/khou/live.m3u8
 
 #EXTINF:-1 tvg-logo="", Cosmos
 https://livetv-fa.tubi.video/khou/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://journy.tv/app/uploads/2021/10/journy_powered_by_ovation.png", Journy
-https://linear-291.frequency.stream/mt/ovationtv/291/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/1200px-Ion_logo.svg.png", ION
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65453f30085df200085883d8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c293f9a-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e7cc513a-0132-4e4f-85f1-bb3cb90423fd
 
 #EXTINF:-1 tvg-logo="https://cms.scrippsnetworks.com/wp-content/uploads/2022/02/snn_logo-IONPlus.png", ION Plus
+https://d34lnyh33n4440.cloudfront.net/playlist/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/1200px-ION_Mystery_logo.svg.png", ION Mistery
-https://livetv-fa.tubi.video/ion-mystery/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.bouncetv.com/wp-content/themes/wp-bootstrap-starter/images/bouncexl/header-logo.png", Bounce XL
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/512px-ION_Mystery_logo.svg.png", ION Mistery
+https://d2eri06nni3w9g.cloudfront.net/playlist/amg01438-ewscrippscompan-ionmystery-tablo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mma.prnewswire.com/media/2074342/SCRIPPS_SN_Primary_Logo.jpg", Scripps News
-https://livetv-fa.tubi.video/scripps-news/playlist.m3u8
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5459795fc9f133a519bc0bef/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b8986-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=20db7334-405e-4c4e-abea-fa620b2d19fb
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/USA_Today_2012logo.svg/1200px-USA_Today_2012logo.svg.png", USA Today
 https://brandusa-gousa-1-gb.samsung.wurl.tv/playlist.m3u8
@@ -3256,6 +3217,9 @@ https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6FFkc3.png", Arts
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/YouToo_America_logo.png", YTA TV
+https://yta.unitedteleports.tv/hls/YTA.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wg5I5Fb.png", Classic TV Comedy
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f15e32b297f96000768f928/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f15e32b297f96000768f928&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=501&terminate=false&userId=
 
@@ -3265,17 +3229,97 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f15e3cccf49290007
 #EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/10062020/Drama_Life_190x190.png", Drama Life
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f24662bebe0f0000767de32/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WOkqDRi.png", Geordie Shore
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619263ee9541940007d20d60/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Uuc5h1s.png", Game Show Central
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e90e8cb05d2b0007f10a61/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a54a2-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=06d7c73f-91e9-44c5-868e-5336253a1d67
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WsQRCmZ.png", MTV Pluto US
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5caf325764025859afdd6c4d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1eea50-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d91aa96f-4975-4e0e-ae56-4a7f2e2383b7
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OV9hT93.png", Beverly Hillbillies
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f7796e470510900070d4e3d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c271cb4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=69bf4a83-189f-4b22-bbe6-f2e09a47e049
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2nNpGqy.png", Black Classics
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f85644a9493e0007a1f035/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c271cb6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=90e515e4-694d-47f7-9f2b-806f0a05d62c
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nNy9oTx.png", The Wertern
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e8df4bc16e34700077e77d3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d102a-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b2ed67fd-7088-4b5b-bf24-daa30ff6efdc
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WsQRCmZ.png", MTV Pluto US
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5caf325764025859afdd6c4d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1eea50-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d91aa96f-4975-4e0e-ae56-4a7f2e2383b7
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tw3rTxP.png", More TV Drama
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/613260e4bdb71c00070d63fa/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29dbd7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f1dbd4b6-a07d-4f52-b7b5-f1c84ee32628
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GzxgSkc.png", Bounce XL
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6176fd25e83a5f0007a464c9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2743c7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c190f5a2-d746-452a-adf6-37d9268e59ae
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2r6UbZw.png", Black Throwbacks
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61326275b3c86a00078e4833/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2743c0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=16224f18-2a57-4fa3-bf6a-994524fcf480
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VBKoLHk.png", Bellator MMA
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0e97a69e-3355-4217-b6fb-8952f0ad1803
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BZijfKh.png",Billiard TV
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65df0cff66eec8000897b3a4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1cc775-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=36e4c683-680e-486f-91f0-ce1f0f88c4b6
+
+#EXTINF:-1 tvg-logo="https://iptv-web.app/US/AlanBeckerTV.us/", Alan Becker TV
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/630348a54c48ce00077eb6c7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1ca065-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c5b43dd2-234d-4338-9a94-c40967ccbed6
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qA3KsTh.png", South Park
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bdb1c5e25122000798ac79/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c0253-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=67f014c4-f66e-4860-a7d5-9e9de1cab501
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SssCaj1.png", Jersey Shore
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/609bfa51fbecc1000733152e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d53c01b5-86bc-43d2-afd7-b739724c937c
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I2QM1Gd.png", MTV The Shores
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5caf32c2a5068259a32320fc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1f1160-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fedd9a53-46f2-4eed-8ea9-ef20093e1a28
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y22ElOr.png", Pluto TV Sport
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608030eff4b6f70007e1684c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/WMOR.svg/512px-WMOR.svg.png", WMOR
+https://livetv-fa.tubi.video/wmor/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kBol4Pf.png", Palm Beaches TV
+https://live.feed.thepalmbeaches.tv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OxbIla4.png" Right Now TV
+https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8,
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UDeCRW1.png", Wipeout xtra
+https://livetv-fa.tubi.video/wipeout-xtra/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aSjhZK7.png", Toonami Aftermach
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.bouncetv.com/wp-content/themes/wp-bootstrap-starter/images/bouncexl/header-logo.png", Bounce 
+https://fl61.moveonjoy.com/BOUNCE_TV/index.m3u
+#EXTINF:-1 tvg-logo="", MTV US
+https://fl61.moveonjoy.com/MTV/index.m3u8
+#EXTINF:-1 tvg-logo="", MTV 2
+https://fl61.moveonjoy.com/MTV_2/index.m3u8
+#EXTINF:-1 tvg-logo="", Me TV
+https://fl61.moveonjoy.com/ME_TV/index.m3u8
+#EXTINF:-1 tvg-logo="", MeTV Toons
+https://e3.thetvapp.to/hls/metv-toons/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M40b4YI.png", Retro Crush
+chrome-extension://gijhpnmjcpbddpedmmdihijogkkejfgj/player.html#https://cineverse.g-mana.live/media/ac7cff3c-5bc3-4745-ac4d-56aadb586d00/mainManifest.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KbmXdjm.png", Freebie TV
 https://d1h1d6qoy9vnra.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Freebie-Plex/187.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6w1Wj3j.png", Grit Xtra
-https://livetv-fa.tubi.video/grit-extra/playlist.m3u8
+https://d37xwpg3gzvq8m.cloudfront.net/playlist/amg01438-ewscrippscompan-gritxtra-tablo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pu4BC3M.png", GO Usa
 https://brandusa-gousa-1-in.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sOYAnTB.png", Hi Yah!
-https://apollo.production-public.tubi.io/live/ac-hi-yah.m3u8
+https://livetv-fa.tubi.video/hi-yah/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://30a.media/wp-content/uploads/2023/08/pzaz-30atv-2-230x366-ridiculous.jpg", 30A Ridiculous TV
 https://30a-tv.com/feeds/720p/63.m3u8
