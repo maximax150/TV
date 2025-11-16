@@ -3067,26 +3067,13 @@ https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playli
 https://cloudflare.tv/hls/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/1200px-Comet_logo.svg.png", Comet
-https://fl3.moveonjoy.com/COMET/index.m3u8
+https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png", Court TV
-https://fl3.moveonjoy.com/COURT_TV/index.m3u8
+https://d2fm99ft1zcnjm.cloudfront.net/playlist/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I4KDvu9.png", Portlandia
 https://amc-portlandia-1-us.xumo.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="", ABC 
-http://143.244.60.30/ABC_EAST/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png", NBC
-http://143.244.60.30/NBC_EAST/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/TBS_2020.svg/1200px-TBS_2020.svg.png", TBS
-http://143.244.60.30/TBS/index.m3u8
-#EXTINF:-1 tvg-logo="https://d2z00kf51ll94q.cloudfront.net//archive/2022/media/TDC68_148C_1.jpg", TCM USA
-http://143.244.60.30/TCM/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E84jnP8.png", NICK USA
-http://143.244.60.30/NICKELODEON/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Fashion_TV_logo.svg", Fashion TV
-http://91.247.68.229:8000/play/Fashion/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oX5oR4d.png", Black News Channel
 https://redbox-blacknewschannel-xumo.amagi.tv/playlist.m3u8
@@ -3135,9 +3122,6 @@ https://fl31.moveonjoy.com/TV_LAND/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eLIe7Va.png", TMZ
 https://livetv-fa.tubi.video/tmz/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MTVrbd5.png", Pluto TV Comedy US
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e92178946c8000079a3160/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b8d23-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7bb58dcf-41b0-4375-8a36-1b947b81616b
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GhpMbfPr/justepourrire.png", Just Pour Rire
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60afa1508284e60007163c08/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e05edb3-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a0ee8bde-7a09-45e2-b51d-4cf3012304cd
@@ -3205,11 +3189,14 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/54
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/USA_Today_2012logo.svg/1200px-USA_Today_2012logo.svg.png", USA Today
 https://brandusa-gousa-1-gb.samsung.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/85g5z1dJ/awe.png", AWE
+https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0utwZ63.png", AWE Encore
 https://aweencore-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1hHW3IK.png", CCX Media
-https://reflect-ccx.cablecast.tv/live-9/live/live.m3u8
+http://reflect-ccx.cablecast.tv/live-9/live/stream-1/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8mAJuut.png", Dateline
 https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8
@@ -3325,12 +3312,194 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58
 #EXTINF:-1 tvg-logo="https://i.imgur.com/phHHs7l.png", TVLand Sitcoms
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c2d64ffbdf11b71587184b8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c9af5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b42011ce-d42f-4692-bb1d-2fe02741437a
 
-#EXTINF:-1 tvg-logo="",
-#EXTINF:-1 tvg-logo="",
-#EXTINF:-1 tvg-logo="",
-#EXTINF:-1 tvg-logo="",
-#EXTINF:-1 tvg-logo="",
-#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="https://i.imgur.com/prMkTsZ.png", America Test Kitchen
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e84f54a82f05300080e6746/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c268074-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=29e05466-9808-43c4-9894-00b77be27051
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncmQZPfP/britboxmysteries.png", BritBox Mysteries
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f5d389985a0c0007357304/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2743c9-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7df7400e-1d21-4d2c-9534-db1c6d847a42
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vzYDSLo.png", FBI Files
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bdaa32a1b2fd00076693e8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a2d95-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=53708f79-4a2b-4285-8fa6-e950fc36fb48
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V5vvuLK.png", Forensic Files
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e92392a3e6270007f562e8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a54a0-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=053b9371-9f0f-4936-9aa9-ae27ee69ae5f
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DiBojYh.png", Ink Master
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/655f2d713944b60008bc7e90/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7ac9d2-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e7b1d981-a145-4f0e-b936-2e3b59397aee
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N00seOn.png", Pluto Animals
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d767ae7b456c8cf265ce922/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1f5f81-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3c749ba3-753d-4787-aa99-051f1037b6b3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kgGhygfk/plutotvcrime.png", Pluto TV Crime
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e7b6c60fd20c50007910bf5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1f5f85-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=60109df1-c88c-4c39-8421-b4c57f3078c4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XkQD5kM.png", Pluto TV History
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d767b1c126c65d0a307355f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1f8696-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=48a854a2-55e8-45ea-9da1-dc34e62691ed
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tb4GNml.png", Pluto TV Inside
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed3892ed7bb000741a1d2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e055174-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=487dd86d-4b70-41e0-bab7-33de0eda4283
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8LdACfR.png", Pluto TV Investivagtion
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f914f4b36d67d0007a91a04/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e057885-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a6c08e34-78b6-42cf-bca2-5017c1566c3c
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oXpLEXI.png", Pluto TV Mystery
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/617aad99b68ef100072608cd/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1ffbc0-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=19b60fec-0997-451e-bdc1-b8a92cd099cf
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bGZkH6b.png", Pluto TV Natura
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60802b37709d6b0007b0c549/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ApN6nfw.png", Pluto TV Paranormal
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f98487036af340008da1e37/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1ffbc2-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4f60ee0b-b8ee-4fd5-b67b-d928a7e37591
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/woY8Ecb.png", Spike Pluto TV
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812bcc8237a6ff45d16c407/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb098-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7817c7c9-18cd-4d07-835d-350e94a68d2b
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kq9WKZg.png", BET Pluto TV
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c271cb2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9e4dfe90-0228-4bbb-b7cd-1e422a0e7cbb
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GtNgJ28.png", Logo Pluto TV
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ce5a8954311f992edbe1da2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c298db6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=df156d8e-abc9-4542-8940-17058c09347c
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GIKkbjT.png", Ridiculousness
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f9847fd513250000728a9a5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1eea52-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f7637460-bb95-4ce8-9c82-0af6b2f51601
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JXZEg2e.png", Pluto TV Game Show
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6036e7c385749f00075dbd3b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed47-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=33f00d08-5ecc-4756-847e-6afcf19395bc
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OvN7FCv.png", Pluto TV Reality US
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6092544e7639460007d4835e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e05edb1-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=97ed3328-d359-49d3-914f-a68568384f64
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mgXeEE4.png", 70s Cinema
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c263252-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7c57f1f3-2078-4f92-a4b5-6cd444220a70
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nkEeYfI.png", 80s Rewind
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca525b650be2571e3943c63/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c263253-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b52c759c-a26c-4e65-828b-14277d6117e0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KoGko6M.png", 90s Throwback
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d86f519358a00072b978e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c265961-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=71f86833-3dd6-41ac-a9b8-4a4ec8873306
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FKBp987.png", Black Cinema
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c271cb5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=93605d96-6c9d-457d-a2b4-d26d07474db9
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pQJxov2.png", Classic Movies Channel
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e003-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7911819c-67eb-4f58-944f-5c6c6d4d937d
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rtL5L81.png", Flicks of Fury
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28ca66-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=671a0e89-5b21-406b-95a9-b395c4ef4b07
+
+#EXTINF:-1 tvg-logo="", Hallmark Movies
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/628e685ba3811100070551a8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291886-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=58dbb587-5d0d-412d-ae10-107ee9caac5a
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8c54ycg.png", Movie Dome
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/615c1e5ce3039400070a0547/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e7524-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9855fa27-eb7c-4e5a-852e-4c439515c25d
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sj5h9bl.png", Paramount Movie Channel
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7819-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8a4a0712-cb24-4d05-b429-1b98c1f73f74
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ff8c708653d080007361b14/featuredImage.jpg", Paramount+ Picks
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f20-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=86df5336-6268-4928-9b7d-3af618ca807b
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tDapGal.png", Pluto TV Action
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed1ff5c39700007e2204a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e055171-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c3b67254-4628-4f0e-8164-5a50e8969a42
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SJcqknt.png", Pluto TV Crime Movies
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed41-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e4d2554e-9b84-4086-8e1d-07f64310a23b
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PvhbHTZ.png", Pluto TV Drama US
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b4e92e4694c027be6ecece1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed44-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=01b9b883-5344-4e99-81f9-dc1d9942ca58
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aZverZQ.png", Pluto TV Film
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa20a2e7f270007c4878d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H9k3OXN.png", Pluto TV Reaction
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/617b37b361e0fd0008cfd8c5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b1457-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=32aea123-3ab5-4713-944a-87ebeb334781
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UmuJkVB.png", Pluto Spotlight
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b3b64-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a26dc013-1780-409c-9a56-09ae4538fe40
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JzwO8IO.png", Staff Picks
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d863b98b41000076cd061/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b3b65-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c2fde2b7-d78e-4906-abf2-3c433f73ec5b
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y1rXIAS.png", TV Land Drama
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d40bebc5e3d2750a2239d7e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c9af3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5e762bb7-572b-4470-87fd-b3b4bb48462e
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d6xQiaf.png", News12 New York
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fff49cfb5cd4f0007c2b0dc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5103-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c438c5e4-4d4e-4037-8b44-c6782c44b796
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HYgxPVQ.png", MyTime Movie Network US
+https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gAGn3mK.png", Movies!
+https://dvrfl03.bozztv.com/hdirect/hdirect-ovair1-movies!/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fubo.tv/station_logos/maverick_black_cinema_c.png", Maverick Black cinema
+https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8j2npVc.png", Filmrise True Crime
+https://livetv-fa.tubi.video/filmrise-true-crime/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8j2npVc.png", Filmrise Forensic Files
+https://livetv-fa.tubi.video/forensic-files/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FJoPnTb.png", Classic Cinema
+https://rpn.bozztv.com/gusa/gusa-classiccinema/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1rxmu2u.png", Charge
+https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g8Q1ASR.png", Aurora TV
+https://reflect-aurora.cablecast.tv/live-8/live/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/FxYNwOB.md.png", Roar
+https://fast-channels.sinclairstoryline.com/TBD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d4xEiXX.png", Popstar TV
+https://bd0c70d8954d416d819afb3e1c940ee6.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-10-POPSTAR-PLEX/mt/plex/10/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x1XbRwHs/peopleareawesome.png", People Are Aweaome
+https://jukin-peopleareawesome-2-au.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", Lone Star
+https://lonestar-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/512px-The_CW_2024.svg.png", CW
+https://cvtv.cvalley.net/hls/KCWECW/KCWECW.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Decades_Logo.svg/512px-Decades_Logo.svg.png", Decades
+https://dvrfl03.bozztv.com/hdirect/hdirect-ovair1-decades/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xjJ24rLB/bbcamerica.png", BBC America
+https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U9HFzJk.png", KET
+https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ambc9le.png", PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sfwIILW.png", KMOS PBS
+https://cvtv.cvalley.net/hls/KMOSPBS/KMOSPBS.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.pbs.org/bento3-prod/kcpt/2020-kcpt-brand/3cc5c4bdd6_kansascitypbs_primary_blue.png?", Kansas City PBS
+https://cvtv.cvalley.net/hls/KCPTPBS/KCPTPBS.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/JGqD21e.png", The Nest
+https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/512px-Reelz.svg.png", Reelz Famous infamous
+https://livetv-fa.tubi.video/reelz/playlist.m3u8
+
+#EXTINF:-1, Law n Crime
+https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xP7Ehn8.png", Tastemade
+https://tmint-aus-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HrRUd6r.png", In The Kitchen
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bhY0Zcs.png", Cooking Panda
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/WMOR.svg/512px-WMOR.svg.png", WMOR
 https://livetv-fa.tubi.video/wmor/playlist.m3u8
