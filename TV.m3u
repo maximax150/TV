@@ -367,6 +367,9 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playli
 #EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_sureno_1080x1080_02092024.jpg" group-title="Cine y Series", Free TV Sureño
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-ono/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://freecast.com/_next/image?url=https%3A%2F%2Fd3e3bui7xn67l.cloudfront.net%2Fcms_media%2Fmedia%2Flive%2Fchannel%2Fa8e9a317-4831-496f-af6f-e724217c3b28-1726504729.46002.256x256.png", Free TV Clasico
+https://stream.ads.ottera.tv/cl/251117d4das1r78qrdtnbk0d5g/1920x1080_4787200_1_f.m3u8?i=475_16199
+
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/76964e60-8756-4551-8748-dbd7852bd0bd/Grjngo-Westernfilme_logo_light_-_Toni_Newesil__1_.png" group-title="Cine y Series", GRJNGO
 https://amogonetworx-grjngo-2-eu.plex.wurl.tv/2000.m3u8
 
