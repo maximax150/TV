@@ -75,9 +75,6 @@ https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tsajuxi.png" group-title="Entretenimiento", Buena TV
 https://59825a54e4454.streamlock.net:8443/papo351/papo351/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YtTlZq3.png" group-title="Entretenimiento", TIVA
-https://fl496518-exthls-p1.flovp.com/fl496518/live/live.m3u8
-
 #EXTINF:-1 tvg-logo="https://caribbeanadvantage.com/images/CAtv-logo-512.png" group-title="Entretenimiento", CATV
 https://video2.getstreamhosting.com:19360/8216/8216.m3u8
 
