@@ -234,6 +234,12 @@ https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 #EXTINF:-1 group-title="Kids & Geek", Taltal TV
 https://giatv.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/chunks.m3u8
 
+#EXTINF:-1 group-title="Kids & Geek", Fun TV
+https://live20.bozztv.com/giatv/giatv-funtvretro/funtvretro/chunks.m3u8
+
+#EXTINF:-1 group-title="Kids & Geek", Cartoon Classics
+https://rpn.bozztv.com/gusa/gusa-cartoonclassics/index.m3u8
+
 #EXTINF:-1 group-title="Kids & Geek", Anime Vision Classics
 https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
 
@@ -2194,8 +2200,14 @@ http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/lapotentecr.com/wp-content/uploads/2024/06/D1%402x-8.png?" group-title="Costa Rica" group-title="Musicales", La Potente TV
 https://latamvdo.com:3626/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Costa Rica", Retrox TV
-https://tvservices.fullhd-streaming.com:3953/live/retroxtvlive.m3u8
+#EXTINF:-1 tvg-logo="https://gextv.com/LOGO-WHITE.png" group-title="Costa Rica", Gex TV
+https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2024/07/canal-retroxtv.jpg" group-title="Costa Rica", Retrox TV
+https://live21.bozztv.com/akamaissh101/ssh101/retroxcrtv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://gia.tv/streams/logo/209477.png" group-title="Costa Rica", Retrox TV+
+https://live20.bozztv.com/giatv/giatv-RTVN/RTVN/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/fbefcbca47462eb80eedbeaf95126474.png" group-title="Costa Rica" group-title="Musicales", VM Latino CR
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
