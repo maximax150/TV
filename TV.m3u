@@ -908,6 +908,8 @@ https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51-mh06-gIL.png", Newsmax 2
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKsr25VN/classcnbc.png", Class CNBC
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/classcnbc.m3u8
 
 
 ---------------------------------------------------
@@ -929,6 +931,12 @@ https://ma.anixa.tv/clips/stream/anixesd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hvGJ2oa.png", Anixe HD Germany
 https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cCs6pjz8/ric.png", RiC Germany
+https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5DYvxw9/morethansportstv.png", More Than Sports Germany
+https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DLVjeno.png", Aristo TV Germany
 https://ma.anixa.tv/clips/stream/aristo/index.m3u8
@@ -996,6 +1004,9 @@ https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4Bx2321.png", PrimAntenna TV Italy
 https://5f22d76e220e1.streamlock.net/primantenna14/primantenna14/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZH2z89h/orlertv.png", Orler TV Italy
+https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h7t0l6q.png", BFM Marselle France
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_MARSEILLEPROV/index.m3u8?end=END&start=LIVE
 
@@ -1007,30 +1018,6 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/atlgnum.png", Cannes Lerins TV France
 https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7DqgELX.png", KBS World Korea
-http://mytv.dothome.co.kr/ch/catv/7.php
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png", KBS 1 Korea
-http://mytv.dothome.co.kr/ch/public/1.php
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png", KBS 2 Korea
-http://mytv.dothome.co.kr/ch/public/3.php
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/512px-KBS_DRAMA.svg.png", KBS Drama Korea
-http://mytv.dothome.co.kr/ch/catv/2.php
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KBS_JOY.svg/512px-KBS_JOY.svg.png", KBS Joy Korea
-http://mytv.dothome.co.kr/ch/catv/3.php
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/KBS_Story.svg/512px-KBS_Story.svg.png", KBS Story Korea
-http://mytv.dothome.co.kr/ch/catv/4.php
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/KBS_Life.svg/512px-KBS_Life.svg.png", KBS Life Korea
-http://mytv.dothome.co.kr/ch/catv/5.php
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/KBS_kids.svg/512px-KBS_kids.svg.png", KBS Kids Korea
-http://mytv.dothome.co.kr/ch/catv/6.php
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Asu5pE9.png", Arirang TV Korea
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
