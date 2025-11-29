@@ -246,6 +246,17 @@ https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 group-title="Kids & Geek", Anime Vision
 https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://esportsmax.tv/wp-content/uploads/2024/02/Max-anime-logo-1.png" group-title="Kids & Geek", Max Anime
+https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://esportsmax.tv/wp-content/uploads/2024/02/Esports-max-blanco.png" group-title="Kids & Geek", Esports Max
+https://streamyes.alsolnet.com/esportsmax/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://esportsmax.tv/wp-content/uploads/2024/02/Esports-max-blanco.png" group-title="Kids & Geek", Esports Max 2
+https://streamlov.alsolnet.com/rektv/live/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://static.kanade.cl/assets/img/profilepic_512px.png" group-title="Kids & Geek", Kanade
 https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH
 
@@ -2050,7 +2061,7 @@ Costa Rica
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KhNS8Dy/cropped-logoo-1.png" group-title="Costa Rica", Canal 1 CR
-https://live20.bozztv.com/akamaissh101/ssh101/canaluno/playlist.m3u8
+https://vid.canal1cr.com:3424/multi_live/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nn8BtH5.png" group-title="Costa Rica", CDR Canal 2 
 http://190.7.192.164:8018/play/s46
@@ -2149,7 +2160,7 @@ https://5d16127744872.streamlock.net/TVUNO/TVUNO/playlist.m3u8
 https://videohd.live:19360/8076/8076.m3u8
 
 #EXTINF:-1 tvg-logo="https://meganetfun.com/storage/channel-logos/pu1FekotUO22xwemJs3uzfMQYdu3uzYrwdmb5UM0.png" group-title="Costa Rica", Canal 10 CR
-https://acceso.radiosportstv.online:3285/live/canal10costaricalive.m3u8
+https://acceso.radiosportstv.online:3285/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5xw86wu.png" group-title="Costa Rica", Los Santos TV
 https://lstv.duckdns.org:449/hls/lstv.m3u8
