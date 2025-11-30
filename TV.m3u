@@ -2138,11 +2138,11 @@ http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lj2jRn3.png" group-title="Costa Rica", Nicoya TV 
 https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://meganetfun.com/storage/channel-logos/pu1FekotUO22xwemJs3uzfMQYdu3uzYrwdmb5UM0.png" group-title="Costa Rica", Canal 10 CR
+https://acceso.mediosdecostarica.com:3606/stream/play.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBtgnxR.png" group-title="Costa Rica", 360 RFTV 
 https://acceso.mediosdecostarica.com:3638/live/360rftvcrlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://meganetfun.com/storage/channel-logos/pu1FekotUO22xwemJs3uzfMQYdu3uzYrwdmb5UM0.png" group-title="Costa Rica", Canal 10 CR
-#https://acceso.mediosdecostarica.com:3606/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N4pFVVF.png" group-title="Costa Rica", Costa Rica Channel
 https://video0.rogohosting.com:19360/8006/8006.m3u8
