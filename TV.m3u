@@ -2084,7 +2084,7 @@ http://190.7.192.162:8007/play/s10
 #EXTINF:-1 tvg-logo="https://www.teleticaradio.com/img/Logo-Color.png",Teletica Radio
 http://190.7.192.162:8007/play/s11
 
-#EXTINF:-1,XperTv HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/XperTV2015.png",XperTv HD
 http://45.163.139.42:8000/play/a02x/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nefPi2Y.png" group-title="Costa Rica", Canal 8 Multimedios
@@ -2120,6 +2120,9 @@ https://rtv.fullhd-streaming.com:19360/telered/telered.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bUNLWDP.png" group-title="Costa Rica" group-title="Cine y Series", Telesistema
 https://rtv.fullhd-streaming.com:19360/telesistemas/telesistemas.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N4pFVVF.png" group-title="Costa Rica", Costa Rica Channel
+https://video0.rogohosting.com:19360/8006/8006.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/obTnd32.png" group-title="Costa Rica", Sarapiqui TV
 http://tiquiciatv.com:1935/stv/envivo/playlist.m3u8
 
@@ -2144,9 +2147,6 @@ https://acceso.mediosdecostarica.com:3606/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBtgnxR.png" group-title="Costa Rica", 360 RFTV 
 https://acceso.mediosdecostarica.com:3638/live/360rftvcrlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N4pFVVF.png" group-title="Costa Rica", Costa Rica Channel
-https://video0.rogohosting.com:19360/8006/8006.m3u8
-
 #EXTINF:-1 tvg-logo="https://meganetfun.com/storage/channel-logos/q8OrvMkGTpkTmdQ2SBT5f7xq6ZSakeP2MplANv4Z.jpg" group-title="Costa Rica" group-title="Cine y Series", Telemas CR
 https://mist01.homestream.fun/hls/tlmas904/0_1/index.m3u8
 
@@ -2168,7 +2168,7 @@ https://lstv.duckdns.org:449/hls/lstv.m3u8
 #EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/s3ldDvPV5migLlpYn0b6jxqWGZiZGKugHO67JlpI.jpg" group-title="Costa Rica", Retro TV Online
 https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OpHYYZA.png" group-title="Costa Rica", TvSur Perez Zeledon
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OpHYYZA.png" group-title="Costa Rica", TvSur CR
 https://k20.usastreams.com:8081/tvsur/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vJZqrFY/a4ed367c69c23110d458a332af95be0be64566f288ccb5f261689344e6ba5e0d.png" group-title="Costa Rica", Coto Brus TV
