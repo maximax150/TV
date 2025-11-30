@@ -2139,7 +2139,10 @@ http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
 https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBtgnxR.png" group-title="Costa Rica", 360 RFTV 
-https://acceso.radiosportstv.online:3417/live/360rftvcrlive.m3u8
+https://acceso.mediosdecostarica.com:3638/live/360rftvcrlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://meganetfun.com/storage/channel-logos/pu1FekotUO22xwemJs3uzfMQYdu3uzYrwdmb5UM0.png" group-title="Costa Rica", Canal 10 CR
+#https://acceso.mediosdecostarica.com:3606/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N4pFVVF.png" group-title="Costa Rica", Costa Rica Channel
 https://video0.rogohosting.com:19360/8006/8006.m3u8
@@ -2158,9 +2161,6 @@ https://5d16127744872.streamlock.net/TVUNO/TVUNO/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2MNzXN7/Channels4-profile-9.jpg" group-title="Costa Rica", Norte Informativo
 https://videohd.live:19360/8076/8076.m3u8
-
-#EXTINF:-1 tvg-logo="https://meganetfun.com/storage/channel-logos/pu1FekotUO22xwemJs3uzfMQYdu3uzYrwdmb5UM0.png" group-title="Costa Rica", Canal 10 CR
-https://acceso.radiosportstv.online:3285/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5xw86wu.png" group-title="Costa Rica", Los Santos TV
 https://lstv.duckdns.org:449/hls/lstv.m3u8
@@ -2332,17 +2332,17 @@ https://cloudvideo.servers10.com:8081/8130/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FNk6rdz.png" group-title="America Central", TV One Nicaragua
 https://hdbox.chunklistv.com/live?stream=tvone
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiYVtgB.png" group-title="America Central", BTV Panama
+https://stream.ontvmx.com/ontv/Sfn3zLdqgM4b17T05C/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QQBd052.png" group-title="America Central", Nex tv Panama
-https://vcp4.myplaytv.com:1936/nextv/nextv/playlist.m3u8
+https://movil.ejeserver.com/live/nextv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y0h8dlX.png" group-title="America Central", +23 Panama
-https://vcp8.myplaytv.com/mas23/mas23/playlist.m3u8
+https://movil.ejeserver.com/live/mas23tv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Vj5nNbF/FAV-TV-LOGO-BLANCO.png" group-title="America Central", Minfav TV Panama
-https://video.misistemareseller.com/minfavtv/minfavtv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lpVZgA4.jpg" group-title="America Central", Hispania TV Panama
-https://vcp8.myplaytv.com:1936/hispaniatv/hispaniatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/647WCF8.png" group-title="America Central", Hispania TV Panama
+https://www.streaming507.net:19360/hispaniamediatv/hispaniamediatv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YFmzkOp.png" group-title="America Central", Fabulosa Estereo Panama
 https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8
@@ -2350,11 +2350,14 @@ https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8ZIBs8l.png" group-title="America Central", Planet 100.9 Panama
 https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ocTnqi7.png" group-title="America Central", Super Q Panama
-https://vcp8.myplaytv.com:1936/superq/superq/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5rPdHhb.png" group-title="America Central", TropiQ Panama
+https://www.streaming507.net:19360/videotropiq/videotropiq.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vpvvznz.png" group-title="America Central", Hosanna Vision Panama
 https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ejRJqSI.png" group-title="America Central", A&R Canal Panama
+http://51.222.9.192:3589/stream/play.m3u8
 
 
 ---------------------------------------------------
@@ -2401,14 +2404,8 @@ https://video2.makrodigital.com/americaestereoquito/americaestereoquito/chunks.m
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gUqKymM.png" group-title="Ecuador", America Estereo Guayaquil
 https://video2.makrodigital.com/americaestereoguayaquil/americaestereoguayaquil/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ligysaM.jpg" group-title="Ecuador", UCSG TV
-https://stream.catomedia.net/catomedia-app/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/flbMpMP.png" group-title="Ecuador", Señal Positiva
 https://eu1.servers10.com:8081/8108/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eUoj9bG.png" group-title="Ecuador", Capricho TV
-https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DzxGHRZ.png" group-title="Ecuador", RTV
 https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8
@@ -2418,9 +2415,6 @@ https://plustv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mZkW342.png" group-title="Ecuador", Manavision
 https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ez1NxwJ.jpg" group-title="Ecuador", Marca TV
-https://eu1.servers10.com:8081/8030/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CYldC2R.png" group-title="Ecuador", Puruwa TV
 https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8
