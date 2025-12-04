@@ -4112,30 +4112,32 @@ http://200.229.147.142:8000/play/a065/index.m3u8
 http://200.229.147.142:8000/play/a05w/index.m3u8
 #EXTINF:-1,MI Musica Regional
 http://200.229.147.142:8000/play/a07u/index.m3u8
-#EXTINF:-1,MTV 00s HD
+#EXTINF:-1,Mi Musica Reguaeton
+http://200.229.147.142:8000/play/a07z/index.m3u8
+#EXTINF:-1,Mi Musica Romantica
+http://200.229.147.142:8000/play/a087/index.m3u8
+#EXTINF:-1,Mi Musica Salsa
+http://200.229.147.142:8000/play/a088/index.m3u8
+#EXTINF:-1,MTV 00s HD (cierra 31 diciembre)
 http://200.229.147.142:8000/play/a03q/index.m3u8
-#EXTINF:-1,MTV 80s
+#EXTINF:-1,MTV 80s (cierra 31 diciembre)
 http://200.229.147.142:8000/play/a01f/index.m3u8
 #EXTINF:-1,MTV HD
 http://200.229.147.142:8000/play/a01q/index.m3u8
-#EXTINF:-1,MTV Hits
+#EXTINF:-1,MTV Hits (cierra 31 diciembre)
 http://200.229.147.142:8000/play/a01e/index.m3u8
-#EXTINF:-1,MTV LIVE HD
+#EXTINF:-1,MTV LIVE HD (cierra 31 diciembre)
 http://200.229.147.142:8000/play/a03p/index.m3u8
 #EXTINF:-1,MULTIVISION
 http://200.229.147.142:8000/play/a06k/index.m3u8
 #EXTINF:-1,AMC Series
 http://200.229.147.142:8000/play/a004/index.m3u8
-#EXTINF:-1,Mi Musica Reguaeton
-http://200.229.147.142:8000/play/a07z/index.m3u8
 #EXTINF:-1,Multicinema
 http://200.229.147.142:8000/play/a02p/index.m3u8
 #EXTINF:-1,Multimedios CR
 http://200.229.147.142:8000/play/a00j/index.m3u8
 #EXTINF:-1,Multipremier
 http://200.229.147.142:8000/play/a04f/index.m3u8
-#EXTINF:-1,Mi Musica Regional
-http://200.229.147.142:8000/play/a07u/index.m3u8
 #EXTINF:-1,Nacion Tv
 http://200.229.147.142:8000/play/a05q/index.m3u8
 #EXTINF:-1,Nat Geo HD
@@ -4150,12 +4152,14 @@ http://200.229.147.142:8000/play/a05l/index.m3u8
 http://200.229.147.142:8000/play/a02j/index.m3u8
 #EXTINF:-1,Panico
 http://200.229.147.142:8000/play/a083/index.m3u8
-#EXTINF:-1,Paramount HD
+#EXTINF:-1,Paramount HD (cierra 31 diciembre)
 http://200.229.147.142:8000/play/a04x/index.m3u8
 #EXTINF:-1,Pasiones
 http://200.229.147.142:8000/play/a00k/index.m3u8
 #EXTINF:-1,QHUBO TV
 http://200.229.147.142:8000/play/a04o/index.m3u8
+#EXTINF:-1,RAI ITALIA
+http://200.229.147.142:8000/play/a092/index.m3u8
 #EXTINF:-1,RCN - GUA
 http://200.229.147.142:8000/play/a03z/index.m3u8
 #EXTINF:-1,RCN Novelas
@@ -4266,7 +4270,8 @@ http://200.229.147.142:8000/play/a03e/index.m3u8
 http://200.229.147.142:8000/play/a003/index.m3u8
 #EXTINF:-1,NDTV
 http://200.229.147.142:8000/play/a086/index.m3u8
-
+#EXTINF:-1,VIDEO ROLA
+http://200.229.147.142:8000/play/a09b/index.m3u8
 
 
 
@@ -4803,8 +4808,6 @@ http://45.186.107.173:8000/play/a04c/index.m3u8
 http://45.186.107.173:8000/play/a05a/index.m3u8
 #EXTINF:-1,WARNER HD
 http://45.186.107.173:8000/play/a03y/index.m3u8
-
-
 
 
 
