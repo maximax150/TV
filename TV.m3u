@@ -15,16 +15,16 @@ https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1 tvg-logo="https://diretelemexico.com/wp-content/uploads/2021/08/Multimedios-TV-Canal-6-en-vivo.png" group-title="Entretenimiento" group-title="Mexico", Multimedios 6 Delay
 https://mdstrm.com/live-stream-playlist/67b0cd1d72d61c6acc069916.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.storage.foromedios.com/monthly_2025_01/large.AztecaInternacional-2024.png.0f06dc28f25718b340b4743067bdac90.png" group-title="Entretenimiento" group-title="Mexico", Azteca Internacional
+#EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/38/64/1ecfc2ba4cbb920e1b4785eb75fb/logo-tv-azteca.png" group-title="Entretenimiento" group-title="Mexico", Azteca Internacional
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8
 
-#EXTINF:-1 tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2022/07/Clic450x300.png" group-title="Entretenimiento", Azteca Clic
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/TV_Azteca_Clic_2023_Official.svg" group-title="Entretenimiento", Azteca Clic
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
 
 #EXTINF:-1 tvg-logo="https://clarotv.claropy.net/img/topLogo.png" group-title="Entretenimiento", Canal Claro
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/68224482c5d53e1351aaf2f2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://static-ottera.com/prod/est/linear_channel/thumbnails/square/etv_-_1920x1920_1_0.jpg" group-title="Entretenimiento", Estrella TV
+#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/vGETUo5z3KPqsFkvyHdvRm-530-75.png" group-title="Entretenimiento", Estrella TV
 https://estrellatv-oando.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z52nEnH.png" group-title="Entretenimiento", Estrella TV Games
