@@ -3890,15 +3890,15 @@ http://38.44.109.41:8003/play/a025/index.m3u8
 
 
 #EXTINF:-1 group-title="TV 2",
+#EXTINF:-1,A3CINE
+http://200.229.147.142:8000/play/a05z/index.m3u8
 #EXTINF:-1,A&E HD
 http://200.229.147.142:8000/play/a01x/index.m3u8
 #EXTINF:-1,AMC HD
 http://200.229.147.142:8000/play/a01y/index.m3u8
 #EXTINF:-1,AXN HD
 http://200.229.147.142:8000/play/a027/index.m3u8
-#EXTINF:-1,AZTECA CINEMA
-http://200.229.147.142:8000/play/a06u/index.m3u8
-#EXTINF:-1,AZTECA DEPORTES 
+#EXTINF:-1,AZTECA 7
 http://200.229.147.142:8000/play/a06s/index.m3u8
 #EXTINF:-1,AZTECA HONDURAS
 http://200.229.147.142:8000/play/a06h/index.m3u8
@@ -3906,6 +3906,10 @@ http://200.229.147.142:8000/play/a06h/index.m3u8
 http://200.229.147.142:8000/play/a024/index.m3u8
 #EXTINF:-1,AZTECA UNO 
 http://200.229.147.142:8000/play/a07d/index.m3u8
+#EXTINF:-1,Azteca Deportes
+http://200.229.147.142:8000/play/a08v/index.m3u8
+#EXTINF:-1,Azteca Internacional
+http://200.229.147.142:8000/play/a08u/index.m3u8
 #EXTINF:-1,Adult Swim
 http://200.229.147.142:8000/play/a00i/index.m3u8
 #EXTINF:-1,Animal Planet HD
@@ -3916,63 +3920,61 @@ http://200.229.147.142:8000/play/a005/index.m3u8
 http://200.229.147.142:8000/play/a00a/index.m3u8
 #EXTINF:-1,Azteca corazon
 http://200.229.147.142:8000/play/a017/index.m3u8
-#EXTINF:-1,Azteca Internacional
-http://200.229.147.142:8000/play/a030/index.m3u8
 #EXTINF:-1,BANDAMAX
 http://200.229.147.142:8000/play/a07b/index.m3u8
 #EXTINF:-1,BBC News
 http://200.229.147.142:8000/play/a01k/index.m3u8
+#EXTINF:-1,BLOOMBERG
+http://200.229.147.142:8000/play/a083/index.m3u8
 #EXTINF:-1,BUNDESLIGA
 http://200.229.147.142:8000/play/a05b/index.m3u8
 #EXTINF:-1,Baby First
 http://200.229.147.142:8000/play/a02a/index.m3u8
 #EXTINF:-1,Baby TV
 http://200.229.147.142:8000/play/a002/index.m3u8
-#EXTINF:-1,BITME 
+#EXTINF:-1,Bitme
 http://200.229.147.142:8000/play/a07s/index.m3u8
-#EXTINF:-1,CANAL 11 HN
-http://200.229.147.142:8000/play/a07h/index.m3u8
-#EXTINF:-1,CANAL 12
+#EXTINF:-1,Canal 12
 http://200.229.147.142:8000/play/a06w/index.m3u8
-#EXTINF:-1,CANAL 5 HD
+#EXTINF:-1,Canal 5 Honduras
 http://200.229.147.142:8000/play/a05a/index.m3u8
-#EXTINF:-1,CANAL CHOLOMA
+#EXTINF:-1,Canal 5 MX
+http://200.229.147.142:8000/play/a06t/index.m3u8
+#EXTINF:-1,Canal 7 Teletica CR
+http://200.229.147.142:8000/play/a06r/index.m3u8
+#EXTINF:-1,Canal Choloma
 http://200.229.147.142:8000/play/a05j/index.m3u8
 #EXTINF:-1,CARTOON NETWORK HD
 http://200.229.147.142:8000/play/a00p/index.m3u8
-#EXTINF:-1,CERTV
+#EXTINF:-1,RTVD
 http://200.229.147.142:8000/play/a03x/index.m3u8
-#EXTINF:-1,CHOLUTSASUR SRT
+#EXTINF:-1,CHOLUTSASUR
 http://200.229.147.142:8000/play/a068/index.m3u8
 #EXTINF:-1,CINECANAL HD
 http://200.229.147.142:8000/play/a03g/index.m3u8
 #EXTINF:-1,CNN Internacional
 http://200.229.147.142:8000/play/a00c/index.m3u8
-#EXTINF:-1,CNNE
+#EXTINF:-1,CNN en español
 http://200.229.147.142:8000/play/a01j/index.m3u8
-#EXTINF:-1,CVS sur
-http://200.229.147.142:8000/play/a05m/index.m3u8
-#EXTINF:-1,Canal 11 - GUA
+#EXTINF:-1,Canal 11 Guatemala
 http://200.229.147.142:8000/play/a029/index.m3u8
-#EXTINF:-1,Canal 11 - HON
+#EXTINF:-1,Canal 11 Honduras
 http://200.229.147.142:8000/play/a00x/index.m3u8
-#EXTINF:-1,Canal 13-GUA
+#EXTINF:-1,Canal 13 Guatemala
 http://200.229.147.142:8000/play/a028/index.m3u8
-#EXTINF:-1,Canal 3 - GUA
+#EXTINF:-1,Canal 3 Guatemala
 http://200.229.147.142:8000/play/a02w/index.m3u8
-#EXTINF:-1,Canal 5 HON
-http://200.229.147.142:8000/play/a02x/index.m3u8
-#EXTINF:-1,Canal 6 SV
+#EXTINF:-1,Canal 6 El Salvador
 http://200.229.147.142:8000/play/a05o/index.m3u8
-#EXTINF:-1,Canal 7 GUA
+#EXTINF:-1,Canal 7 Guatemala
 http://200.229.147.142:8000/play/a02v/index.m3u8
-#EXTINF:-1,Canal 8 TNH HN
+#EXTINF:-1,Canal 8 TNH Honduras
 http://200.229.147.142:8000/play/a04e/index.m3u8
-#EXTINF:-1,Canal Antigua - GUA
+#EXTINF:-1,Canal Antigua Guatemala
 http://200.229.147.142:8000/play/a02t/index.m3u8
-#EXTINF:-1,Canal Azteca - GUA
+#EXTINF:-1,Azteca Guate
 http://200.229.147.142:8000/play/a02u/index.m3u8
-#EXTINF:-1,Canal VTV HND
+#EXTINF:-1,Canal VTV Honduras
 http://200.229.147.142:8000/play/a041/index.m3u8
 #EXTINF:-1,Cartoonito
 http://200.229.147.142:8000/play/a011/index.m3u8
@@ -3984,6 +3986,10 @@ http://200.229.147.142:8000/play/a07x/index.m3u8
 http://200.229.147.142:8000/play/a04g/index.m3u8
 #EXTINF:-1,Cine Premium 
 http://200.229.147.142:8000/play/a082/index.m3u8
+#EXTINF:-1,Cine Mexicano
+http://200.229.147.142:8000/play/a08k/index.m3u8
+#EXTINF:-1,Cinema Platino
+http://200.229.147.142:8000/play/a08j/index.m3u8
 #EXTINF:-1,CineMax
 http://200.229.147.142:8000/play/a04h/index.m3u8
 #EXTINF:-1,Claro Sports HD
@@ -3992,54 +3998,60 @@ http://200.229.147.142:8000/play/a06o/index.m3u8
 http://200.229.147.142:8000/play/a03o/index.m3u8
 #EXTINF:-1,Concert Channel
 http://200.229.147.142:8000/play/a04c/index.m3u8
-#EXTINF:-1,CubaVision
-http://200.229.147.142:8000/play/a05h/index.m3u8
-#EXTINF:-1,DE PELICULA
+#EXTINF:-1,City TV
+http://200.229.147.142:8000/play/a093/index.m3u8
+#EXTINF:-1,CLAN Internacional
+http://200.229.147.142:8000/play/a07g/index.m3u8
+#EXTINF:-1,De Pelicula
 http://200.229.147.142:8000/play/a080/index.m3u8
 #EXTINF:-1,DHE HD
 http://200.229.147.142:8000/play/a023/index.m3u8
 #EXTINF:-1,DISC TEATHER HD
 http://200.229.147.142:8000/play/a03l/index.m3u8
-#EXTINF:-1,DISTRITO COMEDIA
+#EXTINF:-1,TEN Honduras
 http://200.229.147.142:8000/play/a05c/index.m3u8
+#EXTINF:-1,Dreamworks Channel
+http://200.229.147.142:8000/play/a05d/index.m3u8
 #EXTINF:-1,DW
 http://200.229.147.142:8000/play/a06c/index.m3u8
-#EXTINF:-1,Discovery Channel HD
-http://200.229.147.142:8000/play/a04z/index.m3u8
+#EXTINF:-1,Discovery Channel
+http://200.229.147.142:8000/play/a036/index.m3u8
 #EXTINF:-1,Discovery Home & Health
 http://200.229.147.142:8000/play/a07w/index.m3u8
-#EXTINF:-1,Discovery ID HD
-http://200.229.147.142:8000/play/a053/index.m3u8
+#EXTINF:-1,Discovery ID 
+http://200.229.147.142:8000/play/a067/index.m3u8
 #EXTINF:-1,Discovery Kids HD
 http://200.229.147.142:8000/play/a00f/index.m3u8
 #EXTINF:-1,Discovery Science
 http://200.229.147.142:8000/play/a008/index.m3u8
 #EXTINF:-1,Discovery Turbo
 http://200.229.147.142:8000/play/a046/index.m3u8
-#EXTINF:-1,Discovery World HD
-http://200.229.147.142:8000/play/a050/index.m3u8
 #EXTINF:-1,Disney
 http://200.229.147.142:8000/play/a044/index.m3u8
 #EXTINF:-1,Disney JR
 http://200.229.147.142:8000/play/a012/index.m3u8
 #EXTINF:-1,E! HD
 http://200.229.147.142:8000/play/a01v/index.m3u8
-#EXTINF:-1,ENLACE
+#EXTINF:-1,EJTV
+http://200.229.147.142:8000/play/a09f/index.m3u8
+#EXTINF:-1,Enlace
 http://200.229.147.142:8000/play/a06j/index.m3u8
+#EXTINF:-1,ESNE
+http://200.229.147.142:8000/play/a070/index.m3u8
 #EXTINF:-1,ESPN 1 CA
 http://200.229.147.142:8000/play/a05v/index.m3u8
 #EXTINF:-1,ESPN 2 CA
 http://200.229.147.142:8000/play/a03b/index.m3u8
-#EXTINF:-1,ESPN 3 HD CA
-http://200.229.147.142:8000/play/a061/index.m3u8
-#EXTINF:-1,ESPN 4 HD CA
+#EXTINF:-1,ESPN 3 CA
+http://200.229.147.142:8000/play/a02h/index.m3u8
+#EXTINF:-1,ESPN 4 CA
 http://200.229.147.142:8000/play/a05s/index.m3u8
-#EXTINF:-1,ESPN 5 HD CA
+#EXTINF:-1,ESPN 5 CA
 http://200.229.147.142:8000/play/a05y/index.m3u8
 #EXTINF:-1,ESPN 6 CA
-http://200.229.147.142:8000/play/a04v/index.m3u8
-#EXTINF:-1,ESTRELLAS HD
-http://200.229.147.142:8000/play/a05d/index.m3u8
+http://200.229.147.142:8000/play/a05r/index.m3u8
+#EXTINF:-1 LAS ESTRELLAS
+http://200.229.147.142:8000/play/a06d/index.m3u8
 #EXTINF:-1,EURO Channel
 http://200.229.147.142:8000/play/a02d/index.m3u8
 #EXTINF:-1,EVO TV
@@ -4052,12 +4064,14 @@ http://200.229.147.142:8000/play/a02f/index.m3u8
 http://200.229.147.142:8000/play/a021/index.m3u8
 #EXTINF:-1,Exa TV
 http://200.229.147.142:8000/play/a03c/index.m3u8
+#EXTINF:-1,Food Network Latino
+http://200.229.147.142:8000/play/a06l/index.m3u8
 #EXTINF:-1,FOX SPORT 1 MX
 http://200.229.147.142:8000/play/a06a/index.m3u8
 #EXTINF:-1,FOX SPORT 2 MX
 http://200.229.147.142:8000/play/a06b/index.m3u8
-#EXTINF:-1,FUTV HD CR
-http://200.229.147.142:8000/play/a04r/index.m3u8
+#EXTINF:-1,FUTV CR
+http://200.229.147.142:8000/play/a03y/index.m3u8
 #EXTINF:-1,FX HD
 http://200.229.147.142:8000/play/a020/index.m3u8
 #EXTINF:-1,Film & arts HD
@@ -4068,10 +4082,10 @@ http://200.229.147.142:8000/play/a01l/index.m3u8
 http://200.229.147.142:8000/play/a06f/index.m3u8
 #EXTINF:-1,Golden
 http://200.229.147.142:8000/play/a02n/index.m3u8
-#EXTINF:-1,Golden Premiere 2 HD
-http://200.229.147.142:8000/play/a00h/index.m3u8
-#EXTINF:-1,Golden Premiere HD
+#EXTINF:-1,Golden Premier HD
 http://200.229.147.142:8000/play/a00g/index.m3u8
+#EXTINF:-1,Golden Premier 2 HD
+http://200.229.147.142:8000/play/a00h/index.m3u8
 #EXTINF:-1,Golf Channel HD
 http://200.229.147.142:8000/play/a026/index.m3u8
 #EXTINF:-1,Guatevision
@@ -4088,8 +4102,10 @@ http://200.229.147.142:8000/play/a00s/index.m3u8
 http://200.229.147.142:8000/play/a00t/index.m3u8
 #EXTINF:-1,HBO2 HD
 http://200.229.147.142:8000/play/a00r/index.m3u8
-#EXTINF:-1,HCH- HON
+#EXTINF:-1,HCH Honduras
 http://200.229.147.142:8000/play/a00y/index.m3u8
+#EXTINF:-1,Hondured
+http://200.229.147.142:8000/play/a08x/index.m3u8
 #EXTINF:-1,HOLA! TV HD
 http://200.229.147.142:8000/play/a03n/index.m3u8
 #EXTINF:-1,HTV
@@ -4106,9 +4122,9 @@ http://200.229.147.142:8000/play/a01c/index.m3u8
 http://200.229.147.142:8000/play/a049/index.m3u8
 #EXTINF:-1,Latin America Sport
 http://200.229.147.142:8000/play/a02k/index.m3u8
-#EXTINF:-1,MAYA TV
-http://200.229.147.142:8000/play/a065/index.m3u8
-#EXTINF:-1,MEGACLASICOS
+#EXTINF:-1,Multi Cinema
+http://200.229.147.142:8000/play/a06n/index.m3u8
+#EXTINF:-1,Mega Clasicos
 http://200.229.147.142:8000/play/a05w/index.m3u8
 #EXTINF:-1,MI Musica Regional
 http://200.229.147.142:8000/play/a07u/index.m3u8
@@ -4118,6 +4134,8 @@ http://200.229.147.142:8000/play/a07z/index.m3u8
 http://200.229.147.142:8000/play/a087/index.m3u8
 #EXTINF:-1,Mi Musica Salsa
 http://200.229.147.142:8000/play/a088/index.m3u8
+#EXTINF:-1,Milenio HD
+http://200.229.147.142:8000/play/a089/index.m3u8
 #EXTINF:-1,MTV 00s HD (cierra 31 diciembre)
 http://200.229.147.142:8000/play/a03q/index.m3u8
 #EXTINF:-1,MTV 80s (cierra 31 diciembre)
@@ -4132,16 +4150,14 @@ http://200.229.147.142:8000/play/a03p/index.m3u8
 http://200.229.147.142:8000/play/a06k/index.m3u8
 #EXTINF:-1,AMC Series
 http://200.229.147.142:8000/play/a004/index.m3u8
-#EXTINF:-1,Multicinema
-http://200.229.147.142:8000/play/a02p/index.m3u8
 #EXTINF:-1,Multimedios CR
 http://200.229.147.142:8000/play/a00j/index.m3u8
 #EXTINF:-1,Multipremier
 http://200.229.147.142:8000/play/a04f/index.m3u8
 #EXTINF:-1,Nacion Tv
 http://200.229.147.142:8000/play/a05q/index.m3u8
-#EXTINF:-1,Nat Geo HD
-http://200.229.147.142:8000/play/a04w/index.m3u8
+#EXTINF:-1,National Geographic 
+http://200.229.147.142:8000/play/a01b/index.m3u8
 #EXTINF:-1,Nick Jr
 http://200.229.147.142:8000/play/a010/index.m3u8
 #EXTINF:-1,Nick HD
@@ -4151,7 +4167,7 @@ http://200.229.147.142:8000/play/a05l/index.m3u8
 #EXTINF:-1,PXTV
 http://200.229.147.142:8000/play/a02j/index.m3u8
 #EXTINF:-1,Panico
-http://200.229.147.142:8000/play/a083/index.m3u8
+http://200.229.147.142:8000/play/a060/index.m3u8
 #EXTINF:-1,Paramount HD (cierra 31 diciembre)
 http://200.229.147.142:8000/play/a04x/index.m3u8
 #EXTINF:-1,Pasiones
@@ -4176,8 +4192,6 @@ http://200.229.147.142:8000/play/a03f/index.m3u8
 http://200.229.147.142:8000/play/a04p/index.m3u8
 #EXTINF:-1,STAR CHANNEL HD
 http://200.229.147.142:8000/play/a03d/index.m3u8
-#EXTINF:-1,Sembrador
-http://200.229.147.142:8000/play/a076/index.m3u8
 #EXTINF:-1,Sony Movies HD
 http://200.229.147.142:8000/play/a022/index.m3u8
 #EXTINF:-1,Star TVE HD
@@ -4192,58 +4206,56 @@ http://200.229.147.142:8000/play/a02o/index.m3u8
 http://200.229.147.142:8000/play/a00d/index.m3u8
 #EXTINF:-1,TD+2 HD CR
 http://200.229.147.142:8000/play/a00e/index.m3u8
-#EXTINF:-1,TELEBASICA
+#EXTINF:-1,Telebasica
 http://200.229.147.142:8000/play/a04n/index.m3u8
-#EXTINF:-1,TELECADENA
-http://200.229.147.142:8000/play/a03m/index.m3u8
-#EXTINF:-1,TELEHIT 
+#EXTINF:-1,Tele cadena 5/7
+http://200.229.147.142:8000/play/a055/index.m3u8
+#EXTINF:-1,Telehit
 http://200.229.147.142:8000/play/a07o/index.m3u8
-#EXTINF:-1,TELEHIT MUSICA 
+#EXTINF:-1,Telehit Musica
 http://200.229.147.142:8000/play/a07e/index.m3u8
-#EXTINF:-1,TELEMUNDO MIAMI
+#EXTINF:-1,Telemundo Miami
 http://200.229.147.142:8000/play/a064/index.m3u8
-#EXTINF:-1,TELESUR
+#EXTINF:-1,Telesur
 http://200.229.147.142:8000/play/a06e/index.m3u8
 #EXTINF:-1,TEN 10 
 http://200.229.147.142:8000/play/a084/index.m3u8
 #EXTINF:-1,TLC
 http://200.229.147.142:8000/play/a039/index.m3u8
-#EXTINF:-1,TLNOVELAS
+#EXTINF:-1,TLNovelas
 http://200.229.147.142:8000/play/a03w/index.m3u8
 #EXTINF:-1,TNT HD
-http://200.229.147.142:8000/play/a03k/index.m3u8
+http://200.229.147.142:8000/play/a01h/index.m3u8
 #EXTINF:-1,TNT Novelas
 http://200.229.147.142:8000/play/a01a/index.m3u8
-#EXTINF:-1,TNT Series HD
-http://200.229.147.142:8000/play/a04y/index.m3u8
+#EXTINF:-1,TNT Series
+http://200.229.147.142:8000/play/a019/index.m3u8
 #EXTINF:-1,TSI HD 
 http://200.229.147.142:8000/play/a04k/index.m3u8
 #EXTINF:-1,TUDN 
-http://200.229.147.142:8000/play/a07i/index.m3u8
+http://200.229.147.142:8000/play/a096/index.m3u8
 #EXTINF:-1,TVC DEPORTES HD
 http://200.229.147.142:8000/play/a05g/index.m3u8
 #EXTINF:-1,TV Chile
 http://200.229.147.142:8000/play/a006/index.m3u8
 #EXTINF:-1,TVE
 http://200.229.147.142:8000/play/a04l/index.m3u8
-#EXTINF:-1,Teen Nick HD
+#EXTINF:-1,Teen Nick HD (Cierra 31 de diciembre)
 http://200.229.147.142:8000/play/a01s/index.m3u8
-#EXTINF:-1,TeleMicro - RD
+#EXTINF:-1,TeleMicro RD
 http://200.229.147.142:8000/play/a057/index.m3u8
 #EXTINF:-1,TeleProgreso HD
 http://200.229.147.142:8000/play/a06g/index.m3u8
-#EXTINF:-1,Telemundo
-http://200.229.147.142:8000/play/a016/index.m3u8
-#EXTINF:-1,Telemundo HD
+#EXTINF:-1,Telemundo 
 http://200.229.147.142:8000/play/a01z/index.m3u8
-#EXTINF:-1,Tigo Sports HD
+#EXTINF:-1,Tigo Sports CR
 http://200.229.147.142:8000/play/a03i/index.m3u8
 #EXTINF:-1,Tooncast
 http://200.229.147.142:8000/play/a02z/index.m3u8
 #EXTINF:-1,UNE TV
 http://200.229.147.142:8000/play/a069/index.m3u8
-#EXTINF:-1,UNIVERSAL CINEMA ESTE HD
-http://200.229.147.142:8000/play/a054/index.m3u8
+#EXTINF:-1,Unicable
+http://200.229.147.142:8000/play/a05e/index.m3u8
 #EXTINF:-1,UNIVERSAL COMEDY HD
 http://200.229.147.142:8000/play/a03v/index.m3u8
 #EXTINF:-1,UNIVERSAL CRIME HD
@@ -4254,14 +4266,14 @@ http://200.229.147.142:8000/play/a03r/index.m3u8
 http://200.229.147.142:8000/play/a03s/index.m3u8
 #EXTINF:-1,UNIVERSAL REALITY HD
 http://200.229.147.142:8000/play/a03t/index.m3u8
-#EXTINF:-1,UNIVISION MIAMI
-http://200.229.147.142:8000/play/a02i/index.m3u8
+#EXTINF:-1,Univision
+http://200.229.147.142:8000/play/a052/index.m3u8
+#EXTINF:-1,USA
+http://200.229.147.142:8000/play/a097/index.m3u8
 #EXTINF:-1,UTV HONDURAS
 http://200.229.147.142:8000/play/a03a/index.m3u8
 #EXTINF:-1,Universal
 http://200.229.147.142:8000/play/a04d/index.m3u8
-#EXTINF:-1,Univision HD
-http://200.229.147.142:8000/play/a052/index.m3u8
 #EXTINF:-1,VE PLUS
 http://200.229.147.142:8000/play/a06i/index.m3u8
 #EXTINF:-1,WARNER HD
