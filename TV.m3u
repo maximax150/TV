@@ -30,9 +30,6 @@ https://estrellatv-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z52nEnH.png" group-title="Entretenimiento", Estrella TV Games
 https://amg00567-estrellamedia-estrellagames-estrellamedia-zy1f4.amagi.tv/ts-us-e2-n1/playlist/amg00567-estrellamedia-estrellagames-estrellamedia/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://meganetfun.com/storage/channel-logos/zPAS8Y1HZT1BoAwoFAkPuzaLX2UGBMNGvM6jGFcb.jpg" group-title="Entretenimiento", Bienestar TV
-https://video20.klm99.com:3391/live/meganettvlive.m3u8
-
 #EXTINF:-1 tvg-logo="https://images.fubo.tv/station_logos/RCN-Mas_m.png" group-title="Entretenimiento" group-title="Colombia", RCN Mas
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 
@@ -75,9 +72,6 @@ https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tsajuxi.png" group-title="Entretenimiento", Buena TV
 https://59825a54e4454.streamlock.net:8443/papo351/papo351/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://caribbeanadvantage.com/images/CAtv-logo-512.png" group-title="Entretenimiento", CATV
-https://video2.getstreamhosting.com:19360/8216/8216.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qs4szHD.png" group-title="Entretenimiento", Boricua TV
 https://2-fss-2.streamhoster.com/pl_138/amlst:201284-1347630/playlist.m3u8
 
@@ -101,9 +95,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex
 
 #EXTINF:-1 tvg-logo="https://drupal.hahaha.com/sites/default/files/2022-12/jfl_226x150.png" group-title="Entretenimiento", Just for Laughs
 https://distributionsjustepourrire-justforlaughsgags-1-es.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TOB9vmW.png" group-title="Entretenimiento", AFV
-https://linear-46.frequency.stream/mt/plex/46/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/5fdbc1d5682ee122a7a5aa20/ed35e1a4-ec0a-426a-8ad4-0f41bd8a3675/RevryLogo_1920w.png" group-title="Entretenimiento", Revry
 https://88794468e8cd4ffbb3ad6d5a6ef7c4a5.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-43-REVRYDOMESTIC-24i/mt/24i/43/hls/master/playlist.m3u8
