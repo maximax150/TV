@@ -63,6 +63,19 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6474a7958e3c0a0008b97c
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/686eed4c677f2f98b4a1ccd4/colorLogoPNG.png" group-title="Novelas" group-title="Mexico", Novelas de otros continentes
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/686eed4c677f2f98b4a1ccd4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/686eed4c677f2f98b4a1ccd4/colorLogoPNG.png" group-title="Novelas", Novelas de Siempre
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-691536d338cb396cc8e5b40a.m3u8?X-Plex-Session-Identifier=3j7hmdo7clov6bmhdthffpxw&X-Plex-Product=Plex%20Web&X-Plex-Version=4.157.0&X-Plex-Client-Identifier=rgk8u8p69h8x6vjglai6ltun&X-Plex-Platform=Chrome&X-Plex-Platform-Version=143.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=standalone&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1536x735%2C1680x1050&X-Plex-Token=1z8RW3LsC4dHejc2ArYM&X-Plex-Language=es-419&Accept-Language=es-419&X-Plex-Session-Id=ee1ef5f5-3025-4aad-8937-0afb4a0c83fd&X-Plex-Playback-Session-Id=130cec6c-1bea-404a-87fd-10bc9779ea64
+
+#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2024/02/28225532/WEDO_AMOR_1.png" group-title="Novelas", Wedo amor
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-66ea196ac24d95b51b7cd18b.m3u8?X-Plex-Session-Identifier=3j7hmdo7clov6bmhdthffpxw&X-Plex-Product=Plex%20Web&X-Plex-Version=4.157.0&X-Plex-Client-Identifier=rgk8u8p69h8x6vjglai6ltun&X-Plex-Platform=Chrome&X-Plex-Platform-Version=143.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=standalone&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1536x735%2C1680x1050&X-Plex-Token=1z8RW3LsC4dHejc2ArYM&X-Plex-Language=es-419&Accept-Language=es-419&X-Plex-Session-Id=ee1ef5f5-3025-4aad-8937-0afb4a0c83fd&X-Plex-Playback-Session-Id=2a95c935-b657-40ee-8c90-905cb4e04b8b
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/9999395/300x300.png" group-title="Novelas", Zee Mundo
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-6750ddfe89fc497ec780f5bd.m3u8?X-Plex-Session-Identifier=3j7hmdo7clov6bmhdthffpxw&X-Plex-Product=Plex%20Web&X-Plex-Version=4.157.0&X-Plex-Client-Identifier=rgk8u8p69h8x6vjglai6ltun&X-Plex-Platform=Chrome&X-Plex-Platform-Version=143.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=standalone&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1536x735%2C1680x1050&X-Plex-Token=1z8RW3LsC4dHejc2ArYM&X-Plex-Language=es-419&Accept-Language=es-419&X-Plex-Session-Id=ee1ef5f5-3025-4aad-8937-0afb4a0c83fd&X-Plex-Playback-Session-Id=cefa23a0-5a7c-4a01-8154-dd8c30f6ac68
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K9o3mLP.png" group-title="Entretenimiento", AmericaTeVe Puerto Rico
 https://live.gideo.video/americateve2/master.m3u8
 
@@ -86,6 +99,9 @@ https://stream.vivotv.uy/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://static-prod.adweek.com/wp-content/uploads/2022/05/Tastemade-2022.jpg" group-title="Entretenimiento", Tastemade
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadees16international24i-ono/playlist.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento", Kfood
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-68b9f5a3d60e5dd29263c7ac.m3u8?X-Plex-Session-Identifier=3j7hmdo7clov6bmhdthffpxw&X-Plex-Product=Plex%20Web&X-Plex-Version=4.157.0&X-Plex-Client-Identifier=rgk8u8p69h8x6vjglai6ltun&X-Plex-Platform=Chrome&X-Plex-Platform-Version=143.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=standalone&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1536x735%2C1680x1050&X-Plex-Token=1z8RW3LsC4dHejc2ArYM&X-Plex-Language=es-419&Accept-Language=es-419&X-Plex-Session-Id=ee1ef5f5-3025-4aad-8937-0afb4a0c83fd&X-Plex-Playback-Session-Id=867eca8c-ebe0-4a2d-8897-df273a1c601e
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Telemundo_Puerto_Rico.svg/1200px-Telemundo_Puerto_Rico.svg.png" group-title="Entretenimiento", Telemundo Puerto Rico
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
@@ -280,6 +296,13 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6322099c822bbc0007
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6870072ca9d5c45c3e9466f1/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=cb17&deviceDNT=0&deviceModel=0
 
 
+#EXTINF:-1 tvg-logo="https://www.animationxpress.com/wp-content/uploads/2020/08/2020-08-12.jpeg" group-title="Kids & Geek", Kidoodle
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-5eea605574085f0040ddc79a.m3u8?X-Plex-Session-Identifier=3j7hmdo7clov6bmhdthffpxw&X-Plex-Product=Plex%20Web&X-Plex-Version=4.157.0&X-Plex-Client-Identifier=rgk8u8p69h8x6vjglai6ltun&X-Plex-Platform=Chrome&X-Plex-Platform-Version=143.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=standalone&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1536x735%2C1680x1050&X-Plex-Token=1z8RW3LsC4dHejc2ArYM&X-Plex-Language=es-419&Accept-Language=es-419&X-Plex-Session-Id=ee1ef5f5-3025-4aad-8937-0afb4a0c83fd&X-Plex-Playback-Session-Id=f8a55439-6073-4904-809c-0efc4193ac13
+
+#EXTINF:-1 group-title="Kids & Geek", Toon Googles Español
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-6041643175c115002dc51259.m3u8?X-Plex-Session-Identifier=3j7hmdo7clov6bmhdthffpxw&X-Plex-Product=Plex%20Web&X-Plex-Version=4.157.0&X-Plex-Client-Identifier=rgk8u8p69h8x6vjglai6ltun&X-Plex-Platform=Chrome&X-Plex-Platform-Version=143.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=standalone&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1536x735%2C1680x1050&X-Plex-Token=1z8RW3LsC4dHejc2ArYM&X-Plex-Language=es-419&Accept-Language=es-419&X-Plex-Session-Id=ee1ef5f5-3025-4aad-8937-0afb4a0c83fd&X-Plex-Playback-Session-Id=89553b1d-3d3c-4eea-8d9c-eb82de4acb54
+
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/619d5e6a093e7c0007489211/colorLogoPNG.png" group-title="Kids & Geek",Baby Shark TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619d5e6a093e7c0007489211/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -458,6 +481,36 @@ https://cloudvideo.servers10.com:8081/8234/index.m3u8
 
 #EXTINF:-1, Lassie TV
 https://xumo-xumoent-ch833-p47sj.fast.nbcuni.com/live/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Cine y Series", Todo Drama
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-685f195f6c220c4e9e333a04.m3u8?X-Plex-Session-Identifier=3j7hmdo7clov6bmhdthffpxw&X-Plex-Product=Plex%20Web&X-Plex-Version=4.157.0&X-Plex-Client-Identifier=rgk8u8p69h8x6vjglai6ltun&X-Plex-Platform=Chrome&X-Plex-Platform-Version=143.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=standalone&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1536x735%2C1680x1050&X-Plex-Token=1z8RW3LsC4dHejc2ArYM&X-Plex-Language=es-419&Accept-Language=es-419&X-Plex-Session-Id=ee1ef5f5-3025-4aad-8937-0afb4a0c83fd&X-Plex-Playback-Session-Id=17081948-3d51-44dc-8c84-756ca77c0861
+
+#EXTINF:-1 tvg-logo="https://mma.prnewswire.com/media/1321479/UP_Entertainment_Cine_Romantico_Logo.jpg" group-title="Cine y Series", Cine romantico
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-67db0a3892cb453db28ab020.m3u8?X-Plex-Session-Identifier=6twnf3zvkc8gzqnc1od23b3g&X-Plex-Product=Plex%20Web&X-Plex-Version=4.157.0&X-Plex-Client-Identifier=rgk8u8p69h8x6vjglai6ltun&X-Plex-Platform=Chrome&X-Plex-Platform-Version=143.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=standalone&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1536x735%2C1680x1050&X-Plex-Token=1z8RW3LsC4dHejc2ArYM&X-Plex-Language=es-419&Accept-Language=es-419&X-Plex-Session-Id=ee1ef5f5-3025-4aad-8937-0afb4a0c83fd&X-Plex-Playback-Session-Id=15a31b3d-78dd-4ae2-8542-e3b8c5c913a3
+
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/myb/linear_channel/thumbnails/widescreen/pelimex_logo.png" group-title="Cine y Series", Pelimex
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-67db3546d66f778a752f7eaa.m3u8?X-Plex-Session-Identifier=6twnf3zvkc8gzqnc1od23b3g&X-Plex-Product=Plex%20Web&X-Plex-Version=4.157.0&X-Plex-Client-Identifier=rgk8u8p69h8x6vjglai6ltun&X-Plex-Platform=Chrome&X-Plex-Platform-Version=143.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=standalone&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1536x735%2C1680x1050&X-Plex-Token=1z8RW3LsC4dHejc2ArYM&X-Plex-Language=es-419&Accept-Language=es-419&X-Plex-Session-Id=ee1ef5f5-3025-4aad-8937-0afb4a0c83fd&X-Plex-Playback-Session-Id=993cfbae-daa9-41a0-8fbc-fa5e54a5b878
+
+#EXTINF:-1 tvg-logo="" group-title="Cine y Series", Panico TV español
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-68b9f0bdd60e5dd29263c7a1.m3u8?X-Plex-Session-Identifier=3j7hmdo7clov6bmhdthffpxw&X-Plex-Product=Plex%20Web&X-Plex-Version=4.157.0&X-Plex-Client-Identifier=rgk8u8p69h8x6vjglai6ltun&X-Plex-Platform=Chrome&X-Plex-Platform-Version=143.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=standalone&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1536x735%2C1680x1050&X-Plex-Token=1z8RW3LsC4dHejc2ArYM&X-Plex-Language=es-419&Accept-Language=es-419&X-Plex-Session-Id=ee1ef5f5-3025-4aad-8937-0afb4a0c83fd&X-Plex-Playback-Session-Id=a1b75792-4815-44a0-8311-155c2b311b7b
+
+#EXTINF:-1 tvg-logo="https://image.pngaaa.com/639/8746639-middle.png" group-title="Cine y Series", Made in Hollywood
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-60db63d29ec966002c9ea6f0.m3u8?X-Plex-Session-Identifier=3j7hmdo7clov6bmhdthffpxw&X-Plex-Product=Plex%20Web&X-Plex-Version=4.157.0&X-Plex-Client-Identifier=rgk8u8p69h8x6vjglai6ltun&X-Plex-Platform=Chrome&X-Plex-Platform-Version=143.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=standalone&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1536x735%2C1680x1050&X-Plex-Token=1z8RW3LsC4dHejc2ArYM&X-Plex-Language=es-419&Accept-Language=es-419&X-Plex-Session-Id=ee1ef5f5-3025-4aad-8937-0afb4a0c83fd&X-Plex-Playback-Session-Id=3c7f5d20-9323-4318-8858-653e98f78a47
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/8aa4c6_372303d0b6d543e88fcbaa9164f0e0c7~mv2.png/v1/fit/w_2500,h_1330,al_c/8aa4c6_372303d0b6d543e88fcbaa9164f0e0c7~mv2.png" group-title="Cine y Series", Cine en Español
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-64e6e46f27a915f9b5184e9a.m3u8?X-Plex-Session-Identifier=3j7hmdo7clov6bmhdthffpxw&X-Plex-Product=Plex%20Web&X-Plex-Version=4.157.0&X-Plex-Client-Identifier=rgk8u8p69h8x6vjglai6ltun&X-Plex-Platform=Chrome&X-Plex-Platform-Version=143.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=standalone&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1536x735%2C1680x1050&X-Plex-Token=1z8RW3LsC4dHejc2ArYM&X-Plex-Language=es-419&Accept-Language=es-419&X-Plex-Session-Id=ee1ef5f5-3025-4aad-8937-0afb4a0c83fd&X-Plex-Playback-Session-Id=129325ee-d115-439c-8619-8713d889d5f6
+
+#EXTINF:-1 tvg-logo="" group-title="Cine y Series", Oro TV
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-64f0db77c2bc9b9001d46eaa.m3u8?X-Plex-Session-Identifier=3j7hmdo7clov6bmhdthffpxw&X-Plex-Product=Plex%20Web&X-Plex-Version=4.157.0&X-Plex-Client-Identifier=rgk8u8p69h8x6vjglai6ltun&X-Plex-Platform=Chrome&X-Plex-Platform-Version=143.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=standalone&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1536x735%2C1680x1050&X-Plex-Token=1z8RW3LsC4dHejc2ArYM&X-Plex-Language=es-419&Accept-Language=es-419&X-Plex-Session-Id=ee1ef5f5-3025-4aad-8937-0afb4a0c83fd&X-Plex-Playback-Session-Id=3f5925cc-e5fb-45ee-8c39-2e96ba79c63f
+
+#EXTINF:-1 tvg-logo="https://www.prensario.net/multimedios/imgs/61558_750.jpg" group-title="Cine y Series", Cindie TV
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-6685abbe59703916799193a7.m3u8?X-Plex-Session-Identifier=3j7hmdo7clov6bmhdthffpxw&X-Plex-Product=Plex%20Web&X-Plex-Version=4.157.0&X-Plex-Client-Identifier=rgk8u8p69h8x6vjglai6ltun&X-Plex-Platform=Chrome&X-Plex-Platform-Version=143.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=standalone&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1536x735%2C1680x1050&X-Plex-Token=1z8RW3LsC4dHejc2ArYM&X-Plex-Language=es-419&Accept-Language=es-419&X-Plex-Session-Id=ee1ef5f5-3025-4aad-8937-0afb4a0c83fd&X-Plex-Playback-Session-Id=dc5c0e4e-bd20-4f90-8d42-1a79734433a3
+
+#EXTINF:-1 tvg-logo="https://filmrise.com/assets/logo-ebc63322f0c1360c5a911ea6638fbf4c6a04ba833c9b17596b78d66938a8c4a7.png" group-title="Cine y Series", Filmrise Series Gratis
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-65e9d0ad8fe4ef7053c3c869.m3u8?X-Plex-Session-Identifier=3j7hmdo7clov6bmhdthffpxw&X-Plex-Product=Plex%20Web&X-Plex-Version=4.157.0&X-Plex-Client-Identifier=rgk8u8p69h8x6vjglai6ltun&X-Plex-Platform=Chrome&X-Plex-Platform-Version=143.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=standalone&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1536x735%2C1680x1050&X-Plex-Token=1z8RW3LsC4dHejc2ArYM&X-Plex-Language=es-419&Accept-Language=es-419&X-Plex-Session-Id=ee1ef5f5-3025-4aad-8937-0afb4a0c83fd&X-Plex-Playback-Session-Id=a0a47fc0-45ec-413a-89e6-4f5f2b6c3352
+
+
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/655f62ff954b020008c91ec6/colorLogoPNG.png", Series de crimen
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/655f62ff954b020008c91ec6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -781,8 +834,11 @@ https://livetv-fa.tubi.video/fubo/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ulGKX30.png" group-title="Deportes", SportsGrid
 https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8
 
+#EXTINF:-1, Lucha Plus
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-67a1a8ef2358ef4dd5c3018e.m3u8?X-Plex-Session-Identifier=3j7hmdo7clov6bmhdthffpxw&X-Plex-Product=Plex%20Web&X-Plex-Version=4.157.0&X-Plex-Client-Identifier=rgk8u8p69h8x6vjglai6ltun&X-Plex-Platform=Chrome&X-Plex-Platform-Version=143.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=standalone&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1536x735%2C1680x1050&X-Plex-Token=1z8RW3LsC4dHejc2ArYM&X-Plex-Language=es-419&Accept-Language=es-419&X-Plex-Session-Id=ee1ef5f5-3025-4aad-8937-0afb4a0c83fd&X-Plex-Playback-Session-Id=6bb50c0a-df3c-4c13-840c-74b9060a1a31
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/46ba3640-97aa-47f8-87e4-bb64fe032669/WSN_Logo_Light1rdx.png" group-title="Deportes", Women's Sports Network
-https://livetv-fa.tubi.video/fast-studios-womens-sports/playlist.m3u8
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-630fa9e577ec3866def38fa2.m3u8?X-Plex-Session-Identifier=3j7hmdo7clov6bmhdthffpxw&X-Plex-Product=Plex%20Web&X-Plex-Version=4.157.0&X-Plex-Client-Identifier=rgk8u8p69h8x6vjglai6ltun&X-Plex-Platform=Chrome&X-Plex-Platform-Version=143.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=standalone&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1536x735%2C1680x1050&X-Plex-Token=1z8RW3LsC4dHejc2ArYM&X-Plex-Language=es-419&Accept-Language=es-419&X-Plex-Session-Id=ee1ef5f5-3025-4aad-8937-0afb4a0c83fd&X-Plex-Playback-Session-Id=c80928b4-cf92-41dc-82b1-18a47b9f0dc1
+
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/a12045b8-c4b0-46f1-a480-97b5fceb9db9/FITE24-7_Channel_Logo_for_PLEX_1800x1200.png" group-title="Deportes", Fite 24/7
 https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
