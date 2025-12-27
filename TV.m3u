@@ -784,10 +784,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5090
 #EXTINF:-1 tvg-logo="https://images.icon-icons.com/2699/PNG/512/fox_logo_icon_170126.png" group-title="Deportes", Fox en Tubi
 https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist720p.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes", Mega Sports CR
-https://video20.klm99.com:3703/live/megasportlive.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65cf60d166eec80008724e6f/colorLogoPNG.png" group-title="Deportes" , Azteca Deportes Network Fast
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65cf60d166eec80008724e6f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -797,6 +793,12 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/638df6f8b63cf100075ccf
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66997d18a1b69e00082ee85f/colorLogoPNG.png", FIFA Plus
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66997d18a1b69e00082ee85f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66fd36ca9269330008412b6c/colorLogoPNG.png", Gol Classics
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66fd36ca9269330008412b6c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ac5694-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6c128a45-6314-4183-a002-254731ea91a6
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6720e2bddaad7f000872f274/colorLogoPNG.png", DFB Play TV
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6720e2bddaad7f000872f274/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ac5694-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6c128a45-6314-4183-a002-254731ea91a6
 
 #EXTINF:-1 tvg-logo="https://www.estilomma.com/images/noticias/thumbnails/Do0-qzJjXwGBUbhK7nCQiVro2YT51DHhBw7OnTvJr35PEACSqaqhxfHdmedSZrEiLTiuqERb=s900-c-k-c0x00ffffff-no-rj_thumb_297x297.jpg" group-title="Deportes", UFC
 https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
@@ -3193,7 +3195,7 @@ https://urbanrevolution.es:8443/live/TV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0TDnVQ4.png" group-title="España", ROTV Valencia
 https://rotv.romediavalencia.com:3839/live/rotvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60e4519e6873180007d3cddb/colorLogoPNG.png", Heidi 24/7
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/68779a09c691b3f0964127c6/colorLogoPNG.png", Heidi 24/7
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/68779a09c691b3f0964127c6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ac5694-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6c128a45-6314-4183-a002-254731ea91a6
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/687799f86255fd1c0c419c84/colorLogoPNG.png", Marco 24/7
