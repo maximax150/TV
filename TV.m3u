@@ -65,7 +65,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/686eed4c677f2f98b4a1cc
 
 
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/686eed4c677f2f98b4a1ccd4/colorLogoPNG.png" group-title="Novelas", Novelas de Siempre
+#EXTINF:-1 tvg-logo="" group-title="Novelas", Novelas de Siempre
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-691536d338cb396cc8e5b40a.m3u8?X-Plex-Session-Identifier=3j7hmdo7clov6bmhdthffpxw&X-Plex-Product=Plex%20Web&X-Plex-Version=4.157.0&X-Plex-Client-Identifier=rgk8u8p69h8x6vjglai6ltun&X-Plex-Platform=Chrome&X-Plex-Platform-Version=143.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=standalone&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1536x735%2C1680x1050&X-Plex-Token=1z8RW3LsC4dHejc2ArYM&X-Plex-Language=es-419&Accept-Language=es-419&X-Plex-Session-Id=ee1ef5f5-3025-4aad-8937-0afb4a0c83fd&X-Plex-Playback-Session-Id=130cec6c-1bea-404a-87fd-10bc9779ea64
 
 #EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2024/02/28225532/WEDO_AMOR_1.png" group-title="Novelas", Wedo amor
@@ -2189,7 +2189,7 @@ http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
 https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://meganetfun.com/storage/channel-logos/pu1FekotUO22xwemJs3uzfMQYdu3uzYrwdmb5UM0.png" group-title="Costa Rica", Canal 10 CR
-https://acceso.mediosdecostarica.com:3606/stream/play.m3u8
+https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBtgnxR.png" group-title="Costa Rica", 360 RFTV 
 https://acceso.mediosdecostarica.com:3638/live/360rftvcrlive.m3u8
@@ -2198,7 +2198,7 @@ https://acceso.mediosdecostarica.com:3638/live/360rftvcrlive.m3u8
 https://mist01.homestream.fun/hls/tlmas904/0_1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/cbcfd98188337b1bf79a92b1afb60ad3.png" group-title="Costa Rica", San Vito TV
-https://acceso.radiosportstv.online:3150/hybrid/play.m3u8
+https://acceso.mediosdecostarica.com:3422/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mev90pC.jpg" group-title="Costa Rica", Ticavision
 https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8
@@ -2222,7 +2222,7 @@ https://k20.usastreams.com:8081/tvsur/index.m3u8
 https://s1.tvdatta.com:3072/live/cotobrustvlive.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Costa Rica", Radio Turrialba TV
-https://acceso.radiosportstv.online:3723/live/radioturrialbatvlive.m3u8
+https://live21.bozztv.com/akamaissh101/ssh101/turrialbatv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sAYNKJ8.png" group-title="Costa Rica", Garabito TV
 https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
@@ -2249,10 +2249,10 @@ https://latamvdo.com:3626/hybrid/play.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2024/07/canal-retroxtv.jpg" group-title="Costa Rica", Retrox TV
-https://live21.bozztv.com/akamaissh101/ssh101/retroxcrtv/chunks.m3u8
+https://live20.bozztv.com/giatv/giatv-RTVN/RTVN/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://gia.tv/streams/logo/209477.png" group-title="Costa Rica", Retrox TV+
-https://live20.bozztv.com/giatv/giatv-RTVN/RTVN/chunks.m3u8
+https://live21.bozztv.com/akamaissh101/ssh101/retroxcrtv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/fbefcbca47462eb80eedbeaf95126474.png" group-title="Costa Rica" group-title="Musicales", VM Latino CR
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
