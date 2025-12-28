@@ -2158,16 +2158,16 @@ http://190.7.192.164:8018/play/s46
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sgRDRBK.jpg" group-title="Costa Rica", Canal 3 KMK
 https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://alba-cr-repretel.cdn.mediatiquepress.com/wp-content/uploads/2024/11/LOGOS_CANALES4-150x84.png" group-title="Costa Rica", Repretel 4 
+#EXTINF:-1 tvg-logo="https://alba-cr-repretel.cdn.mediatiquepress.com/wp-content/uploads/2024/11/LOGOS_CANALES4-150x84.png" group-title="Costa Rica", Repretel Canal 4 
 http://190.7.192.164:8022/play/s33
 
-#EXTINF:-1 tvg-logo="https://genteopa.com/wp-content/uploads/2024/03/cropped-logo-opa-1.png" group-title="Costa Rica", OPA
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/a876b5631717b555cd4a977f934fe601882292c052bf6b6ab989b534e953e4f5.png" group-title="Costa Rica", OPA
 https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://alba-cr-repretel.cdn.mediatiquepress.com/wp-content/uploads/2024/11/LOGOS_CANALES6-150x84.png" group-title="Costa Rica", Repretel 6 
+#EXTINF:-1 tvg-logo="https://alba-cr-repretel.cdn.mediatiquepress.com/wp-content/uploads/2024/11/LOGOS_CANALES6-150x84.png" group-title="Costa Rica", Repretel Canal 6 
 http://190.7.192.162:8001/play/s2
 
-#EXTINF:-1 tvg-logo="https://static3.teletica.com/Files/Sizes/2024/4/5/teletica7_717404571_380x260.png" group-title="Costa Rica", Teletica 
+#EXTINF:-1 tvg-logo="https://static3.teletica.com/Files/Sizes/2024/4/5/teletica7_717404571_380x260.png" group-title="Costa Rica", Teletica 7
 http://190.7.192.162:8007/play/s10
 
 #EXTINF:-1 tvg-logo="https://www.teleticaradio.com/img/Logo-Color.png",Teletica Radio
@@ -2182,16 +2182,16 @@ https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TLM592m.png" group-title="Costa Rica", Unife CR
 http://190.7.192.164:8020/play/s41
 
-#EXTINF:-1 tvg-logo="https://alba-cr-repretel.cdn.mediatiquepress.com/wp-content/uploads/2024/11/LOGOS_CANALES11-150x84.png" group-title="Costa Rica", Repretel 11 
+#EXTINF:-1 tvg-logo="https://alba-cr-repretel.cdn.mediatiquepress.com/wp-content/uploads/2024/11/LOGOS_CANALES11-150x84.png" group-title="Costa Rica", Repretel Canal 11 
 http://190.7.192.164:8018/play/s45
 
 #EXTINF:-1 tvg-logo="https://gxtra-cr-extratv.cdn.mediatiquepress.com/wp-content/uploads/2024/10/logo-Extra-tv-blanco-1-e1728675680531-150x32.png" group-title="Costa Rica", Extra TV
 https://d2axu5ozwr5gk0.cloudfront.net/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://sinartdigital.com/media/zoo/images/canal-trece_slidemenu_a6abcec3786aa051f4b121c684d84c03.png" group-title="Costa Rica", Sinart Canal 13
+#EXTINF:-1 tvg-logo="https://sinartdigital.com/images/miscelaneo/senales/canal_13_.png" group-title="Costa Rica", Sinart Canal 13
 http://190.7.192.164:8023/play/s28
 
-#EXTINF:-1 tvg-logo="https://sinartdigital.com/media/zoo/images/canal-trece_slidemenu_a6abcec3786aa051f4b121c684d84c03.png" group-title="Costa Rica", La Nacional
+#EXTINF:-1 tvg-logo="https://sinartdigital.com/images/miscelaneo/senales/canal_13_.png" group-title="Costa Rica", La Nacional
 http://190.7.192.164:8023/play/s30
 
 #EXTINF:-1 tvg-logo="https://www.tvn14.com/wp-content/uploads/2023/03/cropped-logo.png" group-title="Costa Rica", TVN 14
@@ -2221,7 +2221,7 @@ https://micanal.ovh/livestreams/84.FAONPFMRZZBM.m3u8
 #EXTINF:-1 tvg-logo="https://meganetfun.com/storage/channel-logos/KQIDLVaSczYcos3uuJHWezHG2uP2M50JGR45beX0.jpg" group-title="Costa Rica", Antena Seis
 https://video1.azulstream.com:8081/antenaseistv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0DZB3eB.png" group-title="Costa Rica", Colosal TV
+#EXTINF:-1 tvg-logo="https://colosalstereo.com/wp-content/uploads/2025/11/LOGO-RADIO-BLANCO.png" group-title="Costa Rica", Colosal TV
 https://5d16127744872.streamlock.net/COLOSAL/COLOSAL/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.doutico.com/wpimages/wpf687f100_05_06.jpg" group-title="Costa Rica", Limon TV 
@@ -2254,8 +2254,11 @@ https://videohd.live:19360/8076/8076.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5xw86wu.png" group-title="Costa Rica", Los Santos TV
 https://lstv.duckdns.org:449/hls/lstv.m3u8
 
-#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/s3ldDvPV5migLlpYn0b6jxqWGZiZGKugHO67JlpI.jpg" group-title="Costa Rica", Retro TV Online
+#EXTINF:-1 tvg-logo="" group-title="Costa Rica", Retro TV Online
 https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Costa Rica", Retro Music TV
+https://live21.bozztv.com/akamaissh101/ssh101/506retromusictv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OpHYYZA.png" group-title="Costa Rica", TvSur CR
 https://k20.usastreams.com:8081/tvsur/index.m3u8
@@ -2278,10 +2281,10 @@ https://live20.bozztv.com/akamaissh101/ssh101/tvretropalm2020/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XvktUBB.jpg" group-title="Costa Rica", Zurqui TV
 https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
 
-#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/1yeVCQoEYPNMrJVCeegIi3nyrstnkYnymfvL0ZSY.jpg" group-title="Costa Rica" group-title="Musicales", Colosal Radio
+#EXTINF:-1 tvg-logo="https://colosalstereo.com/wp-content/uploads/2025/11/LOGO-RADIO-BLANCO.png" group-title="Costa Rica" group-title="Musicales", Colosal Radio
 https://5d16127744872.streamlock.net/canal3/canal3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/191d7f0299ec0197d15d2e7b76ff037f.png" group-title="Costa Rica" group-title="Musicales", Radio 88 Stereo CR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3YwORV.png" group-title="Costa Rica" group-title="Musicales", Radio 88 Stereo CR
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/lapotentecr.com/wp-content/uploads/2024/06/D1%402x-8.png?" group-title="Costa Rica" group-title="Musicales", La Potente TV
@@ -2296,19 +2299,19 @@ https://live20.bozztv.com/giatv/giatv-RTVN/RTVN/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://gia.tv/streams/logo/209477.png" group-title="Costa Rica", Retrox TV+
 https://live21.bozztv.com/akamaissh101/ssh101/retroxcrtv/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/fbefcbca47462eb80eedbeaf95126474.png" group-title="Costa Rica" group-title="Musicales", VM Latino CR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dvo1b82.png" group-title="Costa Rica" group-title="Musicales", VM Latino CR
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/ade26f32ba4868798ef1593a34e57ef7.png" group-title="Costa Rica" group-title="Musicales", Soy Plancha TV CR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P4kpMgk/1689344714578.jpg" group-title="Costa Rica" group-title="Musicales", Soy Plancha TV CR
 https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/508ad957b4f4585f59b0d4c265bbac61.png" group-title="Costa Rica" group-title="Musicales", Vintage Music CR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KImqYnN.jpeg" group-title="Costa Rica" group-title="Musicales", Vintage Music CR
 https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/0c73fe6bc691b4aa4d1ac9cc3f93e500.png" group-title="Costa Rica" group-title="Musicales", Urbano TV CR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KVVU9PI.png" group-title="Costa Rica" group-title="Musicales", Urbano TV CR
 https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-QUz4UviUPiE/X3YnewzIm7I/AAAAAAAA6Ho/xpUvyAvSX6Qj0Lvl8qhuZnDdz9VPZWy4QCK8BGAsYHg/s0/2020-10-01.png" group-title="Costa Rica" group-title="Musicales", Video Tour Channel CR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zEi8eMC.png" group-title="Costa Rica" group-title="Musicales", Video Tour Channel CR
 http://k4.usastreams.com/videotour/videotour/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.iqmedios.com/imgsnuevas/bannerIQChannel.png" group-title="Costa Rica" group-title="Musicales", IQ Channel
