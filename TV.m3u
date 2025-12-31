@@ -3856,8 +3856,6 @@ http://38.44.109.41:8003/play/a01i/index.m3u8
 http://38.44.109.41:8003/play/a028/index.m3u8
 #EXTINF:-1,DW
 http://38.44.109.41:8003/play/a01b/index.m3u8
-#EXTINF:-1,De Pelicula SRT
-http://38.44.109.41:8003/play/a047/index.m3u8
 #EXTINF:-1,Discovery
 http://38.44.109.41:8003/play/a01e/index.m3u8
 #EXTINF:-1,Discovery H&H
@@ -3870,7 +3868,7 @@ http://38.44.109.41:8003/play/a01t/index.m3u8
 http://38.44.109.41:8003/play/a00e/index.m3u8
 #EXTINF:-1,Disney Jr
 http://38.44.109.41:8003/play/a03b/index.m3u8
-#EXTINF:-1,Distrito Comedia OK
+#EXTINF:-1,Distrito Comedia
 http://38.44.109.41:8003/play/a048/index.m3u8
 #EXTINF:-1,E!
 http://38.44.109.41:8003/play/a030/index.m3u8
@@ -4284,16 +4282,8 @@ http://200.229.147.142:8000/play/a087/index.m3u8
 http://200.229.147.142:8000/play/a088/index.m3u8
 #EXTINF:-1,Milenio HD
 http://200.229.147.142:8000/play/a089/index.m3u8
-#EXTINF:-1,MTV 00s HD (cierra 31 diciembre)
-http://200.229.147.142:8000/play/a03q/index.m3u8
-#EXTINF:-1,MTV 80s (cierra 31 diciembre)
-http://200.229.147.142:8000/play/a01f/index.m3u8
 #EXTINF:-1,MTV HD
 http://200.229.147.142:8000/play/a01q/index.m3u8
-#EXTINF:-1,MTV Hits (cierra 31 diciembre)
-http://200.229.147.142:8000/play/a01e/index.m3u8
-#EXTINF:-1,MTV LIVE HD (cierra 31 diciembre)
-http://200.229.147.142:8000/play/a03p/index.m3u8
 #EXTINF:-1,MULTIVISION
 http://200.229.147.142:8000/play/a06k/index.m3u8
 #EXTINF:-1,AMC Series
@@ -4316,8 +4306,6 @@ http://200.229.147.142:8000/play/a05l/index.m3u8
 http://200.229.147.142:8000/play/a02j/index.m3u8
 #EXTINF:-1,Panico
 http://200.229.147.142:8000/play/a060/index.m3u8
-#EXTINF:-1,Paramount HD (cierra 31 diciembre)
-http://200.229.147.142:8000/play/a04x/index.m3u8
 #EXTINF:-1,Pasiones
 http://200.229.147.142:8000/play/a00k/index.m3u8
 #EXTINF:-1,QHUBO TV
@@ -4388,8 +4376,6 @@ http://200.229.147.142:8000/play/a05g/index.m3u8
 http://200.229.147.142:8000/play/a006/index.m3u8
 #EXTINF:-1,TVE
 http://200.229.147.142:8000/play/a04l/index.m3u8
-#EXTINF:-1,Teen Nick HD (Cierra 31 de diciembre)
-http://200.229.147.142:8000/play/a01s/index.m3u8
 #EXTINF:-1,TeleMicro RD
 http://200.229.147.142:8000/play/a057/index.m3u8
 #EXTINF:-1,TeleProgreso HD
@@ -4436,7 +4422,6 @@ http://200.229.147.142:8000/play/a09b/index.m3u8
 
 
 #EXTINF:-1 group-title="TV 3",
-#EXTM3U
 #EXTINF:-1 , PANAMERICANA HD
 http://38.199.4.105:9999/play/1103/index.m3u8
 #EXTINF:-1, ATV HD
@@ -4579,8 +4564,6 @@ http://38.199.4.105:9999/play/a0l3/index.m3u8
 http://38.199.4.105:9999/play/a0ip/index.m3u8
 #EXTINF:-1,GLOBAL
 http://38.199.4.105:9999/play/a0if/index.m3u8
-#EXTINF:-1,GOLPERU
-http://38.199.4.105:9999/play/a0lo/index.m3u8
 #EXTINF:-1,Golden Edge
 http://38.199.4.105:9999/play/a0gf/index.m3u8
 #EXTINF:-1,Golden HD
@@ -4635,12 +4618,8 @@ http://38.199.4.105:9999/play/a0m7/index.m3u8
 http://38.199.4.105:9999/play/a0ja/index.m3u8
 #EXTINF:-1,MEGA HD
 http://38.199.4.105:9999/play/a0i5/index.m3u8
-#EXTINF:-1,MTV 00s HD (cierra 31 diciembre)
-http://38.199.4.105:9999/play/a0nj/index.m3u8
 #EXTINF:-1,MTV HD
 http://38.199.4.105:9999/play/a0ha/index.m3u8
-#EXTINF:-1,MTV LIVE HD (cierra 31 diciembre)
-http://38.199.4.105:9999/play/a0mz/index.m3u8
 #EXTINF:-1,Movistar Deportes
 http://38.199.4.105:9999/play/a0j5/index.m3u8
 #EXTINF:-1,AMC Series
@@ -4663,8 +4642,6 @@ http://38.199.4.105:9999/play/a0g1/index.m3u8
 http://38.199.4.105:9999/play/a0j6/index.m3u8
 #EXTINF:-1,Panamericana
 http://38.199.4.105:9999/play/a0ic/index.m3u8
-#EXTINF:-1,Paramount HD (cierra 31 diciembre)
-http://38.199.4.105:9999/play/a0gs/index.m3u8
 #EXTINF:-1,Pasiones HD
 http://38.199.4.105:9999/play/a0mc/index.m3u8
 #EXTINF:-1,Peru MÆgico
@@ -4679,8 +4656,6 @@ http://38.199.4.105:9999/play/a0ie/index.m3u8
 http://38.199.4.105:9999/play/a0nh/index.m3u8
 #EXTINF:-1,STAR CHANNEL HD
 http://38.199.4.105:9999/play/a0mt/index.m3u8
-#EXTINF:-1 ,Sextreme
-http://38.199.4.105:9999/play/a0io/index.m3u8
 #EXTINF:-1,Sony HD
 http://38.199.4.105:9999/play/a0mm/index.m3u8
 #EXTINF:-1,Sony Movies
@@ -4709,8 +4684,6 @@ http://38.199.4.105:9999/play/a0hy/index.m3u8
 http://38.199.4.105:9999/play/a0nq/index.m3u8
 #EXTINF:-1,TVN HD
 http://38.199.4.105:9999/play/a0hw/index.m3u8
-#EXTINF:-1,Teen Nick
-http://38.199.4.105:9999/play/a0g3/index.m3u8
 #EXTINF:-1,Telemundo
 http://38.199.4.105:9999/play/a0nz/index.m3u8
 #EXTINF:-1,Telenovelas
@@ -4940,16 +4913,8 @@ http://45.186.107.173:8000/play/a05k/index.m3u8
 http://45.186.107.173:8000/play/a01p/index.m3u8
 #EXTINF:-1,Latin America Sport
 http://45.186.107.173:8000/play/a03c/index.m3u8
-#EXTINF:-1,MTV 00s
-http://45.186.107.173:8000/play/a03e/index.m3u8
-#EXTINF:-1,MTV 00sHD
-http://45.186.107.173:8000/play/a049/index.m3u8
-#EXTINF:-1,MTV 80s
-http://45.186.107.173:8000/play/a01r/index.m3u8
 #EXTINF:-1,MTV HD
 http://45.186.107.173:8000/play/a021/index.m3u8
-#EXTINF:-1,MTV LIVE
-http://45.186.107.173:8000/play/a048/index.m3u8
 #EXTINF:-1,Multicinema
 http://45.186.107.173:8000/play/a03i/index.m3u8
 #EXTINF:-1,Multimedios CR
@@ -4966,10 +4931,6 @@ http://45.186.107.173:8000/play/a01d/index.m3u8
 http://45.186.107.173:8000/play/a042/index.m3u8
 #EXTINF:-1,Nickelodeon
 http://45.186.107.173:8000/play/a04i/index.m3u8
-#EXTINF:-1,Paramount
-http://45.186.107.173:8000/play/a00s/index.m3u8
-#EXTINF:-1,Paramount HD
-http://45.186.107.173:8000/play/a055/index.m3u8
 #EXTINF:-1,PasionesHD
 http://45.186.107.173:8000/play/a059/index.m3u8
 #EXTINF:-1,RCN-GUA
@@ -5022,8 +4983,6 @@ http://45.186.107.173:8000/play/a056/index.m3u8
 http://45.186.107.173:8000/play/a05n/index.m3u8
 #EXTINF:-1,TVE
 http://45.186.107.173:8000/play/a04v/index.m3u8
-#EXTINF:-1,TeenNick HD
-http://45.186.107.173:8000/play/a02n/index.m3u8
 #EXTINF:-1,TeleAntillas-RD
 http://45.186.107.173:8000/play/a015/index.m3u8
 #EXTINF:-1,Telecable Salcaja
@@ -5307,16 +5266,8 @@ http://200.92.227.238:8000/play/a0u8/index.m3u8
 http://200.92.227.238:8000/play/a0nd/index.m3u8
 #EXTINF:-1,MTV
 http://200.92.227.238:8000/play/a0ua/index.m3u8
-#EXTINF:-1,MTV 00s
-http://200.92.227.238:8000/play/a0nf/index.m3u8
-#EXTINF:-1,MTV 00s HD
-http://200.92.227.238:8000/play/a0op/index.m3u8
-#EXTINF:-1,MTV 80s
-http://200.92.227.238:8000/play/a0lt/index.m3u8
 #EXTINF:-1,MTV HD
 http://200.92.227.238:8000/play/a0mm/index.m3u8
-#EXTINF:-1,MTV Hits
-http://200.92.227.238:8000/play/a0ls/index.m3u8
 #EXTINF:-1,MTV SIM HD
 http://200.92.227.238:8000/play/a0oo/index.m3u8
 #EXTINF:-1,Mexicanal
@@ -5341,10 +5292,6 @@ http://200.92.227.238:8000/play/a0oh/index.m3u8
 http://200.92.227.238:8000/play/a0u1/index.m3u8
 #EXTINF:-1,PXTV
 http://200.92.227.238:8000/play/a0si/index.m3u8
-#EXTINF:-1,Paramount
-http://200.92.227.238:8000/play/a0l8/index.m3u8
-#EXTINF:-1,Paramount HD
-http://200.92.227.238:8000/play/a0py/index.m3u8
 #EXTINF:-1,Pasiones HD
 http://200.92.227.238:8000/play/a0q2/index.m3u8
 #EXTINF:-1,La Red GUA
@@ -5403,8 +5350,6 @@ http://200.92.227.238:8000/play/a0tr/index.m3u8
 http://200.92.227.238:8000/play/a0ui/index.m3u8
 #EXTINF:-1,TVM25 ESA
 http://200.92.227.238:8000/play/a0tx/index.m3u8
-#EXTINF:-1,Teen Nick HD
-http://200.92.227.238:8000/play/a0m5/index.m3u8
 #EXTINF:-1,Tele Antillas RD
 http://200.92.227.238:8000/play/a0rm/index.m3u8
 #EXTINF:-1,TeleMicro RD
@@ -5596,8 +5541,6 @@ http://177.234.230.206:8011/play/a0bn/index.m3u8
 http://177.234.230.206:8011/play/a08r/index.m3u8
 #EXTINF:-1,DW Espanol
 http://177.234.230.206:8011/play/a0m3/index.m3u8
-#EXTINF:-1,De Pelicula
-http://177.234.230.206:8011/play/a0ip/index.m3u8
 #EXTINF:-1,Discovery Channel  HD
 http://177.234.230.206:8011/play/a0oa/index.m3u8
 #EXTINF:-1,Discovery H&H HD
@@ -5676,7 +5619,7 @@ http://177.234.230.206:8011/play/a02f/index.m3u8
 http://177.234.230.206:8011/play/a07r/index.m3u8
 #EXTINF:-1,GamaTV
 http://177.234.230.206:8011/play/a0sm/index.m3u8
-#EXTINF:-1,Gol TV
+#EXTINF:-1,De Pelicula HD
 http://177.234.230.206:8011/play/a0lw/index.m3u8
 #EXTINF:-1,Golden Edge
 http://177.234.230.206:8011/play/a0il/index.m3u8
@@ -5730,10 +5673,6 @@ http://177.234.230.206:8011/play/a0bj/index.m3u8
 http://177.234.230.206:8011/play/a0kq/index.m3u8
 #EXTINF:-1,MTV HD
 http://177.234.230.206:8011/play/a0ji/index.m3u8
-#EXTINF:-1,MTV 00s HD
-http://177.234.230.206:8011/play/a0pd/index.m3u8
-#EXTINF:-1,MTV LIVE HD
-http://177.234.230.206:8011/play/a0ov/index.m3u8
 #EXTINF:-1,MULTICINEMA
 http://177.234.230.206:8011/play/a00o/index.m3u8
 #EXTINF:-1,MULTIPREMIER
