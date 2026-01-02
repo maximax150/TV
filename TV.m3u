@@ -2083,6 +2083,9 @@ https://video.ejeserver.com/live/mcitelevision.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/tdi-colombia-4792.jpg" group-title="Colombia" group-title="Musicales", TDI Colombia
 https://cdn.amelbasoluciones.co:8081/tdicolombia/index.fmp4.m3u8
 
+#EXTINF:-1 tvg-logo="https://files.lafm.com.co/assets/public/2024-08/canaluno.jpg" group-title="Colombia", Canal 1 (Geo Colombia)
+https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zAYtbYi.png" group-title="Colombia", Canal Capital 
 https://cdns.livewave.co:8081/canalcapital/index.m3u8
 
@@ -2299,6 +2302,9 @@ https://k20.usastreams.com:8081/tvsur/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vJZqrFY/a4ed367c69c23110d458a332af95be0be64566f288ccb5f261689344e6ba5e0d.png" group-title="Costa Rica", Coto Brus TV
 https://s1.tvdatta.com:3072/live/cotobrustvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://impactchannelcr.com/wp-content/uploads/2025/10/Logo-Negro.png" group-title="Costa Rica", Impact Channel
+https://5fe2654d6127d.streamlock.net/impactchannel/videoimpactchannel/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Costa Rica", Radio Turrialba TV
 https://live21.bozztv.com/akamaissh101/ssh101/turrialbatv/chunks.m3u8
