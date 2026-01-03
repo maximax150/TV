@@ -2346,7 +2346,7 @@ https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KImqYnN.jpeg" group-title="Costa Rica" group-title="Musicales", Vintage Music CR
-https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
+http://45.163.139.42:8000/play/a03f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KVVU9PI.png" group-title="Costa Rica" group-title="Musicales", Urbano TV CR
 https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
@@ -2563,11 +2563,11 @@ Venezuela
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Promar_Television.png" group-title="Venezuela", Promar TV 
 https://vcp.myplaytv.com/promar/promar/playlist.m3u8
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_canal_i_venezuela.png" group-title="Venezuela", Canal i 
+#EXTINF:-1 logo="http://canal-i.com/wordpress/wp-content/uploads/2023/02/Logo-Canal-I-para-la-Web-151-x-99-1.png" group-title="Venezuela", Canal i 
 https://canaliliv-ioriver-cdn.encoders.immergo.tv/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.telesurtv.net/export/sites/telesur/arte/log-iso-telesur.png_253617125.png" group-title="Venezuela", Telesur 
-https://mblesmain01.telesur.ultrabase.net/mbliveMain/audio/playlist.m3u8
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/unE2LGz.jpg" group-title="Venezuela", Mas Talk
 https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8
@@ -2581,20 +2581,11 @@ https://streamtv.intervenhosting.net:3161/live/telecentrolive.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wpWBsgf/IMG-20230705-154622.jpg" group-title="Venezuela", Aguacate TV
 https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/ede0172917569eae7de0f05b84cfde92.png" group-title="Venezuela", Cantina TV 
-https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.panavision.tv/panavisiontv.png" group-title="Venezuela", Panavision
-https://transcoder4.cef-technology.com/monitor/canal_panavision/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Canal_trt_logo.PNG" group-title="Venezuela", TRT
 https://vcp12.myplaytv.com/trt/trt/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLGeznX.png" group-title="Venezuela", UniTV
 https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://gust-production.s3.amazonaws.com/uploads/startup/logo_image/1321282/LOGO-03_20copy.png" group-title="Venezuela" group-title="Musicales", ZUT
-https://streams2.sofast.tv/dash/c86661f4fe3941eda14c2551a7bf262a/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0rYsbRk/Logo-TNO-2021-white.png" group-title="Venezuela", TNO radio
 https://stmv1.srvstm.com/tnovideo1/tnovideo1/playlist.m3u8
@@ -2607,9 +2598,6 @@ https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wFC6Xxq.png", TVO
 https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8
-
-#EXTINF:-1 tvg-logo="https://un24.tv/wp-content/uploads/2024/05/UN24.png", UN24
-https://59d39900ebfb8.streamlock.net/untv-720/untv-720/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LBI2la0.png", Catacumbo TV
 https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8
@@ -2626,14 +2614,11 @@ http://45.173.198.59:8080/hls/nginx3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jOroeJZ.png", Somos TV
 https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jOroeJZ.png", Chivacoa TV
+#EXTINF:-1 tvg-logo="", Chivacoa TV
 https://live20.bozztv.com/akamaissh101/ssh101/1234chivacoa/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cCFxyIp.jpg", Kandela TV
 https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/latinamedios.com/wp-content/uploads/2023/03/LOGO-LATINA-TV-H-500.png?w=500&ssl=1", Latina TV
-https://streamtv.intervenhosting.net:3639/live/latinatvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/usrP6T2.png", Onza TV
 https://stmv1.srvstm.com/gproducciones/gproducciones/playlist.m3u8
@@ -2652,11 +2637,8 @@ Paraguay
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Co3YrU0.png", Uniradio TV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Co3YrU0.png" group-title="Paraguay", Uniradio TV 
 https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fkK7i8g.png", Paraguay TV
-https://stream.paraguaytv.gov.py/memfs/400fcc83-8f04-4497-8011-150847d44702.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SNT_2013_logotype.png" group-title="Paraguay", SNT
 https://alba-py-snt-snt.stream.mediatiquestream.com/index.m3u8
@@ -4736,8 +4718,6 @@ http://45.163.139.42:8000/play/a02r/index.m3u8
 http://45.163.139.42:8000/play/a02k/index.m3u8
 #EXTINF:-1,VM Latino
 http://45.163.139.42:8000/play/a03d/index.m3u8
-#EXTINF:-1,Vintage Music
-http://45.163.139.42:8000/play/a03f/index.m3u8
 #EXTINF:-1,SOY
 http://45.163.139.42:8000/play/a03e/index.m3u8
 
