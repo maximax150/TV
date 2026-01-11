@@ -28,6 +28,11 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 #EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/vGETUo5z3KPqsFkvyHdvRm-530-75.png" group-title="Entretenimiento", Estrella TV
 https://estrellatv-oando.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/entch.png" group-title="Entretenimiento",ENT Channel
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/entf.png" group-title="Entretenimiento", ENT Family
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z52nEnH.png" group-title="Entretenimiento", Estrella TV Games
 https://amg00567-estrellamedia-estrellagames-estrellamedia-zy1f4.amagi.tv/ts-us-e2-n1/playlist/amg00567-estrellamedia-estrellagames-estrellamedia/playlist.m3u8
 
@@ -705,6 +710,19 @@ https://server40.servistreaming.com:3477/stream/play.m3u8
 
 #EXTINF:-1, Hits Mexicanos
 https://d3s7x6kmqcnb6b.cloudfront.net/hls/OQTXJ5I/m.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/tmc_main.png",Totalmusic
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/tmc_80s.png",Totalmusic 80s
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/tmc_00s.png",Totalmusic 2000s
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/tmc_concerts.png",Totalmusic Concerts
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/tmc_dance.png",Totalmusic Dance
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-logo="https://nexa-static.elektamedia.com/uploads/static/VideoHit/assets/videohit_white_logo.png",VideoHit
+https://cdn.global.elektamedia.com/live/c7eds/VideoHit/SA_LIVE_hls_enc/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1609-294x165-FFFFFF.jpg", Miami TV Music
 https://c234d2ca4266488cabe6eef411767d3b.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-Music/playlist.m3u8
