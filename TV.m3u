@@ -3901,8 +3901,10 @@ http://38.44.109.41:8003/play/a01z/index.m3u8
 http://38.44.109.41:8003/play/a010/index.m3u8
 #EXTINF:-1,Azteca UNO
 http://38.44.109.41:8003/play/a033/index.m3u8
-#EXTINF:-1,BitMe SRT
-http://38.44.109.41:8003/play/a045/index.m3u8
+#EXTINF:-1,BAndamax
+http://38.44.109.41:8003/play/a02i/index.m3u8
+#EXTINF:-1,Bitme
+http://38.44.109.41:8003/play/a00f/index.m3u8
 #EXTINF:-1,CGTN
 http://38.44.109.41:8003/play/a021/index.m3u8
 #EXTINF:-1,CNN Español
@@ -3913,8 +3915,6 @@ http://38.44.109.41:8003/play/a020/index.m3u8
 http://38.44.109.41:8003/play/a01j/index.m3u8
 #EXTINF:-1,Caracol HD
 http://38.44.109.41:8003/play/a00x/index.m3u8
-#EXTINF:-1,Cartoon Network
-http://38.44.109.41:8003/play/a03d/index.m3u8
 #EXTINF:-1,Cartoonito
 http://38.44.109.41:8003/play/a03c/index.m3u8
 #EXTINF:-1,Cinecanal
@@ -3929,6 +3929,8 @@ http://38.44.109.41:8003/play/a01i/index.m3u8
 http://38.44.109.41:8003/play/a028/index.m3u8
 #EXTINF:-1,DW
 http://38.44.109.41:8003/play/a01b/index.m3u8
+#EXTINF:-1,De Pelicula
+http://38.44.109.41:8003/play/a02h/index.m3u8
 #EXTINF:-1,Discovery
 http://38.44.109.41:8003/play/a01e/index.m3u8
 #EXTINF:-1,Discovery H&H
@@ -3942,39 +3944,21 @@ http://38.44.109.41:8003/play/a00e/index.m3u8
 #EXTINF:-1,Disney Jr
 http://38.44.109.41:8003/play/a03b/index.m3u8
 #EXTINF:-1,Distrito Comedia
-http://38.44.109.41:8003/play/a048/index.m3u8
-#EXTINF:-1,E!
-http://38.44.109.41:8003/play/a030/index.m3u8
-#EXTINF:-1,ECDF
-http://38.44.109.41:8003/play/a038/index.m3u8
+http://38.44.109.41:8003/play/a00j/index.m3u8
 #EXTINF:-1,EJTV
 http://38.44.109.41:8003/play/a014/index.m3u8
-#EXTINF:-1,ESPN 1
-http://38.44.109.41:8003/play/a02v/index.m3u8
-#EXTINF:-1,ESPN 2
-http://38.44.109.41:8003/play/a00v/index.m3u8
-#EXTINF:-1,ESPN 3
-http://38.44.109.41:8003/play/a00w/index.m3u8
-#EXTINF:-1,ESPN 4 HD
-http://38.44.109.41:8003/play/a03m/index.m3u8
-#EXTINF:-1,ESPN 5
-http://38.44.109.41:8003/play/a02t/index.m3u8
-#EXTINF:-1,ESPN 6
-http://38.44.109.41:8003/play/a00u/index.m3u8
-#EXTINF:-1,ESPN 7
-http://38.44.109.41:8003/play/a02u/index.m3u8
 #EXTINF:-1,ESPN Premium
 http://38.44.109.41:8003/play/a02m/index.m3u8
-#EXTINF:-1,ESPN2_MOD
-http://38.44.109.41:8003/play/a03u/index.m3u8
-#EXTINF:-1,ESPN3_MOD
-http://38.44.109.41:8003/play/a03v/index.m3u8
-#EXTINF:-1,ESPN5_MOD
-http://38.44.109.41:8003/play/a03w/index.m3u8
-#EXTINF:-1,ESPNPremium_MOD
-http://38.44.109.41:8003/play/a03y/index.m3u8
-#EXTINF:-1,ESPN_MOD
+#EXTINF:-1,ESPN
 http://38.44.109.41:8003/play/a03x/index.m3u8
+#EXTINF:-1,ESPN 2
+http://38.44.109.41:8003/play/a03u/index.m3u8
+#EXTINF:-1,ESPN 3
+http://38.44.109.41:8003/play/a03v/index.m3u8
+#EXTINF:-1,ESPN 5
+http://38.44.109.41:8003/play/a03w/index.m3u8
+#EXTINF:-1,ESPN 7
+http://38.44.109.41:8003/play/a03z/index.m3u8
 #EXTINF:-1,EWTN
 http://38.44.109.41:8003/play/a01u/index.m3u8
 #EXTINF:-1,EcuadorTV
@@ -3993,16 +3977,12 @@ http://38.44.109.41:8003/play/a01g/index.m3u8
 http://38.44.109.41:8003/play/a03f/index.m3u8
 #EXTINF:-1,Gamavision
 http://38.44.109.41:8003/play/a02n/index.m3u8
-#EXTINF:-1,Gol TV
-http://38.44.109.41:8003/play/a02h/index.m3u8
-#EXTINF:-1,Golden Edge SRT
-http://38.44.109.41:8003/play/a042/index.m3u8
-#EXTINF:-1,Golden SRT
-http://38.44.109.41:8003/play/a043/index.m3u8
+#EXTINF:-1,Golden
+http://38.44.109.41:8003/play/a001/index.m3u8
+#EXTINF:-1,Golden Edge
+http://38.44.109.41:8003/play/a002/index.m3u8
 #EXTINF:-1,Guatevision
 http://38.44.109.41:8003/play/a02p/index.m3u8
-#EXTINF:-1,HBO
-http://38.44.109.41:8003/play/a03k/index.m3u8
 #EXTINF:-1,HBO Family
 http://38.44.109.41:8003/play/a03j/index.m3u8
 #EXTINF:-1,Hispan TV
@@ -4013,14 +3993,14 @@ http://38.44.109.41:8003/play/a03l/index.m3u8
 http://38.44.109.41:8003/play/a02k/index.m3u8
 #EXTINF:-1,La Tele
 http://38.44.109.41:8003/play/a01m/index.m3u8
-#EXTINF:-1,Las Estrellas SRT
-http://38.44.109.41:8003/play/a03z/index.m3u8
+#EXTINF:-1,Las Estrellas
+http://38.44.109.41:8003/play/a00g/index.m3u8
 #EXTINF:-1,Love Nature
 http://38.44.109.41:8003/play/a02d/index.m3u8
+#EXTINF:-1,MAkrodigital
+http://38.44.109.41:8003/play/a030/index.m3u8
 #EXTINF:-1,MTV
 http://38.44.109.41:8003/play/a03i/index.m3u8
-#EXTINF:-1,Makrodigital
-http://38.44.109.41:8003/play/a02i/index.m3u8
 #EXTINF:-1,Nat Geo
 http://38.44.109.41:8003/play/a006/index.m3u8
 #EXTINF:-1,Nick
@@ -4045,14 +4025,10 @@ http://38.44.109.41:8003/play/a00a/index.m3u8
 http://38.44.109.41:8003/play/a02e/index.m3u8
 #EXTINF:-1,RTU
 http://38.44.109.41:8003/play/a01p/index.m3u8
-#EXTINF:-1,Realidades
-http://38.44.109.41:8003/play/a02g/index.m3u8
 #EXTINF:-1,Rumba TV
 http://38.44.109.41:8003/play/a022/index.m3u8
 #EXTINF:-1,Senal Colombia
 http://38.44.109.41:8003/play/a018/index.m3u8
-#EXTINF:-1,Sony
-http://38.44.109.41:8003/play/a039/index.m3u8
 #EXTINF:-1,Space
 http://38.44.109.41:8003/play/a01y/index.m3u8
 #EXTINF:-1,Star Channel
@@ -4069,14 +4045,12 @@ http://38.44.109.41:8003/play/a01x/index.m3u8
 http://38.44.109.41:8003/play/a02c/index.m3u8
 #EXTINF:-1,TVC
 http://38.44.109.41:8003/play/a029/index.m3u8
-#EXTINF:-1,Teleamazonas HD
-http://38.44.109.41:8003/play/a035/index.m3u8
 #EXTINF:-1,Teleamazonas SD
 http://38.44.109.41:8003/play/a01d/index.m3u8
-#EXTINF:-1,Teleantillas
-http://38.44.109.41:8003/play/a02y/index.m3u8
-#EXTINF:-1,Telehit SRT
-http://38.44.109.41:8003/play/a041/index.m3u8
+#EXTINF:-1,Telehit
+http://38.44.109.41:8003/play/a003/index.m3u8
+#EXTINF:-1,Telehit Musica
+http://38.44.109.41:8003/play/a02g/index.m3u8
 #EXTINF:-1,Telemedellin
 http://38.44.109.41:8003/play/a02o/index.m3u8
 #EXTINF:-1,Telemicro
@@ -4085,8 +4059,8 @@ http://38.44.109.41:8003/play/a02q/index.m3u8
 http://38.44.109.41:8003/play/a017/index.m3u8
 #EXTINF:-1,Telenostalgia
 http://38.44.109.41:8003/play/a01r/index.m3u8
-#EXTINF:-1,Telenovelas SRT
-http://38.44.109.41:8003/play/a040/index.m3u8
+#EXTINF:-1,Telenovelas
+http://38.44.109.41:8003/play/a00i/index.m3u8
 #EXTINF:-1,Telesur
 http://38.44.109.41:8003/play/a01q/index.m3u8
 #EXTINF:-1,Trece
@@ -4095,7 +4069,7 @@ http://38.44.109.41:8003/play/a01w/index.m3u8
 http://38.44.109.41:8003/play/a02w/index.m3u8
 #EXTINF:-1,TyC Sports
 http://38.44.109.41:8003/play/a02l/index.m3u8
-#EXTINF:-1,Unicable SRT
+#EXTINF:-1,Unicable
 http://38.44.109.41:8003/play/a00h/index.m3u8
 #EXTINF:-1,VTV
 http://38.44.109.41:8003/play/a01l/index.m3u8
@@ -4105,6 +4079,7 @@ http://38.44.109.41:8003/play/a03n/index.m3u8
 http://38.44.109.41:8003/play/a032/index.m3u8
 #EXTINF:-1,ZooMoo
 http://38.44.109.41:8003/play/a025/index.m3u8
+
 
 
 
