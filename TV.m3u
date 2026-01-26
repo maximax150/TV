@@ -2277,14 +2277,14 @@ https://vid.canal1cr.com:3424/multi_live/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nn8BtH5.png" group-title="Costa Rica", CDR Canal 2 
 http://190.7.192.164:8018/play/s46
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sgRDRBK.jpg" group-title="Costa Rica", Canal 3 KMK
-https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/a876b5631717b555cd4a977f934fe601882292c052bf6b6ab989b534e953e4f5.png" group-title="Costa Rica", OPA
+https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://alba-cr-repretel.cdn.mediatiquepress.com/wp-content/uploads/2024/11/LOGOS_CANALES4-150x84.png" group-title="Costa Rica", Repretel Canal 4 
 http://190.7.192.164:8022/play/s33
 
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/a876b5631717b555cd4a977f934fe601882292c052bf6b6ab989b534e953e4f5.png" group-title="Costa Rica", OPA
-https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.transdatelecom.com/streaming/supercinco.png" group-title="Costa Rica", Super 5 TV
+http://191.102.39.254:5000/live/5up3r5/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://alba-cr-repretel.cdn.mediatiquepress.com/wp-content/uploads/2024/11/LOGOS_CANALES6-150x84.png" group-title="Costa Rica", Repretel Canal 6 
 http://190.7.192.162:8001/play/s2
@@ -2316,14 +2316,14 @@ http://190.7.192.164:8023/play/s28
 #EXTINF:-1 tvg-logo="https://sinartdigital.com/images/miscelaneo/senales/canal_13_.png" group-title="Costa Rica", La Nacional
 http://190.7.192.164:8023/play/s30
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sgRDRBK.jpg" group-title="Costa Rica", Canal KMK
+https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.tvn14.com/wp-content/uploads/2023/03/cropped-logo.png" group-title="Costa Rica", TVN 14
-https://5fd8fec96951d.streamlock.net/TVN/CH14.stream_720p/playlist.m3u8
+https://tvn14-21fa4.kxcdn.com/TVN/CH14.stream_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dr56wvhu2c8zo.cloudfront.net/universidaddecostarica/assets/4f87ad59-83c6-40fe-a93b-e36591ec8c88.png" group-title="Costa Rica", Quice UCR 
 http://163.178.170.127:1935/quinceucr/_definst_/quinceucr.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xFCS7wM/GAMTVCR.png" group-title="Costa Rica", GAM TV
-https://v2.azulstream.com:8081/gamtv/gamtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cIvfnsa.jpg" group-title="Costa Rica" group-title="Cine y Series", Telered
 https://rtv.fullhd-streaming.com:19360/telered/telered.m3u8
@@ -2370,6 +2370,9 @@ https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eRwYxc2.png" group-title="Costa Rica", Teleuno 
 https://5d16127744872.streamlock.net/TVUNO/TVUNO/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KUpgeOf.png" group-title="Costa Rica", Telesur CR
+https://s1.tvdatta.com:3582/live/telesurlive.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2MNzXN7/Channels4-profile-9.jpg" group-title="Costa Rica", Norte Informativo
 https://videohd.live:19360/8076/8076.m3u8
 
@@ -2391,8 +2394,8 @@ https://s1.tvdatta.com:3072/live/cotobrustvlive.m3u8
 #EXTINF:-1 tvg-logo="https://impactchannelcr.com/wp-content/uploads/2025/10/Logo-Negro.png" group-title="Costa Rica", Impact Channel
 https://5fe2654d6127d.streamlock.net/impactchannel/videoimpactchannel/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Costa Rica", Radio Turrialba TV
-https://live21.bozztv.com/akamaissh101/ssh101/turrialbatv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://megatvcr.net/images/logo-mega.png" group-title="Costa Rica", Mega TV CR
+https://stream.enlineatv.net/hls/megatvcr/1_2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sAYNKJ8.png" group-title="Costa Rica", Garabito TV
 https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
@@ -2442,6 +2445,8 @@ http://k4.usastreams.com/videotour/videotour/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.iqmedios.com/imgsnuevas/bannerIQChannel.png" group-title="Costa Rica" group-title="Musicales", IQ Channel
 http://tv.ticosmedia.com:1935/IQ/IQ/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Costa Rica", Vibra TV
+https://v2.azulstream.com:8081/gamtv/gamtv/tracks-v1a1/mono.m3u8
 
 
 ---------------------------------------------------
