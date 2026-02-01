@@ -2149,6 +2149,11 @@ Colombia
 ---------------------------------------------------
 
 
+#EXTINF:-1 tvg-logo="https://www.senalcolombia.tv/themes/custom/colombia_subtheme/img/nuevo_home/logo.svg" group-title="Colombia", Señal Colombia
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canalinstitucional.tv/themes/custom/bootstrap_sass/images/logo.png" group-title="Colombia", Canal institucional
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2312Luq.png" group-title="Colombia", Cali TV 
 http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
@@ -2169,10 +2174,10 @@ https://cdn.amelbasoluciones.co:8081/tdicolombia/index.fmp4.m3u8
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zAYtbYi.png" group-title="Colombia", Canal Capital 
-https://cdns.livewave.co:8081/canalcapital/index.m3u8
+https://mdstrm.com/live-stream-playlist/6952dc88cb62083467eb6ab4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WgnZPol.png" group-title="Colombia", Eureka TV
-https://cdns.livewave.co:19360/eurekatv/eurekatv.m3u8
+https://mdstrm.com/live-stream-playlist/6952e02d19eabace52e2885f.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kuqkTMC.png" group-title="Colombia", Red+
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/06.m3u8
@@ -2193,7 +2198,7 @@ https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8
 https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cw5k96N.png" group-title="Colombia", Frecuencia F
-https://tv.frecuenciaf.com/live/envivo.m3u8
+https://tv.frecuenciaf.com/live/envivo_720p2628kbs/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/edaAexc.png" group-title="Colombia", Nets
 https://video.ejeserver.com/live/nets.m3u8
@@ -2201,14 +2206,14 @@ https://video.ejeserver.com/live/nets.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QlvYfEJ.png" group-title="Colombia", Cosmovisión
 https://videohls2.cosmovision.tv/hls/sd.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w35ICn7.png" group-title="Colombia", CTV 
-https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w35ICn7.png" group-title="Colombia", CTV Barranquilla
+https://live.ctvbarranquilla.com/live/ctv-4ad31c89f3764bf0980e642bc12fd00a.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e6esjLZ.jpg" group-title="Colombia", Tu Universo TV
 https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ThaRRCN.png" group-title="Colombia", 90minutos
-https://cdns.livewave.co:8081/90minutoslive/index.m3u8
+https://play.cdn.enetres.net/621B146D29C541AFB1507809F038F471021/021/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aKHGRyk.png" group-title="Colombia", Tele Islas
 https://5ab772334c39c.streamlock.net/live-teleislas/_definst_/teleislas/playlist.m3u8
@@ -2218,9 +2223,6 @@ https://movil.ejeserver.com/live/masmusica.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/39hy97J.png" group-title="Colombia", Telepacífico 
 https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cESeD6R.png" group-title="Colombia", Luna Etereo
-https://servervideo.intermediacolombia.com:19360/kychbbfhdz/kychbbfhdz.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/euy5zp6.png" group-title="Colombia", Zoom TV
 https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8
@@ -2239,12 +2241,6 @@ https://asucap.com/livestream/asucap_envivo.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zm4934Z.png" group-title="Colombia", TV Penol
 https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GJthQOa.png" group-title="Colombia", Tu Kanal
-https://envivo.tukanal.tv/hls/abdi.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/t8aT4eT.png" group-title="Colombia", Telejacinto
-https://video.ejeserver.com/live/telesanjacinto.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hFlGHNZ.png" group-title="Colombia", Huila TV
 https://server.asilivehd.com:3333/live/huilatvlive.m3u8
