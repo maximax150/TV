@@ -847,6 +847,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5090
 #EXTINF:-1 tvg-logo="https://images.icon-icons.com/2699/PNG/512/fox_logo_icon_170126.png" group-title="Deportes", Fox en Tubi
 https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist720p.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.icon-icons.com/2699/PNG/512/fox_logo_icon_170126.png" group-title="Deportes", Fox en Tubi Xtra
+https://aegis-cloudfront-1.tubi.video/0b3b6122-078c-4c89-ae5e-f548b9b1e382/playlist720p.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65cf60d166eec80008724e6f/colorLogoPNG.png" group-title="Deportes" , Azteca Deportes Network Fast
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65cf60d166eec80008724e6f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0554ebf0-ec36-11f0-816a-3a81b0ca334f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a80af946-d4ef-4219-be1d-b288962d2251&userId=&serverSideAds=true
