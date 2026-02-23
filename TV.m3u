@@ -12,9 +12,6 @@ https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
 #EXTINF:-1 tvg-logo="https://diretelemexico.com/wp-content/uploads/2021/08/Multimedios-TV-Canal-6-en-vivo.png" group-title="Entretenimiento" group-title="Mexico", Multimedios CDMX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 
-#EXTINF:-1 tvg-logo="https://diretelemexico.com/wp-content/uploads/2021/08/Multimedios-TV-Canal-6-en-vivo.png" group-title="Entretenimiento" group-title="Mexico", Multimedios 6 Delay
-https://mdstrm.com/live-stream-playlist/67b0cd1d72d61c6acc069916.m3u8
-
 #EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/38/64/1ecfc2ba4cbb920e1b4785eb75fb/logo-tv-azteca.png" group-title="Entretenimiento" group-title="Mexico", Azteca Internacional
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8
 
@@ -54,8 +51,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-logo="https://www.kanalddrama.com/assets/img/logo_bottom2.png" group-title="Novelas", Kanal D
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://hemispheretv.com/wp-content/uploads/2024/07/WEB_TODONOVELAS_LOGO.png" group-title="Novelas", Todo Novelas Mas Pasiones
-https://4ff77b38.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Q2FuZWxhVFZfVG9kb0RyYW1hX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/686eed4c677f2f98b4a1ccd4/colorLogoPNG.png" group-title="Novelas", Novelas de otros continentes
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/686eed4c677f2f98b4a1ccd4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0554ebf0-ec36-11f0-816a-3a81b0ca334f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a80af946-d4ef-4219-be1d-b288962d2251&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5cf96cc422df39f1a338d165/colorLogoPNG.png" group-title="Novelas", Telemundo Novelas Clasicas
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0554ebf0-ec36-11f0-816a-3a81b0ca334f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a80af946-d4ef-4219-be1d-b288962d2251&userId=&serverSideAds=true
@@ -65,9 +62,6 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6474a7958e3c0a0008b97cae/colorLogoPNG.png" group-title="Novelas" group-title="Mexico", Novelas de Mexico
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6474a7958e3c0a0008b97cae/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0554ebf0-ec36-11f0-816a-3a81b0ca334f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a80af946-d4ef-4219-be1d-b288962d2251&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/686eed4c677f2f98b4a1ccd4/colorLogoPNG.png" group-title="Novelas" group-title="Mexico", Novelas de otros continentes
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/686eed4c677f2f98b4a1ccd4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0554ebf0-ec36-11f0-816a-3a81b0ca334f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a80af946-d4ef-4219-be1d-b288962d2251&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG.png" group-title="Novelas", Pluto TV Novelas
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0554ebf0-ec36-11f0-816a-3a81b0ca334f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a80af946-d4ef-4219-be1d-b288962d2251&userId=&serverSideAds=true
@@ -1398,6 +1392,9 @@ https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
 #EXTINF:-1 tvg-logo="https://diretelemexico.com/wp-content/uploads/2021/08/Multimedios-TV-Canal-6-en-vivo.png" group-title="Mexico", Multimedios CD Juarez
 https://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8
 
+#EXTINF:-1 tvg-logo="https://https://static.mytuner.mobi/media/tvos_radios/150/rg-la-deportiva-690.146cf077.png" group-title="Entretenimiento" group-title="Mexico", RG TV
+https://mdstrm.com/live-stream-playlist/67b0cd1d72d61c6acc069916.m3u8
+
 #EXTINF:-1 tvg-logo="https://static1.s123-cdn-static-a.com/uploads/2287839/2000_62422e9799a05.png" group-title="Mexico", Nueve TV
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/playlist.m3u8
 
@@ -1407,8 +1404,8 @@ https://stream2.canal10mx.com/live/movil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dw6puHC.png" group-title="Mexico", Canal 10 Chiapas
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_Actual_Canal_Once.png" group-title="Mexico", Canal Once 
-https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_Actual_Canal_Once.png" group-title="Mexico", Canal Once Internacional
+https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_Actual_Canal_Once.png" group-title="Mexico", Canal Once.3
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/.m3u8
@@ -1416,11 +1413,8 @@ https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k0XbBp8.png" group-title="Mexico", Quiero TV
 https://d3c8tise3a7ihl.cloudfront.net/out/v1/20a1877171a242298e4df9e05f4c2070/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.canalcatorce.tv/descargas/logo_descargas.jpg" group-title="Mexico", Canal 14 MX
-https://s5.mexside.net:1936/canal14/canal14/.m3u8
-
 #EXTINF:-1 tvg-logo="https://15tv.com.mx/wp-content/uploads/2019/08/logo-hd.png" group-title="Mexico", 15TV
-https://cdn.fastocloud.com/leonel.m3u8
+https://servilive.com:3380/live/v3n6thy7glive.m3u8
 
 #EXTINF:-1 tvg-logo="https://ontvmx.com/img/chanels/logos/29/9de2ef1306426193dd713363aeb130e6.png" group-title="Mexico", Canal 15 Durango
 https://stream.ontvmx.com/ontv/Wn3jgo4UYNSmwRDIev/playlist.m3u8
@@ -1430,9 +1424,6 @@ https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/123P7dV.png" group-title="Mexico", SIPSE TV 8.1
 https://webprod.sipse.com.mx:8080/show/merida.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/123P7dV.png" group-title="Mexico", SIPSE TVCUN 8.1
-https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z9iVlMn.png", TV Mar La Paz 
 https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8
@@ -1457,9 +1448,6 @@ https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/teleritmo-mx.png" group-title="Mexico", Teleritmo
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/2a17d47eaeaa1669aa46af0eab75ae94.png" group-title="Mexico", Tlaxcala TV 
-https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8
 
 #EXTINF:-1 tvg-logo="hhttps://tvcuatro.tv/wp-content/uploads/2025/04/logo.png" group-title="Mexico", TVCuatro 4.1 
 https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
@@ -1533,9 +1521,6 @@ https://servilive.com:3263/live/channel12live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1sAgSME.png" group-title="Mexico", Antena TV
 https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IDvpRNI.png" group-title="Mexico", California Medios
-https://s5.mexside.net:1936/medios/medios/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qEk0QGa.png" group-title="Mexico", Conecta TV
 https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
 
@@ -1549,7 +1534,7 @@ Argentina
 #EXTINF:-1 tvg-logo="https://canalnet.tv/_templates/desktop/includes/img/_logo-alt.png" group-title="Argentina", Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.telpinteve.com.ar/imagenes/Canal2Logos-03.png" group-title="Argentina", Telpin Canal 2
+#EXTINF:-1 tvg-logo="https://telpinlive.com.ar/assets/logo.119ae7cb.png" group-title="Argentina", Telpin Canal 2
 https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IABFaH1.png" group-title="Argentina", Canal 3 Pinamar
@@ -1577,16 +1562,7 @@ https://stream.arcast.live/ahora/ahora/playlist.m3u8
 http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yYExcq1.jpg" group-title="Argentina", Canal 11 de la Costa
-https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lmKLiJ3.jpg" group-title="Argentina", Canal 13 Jujuy
-https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QvF4l2t.png" group-title="Argentina", 13 Max 
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/s1sdjuh.png" group-title="Argentina", El Trece
-https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
+https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="Argentina", Ciudad Magazine 
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
@@ -1610,7 +1586,7 @@ https://stmv3.voxtvhd.com.br/xtremaretrocartoons/xtremaretrocartoons/playlist.m3
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://atvargentina.com/wp-content/uploads/2021/07/atvargentina-x1.png" group-title="Argentina", ATV Argentina
-https://tv.streaming.com.bo/atvargentina/index.m3u8
+https://tv.streaming.com.bo/atv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/UNIFE.jpg" group-title="Argentina", Unife
 https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/mono.m3u8
@@ -1628,7 +1604,7 @@ https://stream.arcast.com.ar/casse/casse/playlist.m3u8
 https://stream.arcast.live/quatro/quatro/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eIX71c9.png" group-title="Argentina", Neox TV ARG
-https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
+https://neoxtv.digitalnoa.com.ar/memfs/57ccca32-78e8-43e1-b023-a40906492f5e_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4hDCB1M.png" group-title="Argentina", CN 24/7
 https://panel.host-live.com:19360/cn247tv/Source.m3u8
