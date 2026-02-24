@@ -2128,6 +2128,35 @@ Colombia
 ---------------------------------------------------
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FfhOGR9.png",CABLENOTICIAS
+http://191.97.13.26:9003/play/a00q/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MiYlN0t.png",CANAL 1 COL
+http://191.97.13.26:9003/play/a01a/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WbfdJbk.png",CARACOL HD
+http://191.97.13.26:9003/play/a012/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zqovMhf.png",HOGAR TV
+http://191.97.13.26:9003/play/a01c/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.tdtparatodos.tv/sites/default/files/la_kalle.png",LA KALLE
+http://191.97.13.26:9003/play/a017/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png",RCN TV HD
+http://191.97.13.26:9003/play/a013/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WtVpWwI.png",RUMBA TV
+http://191.97.13.26:9003/play/a01b/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2N9LCES.png",SURAM TV
+http://191.97.13.26:9003/play/a00h/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gBZFZNv.png",TELE AMIGA
+http://191.97.13.26:9003/play/a01e/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aKHGRyk.png",TELEISLAS
+http://191.97.13.26:9003/play/a010/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WZeMZNy.png",TELENOSTALGIA
+http://191.97.13.26:9003/play/a00o/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OZ4kiXP.png",TELEVID
+http://191.97.13.26:9003/play/a01f/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9nzY7Ch.png",TV AGRO
+http://191.97.13.26:9003/play/a01d/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h7K9EW9.png",CITY TV
+http://191.97.13.26:9003/play/a01g/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.senalcolombia.tv/themes/custom/colombia_subtheme/img/nuevo_home/logo.svg" group-title="Colombia", Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 
@@ -2733,6 +2762,14 @@ https://video.hostingcaaguazu.com:19360/panambiveratv/panambiveratv.m3u8
 Peru
 ---------------------------------------------------
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yuEou9C.png" group-title="Peru",GLOBAL HD
+http://38.190.103.164:9999/play/a008/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/512px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="Peru",AMERICA HD
+http://38.190.103.164:9999/play/a003/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="Peru",PANAMERICANA HD
+http://38.190.103.164:9999/play/a002/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bZnDDPH.png" group-title="Peru",WILLAX HD
+http://38.190.103.164:9999/play/a001/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="Peru", TV Peru
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8
