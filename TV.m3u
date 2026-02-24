@@ -2128,33 +2128,33 @@ Colombia
 ---------------------------------------------------
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FfhOGR9.png",CABLENOTICIAS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FfhOGR9.png" group-title="Colombia",CABLENOTICIAS
 http://191.97.13.26:9003/play/a00q/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MiYlN0t.png",CANAL 1 COL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MiYlN0t.png" group-title="Colombia",CANAL 1 COL
 http://191.97.13.26:9003/play/a01a/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WbfdJbk.png",CARACOL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WbfdJbk.png" group-title="Colombia",CARACOL HD
 http://191.97.13.26:9003/play/a012/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zqovMhf.png",HOGAR TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zqovMhf.png" group-title="Colombia",HOGAR TV
 http://191.97.13.26:9003/play/a01c/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.tdtparatodos.tv/sites/default/files/la_kalle.png",LA KALLE
+#EXTINF:-1 tvg-logo="https://www.tdtparatodos.tv/sites/default/files/la_kalle.png" group-title="Colombia",LA KALLE
 http://191.97.13.26:9003/play/a017/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png",RCN TV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="Colombia",RCN TV HD
 http://191.97.13.26:9003/play/a013/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WtVpWwI.png",RUMBA TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WtVpWwI.png" group-title="Colombia",RUMBA TV
 http://191.97.13.26:9003/play/a01b/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2N9LCES.png",SURAM TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2N9LCES.png" group-title="Colombia",SURAM TV
 http://191.97.13.26:9003/play/a00h/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gBZFZNv.png",TELE AMIGA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gBZFZNv.png" group-title="Colombia",TELE AMIGA
 http://191.97.13.26:9003/play/a01e/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKHGRyk.png",TELEISLAS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aKHGRyk.png" group-title="Colombia",TELEISLAS
 http://191.97.13.26:9003/play/a010/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WZeMZNy.png",TELENOSTALGIA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WZeMZNy.png" group-title="Colombia",TELENOSTALGIA
 http://191.97.13.26:9003/play/a00o/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OZ4kiXP.png",TELEVID
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OZ4kiXP.png" group-title="Colombia",TELEVID
 http://191.97.13.26:9003/play/a01f/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9nzY7Ch.png",TV AGRO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9nzY7Ch.png" group-title="Colombia",TV AGRO
 http://191.97.13.26:9003/play/a01d/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h7K9EW9.png",CITY TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h7K9EW9.png" group-title="Colombia",CITY TV
 http://191.97.13.26:9003/play/a01g/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.senalcolombia.tv/themes/custom/colombia_subtheme/img/nuevo_home/logo.svg" group-title="Colombia", Señal Colombia
