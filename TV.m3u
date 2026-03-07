@@ -202,8 +202,8 @@ https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/863aea4fb1445b58f89afc7c692ed509.png" group-title="Cine y Series" group-title="Chile", 13 Teleseries 
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://videoclub.com.ar/imagenes/fb.jpg" group-title="Cine y Series", Videoclub 
-https://videostream.shockmedia.com.ar:19360/videoclub/videoclub.m3u8
+#EXTINF:-1 tvg-logo="https://videoclub.com.ar/imagenes/fb.jpg" group-title="Cine y Series", Xtrema Cine Accion
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="Cine y Series", Telemundo Accion
 https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
@@ -289,14 +289,8 @@ https://run-cl-es.otteravision.com/run/cl_es/cl_es.m3u8
 #EXTINF:-1 tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2020/09/site-logo.png" group-title="Cine y Series", My time Network
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Cine y Series", Cine Plus
-https://acceso.radiosportstv.online:3259/live/retroxtvlive.m3u8
-
 #EXTINF:-1 tvg-logo="https://estrellamedia.com/wp-content/uploads/2023/04/CineETV-1.jpg" group-title="Cine y Series", Cine Estrella TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.artsatl.org/wp-content/uploads/Miramax-Films-e1335460617269.jpg" group-title="Cine y Series", Miramax Movie Channel
-https://d3d9ae4yefa76z.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Universal_Pictures_logo.png" group-title="Cine y Series", Universal Crime
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993021/hls/master.m3u8?ads.xumo_channelId=99993021
@@ -306,9 +300,6 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99993045/hls/master.m3u8?ads.xumo_cha
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Universal_Pictures_logo.png" group-title="Cine y Series", Universal Movies
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993051/hls/master.m3u8?ads.xumo_channelId=99993051
-
-#EXTINF:-1, Zona TV
-https://cloudvideo.servers10.com:8081/8234/index.m3u8
 
 #EXTINF:-1, Lassie TV
 https://xumo-xumoent-ch833-p47sj.fast.nbcuni.com/live/master.m3u8
