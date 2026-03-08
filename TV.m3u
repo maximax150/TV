@@ -133,6 +133,12 @@ https://kiiroilabs.ddns.net/magickids/stream/stream.m3u8
 #EXTINF:-1 tvg-logo="https://gia.tv/streams/logo/209185.jpg" group-title="Kids/Geek", Retro Magico
 https://live20.bozztv.com/akamaissh101/ssh101/retromagicochnl/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.kanade.cl/assets/img/profilepic_512px.png" group-title="Kids/Geek", Kanade
+https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH
+
+#EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/Marca-512.png" group-title="Kids/Geek", Energeek
+https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/ZooMoo-Kids-Logo-Oficial-01.png/1200px-ZooMoo-Kids-Logo-Oficial-01.png"group-title="Kids/Geek", Zoomoo US
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 
@@ -181,13 +187,8 @@ https://streamyes.alsolnet.com/esportsmax/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://esportsmax.tv/wp-content/uploads/2024/02/Esports-max-blanco.png" group-title="Kids/Geek", Esports Max 2
 https://streamlov.alsolnet.com/rektv/live/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://static.kanade.cl/assets/img/profilepic_512px.png" group-title="Kids/Geek", Kanade
-https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH
-
-#EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/Marca-512.png" group-title="Kids/Geek", Energeek
-https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
-
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/99d1f745bbde1c70f7199fc8c979cd6fa8fd51d920a654e40876f49764b4f701.png" group-title="Kids/Geek", Tigueritos TV
+https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
 
 
 ---------------------------------------------------
@@ -195,9 +196,6 @@ Cine y series
 ---------------------------------------------------
 
 
-
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/99d1f745bbde1c70f7199fc8c979cd6fa8fd51d920a654e40876f49764b4f701.png" group-title="Cine y Series", Tigueritos TV
-https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/863aea4fb1445b58f89afc7c692ed509.png" group-title="Cine y Series" group-title="Chile", 13 Teleseries 
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
