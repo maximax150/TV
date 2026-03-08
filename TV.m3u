@@ -494,7 +494,18 @@ https://livetv-fa.tubi.video/fubo/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ulGKX30.png" group-title="Deportes", SportsGrid
 https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2600001ME_20250923T011606SQUARE.png", Tennis Channel
+https://jmp2.uk/stvp-ESBD2600001ME
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES30000091V_20241022T050555SQUARE.png", MyPadel TV
+https://jmp2.uk/stvp-ES30000091V
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES20000065W_20260113T032333SQUARE.png", Tennis+
+https://jmp2.uk/stvp-ES20000065W
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3800001V1_20260113T032331SQUARE.png", Red Bull TV
+https://jmp2.uk/stvp-ES3800001V1
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4300004JP_20260120T031337SQUARE.png", Rugby Challenge
+https://jmp2.uk/stvp-ES4300004JP
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC410000577_20260224T030743SQUARE.png", Teledeporte
+https://jmp2.uk/stvp-ESBC410000577
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3600001Q1_20241022T050545SQUARE.png", La Liga Inside
 https://jmp2.uk/stvp-ESBD3600001Q1
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3200003OC_20251230T030907SQUARE.png", DFB Play TV
