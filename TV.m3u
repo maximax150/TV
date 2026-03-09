@@ -1402,7 +1402,6 @@ https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://duckduckgo.com/i/e408ea02.png" group-title="Brazil", TV Paraense
 https://video09.logicahost.com.br/tvparaense/tvparaense/chunklist_w1050735447.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/5fdbc1d5682ee122a7a5aa20/ed35e1a4-ec0a-426a-8ad4-0f41bd8a3675/RevryLogo_1920w.png" group-title="Brazil" group-title="Entretenimiento", Revry Brazil
 https://b245f0f0181c44fbb580e464d0e167ee.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-181-REVRYBRASIL-24i/mt/24i/181/hls/master/playlist.m3u8
 
@@ -1855,10 +1854,7 @@ https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
 https://5d16127744872.streamlock.net/canal3/canal3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i3YwORV.png" group-title="Costa Rica" group-title="Musicales", Radio 88 Stereo CR
-http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/lapotentecr.com/wp-content/uploads/2024/06/D1%402x-8.png?" group-title="Costa Rica" group-title="Musicales", La Potente TV
-https://latamvdo.com:3626/hybrid/play.m3u8
+https://s1.tvdatta.com:3972/live/88stereolive.m3u8
 
 #EXTINF:-1 tvg-logo="https://gextv.com/LOGO-WHITE.png" group-title="Costa Rica", Gex TV
 https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8
@@ -1875,7 +1871,7 @@ https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KImqYnN.jpeg" group-title="Costa Rica" group-title="Musicales", Vintage Music CR
 http://45.163.139.42:8000/play/a03f/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KVVU9PI.png" group-title="Costa Rica" group-title="Musicales", Urbano TV CR
+#EXTINF:-1 tvg-logo="https://urbanotvcr.com/wp-content/uploads/2025/09/Urbano-TV-calca-negro-480x600.png" group-title="Costa Rica" group-title="Musicales", Urbano TV CR
 https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zEi8eMC.png" group-title="Costa Rica" group-title="Musicales", Video Tour Channel CR
