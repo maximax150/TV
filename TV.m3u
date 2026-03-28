@@ -64,6 +64,12 @@ https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-688cf47e324d7b6bc116198d.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=b7fEsDzxidvxvc_b2Zdr
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Telemundo_Puerto_Rico.svg/1200px-Telemundo_Puerto_Rico.svg.png" group-title="Entretenimiento", Telemundo Puerto Rico
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TL6xy4y.png" group-title="Entretenimiento", Punto 2
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K9o3mLP.png" group-title="Entretenimiento", AmericaTeVe Puerto Rico
 https://live.gideo.video/americateve2/master.m3u8
 
@@ -81,10 +87,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadees16intern
 
 #EXTINF:-1 group-title="Entretenimiento", Kfood
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-68b9f5a3d60e5dd29263c7ac.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=b7fEsDzxidvxvc_b2Zdr
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Telemundo_Puerto_Rico.svg/1200px-Telemundo_Puerto_Rico.svg.png" group-title="Entretenimiento", Telemundo Puerto Rico
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.planetecsat.com/wp-content/uploads/2023/05/Entete-Wellbeing-TV.png" group-title="Entretenimiento", Wellbeing TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
