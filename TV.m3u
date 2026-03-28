@@ -44,10 +44,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/Romance_logo.png" group-title="Novelas", Romance Channel
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/romance-channel/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.kanalddrama.com/assets/img/logo_bottom2.png" group-title="Novelas", Kanal D
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=small-60&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fedace34e-ac45-44b7-a562-265977557817%2FVive_KDD_LOGO-DarkBG_-_Alejandro_N.png" group-title="Novelas", Kanal D
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Novelas", Novelas de Siempre
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=small-60&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F7d35cdb3-b793-47d0-8c2f-cbe2dc1037da%2FNovelas_de_Siempre_Channel-Icon_ColorRDX2.png" group-title="Novelas", Novelas de Siempre
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-691536d338cb396cc8e5b40a.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=b7fEsDzxidvxvc_b2Zdr
 
 #EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2024/02/28225532/WEDO_AMOR_1.png" group-title="Novelas", Wedo amor
@@ -592,6 +592,28 @@ https://channel08-onlymex.akamaized.net/hls/live/2037034/event01/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png", Noticias Telemundo Ahora
 https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=small-60&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F25db4f88-c689-4bf8-811b-603fb762d4fb%2F003_WHITE_NEWSMAX_EN_ESPANOL.png", Newsmax en español
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-688b7f47c8caf40b4a62239f.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=b7fEsDzxidvxvc_b2Zdr
+
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=small-60&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F078ace21-2c9e-4b63-b222-1dd0a525ad3e%2FRCN_NOTICIAS_BG_COLOR_n_-_JuanMa_VelasquezRDX.png", RCN Noticias
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-67e6979de1de65be88aeb39f.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=b7fEsDzxidvxvc_b2Zdr
+
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-720&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Feea28bcc-26ea-4266-81b4-2945f334c3d9%2FPlex-WURL_Euronews-Logos_ES_-_astrid_collomb.png", Euronews en español
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-60089d97f682a3002c34829d.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=b7fEsDzxidvxvc_b2Zdr
+
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=small-60&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F4d63af64-c260-4f5f-aac1-240aeaa36e90%2FPlex-WURL_Euronews-Logos_EN_-_astrid_collomb.png", Euronews English
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-60089d90f682a3002c348299.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=b7fEsDzxidvxvc_b2Zdr
+
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=small-60&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fd5065d4c-eb84-4fd6-862f-655ff5ca01cd%2Ffrance24fastenglish_logo_dark_-_David_COURET.png", France 24 Fast
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-678fe7959407a53556d3e8eb.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=b7fEsDzxidvxvc_b2Zdr
+
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=small-60&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F2e3bf0d9-3ca6-4f65-b1d4-f180ef725d96%2FNewsWorld_logo_dark_-_Angela_Chan.png", News World
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-66bfb2e6144c201b8b61c10f.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=b7fEsDzxidvxvc_b2Zdr
+
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=small-60&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F8cf9c131-2d92-4d91-86b1-22ef458d703f%2Freuters_reutersnow_1RDX.png", Reuters 60
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-5eea71d65252710041e0ccbc.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=b7fEsDzxidvxvc_b2Zdr
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png", RT Español
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
