@@ -82,6 +82,19 @@ https://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KWAuNXn.png" group-title="Entretenimiento", Charrua TV
 https://stmv.video.gmpro.top/tvcharrua/tvcharrua/playlist.m3u8
 
+#EXTINF:-1, Acapulco Shore
+https://jmp2.uk/plu-61a52615cbef2500072876e2.m3u8
+
+#EXTINF:-1, MTV Fast
+https://jmp2.uk/plu-5fab088b3279760007d4e4fd.m3u8
+
+#EXTINF:-1, Realitys 24/7
+https://jmp2.uk/plu-5dcde197f6591d0009839e04.m3u8
+
+#EXTINF:-1, Sin Tetas no hay paraiso 24/7
+https://jmp2.uk/plu-604bdf4e6d0abc0007ba77ad.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://static-prod.adweek.com/wp-content/uploads/2022/05/Tastemade-2022.jpg" group-title="Entretenimiento", Tastemade
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadees16international24i-ono/playlist.m3u8
 
@@ -559,6 +572,35 @@ https://livetv-fa.tubi.video/fubo/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ulGKX30.png" group-title="Deportes", SportsGrid
 https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8
 
+
+#EXTINF:-1, Deportes 24/7
+https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8
+
+#EXTINF:-1, Azteca Deportes Network Fast
+https://jmp2.uk/plu-65cf60d166eec80008724e6f.m3u8
+
+#EXTINF:-1, ITV Deportes
+https://jmp2.uk/plu-63f7e3f9dff38e00082a57af.m3u8
+
+#EXTINF:-1, Lucha Libre AAA
+https://jmp2.uk/plu-5f99a772c54853000797bf18.m3u8
+
+#EXTINF:-1, UFC
+https://jmp2.uk/plu-67a52cd4ec91870008a62164.m3u8
+
+#EXTINF:-1, FIFA +
+https://jmp2.uk/plu-66997d18a1b69e00082ee85f.m3u8
+
+#EXTINF:-1, Red Bull TV
+https://jmp2.uk/plu-67813f893886aa863497733d.m3u8
+
+#EXTINF:-1, DZ Combat
+https://jmp2.uk/plu-64df7a9a44fe100009b6ac5a.m3u8
+
+#EXTINF:-1, Motorvision
+https://jmp2.uk/plu-60e5ea9a9bb4200008376f76.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2600001ME_20250923T011606SQUARE.png", Tennis Channel
 https://jmp2.uk/stvp-ESBD2600001ME
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES30000091V_20241022T050555SQUARE.png", MyPadel TV
@@ -897,6 +939,12 @@ https://install.akctvcontrol.com/speed/broadcast/140/desktop-playlist.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/AfroLandTV_logo_dark_v3.png", AfroLandTV
 https://alt-al.otteravision.com/alt/al/al.m3u8
 
+
+#EXTINF:-1, Shockwave
+https://jmp2.uk/plu-68b784d03e17b7676a0378f7.m3u8
+
+#EXTINF:-1, Documentales 24/7
+https://jmp2.uk/plu-5ddc503ac7ef120009b101a2.m3u8
 
 
 ---------------------------------------------------
