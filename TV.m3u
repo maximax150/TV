@@ -148,7 +148,7 @@ Kids
 https://kiiroilabs.ddns.net/magickids/stream/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://gia.tv/streams/logo/209185.jpg" group-title="Kids/Geek", Retro Magico
-https://live20.bozztv.com/akamaissh101/ssh101/retromagicochnl/chunks.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/retromagicocnl/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.kanade.cl/assets/img/profilepic_512px.png" group-title="Kids/Geek", Kanade
 https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH
@@ -212,6 +212,46 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-5f12332eeca6
 
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=small-60&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F59623ed1-b641-4001-b634-b25e307c3c49%2F123GO_-_Jonathan_Shrank1500x1000.png" group-title="Kids/Geek", 123 GO!
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-63eecb32ac23d1ee072087cb.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=b7fEsDzxidvxvc_b2Zdr
+
+
+#EXTINF:-1, Bob Esponja 24/7
+https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
+
+#EXTINF:-1, Padrinos Magicos 24/7
+https://jmp2.uk/plu-6322099c822bbc00074857db.m3u8
+
+#EXTINF:-1, Nick JR Club
+https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8
+
+#EXTINF:-1, Babyfirst
+https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8
+
+#EXTINF:-1, Junior
+https://jmp2.uk/plu-5dcde2ac4bc6c500094ab45b.m3u8
+
+#EXTINF:-1, Nick Clasico
+https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
+
+#EXTINF:-1, Nick toons
+https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8
+
+#EXTINF:-1, Kids
+https://jmp2.uk/plu-5dd6dae8ce788b0009eaf77b.m3u8
+
+#EXTINF:-1, Nick Teen
+https://jmp2.uk/plu-5fab09a8749b1a00077d35d2.m3u8
+
+#EXTINF:-1, Pokemon 24/7
+https://jmp2.uk/plu-6870072ca9d5c45c3e9466f1.m3u8
+
+#EXTINF:-1, Inuyasha 24/7
+https://jmp2.uk/plu-66b26665d512590008c507b7.m3u8
+
+#EXTINF:-1, One Piece 24/7
+https://jmp2.uk/plu-5ff4b9ccf938f8000779eb99.m3u8
+
+#EXTINF:-1, Anime 24/7
+https://jmp2.uk/plu-5dcde17bf6591d0009839e02.m3u8
 
 
 
