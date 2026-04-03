@@ -29,6 +29,12 @@ https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z52nEnH.png" group-title="Entretenimiento", Estrella TV Games
 https://amg00567-estrellamedia-estrellagames-estrellamedia-zy1f4.amagi.tv/ts-us-e2-n1/playlist/amg00567-estrellamedia-estrellagames-estrellamedia/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/unE2LGz.jpg" group-title="Entretenimiento" group-title="Venezuela", Mas Talk
+https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vtGED07.jpg" group-title="Entretenimiento" group-title="Venezuela", Venevision Internacional
+https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.fubo.tv/station_logos/RCN-Mas_m.png" group-title="Entretenimiento" group-title="Colombia", RCN Mas
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 
@@ -82,6 +88,7 @@ https://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KWAuNXn.png" group-title="Entretenimiento", Charrua TV
 https://stmv.video.gmpro.top/tvcharrua/tvcharrua/playlist.m3u8
 
+
 #EXTINF:-1, Acapulco Shore
 https://jmp2.uk/plu-61a52615cbef2500072876e2.m3u8
 
@@ -95,7 +102,7 @@ https://jmp2.uk/plu-5dcde197f6591d0009839e04.m3u8
 https://jmp2.uk/plu-604bdf4e6d0abc0007ba77ad.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static-prod.adweek.com/wp-content/uploads/2022/05/Tastemade-2022.jpg" group-title="Entretenimiento", Tastemade
+#EXTINF:-1 tvg-logo="https://static-prod.adweek.com/wp-content/uploads/2022/05/Tastemade-2022.jpg" group-title="Entretenimiento", Tastemade Español
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadees16international24i-ono/playlist.m3u8
 
 #EXTINF:-1 group-title="Entretenimiento", Kfood
@@ -117,7 +124,6 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-5ef11486d33a
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-67884bd6d37f2fd48d6220db.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=b7fEsDzxidvxvc_b2Zdr
 
 
-
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/5fdbc1d5682ee122a7a5aa20/ed35e1a4-ec0a-426a-8ad4-0f41bd8a3675/RevryLogo_1920w.png" group-title="Entretenimiento", Revry
 https://88794468e8cd4ffbb3ad6d5a6ef7c4a5.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-43-REVRYDOMESTIC-24i/mt/24i/43/hls/master/playlist.m3u8
 
@@ -136,7 +142,7 @@ https://77f7ee394fe8493493685681bfe14df3.mediatailor.us-east-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3469-960x540-000000.jpg" group-title="Entretenimiento", Miami TV Life
 https://3b3df95821f549fa8df20812c44194a5.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-life/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61eSdW1MsgL.png" group-title="Entretenimiento", Miami TV España
+#EXTINF:-1 tvg-logo="" group-title="España", iProTV 
 https://59ec5453559f0.streamlock.net/iprotv/iprotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61eSdW1MsgL.png" group-title="Entretenimiento", Miami TV Events
@@ -785,9 +791,6 @@ https://bibint01.iptv-playoutcenter.de/bibint01/bibint01.stream_all/playlist.m3u
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Das_Erste_HD_Corner-Logo_2015.png/512px-Das_Erste_HD_Corner-Logo_2015.png", DAS Erste Germany
 https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GadfTwF.png", Dokusat Germany
-https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Yo1GMku.png", EMS TV Germany
 https://h058.video-stream-hosting.de/ev1tv-live/_definst_/mp4:stream1.stream/playlist.m3u8
@@ -2183,12 +2186,6 @@ https://canaliliv-ioriver-cdn.encoders.immergo.tv/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.telesurtv.net/export/sites/telesur/arte/log-iso-telesur.png_253617125.png" group-title="Venezuela", Telesur 
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/unE2LGz.jpg" group-title="Venezuela", Mas Talk
-https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vtGED07.jpg" group-title="Venezuela", Venevision Internacional
-https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QtRNfaj.png" group-title="Venezuela", Telecentro VE
 https://streamtv.intervenhosting.net:3161/live/telecentrolive.m3u8
