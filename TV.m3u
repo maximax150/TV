@@ -15,11 +15,11 @@ https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/38/64/1ecfc2ba4cbb920e1b4785eb75fb/logo-tv-azteca.png" group-title="Entretenimiento" group-title="Mexico", Azteca Internacional
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/TV_Azteca_Clic_2023_Official.svg" group-title="Entretenimiento", Azteca Clic
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
-
 #EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/vGETUo5z3KPqsFkvyHdvRm-530-75.png" group-title="Entretenimiento", Estrella TV
 https://estrellatv-oando.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/TV_Azteca_Clic_2023_Official.svg" group-title="Entretenimiento", Azteca Clic
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
 
 #EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/entch.png" group-title="Entretenimiento",ENT Channel
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
