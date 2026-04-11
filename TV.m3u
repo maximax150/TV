@@ -286,6 +286,12 @@ https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z5NwizH.png" group-title="Cine y Series", Xtrema Cine Accion
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Cine y Series", El Chavo 24/7
+https://live20.bozztv.com/akamaissh101/ssh101/simplat/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Cine y Series", Los Simpsons 24/7
+https://live20.bozztv.com/akamaissh101/ssh101/simplat/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="Cine y Series", Telemundo Accion
 https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
 
@@ -1817,13 +1823,13 @@ Costa Rica
 https://vid.canal1cr.com:3424/multi_live/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nn8BtH5.png" group-title="Costa Rica", CDR Canal 2 
-http://45.163.139.42:8000/play/a04x/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/a876b5631717b555cd4a977f934fe601882292c052bf6b6ab989b534e953e4f5.png" group-title="Costa Rica", OPA
 https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://alba-cr-repretel.cdn.mediatiquepress.com/wp-content/uploads/2024/11/LOGOS_CANALES4-150x84.png" group-title="Costa Rica", Repretel Canal 4 
-http://45.163.139.42:8000/play/a02p/index.m3u8
+https://d2qsan2ut81n2k.cloudfront.net/live/5b4b1702-52f9-4e48-a4c7-79ca7f34ece6/ts:abr.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.transdatelecom.com/streaming/supercinco.png" group-title="Costa Rica", Super 5 TV
 http://191.102.39.254:5000/live/5up3r5/playlist.m3u8
@@ -1838,25 +1844,25 @@ http://190.7.192.162:8007/play/s10
 http://190.7.192.162:8007/play/s11
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/XperTV2015.png",XperTv HD
-http://45.163.139.42:8000/play/a02x/index.m3u8
+
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nefPi2Y.png" group-title="Costa Rica", Canal 8 Multimedios
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TLM592m.png" group-title="Costa Rica", Unife CR
-http://190.7.192.164:8020/play/s41
+
 
 #EXTINF:-1 tvg-logo="https://alba-cr-repretel.cdn.mediatiquepress.com/wp-content/uploads/2024/11/LOGOS_CANALES11-150x84.png" group-title="Costa Rica", Repretel Canal 11 
-http://45.163.139.42:8000/play/a03a/index.m3u8
+#https://d2qsan2ut81n2k.cloudfront.net/live/67efd9e7-d51f-40a9-b532-056669bd160a/ts:abr.m3u8
 
 #EXTINF:-1 tvg-logo="https://gxtra-cr-extratv.cdn.mediatiquepress.com/wp-content/uploads/2024/10/logo-Extra-tv-blanco-1-e1728675680531-150x32.png" group-title="Costa Rica", Extra TV
 https://d2axu5ozwr5gk0.cloudfront.net/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://sinartdigital.com/images/miscelaneo/senales/canal_13_.png" group-title="Costa Rica", Sinart Canal 13
-http://45.163.139.42:8000/play/a02r/index.m3u8
+http://38.224.22.252:8000/play/a057/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://sinartdigital.com/images/miscelaneo/senales/canal_13_.png" group-title="Costa Rica", Radio Nacional 13.3
-http://45.163.139.42:8000/play/a02t/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sgRDRBK.jpg" group-title="Costa Rica", Canal KMK
 https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8
@@ -1960,11 +1966,11 @@ https://live20.bozztv.com/giatv/giatv-RTVN/RTVN/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dvo1b82.png" group-title="Costa Rica" group-title="Musicales", VM Latino CR
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P4kpMgk/1689344714578.jpg" group-title="Costa Rica" group-title="Musicales", Soy Plancha TV CR
-http://45.163.139.42:8000/play/a03e/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KImqYnN.jpeg" group-title="Costa Rica" group-title="Musicales", Vintage Music CR
-http://45.163.139.42:8000/play/a03f/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://urbanotvcr.com/wp-content/uploads/2025/09/Urbano-TV-calca-negro-480x600.png" group-title="Costa Rica" group-title="Musicales", Urbano TV CR
 https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
