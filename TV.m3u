@@ -1951,6 +1951,12 @@ https://live20.bozztv.com/akamaissh101/ssh101/tvretropalm2020/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XvktUBB.jpg" group-title="Costa Rica", Zurqui TV
 https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
 
+#EXTINF:-1 tvg-logo="https://meganetfun.com/storage/channel-logos/q8OrvMkGTpkTmdQ2SBT5f7xq6ZSakeP2MplANv4Z.jpg" group-title="Costa Rica", Telemas CR
+https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://meganetfun.com/storage/channel-logos/QD9JDBkR1eLhnUD2etTFeU2kIbMRvk6ALMzVO89S.jpg" group-title="Costa Rica", Super Canal
+https://video20.klm99.com:3107/live/supercanallive.m3u8
+
 #EXTINF:-1 tvg-logo="https://colosalstereo.com/wp-content/uploads/2025/11/LOGO-RADIO-BLANCO.png" group-title="Costa Rica" group-title="Musicales", Colosal Radio
 https://5d16127744872.streamlock.net/canal3/canal3/playlist.m3u8
 
