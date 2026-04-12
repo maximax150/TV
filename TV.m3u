@@ -4482,7 +4482,7 @@ XXX
 
 #EXTINF:-1 tvg-logo=""  group-title="+18", Miami Swim Bikini
 https://rpn3.bozztv.com/dvrfl07/ushba-t8/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""  group-title="+18", Afreeca TV
+#EXTINF:-1 tvg-logo=""  group-title="+18", K Dance 
 https://fl1001.bozztv.com/ushba43/index.m3u8
 #EXTINF:-1 tvg-logo=""  group-title="+18", F Channel
 https://fl1004.bozztv.com/ushba-m5/tracks-v1a1/mono.m3u8
@@ -4500,3 +4500,14 @@ https://59ec5453559f0.streamlock.net/sunbeachtv/smil:WEB/.m3u8
 http://200.229.147.142:8000/play/a00u/index.m3u8
 #EXTINF:-1,Venus
 http://200.229.147.142:8000/play/a01r/index.m3u8
+
+#EXTINF:-1, Adult IPTV 1
+https://live.adultiptv.net/bigtits.m3u8
+#EXTINF:-1, Adult IPTV 2
+http://live.adultiptv.net/lesbian.m3u8
+#EXTINF:-1, Adult IPTV 3
+http://live.adultiptv.net/asian.m3u8
+#EXTINF:-1, Adult IPTV 4
+http://live.adultiptv.net/livecams.m3u8
+#EXTINF:-1, Adult IPTV 5
+http://live.adultiptv.net/pornstar.m3u8
