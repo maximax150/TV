@@ -145,8 +145,29 @@ https://3b3df95821f549fa8df20812c44194a5.mediatailor.us-east-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="" group-title="España", iProTV 
 https://59ec5453559f0.streamlock.net/iprotv/iprotv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61eSdW1MsgL.png" group-title="Entretenimiento", Miami TV Live
+https://f537294740ba4429b8de5354b0e4452d.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/LIVE/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3466-320x180-000000.jpg" group-title="Entretenimiento", Miami TV Gold
+https://8f4cbe9fa8d44aa3bfd4283527a9effd.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast_gold/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61eSdW1MsgL.png" group-title="Entretenimiento", Miami TV Events
-https://59ec5453559f0.streamlock.net/EVENTS/smil:14589/chunklist_w1873788992_b1896000.m3u8
+https://59ec5453559f0.streamlock.net/EVENTS/smil:14589/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61eSdW1MsgL.png" group-title="Entretenimiento", Miami TV kids
+https://59ec5453559f0.streamlock.net/miamitvkids/KIDS/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3814-800x450-FFFFFF.jpg" group-title="Entretenimiento", Miami TV Food
+https://e2b6254ec8264c0285fb156949d4e791.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-foods/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3470-320x180-000000.jpg" group-title="Entretenimiento", Miami TV Health
+https://008819cfebb1436da073a4acab4dcaa6.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-health/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61eSdW1MsgL.png" group-title="Entretenimiento", Hilton Miami Aventura
+https://758bbcb0a0c14193b004f3f776a56cab.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/hilton/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61eSdW1MsgL.png" group-title="Entretenimiento", Cuaima by Miami TV
+https://1ba9cda3f9ea445683d25cc0929327e8.mediatailor.us-east-2.amazonaws.com/v1/manifest/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-Cuaima/1ae762a1-5c09-4988-89ed-2b7d2dfe7fa0/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.ploustv.com/images/logo-w.png" group-title="Entretenimiento", PlousTV
 https://vcp.myplaytv.com/glowtv/glowtv/.m3u8
@@ -4511,5 +4532,3 @@ http://live.adultiptv.net/asian.m3u8
 http://live.adultiptv.net/livecams.m3u8
 #EXTINF:-1, Adult IPTV 5
 http://live.adultiptv.net/pornstar.m3u8
-#EXTINF:-1, Test
-https://adultiptv.net/livecams/chaturbate.m3u
