@@ -2988,7 +2988,6 @@ Cable
 
 
 #EXTINF:-1 group-title="TV Latinos 1",
-#EXTM3U
 #EXTINF:-1, Nickelodeon HD
 http://38.44.109.41:8003/play/a0h6/index.m3u8
 #EXTINF:-1, Discovery Kids HD
@@ -3799,7 +3798,7 @@ http://200.229.147.142:8000/play/a057/index.m3u8
 http://200.229.147.142:8000/play/a06g/index.m3u8
 #EXTINF:-1,Telemundo 
 http://200.229.147.142:8000/play/a01z/index.m3u8
-#EXTINF:-1,Tigo Sports CR
+#EXTINF:-1,FOX CR
 http://200.229.147.142:8000/play/a03i/index.m3u8
 #EXTINF:-1,Tooncast
 http://200.229.147.142:8000/play/a02z/index.m3u8
@@ -5027,7 +5026,7 @@ http://38.224.22.252:8000/play/a00c/index.m3u8
 http://38.224.22.252:8000/play/a02u/index.m3u8
 #EXTINF:-1,Telemundo HD
 http://38.224.22.252:8000/play/a038/index.m3u8
-#EXTINF:-1,Tigo Sports
+#EXTINF:-1,FOX CR
 http://38.224.22.252:8000/play/a08q/index.m3u8
 #EXTINF:-1,Tooncast
 http://38.224.22.252:8000/play/a06y/index.m3u8
