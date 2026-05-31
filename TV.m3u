@@ -626,6 +626,9 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-logo="https://rndserv.xyz/img/milenio.png" group-title="Noticias" group-title="Mexico", Milenio MX
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HRrkhLq.png" group-title="Noticias", Estrella Noticias
+https://estrella-news-oando.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png", Noticias Telemundo Ahora
 https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
 
@@ -635,8 +638,8 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/RT_America_Logo.png/800px-RT_America_Logo.png", RT English
 https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/1c24a0e4-ecc3-4e51-8eb6-f5c8e2ed1ff9/Untitled.png", i24 NEWS
-https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/profile_0/chunklist_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/960px-CBS_News_247_logo.svg.png", CBS NEWS
+https://cbsn-us-vtt.cbsnstream.cbsnews.com/out/v1/ef868690d34144509eda696884bf1619/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://zsyst.com/wp-content/uploads/2021/01/Weather-Nation-Logo.png", Weather Nation
 https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8
@@ -647,9 +650,6 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/1200px-CNN_International_logo.svg.png", CNN 
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/1200px-CNN_International_logo.svg.png", CNN Fast
-https://live-media-aka.warnermediacdn.com/cmaf/live/2028716/cnnfast-international/VIDEO_4_1064000.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/1200px-BBC_News_2022_%28Alt%29.svg.png", BBC News
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 
@@ -657,7 +657,7 @@ https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1JnyzHv.png", Live Now From FOX
-https://livetv-fa.tubi.video/fox-live-now/index.m3u8
+ttps://amg00488-foxdigital-livenowbyfox-lgus-y0a81.amagi.tv/playlist/amg00488-foxdigital-livenowbyfox-lgus/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51-mh06-gIL.png", Newsmax
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
@@ -665,14 +665,14 @@ https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51-mh06-gIL.png", Newsmax 2
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKsr25VN/classcnbc.png", Class CNBC
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/classcnbc.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rtRnlqN.png", VOA
+https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000022Q_20230509T224438SQUARE.png_20230509224439.png", Sky News
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400010RH_20230322T000008SQUARE.png_20230322000009.png", ABC7 Bay Area
-https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png", ABC News live
+https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master_4000.m3u8
 
 
 ---------------------------------------------------
@@ -682,9 +682,6 @@ Internacional
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4ESi2La.png" group-title="Internacional", NHK World Japan
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4ESi2La.png" group-title="Internacional", NHK World Premium
-https://cdn4.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="Internacional", NHK G
 https://nhk4.mov3.co/hls/nhk.m3u8
