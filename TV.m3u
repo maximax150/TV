@@ -18,8 +18,11 @@ https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/vGETUo5z3KPqsFkvyHdvRm-530-75.png" group-title="Entretenimiento", Estrella TV
 https://estrellatv-oando.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/TV_Azteca_Clic_2023_Official.svg" group-title="Entretenimiento", Azteca Clic
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ClqIQ4M.png" group-title="Entretenimiento", Azteca Clic
+http://200.229.147.142:8000/play/a024/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KIpSdQC.png" group-title="Entretenimiento", Azteca Corazon
+http://200.229.147.142:8000/play/a017/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/entch.png" group-title="Entretenimiento",ENT Channel
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
@@ -38,37 +41,17 @@ https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 #EXTINF:-1 tvg-logo="https://images.fubo.tv/station_logos/RCN-Mas_m.png" group-title="Entretenimiento" group-title="Colombia", RCN Mas
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2022/07/Corazon450x300-1.png" group-title="Novelas", Azteca Corazon Fast
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826
+#EXTINF:-1 tvg-logo="https://www.novelisima.com/assets/images/logo.png" group-title="Entretenimiento", Novelisima
+https://dai.google.com/linear/hls/pa/event/8QpjAnHCQQqBxFVRdDQXCA/stream/6c5287ff-56f4-461b-9902-7aff99e6d749:MRN2/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/ee/Logo_Novelas_TV.svg/1200px-Logo_Novelas_TV.svg.png" group-title="Novelas", Novelas en español
-https://stormcast-novelas-2-es.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.novelisima.com/assets/images/logo.png" group-title="Novelas", Novelisima
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
-
-#EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/Romance_logo.png" group-title="Novelas", Romance Channel
+#EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/Romance_logo.png" group-title="Entretenimiento", Romance Channel
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/romance-channel/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=small-60&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fedace34e-ac45-44b7-a562-265977557817%2FVive_KDD_LOGO-DarkBG_-_Alejandro_N.png" group-title="Novelas", Kanal D
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=small-60&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fedace34e-ac45-44b7-a562-265977557817%2FVive_KDD_LOGO-DarkBG_-_Alejandro_N.png" group-title="Entretenimiento", Kanal D
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=small-60&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F7d35cdb3-b793-47d0-8c2f-cbe2dc1037da%2FNovelas_de_Siempre_Channel-Icon_ColorRDX2.png" group-title="Novelas", Novelas de Siempre
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-691536d338cb396cc8e5b40a.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=b7fEsDzxidvxvc_b2Zdr
-
-#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2024/02/28225532/WEDO_AMOR_1.png" group-title="Novelas", Wedo amor
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-66ea196ac24d95b51b7cd18b.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=b7fEsDzxidvxvc_b2Zdr
-
-#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/9999395/300x300.png" group-title="Novelas", Zee Mundo
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-6750ddfe89fc497ec780f5bd.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=b7fEsDzxidvxvc_b2Zdr
-
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/pridesocietymagazine.com/wp-content/uploads/2025/07/teleonce-logo-png_seeklogo-473388.png" group-title="Entretenimiento", TeleOnce
 https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=small-60&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Faf7d82cf-f17f-40b5-b086-ed6a61c17d2e%2Flogo_Teleonce_AmericaRDX_COLOR.png", TeleOnce America
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-688cf47e324d7b6bc116198d.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=b7fEsDzxidvxvc_b2Zdr
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Telemundo_Puerto_Rico.svg/1200px-Telemundo_Puerto_Rico.svg.png" group-title="Entretenimiento", Telemundo Puerto Rico
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
@@ -116,15 +99,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex
 
 #EXTINF:-1 tvg-logo="https://drupal.hahaha.com/sites/default/files/2022-12/jfl_226x150.png" group-title="Entretenimiento", Just for Laughs
 https://distributionsjustepourrire-justforlaughsgags-1-es.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=small-60&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fc3a3b230-a40b-4409-b33f-678c1923bd77%2FFailArmy_logo_dark_v2.png", Failarmy
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-5f170d62b898490041b4936e.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=b7fEsDzxidvxvc_b2Zdr
-
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=small-60&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F1bfcb8e4-9593-4914-aa02-14b966a2ec7e%2FAF_Logo_for_Light_BG__transparent__-_Jose_RiveraRDX.png", Always Funny
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-5ef11486d33ab9004048a1cd.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=b7fEsDzxidvxvc_b2Zdr
-
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=small-60&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Ff33d90dc-14d4-4034-8959-30dac5ed085c%2FCTV-WHITE_PINK_4RDXx.png", Creator TV
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-67884bd6d37f2fd48d6220db.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=b7fEsDzxidvxvc_b2Zdr
 
 
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/5fdbc1d5682ee122a7a5aa20/ed35e1a4-ec0a-426a-8ad4-0f41bd8a3675/RevryLogo_1920w.png" group-title="Entretenimiento", Revry
@@ -193,11 +167,11 @@ https://kiiroilabs.ddns.net/magickids/stream/stream.m3u8
 #EXTINF:-1 tvg-logo="https://gia.tv/streams/logo/209185.jpg" group-title="Kids/Geek", Retro Magico
 https://live20.bozztv.com/akamaissh101/ssh101/retromagicocnl/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.kanade.cl/assets/img/profilepic_512px.png" group-title="Kids/Geek", Kanade
-https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH
-
 #EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/Marca-512.png" group-title="Kids/Geek", Energeek
 https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
+
+#EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/Marca-512.png" group-title="Kids/Geek", Energeek Fan
+https://backend.energeek.cl/webtv/egfan/mobile/tracks-v1a1/mono.ts.m3u8?token=dEmoweBeneRGEek2025
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/ZooMoo-Kids-Logo-Oficial-01.png/1200px-ZooMoo-Kids-Logo-Oficial-01.png"group-title="Kids/Geek", Zoomoo US
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
@@ -208,23 +182,32 @@ http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Moonbug2ndLogo.png" group-title="Kids/Geek", Moonbug Kids
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81j8DgLstPL.png" group-title="Kids/Geek", Toon Googles
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=514
-
-#EXTINF:-1 tvg-logo="https://dreikotv.com/wp-content/uploads/2024/12/cropped-cropped-logo.png" group-title="Kids/Geek", Dreiko TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k8U0e0b.png" group-title="Kids/Geek", Dreiko TV
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gwz78jZ.png" group-title="Kids/Geek", GikTV
+https://pistream.ddns.net/hls/stream.m3u8
 
 #EXTINF:-1 group-title="Kids/Geek", Taltal TV
 https://giatv.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/chunks.m3u8
 
+#EXTINF:-1 group-title="Kids/Geek", Zyoon TV
+https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/chunks.m3u8
+
 #EXTINF:-1 group-title="Kids/Geek", Cartoon Classics
 https://rpn.bozztv.com/gusa/gusa-cartoonclassics/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.animationxpress.com/wp-content/uploads/2020/08/2020-08-12.jpeg" group-title="Kids/Geek", Kidoodle
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-5eea605574085f0040ddc79a.m3u8?X-Plex-Session-Identifier=3j7hmdo7clov6bmhdthffpxw&X-Plex-Product=Plex%20Web&X-Plex-Version=4.157.0&X-Plex-Client-Identifier=rgk8u8p69h8x6vjglai6ltun&X-Plex-Platform=Chrome&X-Plex-Platform-Version=143.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=standalone&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1536x735%2C1680x1050&X-Plex-Token=1z8RW3LsC4dHejc2ArYM&X-Plex-Language=es-419&Accept-Language=es-419&X-Plex-Session-Id=ee1ef5f5-3025-4aad-8937-0afb4a0c83fd&X-Plex-Playback-Session-Id=f8a55439-6073-4904-809c-0efc4193ac13
+#EXTINF:-1 group-title="Kids/Geek", Spark TV
+https://stream.elektamedia.com/live/c4eds/Spark/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="Kids/Geek", Toon Googles Español
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-6041643175c115002dc51259.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=b7fEsDzxidvxvc_b2Zdr
+#EXTINF:-1 group-title="Kids/Geek", TL+
+https://stream.elektamedia.com/live/c7eds/TLMasSV/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Kids/Geek", TL+ Santa Ana
+https://stream.elektamedia.com/live/c7eds/TLMasSV_SantaAna/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Kids/Geek", Primired
+https://stream.elektamedia.com/live/c7eds/Primired/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Kids/Geek", Anime Vision Classics
 https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
@@ -243,16 +226,6 @@ https://streamlov.alsolnet.com/rektv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/99d1f745bbde1c70f7199fc8c979cd6fa8fd51d920a654e40876f49764b4f701.png" group-title="Kids/Geek", Tigueritos TV
 https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=small-60&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fd3f6d54b-64cf-44ed-a960-2feb1c4b05c7%2FUS_STVP_AnimationPlus_logo_Color_1500x1000_-_Kai_Schneider.png" group-title="Kids/Geek", Animation+
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-674f6a6cf44561420465f9f3.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=b7fEsDzxidvxvc_b2Zdr
-
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=small-60&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Flogos%2Fskwad-logo.png" group-title="Kids/Geek", SKWAD
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-5f12332eeca6a20040b328e5.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=b7fEsDzxidvxvc_b2Zdr
-
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=small-60&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F59623ed1-b641-4001-b634-b25e307c3c49%2F123GO_-_Jonathan_Shrank1500x1000.png" group-title="Kids/Geek", 123 GO!
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-63eecb32ac23d1ee072087cb.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=b7fEsDzxidvxvc_b2Zdr
-
 
 #EXTINF:-1, Bob Esponja 24/7
 https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
@@ -319,6 +292,9 @@ https://live20.bozztv.com/giatvplayout7/giatv-211465/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cine y Series", Los Simpsons 24/7
 https://live20.bozztv.com/akamaissh101/ssh101/simplat/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Cine y Series", Pride TV
+https://backend.energeek.cl/webtv/pridetvweb/tracks-v1a1/mono.ts.m3u8?token=dem0pRideTVweb
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="Cine y Series", Telemundo Accion
 https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
 
@@ -326,25 +302,28 @@ https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
 https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_familia_1080x1080_02092024.jpg" group-title="Cine y Series", FreeTV Familia
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-ono/playlist.m3u8
+https://stream.ads.ottera.tv/cl/260531d8dnqirps8ms73erv2r0/1920x1080_4787200_1_f.m3u8
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/65dfb2bd-f400-4b19-bb5f-d0036f59f5c3/Free-TV_Clasico_1920x1080.jpg" group-title="Cine y Series", FreeTV Clasico
+https://stream.ads.ottera.tv/cl/260531d8dntb3h6gbc73cpd2eg/1920x1080_4787200_1_f.m3u8
 
 #EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_accion_1080x1080_02092024.jpg" group-title="Cine y Series", Free TV Accion
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8
+https://stream.ads.ottera.tv/cl/260530d8dnjcgpvk5s73cqi5tg/1920x1080_4716800_1_f.m3u8
 
 #EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_drama_1080x1080_02092024_0.jpg" group-title="Cine y Series", Free TV Drama
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/playlist.m3u8
+https://stream.ads.ottera.tv/cl/260531d8dnk9q18pks73ers0j0/1920x1080_4787200_1_f.m3u8
 
 #EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_estelar_1080x1080_02092024.jpg" group-title="Cine y Series", Free TV Estelar
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/playlist.m3u8
+https://stream.ads.ottera.tv/cl/260531d8dnl63b179c73ca3tvg/1920x1080_4716800_1_f.m3u8
 
 #EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_live_1080x1080_02092024.jpg" group-title="Cine y Series", Free TV Live
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8
+https://stream.ads.ottera.tv/cl/260531d8dnlq54io2c73fl3tn0/1920x1080_4787200_1_f.m3u8
 
 #EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_terror_1080x1080_02092024.jpg" group-title="Cine y Series", Free TV Terror
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playlist.m3u8
+https://stream.ads.ottera.tv/cl/260531d8dnmfj888ec73bt8p50/1920x1080_4787200_1_f.m3u8
 
 #EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_sureno_1080x1080_02092024.jpg" group-title="Cine y Series", Free TV Sureño
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-ono/playlist.m3u8
+https://stream.ads.ottera.tv/cl/260531d8dnpi5mm44c739h8r70/1920x1080_4715744_1_f.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/76964e60-8756-4551-8748-dbd7852bd0bd/Grjngo-Westernfilme_logo_light_-_Toni_Newesil__1_.png" group-title="Cine y Series", GRJNGO
 https://amogonetworx-grjngo-2-eu.plex.wurl.tv/2000.m3u8
@@ -419,40 +398,6 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99993051/hls/master.m3u8?ads.xumo_cha
 https://xumo-xumoent-ch833-p47sj.fast.nbcuni.com/live/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="Cine y Series", Todo Drama
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-685f195f6c220c4e9e333a04.m3u8?X-Plex-Session-Identifier=3j7hmdo7clov6bmhdthffpxw&X-Plex-Product=Plex%20Web&X-Plex-Version=4.157.0&X-Plex-Client-Identifier=rgk8u8p69h8x6vjglai6ltun&X-Plex-Platform=Chrome&X-Plex-Platform-Version=143.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=standalone&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1536x735%2C1680x1050&X-Plex-Token=1z8RW3LsC4dHejc2ArYM&X-Plex-Language=es-419&Accept-Language=es-419&X-Plex-Session-Id=ee1ef5f5-3025-4aad-8937-0afb4a0c83fd&X-Plex-Playback-Session-Id=17081948-3d51-44dc-8c84-756ca77c0861
-
-#EXTINF:-1 tvg-logo="https://mma.prnewswire.com/media/1321479/UP_Entertainment_Cine_Romantico_Logo.jpg" group-title="Cine y Series", Cine romantico
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-67db0a3892cb453db28ab020.m3u8?X-Plex-Session-Identifier=6twnf3zvkc8gzqnc1od23b3g&X-Plex-Product=Plex%20Web&X-Plex-Version=4.157.0&X-Plex-Client-Identifier=rgk8u8p69h8x6vjglai6ltun&X-Plex-Platform=Chrome&X-Plex-Platform-Version=143.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=standalone&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1536x735%2C1680x1050&X-Plex-Token=1z8RW3LsC4dHejc2ArYM&X-Plex-Language=es-419&Accept-Language=es-419&X-Plex-Session-Id=ee1ef5f5-3025-4aad-8937-0afb4a0c83fd&X-Plex-Playback-Session-Id=15a31b3d-78dd-4ae2-8542-e3b8c5c913a3
-
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/myb/linear_channel/thumbnails/widescreen/pelimex_logo.png" group-title="Cine y Series", Pelimex
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-67db3546d66f778a752f7eaa.m3u8?X-Plex-Session-Identifier=6twnf3zvkc8gzqnc1od23b3g&X-Plex-Product=Plex%20Web&X-Plex-Version=4.157.0&X-Plex-Client-Identifier=rgk8u8p69h8x6vjglai6ltun&X-Plex-Platform=Chrome&X-Plex-Platform-Version=143.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=standalone&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1536x735%2C1680x1050&X-Plex-Token=1z8RW3LsC4dHejc2ArYM&X-Plex-Language=es-419&Accept-Language=es-419&X-Plex-Session-Id=ee1ef5f5-3025-4aad-8937-0afb4a0c83fd&X-Plex-Playback-Session-Id=993cfbae-daa9-41a0-8fbc-fa5e54a5b878
-
-#EXTINF:-1 tvg-logo="" group-title="Cine y Series", Panico TV español
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-68b9f0bdd60e5dd29263c7a1.m3u8?X-Plex-Session-Identifier=3j7hmdo7clov6bmhdthffpxw&X-Plex-Product=Plex%20Web&X-Plex-Version=4.157.0&X-Plex-Client-Identifier=rgk8u8p69h8x6vjglai6ltun&X-Plex-Platform=Chrome&X-Plex-Platform-Version=143.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=standalone&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1536x735%2C1680x1050&X-Plex-Token=1z8RW3LsC4dHejc2ArYM&X-Plex-Language=es-419&Accept-Language=es-419&X-Plex-Session-Id=ee1ef5f5-3025-4aad-8937-0afb4a0c83fd&X-Plex-Playback-Session-Id=a1b75792-4815-44a0-8311-155c2b311b7b
-
-#EXTINF:-1 tvg-logo="https://image.pngaaa.com/639/8746639-middle.png" group-title="Cine y Series", Made in Hollywood
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-60db63d29ec966002c9ea6f0.m3u8?X-Plex-Session-Identifier=3j7hmdo7clov6bmhdthffpxw&X-Plex-Product=Plex%20Web&X-Plex-Version=4.157.0&X-Plex-Client-Identifier=rgk8u8p69h8x6vjglai6ltun&X-Plex-Platform=Chrome&X-Plex-Platform-Version=143.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=standalone&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1536x735%2C1680x1050&X-Plex-Token=1z8RW3LsC4dHejc2ArYM&X-Plex-Language=es-419&Accept-Language=es-419&X-Plex-Session-Id=ee1ef5f5-3025-4aad-8937-0afb4a0c83fd&X-Plex-Playback-Session-Id=3c7f5d20-9323-4318-8858-653e98f78a47
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/8aa4c6_372303d0b6d543e88fcbaa9164f0e0c7~mv2.png/v1/fit/w_2500,h_1330,al_c/8aa4c6_372303d0b6d543e88fcbaa9164f0e0c7~mv2.png" group-title="Cine y Series", Cine en Español
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-64e6e46f27a915f9b5184e9a.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=b7fEsDzxidvxvc_b2Zdr
-
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=small-60&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fecf0c463-9ff8-4d9d-b756-0e9913c8ed60%2FOro_TV_1500x1000-_For_dark_backgrounds.png" group-title="Cine y Series", Oro TV
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-64f0db77c2bc9b9001d46eaa.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=b7fEsDzxidvxvc_b2Zdr
-
-#EXTINF:-1 tvg-logo="https://www.prensario.net/multimedios/imgs/61558_750.jpg" group-title="Cine y Series", Cindie TV
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-6685abbe59703916799193a7.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=b7fEsDzxidvxvc_b2Zdr
-
-#EXTINF:-1 tvg-logo="https://filmrise.com/assets/logo-ebc63322f0c1360c5a911ea6638fbf4c6a04ba833c9b17596b78d66938a8c4a7.png" group-title="Cine y Series", Filmrise Series Gratis
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-65e9d0ad8fe4ef7053c3c869.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=b7fEsDzxidvxvc_b2Zdr
-
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=small-60&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F2e606d88-2546-475c-a410-962c4143fc36%2FHDC_logo_light_-_Jordan_Warkol.png", Historias de Corazon
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-6977ff0c5d94f0bdc7bdd994.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=b7fEsDzxidvxvc_b2Zdr
-
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=small-60&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fdc452291-62d8-4f01-8e5b-b1fef79fb37d%2FGalxyTV_logo_dark.png", Galxy TV
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-621672e42c2627c068e73ad8.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=b7fEsDzxidvxvc_b2Zdr
-
-
 ---------------------------------------------------
 Musicales
 ---------------------------------------------------
@@ -468,10 +413,10 @@ https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
 https://stream.ontvmx.com/ontv/TxZDojVwOpd3sgeHcI/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/h/i/hits.png", Free TV Banda
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmcfreetv-ono/playlist.m3u8
+https://stream.ads.ottera.tv/cl/260531d8do00626tps73drt7t0/1920x1080_4787200_1_f.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.freecast.com/_next/image?url=https%3A%2F%2Fd3e3bui7xn67l.cloudfront.net%2Fcms_media%2Fmedia%2Flive%2Fchannel%2F0ee1ae4a-4921-45b1-a7da-64b5637ce1cd-1707856574.429607.256x256.png", Free TV Hits
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-ono/playlist.m3u8
+https://stream.ads.ottera.tv/cl/260531d8dnvb40vjkc73amlktg/1920x1080_4787200_1_f.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/39/2/exa-tv-logo-png_seeklogo-398623.png", EXA TV
 https://mvs-live.daioncdn.net/exatv/exatv.m3u8
@@ -652,11 +597,11 @@ https://jmp2.uk/plu-683df56f5195c2a60a3f5559.m3u8
 https://jmp2.uk/plu-65f96cd34e01740008ef1c97.m3u8
 
 
-#EXTINF:-1, Lucha Plus
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-67a1a8ef2358ef4dd5c3018e.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=b7fEsDzxidvxvc_b2Zdr
+#EXTINF:-1, FIFA Plus
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-66629bb3346b86608532dbe5.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=JVNT-E7MxHTY-r8xA9AY
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/46ba3640-97aa-47f8-87e4-bb64fe032669/WSN_Logo_Light1rdx.png" group-title="Deportes", Women's Sports Network
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-630fa9e577ec3866def38fa2.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=b7fEsDzxidvxvc_b2Zdr
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-630fa9e577ec3866def38fa2.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=-mmjmH7HwkfuVzRFn25C
 
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/a12045b8-c4b0-46f1-a480-97b5fceb9db9/FITE24-7_Channel_Logo_for_PLEX_1800x1200.png" group-title="Deportes", Fite 24/7
@@ -904,7 +849,7 @@ https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-documentary.m3u8?ads.islive=1&ads.streamtype=live
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23008/freetv-saber-mas/logo_20240222_202730_68.png" group-title="Culturales", FreeTV Saber Mas
-https://stream.ads.ottera.tv/cl/251117d4d8svm5u5vvku2ilgp0/1920x1080_4787200_1_f.m3u8?i=475_16474
+https://stream.ads.ottera.tv/cl/260531d8do0ml4ofbc73b8fqb0/1920x1080_4787200_1_f.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png", DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
@@ -3454,8 +3399,6 @@ http://200.229.147.142:8000/play/a027/index.m3u8
 http://200.229.147.142:8000/play/a06s/index.m3u8
 #EXTINF:-1,AZTECA HONDURAS
 http://200.229.147.142:8000/play/a06h/index.m3u8
-#EXTINF:-1,AZTECA CLIC HD
-http://200.229.147.142:8000/play/a024/index.m3u8
 #EXTINF:-1,AZTECA UNO 
 http://200.229.147.142:8000/play/a07d/index.m3u8
 #EXTINF:-1,Azteca Deportes
@@ -3470,8 +3413,6 @@ http://200.229.147.142:8000/play/a01u/index.m3u8
 http://200.229.147.142:8000/play/a005/index.m3u8
 #EXTINF:-1,Atres Series
 http://200.229.147.142:8000/play/a00a/index.m3u8
-#EXTINF:-1,Azteca corazon
-http://200.229.147.142:8000/play/a017/index.m3u8
 #EXTINF:-1,BANDAMAX
 http://200.229.147.142:8000/play/a07b/index.m3u8
 #EXTINF:-1,BBC News
