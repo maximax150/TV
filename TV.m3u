@@ -41,19 +41,13 @@ https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 #EXTINF:-1 tvg-logo="https://images.fubo.tv/station_logos/RCN-Mas_m.png" group-title="Entretenimiento" group-title="Colombia", RCN Mas
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.novelisima.com/assets/images/logo.png" group-title="Entretenimiento", Novelisima
-https://dai.google.com/linear/hls/pa/event/8QpjAnHCQQqBxFVRdDQXCA/stream/6c5287ff-56f4-461b-9902-7aff99e6d749:MRN2/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/Romance_logo.png" group-title="Entretenimiento", Romance Channel
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/romance-channel/manifest.m3u8
-
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=small-60&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fedace34e-ac45-44b7-a562-265977557817%2FVive_KDD_LOGO-DarkBG_-_Alejandro_N.png" group-title="Entretenimiento", Kanal D
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/pridesocietymagazine.com/wp-content/uploads/2025/07/teleonce-logo-png_seeklogo-473388.png" group-title="Entretenimiento", TeleOnce
 https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Telemundo_Puerto_Rico.svg/1200px-Telemundo_Puerto_Rico.svg.png" group-title="Entretenimiento", Telemundo Puerto Rico
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Entretenimiento", Telemundo Puerto Rico
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL6xy4y.png" group-title="Entretenimiento", Punto 2
@@ -71,23 +65,6 @@ https://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KWAuNXn.png" group-title="Entretenimiento", Charrua TV
 https://stmv.video.gmpro.top/tvcharrua/tvcharrua/playlist.m3u8
 
-
-#EXTINF:-1, Acapulco Shore
-https://jmp2.uk/plu-61a52615cbef2500072876e2.m3u8
-
-#EXTINF:-1, MTV Fast
-https://jmp2.uk/plu-5fab088b3279760007d4e4fd.m3u8
-
-#EXTINF:-1, Realitys 24/7
-https://jmp2.uk/plu-5dcde197f6591d0009839e04.m3u8
-
-#EXTINF:-1, Sin Tetas no hay paraiso 24/7
-https://jmp2.uk/plu-604bdf4e6d0abc0007ba77ad.m3u8
-
-#EXTINF:-1, Enchufe TV
-https://jmp2.uk/plu-699763d184235f26d5056002.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://static-prod.adweek.com/wp-content/uploads/2022/05/Tastemade-2022.jpg" group-title="Entretenimiento", Tastemade Español
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadees16international24i-ono/playlist.m3u8
 
@@ -100,6 +77,14 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex
 #EXTINF:-1 tvg-logo="https://drupal.hahaha.com/sites/default/files/2022-12/jfl_226x150.png" group-title="Entretenimiento", Just for Laughs
 https://distributionsjustepourrire-justforlaughsgags-1-es.samsung.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vfdN5Xl.png" group-title="Entretenimiento", Always Funny
+https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V5h4R83.png" group-title="Entretenimiento", Camera Smile
+https://rpn.bozztv.com/gusa/gusa-camerasmile/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VIpQJxL.png" group-title="Entretenimiento", Failarmy
+https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/5fdbc1d5682ee122a7a5aa20/ed35e1a4-ec0a-426a-8ad4-0f41bd8a3675/RevryLogo_1920w.png" group-title="Entretenimiento", Revry
 https://88794468e8cd4ffbb3ad6d5a6ef7c4a5.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-43-REVRYDOMESTIC-24i/mt/24i/43/hls/master/playlist.m3u8
@@ -148,9 +133,6 @@ https://1ba9cda3f9ea445683d25cc0929327e8.mediatailor.us-east-2.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-logo="https://www.ploustv.com/images/logo-w.png" group-title="Entretenimiento", PlousTV
 https://vcp.myplaytv.com/glowtv/glowtv/.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=small-60&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F47127441-d5b6-42a3-b641-a7c076d20940%2FFashion_PNG_w__transparent_background__All_white_Logo_for_Attribution__-_Yuri_Alexandrov.png" group-title="Entretenimiento", Fashion TV
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-6490c01f3b3ce9e1aaad95be.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=b7fEsDzxidvxvc_b2Zdr
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s4eGYEP.jpg" group-title="Entretenimiento", Global fashion Channel
 https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
@@ -227,50 +209,8 @@ https://streamlov.alsolnet.com/rektv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/99d1f745bbde1c70f7199fc8c979cd6fa8fd51d920a654e40876f49764b4f701.png" group-title="Kids/Geek", Tigueritos TV
 https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
 
-#EXTINF:-1, Bob Esponja 24/7
-https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
-
-#EXTINF:-1, Padrinos Magicos 24/7
-https://jmp2.uk/plu-6322099c822bbc00074857db.m3u8
-
-#EXTINF:-1, Nick JR Club
-https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8
-
-#EXTINF:-1, Los Pitufos 24/7
-https://jmp2.uk/plu-68a3a97fd8f7693ae3f8575f.m3u8
-
-#EXTINF:-1, Babyfirst
-https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8
-
-#EXTINF:-1, Junior
-https://jmp2.uk/plu-5dcde2ac4bc6c500094ab45b.m3u8
-
-#EXTINF:-1, Nick Clasico
-https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
-
-#EXTINF:-1, Nick toons
-https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8
-
-#EXTINF:-1, Kids
-https://jmp2.uk/plu-5dd6dae8ce788b0009eaf77b.m3u8
-
-#EXTINF:-1, Nick Teen
-https://jmp2.uk/plu-5fab09a8749b1a00077d35d2.m3u8
-
-#EXTINF:-1, Pokemon 24/7
-https://jmp2.uk/plu-6870072ca9d5c45c3e9466f1.m3u8
-
-#EXTINF:-1, Inuyasha 24/7
-https://jmp2.uk/plu-66b26665d512590008c507b7.m3u8
-
-#EXTINF:-1, One Piece 24/7
-https://jmp2.uk/plu-5ff4b9ccf938f8000779eb99.m3u8
-
-#EXTINF:-1, Anime 24/7
-https://jmp2.uk/plu-5dcde17bf6591d0009839e02.m3u8
-
-#EXTINF:-1, Level UP
-https://jmp2.uk/plu-5ff3934600d4c7000733ff49.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3wqeGXM.png" group-title="Kids/Geek", Filmrise Anime
+https://dvu7aia8rjlfm.cloudfront.net/4.m3u8
 
 
 
@@ -397,6 +337,10 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99993051/hls/master.m3u8?ads.xumo_cha
 #EXTINF:-1, Lassie TV
 https://xumo-xumoent-ch833-p47sj.fast.nbcuni.com/live/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M40b4YI.png" group-title="Cine y Series", Retro Crush
+https://linear-899.frequency.stream/dist/cineverse/899/hls/master/playlist.m3u8
+
+
 
 ---------------------------------------------------
 Musicales
@@ -520,6 +464,9 @@ Deportes
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-garage_m.png" group-title="Deportes", Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 
+#EXTINF:-1 tvg-logo="https://meganetfun.com/storage/channel-logos/wXBtbnj6sGVnABXgLQbKEehDHWXU12QY8Izb4GCX.png" group-title="Deportes", Mega Sport
+https://live20.bozztv.com/giatv/giatv-megasport/megasport/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.icon-icons.com/2699/PNG/512/fox_logo_icon_170126.png" group-title="Deportes", Fox en Tubi
 https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist720p.m3u8
 
@@ -528,9 +475,6 @@ https://aegis-cloudfront-1.tubi.video/0b3b6122-078c-4c89-ae5e-f548b9b1e382/playl
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_trace-sports-stars_m.png" group-title="Deportes", Trace Sports
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://inthemixstyle.com/wp-content/uploads/2020/12/Redbull-TV-HD.jpg" group-title="Deportes", Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://b.fssta.com/uploads/application/college/conference-logos/Pac-12.vresize.350.350.medium.0.png" group-title="Deportes", PAC12
 https://pac12-roku-us.amagi.tv/playlist.m3u8
@@ -547,62 +491,41 @@ https://aegis-cloudfront-1.tubi.video/74681dcc-e6d0-4add-ad67-a22ad9c152e6/playl
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ulGKX30.png" group-title="Deportes", SportsGrid
 https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CSZ8D47.png" group-title="Deportes", Azteca Deportes Network
+http://200.229.147.142:8000/play/a08v/index.m3u8
 
-#EXTINF:-1, Deportes 24/7
-https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/J1kV1Bn.png" group-title="Deportes", ITV Deportes
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 
-#EXTINF:-1, Azteca Deportes Network Fast
-https://jmp2.uk/plu-65cf60d166eec80008724e6f.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Red_Bull_TV.png" group-title="Deportes", Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
-#EXTINF:-1, ITV Deportes
-https://jmp2.uk/plu-63f7e3f9dff38e00082a57af.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Deportes", Tennis Channel
+https://amg01444-tennischannelth-tennischnlintl-lggb-mr3r5.amagi.tv/playlist/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
 
-#EXTINF:-1, Lucha Libre AAA
-https://jmp2.uk/plu-5f99a772c54853000797bf18.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EzNf2Yx.png" group-title="Deportes", NBC Sports Now
+https://d1m1xk35ma8qfl.cloudfront.net/master_4.m3u8
 
-#EXTINF:-1, UFC
-https://jmp2.uk/plu-67a52cd4ec91870008a62164.m3u8
+#EXTINF:-1 tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/7c59e962-086b-4d64-afb3-7f83ca8c3377-width200-quality90.jpeg", Top Barça
+https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
 
-#EXTINF:-1, FIFA+
-https://jmp2.uk/plu-66997d18a1b69e00082ee85f.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GT0Yi2T.png" group-title="Deportes", Swerve Sports
+https://linear-253.frequency.stream/mt/roku/253/hls/master/playlist.m3u8
 
-#EXTINF:-1, Red Bull TV
-https://jmp2.uk/plu-67813f893886aa863497733d.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="Deportes", Real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 
-#EXTINF:-1, DZ Combat
-https://jmp2.uk/plu-64df7a9a44fe100009b6ac5a.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Deportes", FIFA Plus
+https://d2w9q46ikgrcwx.cloudfront.net/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/V00000002/0/HLS/playlist_3000k_20260424T010818.m3u8
 
-#EXTINF:-1 tvg-logo="", Tennis Channel
-https://jmp2.uk/plu-681109b688b9d85d0938c6ba.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xy9ZxVO.png" group-title="Deportes", FIFA Plus Women
+https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", NBC Sports Now
-https://jmp2.uk/plu-6549306c83595c000815a696.m3u8
-
-#EXTINF:-1 tvg-logo="", Red Bull TV
-https://jmp2.uk/plu-67813f893886aa863497733d.m3u8
-
-#EXTINF:-1 tvg-logo="", Top Barça
-https://jmp2.uk/plu-67a52c8397782f00081879aa.m3u8
-
-#EXTINF:-1 tvg-logo="", CBS Sports Golazo
-https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
-
-#EXTINF:-1 tvg-logo="", AWSN (Women Sports)
-https://jmp2.uk/plu-682e43b21295f98347710917.m3u8
-
-#EXTINF:-1 tvg-logo="", Swerve Women Sports
-https://jmp2.uk/plu-683df56f5195c2a60a3f5559.m3u8
-
-#EXTINF:-1 tvg-logo="", Real Madrid TV
-https://jmp2.uk/plu-65f96cd34e01740008ef1c97.m3u8
-
-
-#EXTINF:-1, FIFA Plus
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-66629bb3346b86608532dbe5.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=JVNT-E7MxHTY-r8xA9AY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png" group-title="Deportes", DN Combat
+https://rakutenaa-dazn-combat-rakuten-kcybm.amagi.tv/playlist/rakutenAA-dazn-combat-rakuten/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/46ba3640-97aa-47f8-87e4-bb64fe032669/WSN_Logo_Light1rdx.png" group-title="Deportes", Women's Sports Network
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-630fa9e577ec3866def38fa2.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=-mmjmH7HwkfuVzRFn25C
-
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/a12045b8-c4b0-46f1-a480-97b5fceb9db9/FITE24-7_Channel_Logo_for_PLEX_1800x1200.png" group-title="Deportes", Fite 24/7
 https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
@@ -610,10 +533,10 @@ https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/bd7d2cc4-3374-46bf-b031-fb8b3082ed06/INFAST_logo_dark_-_brittany_benton.png" group-title="Deportes", INFAST
 https://lifestyle-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bein_Sports_Logo.svg/512px-Bein_Sports_Logo.svg.png" group-title="Deportes", Bein Sports Xtra US
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="Deportes", Bein Sports Xtra US
 https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bein_Sports_Logo.svg/512px-Bein_Sports_Logo.svg.png" group-title="Deportes", Bein Sports Xtra Español
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Deportes", Bein Sports Xtra Español
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
 
 
@@ -631,45 +554,8 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-logo="https://rndserv.xyz/img/milenio.png" group-title="Noticias" group-title="Mexico", Milenio MX
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 
-#EXTINF:-1 group-title="Noticias" group-title="Mexico", C4 En Alerta
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=6404
-
-#EXTINF:-1 group-title="Noticias" group-title="Mexico", Telediario Now MX
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/I/infowars-logo-46BD275A56-seeklogo.com.png" group-title="Noticias", Infowars
-https://freespeech.akamaized.net/hls/live/2024573/live2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://estrellamedia.com/wp-content/uploads/2023/03/Estrella_News_Logo_Final_BLACK-2.png", Estrella News
-https://estrella-news-oando.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Logo-nmas.png" group-title="Noticias", N+ Mexico
-https://channel08-onlymex.akamaized.net/hls/live/2037034/event01/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png", Noticias Telemundo Ahora
 https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=small-60&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F25db4f88-c689-4bf8-811b-603fb762d4fb%2F003_WHITE_NEWSMAX_EN_ESPANOL.png", Newsmax en español
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-688b7f47c8caf40b4a62239f.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=b7fEsDzxidvxvc_b2Zdr
-
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=small-60&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F078ace21-2c9e-4b63-b222-1dd0a525ad3e%2FRCN_NOTICIAS_BG_COLOR_n_-_JuanMa_VelasquezRDX.png", RCN Noticias
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-67e6979de1de65be88aeb39f.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=b7fEsDzxidvxvc_b2Zdr
-
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-720&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Feea28bcc-26ea-4266-81b4-2945f334c3d9%2FPlex-WURL_Euronews-Logos_ES_-_astrid_collomb.png", Euronews en español
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-60089d97f682a3002c34829d.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=b7fEsDzxidvxvc_b2Zdr
-
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=small-60&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F4d63af64-c260-4f5f-aac1-240aeaa36e90%2FPlex-WURL_Euronews-Logos_EN_-_astrid_collomb.png", Euronews English
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-60089d90f682a3002c348299.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=b7fEsDzxidvxvc_b2Zdr
-
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=small-60&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fd5065d4c-eb84-4fd6-862f-655ff5ca01cd%2Ffrance24fastenglish_logo_dark_-_David_COURET.png", France 24 Fast
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-678fe7959407a53556d3e8eb.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=b7fEsDzxidvxvc_b2Zdr
-
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=small-60&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F2e3bf0d9-3ca6-4f65-b1d4-f180ef725d96%2FNewsWorld_logo_dark_-_Angela_Chan.png", News World
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-66bfb2e6144c201b8b61c10f.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=b7fEsDzxidvxvc_b2Zdr
-
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=small-60&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F8cf9c131-2d92-4d91-86b1-22ef458d703f%2Freuters_reutersnow_1RDX.png", Reuters 60
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-5eea71d65252710041e0ccbc.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=b7fEsDzxidvxvc_b2Zdr
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png", RT Español
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
@@ -3401,8 +3287,6 @@ http://200.229.147.142:8000/play/a06s/index.m3u8
 http://200.229.147.142:8000/play/a06h/index.m3u8
 #EXTINF:-1,AZTECA UNO 
 http://200.229.147.142:8000/play/a07d/index.m3u8
-#EXTINF:-1,Azteca Deportes
-http://200.229.147.142:8000/play/a08v/index.m3u8
 #EXTINF:-1,Azteca Internacional
 http://200.229.147.142:8000/play/a08u/index.m3u8
 #EXTINF:-1,Adult Swim
