@@ -41,6 +41,9 @@ https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 #EXTINF:-1 tvg-logo="https://images.fubo.tv/station_logos/RCN-Mas_m.png" group-title="Entretenimiento" group-title="Colombia", RCN Mas
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=small-60&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F7cf438f7-5c5e-4140-987b-d93264d02247%2FCaracol_Mix_WHT_log.png" group-title="Entretenimiento" group-title="Colombia", Caracol Mix
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-69b3481702912c2ce7ad9a3d.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=sU2u-5R_1RzyX4Dc5sXr
+
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=small-60&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fedace34e-ac45-44b7-a562-265977557817%2FVive_KDD_LOGO-DarkBG_-_Alejandro_N.png" group-title="Entretenimiento", Kanal D
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 
@@ -226,35 +229,11 @@ https://backend.energeek.cl/webtv/pridetvweb/tracks-v1a1/mono.ts.m3u8?token=dem0
 #EXTINF:-1 tvg-logo="" group-title="Cine y Series", Spark TV
 https://stream.elektamedia.com/live/c4eds/Spark/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="Cine y Series", Telemundo Accion
+#EXTINF:-1 tvg-logo="https://es.xumo.com/_next/image?url=%2Fstatic%2Fimages%2Frefresh%2F2025%2Fadvertising-logos%2Fcontent-2-3.jpg" group-title="Cine y Series", Telemundo Accion
 https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="Cine y Series", Telemundo Romance
+#EXTINF:-1 tvg-logo="https://media3.s-nbcnews.com/i/newscms/2020_41/3417992/casocerrado_logo_41434d1d6babb0eccd306f471bc7cf23.png" group-title="Cine y Series", Telemundo Caso Cerrado
 https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_familia_1080x1080_02092024.jpg" group-title="Cine y Series", FreeTV Familia
-https://stream.ads.ottera.tv/cl/260531d8dnqirps8ms73erv2r0/1920x1080_4787200_1_f.m3u8
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/65dfb2bd-f400-4b19-bb5f-d0036f59f5c3/Free-TV_Clasico_1920x1080.jpg" group-title="Cine y Series", FreeTV Clasico
-https://stream.ads.ottera.tv/cl/260531d8dntb3h6gbc73cpd2eg/1920x1080_4787200_1_f.m3u8
-
-#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_accion_1080x1080_02092024.jpg" group-title="Cine y Series", Free TV Accion
-https://stream.ads.ottera.tv/cl/260530d8dnjcgpvk5s73cqi5tg/1920x1080_4716800_1_f.m3u8
-
-#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_drama_1080x1080_02092024_0.jpg" group-title="Cine y Series", Free TV Drama
-https://stream.ads.ottera.tv/cl/260531d8dnk9q18pks73ers0j0/1920x1080_4787200_1_f.m3u8
-
-#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_estelar_1080x1080_02092024.jpg" group-title="Cine y Series", Free TV Estelar
-https://stream.ads.ottera.tv/cl/260531d8dnl63b179c73ca3tvg/1920x1080_4716800_1_f.m3u8
-
-#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_live_1080x1080_02092024.jpg" group-title="Cine y Series", Free TV Live
-https://stream.ads.ottera.tv/cl/260531d8dnlq54io2c73fl3tn0/1920x1080_4787200_1_f.m3u8
-
-#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_terror_1080x1080_02092024.jpg" group-title="Cine y Series", Free TV Terror
-https://stream.ads.ottera.tv/cl/260531d8dnmfj888ec73bt8p50/1920x1080_4787200_1_f.m3u8
-
-#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_sureno_1080x1080_02092024.jpg" group-title="Cine y Series", Free TV Sureño
-https://stream.ads.ottera.tv/cl/260531d8dnpi5mm44c739h8r70/1920x1080_4715744_1_f.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/76964e60-8756-4551-8748-dbd7852bd0bd/Grjngo-Westernfilme_logo_light_-_Toni_Newesil__1_.png" group-title="Cine y Series", GRJNGO
 https://amogonetworx-grjngo-2-eu.plex.wurl.tv/2000.m3u8
@@ -346,12 +325,6 @@ https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nkgOsSv.jpg", La Luperrona
 https://stream.ontvmx.com/ontv/TxZDojVwOpd3sgeHcI/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/h/i/hits.png", Free TV Banda
-https://stream.ads.ottera.tv/cl/260531d8do00626tps73drt7t0/1920x1080_4787200_1_f.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.freecast.com/_next/image?url=https%3A%2F%2Fd3e3bui7xn67l.cloudfront.net%2Fcms_media%2Fmedia%2Flive%2Fchannel%2F0ee1ae4a-4921-45b1-a7da-64b5637ce1cd-1707856574.429607.256x256.png", Free TV Hits
-https://stream.ads.ottera.tv/cl/260531d8dnvb40vjkc73amlktg/1920x1080_4787200_1_f.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/39/2/exa-tv-logo-png_seeklogo-398623.png", EXA TV
 https://mvs-live.daioncdn.net/exatv/exatv.m3u8
@@ -510,7 +483,7 @@ https://linear-253.frequency.stream/mt/roku/253/hls/master/playlist.m3u8
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Deportes", FIFA Plus
-https://d2w9q46ikgrcwx.cloudfront.net/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/V00000002/0/HLS/playlist_3000k_20260424T010818.m3u8
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-66629bb3346b86608532dbe5.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=iixh7ZSRKGdrgU9Bxfmy
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xy9ZxVO.png" group-title="Deportes", FIFA Plus Women
 https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8
@@ -544,9 +517,6 @@ https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23094/cgtn-documentary/logo_20230314_210542_68.png", CGTN Documentary
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-documentary.m3u8?ads.islive=1&ads.streamtype=live
-
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23008/freetv-saber-mas/logo_20240222_202730_68.png" group-title="Culturales", FreeTV Saber Mas
-https://stream.ads.ottera.tv/cl/260531d8do0ml4ofbc73b8fqb0/1920x1080_4787200_1_f.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png", DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
@@ -5153,8 +5123,6 @@ XXX
 
 #EXTINF:-1 tvg-logo=""  group-title="+18", Miami Swim Bikini
 https://rpn3.bozztv.com/dvrfl07/ushba-t8/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""  group-title="+18", K Dance 
-https://fl1001.bozztv.com/ushba43/index.m3u8
 #EXTINF:-1 tvg-logo=""  group-title="+18", F Channel
 https://fl1004.bozztv.com/ushba-m5/tracks-v1a1/mono.m3u8
 
