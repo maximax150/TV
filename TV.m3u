@@ -158,9 +158,6 @@ https://backend.energeek.cl/webtv/egfan/mobile/tracks-v1a1/mono.ts.m3u8?token=dE
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/ZooMoo-Kids-Logo-Oficial-01.png/1200px-ZooMoo-Kids-Logo-Oficial-01.png"group-title="Kids/Geek", Zoomoo US
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-5wlAQ6nLfW4/YF5I0iHgH3I/AAAAAAABA90/HsqEimRfhGARstgd044vc0ZkynUYntbTACK8BGAsYHg/s512/2021-03-26.jpg" group-title="Kids/Geek", Pequeradio TV 
-http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Moonbug2ndLogo.png" group-title="Kids/Geek", Moonbug Kids
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
@@ -170,17 +167,11 @@ https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gwz78jZ.png" group-title="Kids/Geek", GikTV
 https://pistream.ddns.net/hls/stream.m3u8
 
-#EXTINF:-1 group-title="Kids/Geek", Taltal TV
-https://giatv.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/chunks.m3u8
-
 #EXTINF:-1 group-title="Kids/Geek", Zyoon TV
 https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/chunks.m3u8
 
 #EXTINF:-1 group-title="Kids/Geek", Cartoon Classics
 https://rpn.bozztv.com/gusa/gusa-cartoonclassics/index.m3u8
-
-#EXTINF:-1 group-title="Kids/Geek", Spark TV
-https://stream.elektamedia.com/live/c4eds/Spark/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Kids/Geek", TL+
 https://stream.elektamedia.com/live/c7eds/TLMasSV/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
@@ -223,14 +214,17 @@ https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z5NwizH.png" group-title="Cine y Series", Xtrema Cine Accion
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Cine y Series", El Chavo 24/7
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/08e88050b1e2ffedd1e49ad58df3cb4cfad4aa7cd8f4b2a7373a2062ccef8d4a.jpg" group-title="Cine y Series", El Chavo 24/7
 https://live20.bozztv.com/giatvplayout7/giatv-211465/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Cine y Series", Los Simpsons 24/7
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTU2OWE0YWYtMjRlMS00NTUwLWJmZWUtODFhNzJiMGJlMzI3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Cine y Series", Los Simpsons 24/7
 https://live20.bozztv.com/akamaissh101/ssh101/simplat/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Cine y Series", Pride TV
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/837629475529576451/jmZJ_xyA_400x400.jpg" group-title="Cine y Series", Pride TV
 https://backend.energeek.cl/webtv/pridetvweb/tracks-v1a1/mono.ts.m3u8?token=dem0pRideTVweb
+
+#EXTINF:-1 tvg-logo="" group-title="Cine y Series", Spark TV
+https://stream.elektamedia.com/live/c4eds/Spark/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="Cine y Series", Telemundo Accion
 https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
