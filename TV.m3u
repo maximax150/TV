@@ -247,6 +247,9 @@ https://atresmedia-zitv-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.produ.com/fotos/1223/bigwp-PromoUnicaTV.jpg", Unica A3
 https://atresmedia-unica-1-us.plex.wurl.tv/playlist.m3u8
 
+#EXTINF:-1, Time Travel Network
+https://lbgo.bozztv.com/ssh101/ssh101/timetraveltv/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="Cine y Series", Star TVE
 https://rtvelivestream.rtve.es/rtvesec/int/star_main_dvr.m3u8
 
