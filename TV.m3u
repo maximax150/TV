@@ -1017,11 +1017,11 @@ https://stream.arcast.live/ahora/ahora/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yYExcq1.jpg" group-title="Argentina", Canal 11 de la Costa
 https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NcfMC29.png" group-title="Argentina", Canal 13 San Luis
-https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lmKLiJ3.jpg" group-title="Argentina", Canal 13 Jujuy
 https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NcfMC29.png" group-title="Argentina", Canal 13 San Luis
+https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7dl4yQY.jpeg" group-title="Argentina", Caras TV
 https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
@@ -1164,13 +1164,10 @@ https://videohd.live:19360/8016/8016.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qeroYLq.png" group-title="Argentina", Sion TV
 https://tv.streamcasthd.com:3536/live/siontvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QIGSf4L.png" group-title="Argentina", Litus TV
-https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.radiopower.com.ar/powerhd/webroot/img/logoPwrHD_small.png" group-title="Argentina", Power TV
 https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Argentina", Catamarca TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CEuPoqG.png" group-title="Argentina", Catamarca TV
 https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=
 
 #EXTINF:-1 tvg-logo="https://sanpedrotv.com.ar/img/logo4.png" group-title="Argentina", San Pedro TV
