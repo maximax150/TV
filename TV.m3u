@@ -1170,10 +1170,7 @@ https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.radiopower.com.ar/powerhd/webroot/img/logoPwrHD_small.png" group-title="Argentina", Power TV
 https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZDenyAE.png" group-title="Argentina", TeleCinco Trelew
-https://videohd.live:19360/8016/8016.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZDenyAE.png" group-title="Argentina", Catamarca TV
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Catamarca TV
 https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=
 
 #EXTINF:-1 tvg-logo="https://sanpedrotv.com.ar/img/logo4.png" group-title="Argentina", San Pedro TV
