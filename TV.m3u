@@ -2595,6 +2595,30 @@ https://interalmeria.tv/directo/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLPSnAT.png" group-title="España", Intercomarcal
 https://streamingtvi.gestec-video.com/hls/tvixa.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mPvSubP.png" group-title="España", Ribera TV
+https://common01.todostreaming.es/live/ribera-livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dsgrWTP8/fast-rneaudioparatodos-nac.png" group-title="España", RNE Para Todos
+https://rtvelivestream.rtve.es/rtvesec/rne/rne_para_todos_main.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JcuV9ZE.png" group-title="España", Tele 7
+https://ingest2-video.streaming-pro.com/tele7_ABR/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w5NTWpl.png" group-title="España", Tele Elx
+https://tvdirecto.teleelx.es/stream/teleelx.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="España", TV Brics 
+https://espbrics.mediacdn.ru/cdn/brics/spanish/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ee0C8UH.jpg" group-title="España", TV Reus
+https://eu1.servers10.com:8081/8166/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pwRVbCz.png" group-title="España", Canal 56 España
+https://videos.canal56.com/directe/stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1g2Z64L.png" group-title="España", VOTV
+https://ingest2-video.streaming-pro.com/votv/streaming_web/playlist.m3u8
+
 
 
 ---------------------------------------------------
