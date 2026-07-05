@@ -3322,7 +3322,7 @@ http://45.163.139.42:8000/play/a02k/index.m3u8
 #EXTINF:-1,VM Latino
 http://45.163.139.42:8000/play/a03d/index.m3u8
 
-#EXTM3U
+
 #EXTINF:-1,11 - Repretel
 http://45.228.233.60:8000/play/a02g/index.m3u8
 #EXTINF:-1,4 Repretel
