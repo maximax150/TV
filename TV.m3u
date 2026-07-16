@@ -158,6 +158,12 @@ https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
 #EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/Marca-512.png" group-title="Kids/Geek", Energeek Fan
 https://backend.energeek.cl/webtv/egfan/mobile/tracks-v1a1/mono.ts.m3u8?token=dEmoweBeneRGEek2025
 
+#EXTINF:-1 tvg-logo="" group-title="Kids/Geek", Dragon Ball 24/7
+https://183.bozztv.com/giatv/giatv-dball/dball/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Kids/Geek", Retrotoons
+https://183.bozztv.com/giatv/giatv-Retrotoonstv/Retrotoonstv/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/ZooMoo-Kids-Logo-Oficial-01.png/1200px-ZooMoo-Kids-Logo-Oficial-01.png"group-title="Kids/Geek", Zoomoo US
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 
@@ -1763,7 +1769,7 @@ https://video0.rogohosting.com:19360/8006/8006.m3u8
 http://tiquiciatv.com:1935/stv/envivo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://meganetfun.com/storage/channel-logos/7WetNukK6uLOqYpVhPhaRkZsgpNcDhIjbUrf2CDJ.jpg" group-title="Costa Rica", Casino TV Limon
-https://micanal.ovh/livestreams/84.FAONPFMRZZBM.m3u8
+https://183.bozztv.com/giatv/giatv-ctvlimon/ctvlimon/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://meganetfun.com/storage/channel-logos/KQIDLVaSczYcos3uuJHWezHG2uP2M50JGR45beX0.jpg" group-title="Costa Rica", Antena Seis
 https://video1.azulstream.com:8081/antenaseistv/tracks-v1a1/mono.m3u8
@@ -1808,7 +1814,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/playlist.m3u8
 https://k20.usastreams.com:8081/tvsur/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vJZqrFY/a4ed367c69c23110d458a332af95be0be64566f288ccb5f261689344e6ba5e0d.png" group-title="Costa Rica", Coto Brus TV
-https://s1.tvdatta.com:3072/live/cotobrustvlive.m3u8
+https://stream.lamegatv.com/hls/cotobrustelevision/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Costa Rica", C9N TV
 https://cloudvideo.servers10.com:8081/8030/index.m3u8
@@ -1817,7 +1823,7 @@ https://cloudvideo.servers10.com:8081/8030/index.m3u8
 https://5fe2654d6127d.streamlock.net/impactchannel/videoimpactchannel/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://megatvcr.net/images/logo-mega.png" group-title="Costa Rica", Mega TV CR
-https://stream.enlineatv.net/hls/megatvcr/1_2/index.m3u8
+https://stream.enlineatv.net/hls/megatvcr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sAYNKJ8.png" group-title="Costa Rica", Garabito TV
 https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
