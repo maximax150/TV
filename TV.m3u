@@ -220,14 +220,11 @@ https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/08e88050b1e2ffedd1e49ad58df3cb4cfad4aa7cd8f4b2a7373a2062ccef8d4a.jpg" group-title="Cine y Series", El Chavo 24/7
 https://live20.bozztv.com/giatvplayout7/giatv-211465/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Cine y Series", Chespirito TV
+https://live20.bozztv.com/giatvplayout7/giatv-211111/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTU2OWE0YWYtMjRlMS00NTUwLWJmZWUtODFhNzJiMGJlMzI3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Cine y Series", Los Simpsons 24/7
 https://live20.bozztv.com/akamaissh101/ssh101/simplat/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/837629475529576451/jmZJ_xyA_400x400.jpg" group-title="Cine y Series", Pride TV
-https://backend.energeek.cl/webtv/pridetvweb/tracks-v1a1/mono.ts.m3u8?token=dem0pRideTVweb
-
-#EXTINF:-1 tvg-logo="" group-title="Cine y Series", Spark TV
-https://stream.elektamedia.com/live/c4eds/Spark/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://es.xumo.com/_next/image?url=%2Fstatic%2Fimages%2Frefresh%2F2025%2Fadvertising-logos%2Fcontent-2-3.jpg" group-title="Cine y Series", Telemundo Accion
 https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
@@ -1671,6 +1668,9 @@ https://video.ejeserver.com/live/veotv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vLU4Tcu.png" group-title="Colombia", TV San Jorge
 https://asucap.com/livestream/asucap_envivo.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Costa Rica", Cristo Vision
+https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zm4934Z.png" group-title="Colombia", TV Penol
 https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8
 
@@ -1789,8 +1789,8 @@ https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBtgnxR.png" group-title="Costa Rica", 360 RFTV 
 https://acceso.mediosdecostarica.com:3638/live/360rftvcrlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/cbcfd98188337b1bf79a92b1afb60ad3.png" group-title="Costa Rica", San Vito TV
-https://acceso.mediosdecostarica.com:3422/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://www.sanvito-television.com/assets/images/main/common/logo-dark.svg" group-title="Costa Rica", San Vito TV
+https://stream.lamegatv.com/hls/sanvitotelevision/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mev90pC.jpg" group-title="Costa Rica", Ticavision
 https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8
@@ -1808,7 +1808,7 @@ https://videohd.live:19360/8076/8076.m3u8
 https://lstv.duckdns.org:449/hls/lstv.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Costa Rica", Retro TV Online
-https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/playlist.m3u8
+https://retroxtv.com/live/canal_retroxtvdwg/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OpHYYZA.png" group-title="Costa Rica", TvSur CR
 https://k20.usastreams.com:8081/tvsur/index.m3u8
@@ -1854,9 +1854,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2024/07/canal-retroxtv.jpg" group-title="Costa Rica", Retrox TV
 https://live20.bozztv.com/giatv/giatv-RTVN/RTVN/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CFXZ8j0.png" group-title="Costa Rica", Cristo Vision 31
-https://3a310f6ec721e6b362fcd22772b57f36a2fe6bb2.tabeelcr.com:8080/cristovision31/iptv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dvo1b82.png" group-title="Costa Rica" group-title="Musicales", VM Latino CR
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
