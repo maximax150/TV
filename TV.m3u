@@ -1700,28 +1700,28 @@ Costa Rica
 https://vid.canal1cr.com:3424/multi_live/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nn8BtH5.png" group-title="Costa Rica", CDR Canal 2 
-http://190.7.192.165:8031/play/s53
+http://45.163.139.42:8000/play/a04x/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/a876b5631717b555cd4a977f934fe601882292c052bf6b6ab989b534e953e4f5.png" group-title="Costa Rica", OPA
 https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://alba-cr-repretel.cdn.mediatiquepress.com/wp-content/uploads/2024/11/LOGOS_CANALES4-150x84.png" group-title="Costa Rica", Repretel Canal 4 
-https://dlhn7gdemxofz.cloudfront.net/ts:abr.m3u8
+http://45.163.139.42:8000/play/a02p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.transdatelecom.com/streaming/supercinco.png" group-title="Costa Rica", Super 5 TV
 http://191.102.39.254:5000/live/5up3r5/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://alba-cr-repretel.cdn.mediatiquepress.com/wp-content/uploads/2024/11/LOGOS_CANALES6-150x84.png" group-title="Costa Rica", Repretel Canal 6 
-http://190.7.192.162:8001/play/s2
+http://45.163.139.42:8000/play/a02o/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static3.teletica.com/Files/Sizes/2024/4/5/teletica7_717404571_380x260.png" group-title="Costa Rica", Teletica 7
-http://190.7.192.162:8007/play/s10
+http://45.163.139.42:8000/play/a02k/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.teleticaradio.com/img/Logo-Color.png",Teletica Radio
-http://190.7.192.162:8007/play/s11
+https://g2qd375ol7an-hls-live.5centscdn.com/Radio/eae835e83c0494a376229f254f7d3392.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/XperTV2015.png",XperTv HD
-
+http://45.163.139.42:8000/play/a02x/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nefPi2Y.png" group-title="Costa Rica", Canal 8 Multimedios
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
@@ -1730,7 +1730,7 @@ https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://alba-cr-repretel.cdn.mediatiquepress.com/wp-content/uploads/2024/11/LOGOS_CANALES11-150x84.png" group-title="Costa Rica", Repretel Canal 11
-https://d3mstgwjcwqz1y.cloudfront.net/ts:abr.m3u8
+http://45.163.139.42:8000/play/a03a/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://gxtra-cr-extratv.cdn.mediatiquepress.com/wp-content/uploads/2024/10/logo-Extra-tv-blanco-1-e1728675680531-150x32.png" group-title="Costa Rica", Extra TV
 https://d2n1wzrr0aogf5.cloudfront.net/ts:abr.m3u8
@@ -1742,10 +1742,10 @@ https://d3v7nstlr5lnxw.cloudfront.net/ts:abr.m3u8
 https://dmq9flwdx65p5.cloudfront.net/ts:abr.m3u8
 
 #EXTINF:-1 tvg-logo="https://sinartdigital.com/images/miscelaneo/senales/canal_13_.png" group-title="Costa Rica", Sinart Canal 13
-http://190.7.192.165:8028/play/s60
+http://45.163.139.42:8000/play/a02r/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://sinartdigital.com/images/miscelaneo/senales/canal_13_.png" group-title="Costa Rica", Radio Nacional 13.3
-http://190.7.192.165:8028/play/s62
+http://45.163.139.42:8000/play/a02t/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sgRDRBK.jpg" group-title="Costa Rica", Canal KMK
 https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8
@@ -1882,13 +1882,20 @@ Centroamérica
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yCykjIp.png" group-title="America Central", Canal 3 GT
-https://d3jocgwjuhw91y.cloudfront.net/ts:abr.m3u8
+http://45.228.233.60:8000/play/a032/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yVhUkot.png" group-title="America Central", Televisiete GT
-https://d1zq2gydd8y59v.cloudfront.net/ts:abr.m3u8
+http://45.228.233.60:8000/play/a031/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://alba-gt-chapintv.cdn.mediatiquepress.com/wp-content/uploads/2023/08/signal-canal-23-4.png" group-title="America Central", TN23
 https://d3qt8k30mpy8xx.cloudfront.net/ts:abr.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_11_Guatemala.png" group-title="America Central", Canal 11 GT
+http://45.228.233.60:8000/play/a022/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Canal_13_Guatemala_Logo.svg" group-title="America Central", Canal 13 GT
+http://45.228.233.60:8000/play/a021/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.canal27.org/wp-content/uploads/2023/03/Logo-canal-70mm-2-e1679592205944.png" group-title="America Central", CANAL 27 GT
+http://45.228.233.60:8000/play/a05p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3XuwlkQ.jpg" group-title="America Central", Mas TV Guate
 https://cdn.streamhispanatv.net:3011/live/mastvgtlive.m3u8
@@ -3320,16 +3327,6 @@ http://38.44.109.41:8003/play/a032/index.m3u8
 
 
 #EXTINF:-1 group-title="TV Latinos 2",
-#EXTINF:-1,15-UCR HD
-http://45.163.139.42:8000/play/a035/index.m3u8
-#EXTINF:-1,CANAL 6 HD CR
-http://45.163.139.42:8000/play/a02o/index.m3u8
-#EXTINF:-1,Teletica HD
-http://45.163.139.42:8000/play/a02k/index.m3u8
-#EXTINF:-1,VM Latino
-http://45.163.139.42:8000/play/a03d/index.m3u8
-
-
 #EXTINF:-1,11 - Repretel
 http://45.228.233.60:8000/play/a02g/index.m3u8
 #EXTINF:-1,4 Repretel
@@ -3360,10 +3357,6 @@ http://45.228.233.60:8000/play/a03d/index.m3u8
 http://45.228.233.60:8000/play/a018/index.m3u8
 #EXTINF:-1,Baby First
 http://45.228.233.60:8000/play/a02j/index.m3u8
-#EXTINF:-1,CANAL 13 - NI
-http://45.228.233.60:8000/play/a02c/index.m3u8
-#EXTINF:-1,CANAL 27 GT
-http://45.228.233.60:8000/play/a05p/index.m3u8
 #EXTINF:-1,CARTOON NETWORK HD
 http://45.228.233.60:8000/play/a00i/index.m3u8
 #EXTINF:-1,CERTV
@@ -3376,20 +3369,14 @@ http://45.228.233.60:8000/play/a03j/index.m3u8
 http://45.228.233.60:8000/play/a03c/index.m3u8
 #EXTINF:-1,CNNE
 http://45.228.233.60:8000/play/a019/index.m3u8
-#EXTINF:-1,Canal 11 - GUA
-http://45.228.233.60:8000/play/a022/index.m3u8
 #EXTINF:-1,Canal 12 - NI
 http://45.228.233.60:8000/play/a00u/index.m3u8
-#EXTINF:-1,Canal 13-GUA
-http://45.228.233.60:8000/play/a021/index.m3u8
-#EXTINF:-1,Canal 3 - GUA
-http://45.228.233.60:8000/play/a032/index.m3u8
+#EXTINF:-1,CANAL 13 - NI
+http://45.228.233.60:8000/play/a02c/index.m3u8
 #EXTINF:-1,Canal 3 Telesistemas HND
 http://45.228.233.60:8000/play/a044/index.m3u8
 #EXTINF:-1,Canal 6 NI
 http://45.228.233.60:8000/play/a02b/index.m3u8
-#EXTINF:-1,Canal 7 GUA
-http://45.228.233.60:8000/play/a031/index.m3u8
 #EXTINF:-1,Canal 7 HD CR
 http://45.228.233.60:8000/play/a01i/index.m3u8
 #EXTINF:-1,Canal Antigua GUA
