@@ -9,6 +9,12 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64e35aff6b1fdb0008ea8441/colorLogoPNG.png" group-title="Entretenimiento" group-title="Mexico", Imagen TV+
 https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ClqIQ4M.png" group-title="Entretenimiento", Azteca Clic
+https://azt-cl.otteravision.com/azt/cl/cl_1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KIpSdQC.png" group-title="Entretenimiento", Azteca Corazon
+https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8
+
 #EXTINF:-1 tvg-logo="https://diretelemexico.com/wp-content/uploads/2021/08/Multimedios-TV-Canal-6-en-vivo.png" group-title="Entretenimiento" group-title="Mexico", Multimedios CDMX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 
@@ -17,17 +23,6 @@ https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/vGETUo5z3KPqsFkvyHdvRm-530-75.png" group-title="Entretenimiento", Estrella TV
 https://estrellatv-oando.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ClqIQ4M.png" group-title="Entretenimiento", Azteca Clic
-https://azt-cl.otteravision.com/azt/cl/cl_1080p.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KIpSdQC.png" group-title="Entretenimiento", Azteca Corazon
-https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/entch.png" group-title="Entretenimiento",ENT Channel
-https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/entf.png" group-title="Entretenimiento", ENT Family
-https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z52nEnH.png" group-title="Entretenimiento", Estrella TV Games
 https://amg00567-estrellamedia-estrellagames-estrellamedia-zy1f4.amagi.tv/ts-us-e2-n1/playlist/amg00567-estrellamedia-estrellagames-estrellamedia/playlist.m3u8
@@ -203,6 +198,11 @@ https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3wqeGXM.png" group-title="Kids/Geek", Filmrise Anime
 https://dvu7aia8rjlfm.cloudfront.net/4.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Kids/Geek", Multivox Retro Cartoons
+https://vtm1.msinteractiva.com/multivoxretcartoon/multivoxretcartoon/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Kids/Geek", Multivox Cartoon
+https://vtm1.msinteractiva.com/multivoxcartoons/multivoxcartoons/playlist.m3u8
 
 
 ---------------------------------------------------
@@ -210,12 +210,20 @@ Cine y series
 ---------------------------------------------------
 
 
+#EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/entch.png" group-title="Cine y Series",ENT Channel
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/entf.png" group-title="Cine y Series", ENT Family
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/863aea4fb1445b58f89afc7c692ed509.png" group-title="Cine y Series" group-title="Chile", 13 Teleseries 
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z5NwizH.png" group-title="Cine y Series", Xtrema Cine Accion
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Cine y Series", Multivox Cine Accion
+https://vtm1.msinteractiva.com/multivoxaccion/multivoxaccion/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/08e88050b1e2ffedd1e49ad58df3cb4cfad4aa7cd8f4b2a7373a2062ccef8d4a.jpg" group-title="Cine y Series", El Chavo 24/7
 https://live20.bozztv.com/giatvplayout7/giatv-211465/tracks-v1a1/mono.ts.m3u8
@@ -1035,11 +1043,17 @@ https://g5.vxral-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_
 #EXTINF:-1 tvg-logo="https://telearg.weebly.com/uploads/1/3/1/2/131240845/canal-50-morteros_1.png" group-title="Argentina", IP
 https://online.coopmorteros.coop/canal50/vivo.m3u8
 
+#EXTINF:-1 tvg-logo="http://xtrematv.com/wp-content/uploads/2025/11/39.jpg" group-title="Argentina", Espacio Fabrik
+https://vtm1.msinteractiva.com/espaciofabrik/espaciofabrik/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qgZLYDj/channels4-profile-6.jpg" group-title="Argentina",PowerMax Radio TV
 https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/07ki2df.png" group-title="Argentina" group-title="Deportes", CNAR Deportes
 https://stmv6.voxtvhd.com.br/cnardeportes/cnardeportes/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://xtrematv.com/wp-content/uploads/2025/12/1.jpg" group-title="Argentina", CNAR Noticias
+https://stmv3.voxtvhd.com.br/eventoslive2/eventoslive2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/60ylWbQ.png" group-title="Argentina" group-title="Kids/Geek", Xtrema Retro Cartoons
 https://stmv3.voxtvhd.com.br/xtremaretrocartoons/xtremaretrocartoons/playlist.m3u8
@@ -1668,14 +1682,14 @@ https://video.ejeserver.com/live/veotv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vLU4Tcu.png" group-title="Colombia", TV San Jorge
 https://asucap.com/livestream/asucap_envivo.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Costa Rica", Cristo Vision
-https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zm4934Z.png" group-title="Colombia", TV Penol
 https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hFlGHNZ.png" group-title="Colombia", Huila TV
 https://server.asilivehd.com:3333/live/huilatvlive.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Colombia", Cristo Vision
+https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Yv8XIGW.png" group-title="Colombia", Alpavision TV
 https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
