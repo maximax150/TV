@@ -255,6 +255,9 @@ https://atresmedia-unica-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1, Time Travel Network
 https://lbgo.bozztv.com/ssh101/ssh101/timetraveltv/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3802-294x165-FFFFFF.jpg" group-title="Cine y Series", Femenina TV
+https://streamunoapp.com:3511/live/femeninatvlive.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M40b4YI.png" group-title="Cine y Series", Retro Crush
 https://linear-899.frequency.stream/dist/cineverse/899/hls/master/playlist.m3u8
 
@@ -469,10 +472,7 @@ https://aegis-cloudfront-1.tubi.video/74681dcc-e6d0-4add-ad67-a22ad9c152e6/playl
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ulGKX30.png" group-title="Deportes", SportsGrid
 https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CSZ8D47.png" group-title="Deportes", Azteca Deportes Network
-http://200.229.147.142:8000/play/a08v/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iili.io/J1kV1Bn.png" group-title="Deportes", ITV Deportes
+#EXTINF:-1 tvg-logo="https://foros.forounivers.com/uploads/monthly_2026_08/large.AYMSports3.png.9be222434bad804d50261497c62d7281.png" group-title="Deportes", AYM Sports 3
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Red_Bull_TV.png" group-title="Deportes", Red Bull TV
@@ -493,17 +493,20 @@ https://linear-253.frequency.stream/mt/roku/253/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="Deportes", Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CSZ8D47.png" group-title="Deportes", Azteca Deportes Network
+http://45.228.233.60:8000/play/a018/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CSZ8D47.png" group-title="Deportes", Azteca Deportes Network Fast
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-6a4af78195c72f33f18ad29f.m3u8?includeAllStreams=1&x-plex-product=Plex+Mediaverse&x-plex-token=AyZctTD4fE-J4VgG1LLX
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Deportes", FIFA Plus
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-66629bb3346b86608532dbe5.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=iixh7ZSRKGdrgU9Bxfmy
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-66629bb3346b86608532dbe5.m3u8?includeAllStreams=1&x-plex-product=Plex+Mediaverse&x-plex-token=AyZctTD4fE-J4VgG1LLX
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xy9ZxVO.png" group-title="Deportes", FIFA Plus Women
 https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png" group-title="Deportes", DN Combat
-https://rakutenaa-dazn-combat-rakuten-kcybm.amagi.tv/playlist/rakutenAA-dazn-combat-rakuten/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/46ba3640-97aa-47f8-87e4-bb64fe032669/WSN_Logo_Light1rdx.png" group-title="Deportes", Women's Sports Network
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-630fa9e577ec3866def38fa2.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=-mmjmH7HwkfuVzRFn25C
+https://aegis-cloudfront-1.tubi.video/e974981b-bbcd-42a3-a6c1-6c25e14f10bd/playlistR1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/a12045b8-c4b0-46f1-a480-97b5fceb9db9/FITE24-7_Channel_Logo_for_PLEX_1800x1200.png" group-title="Deportes", Fite 24/7
 https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
@@ -3367,8 +3370,6 @@ http://45.228.233.60:8000/play/a00s/index.m3u8
 http://45.228.233.60:8000/play/a014/index.m3u8
 #EXTINF:-1,Azmundo
 http://45.228.233.60:8000/play/a03d/index.m3u8
-#EXTINF:-1,Azteca Deportes
-http://45.228.233.60:8000/play/a018/index.m3u8
 #EXTINF:-1,Baby First
 http://45.228.233.60:8000/play/a02j/index.m3u8
 #EXTINF:-1,CARTOON NETWORK HD
