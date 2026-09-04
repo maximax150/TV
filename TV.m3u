@@ -9,10 +9,10 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64e35aff6b1fdb0008ea8441/colorLogoPNG.png" group-title="Entretenimiento" group-title="Mexico", Imagen TV+
 https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ClqIQ4M.png" group-title="Entretenimiento", Azteca Clic
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ClqIQ4M.png" group-title="Entretenimiento", TV Azteca Conecta
 https://azt-cl.otteravision.com/azt/cl/cl_1080p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KIpSdQC.png" group-title="Entretenimiento", Azteca Corazon
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KIpSdQC.png" group-title="Entretenimiento", TV Azteca Latidos
 https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8
 
 #EXTINF:-1 tvg-logo="https://diretelemexico.com/wp-content/uploads/2021/08/Multimedios-TV-Canal-6-en-vivo.png" group-title="Entretenimiento" group-title="Mexico", Multimedios CDMX
@@ -496,7 +496,7 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CSZ8D47.png" group-title="Deportes", Azteca Deportes Network
 http://38.224.22.255:8000/play/a016/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CSZ8D47.png" group-title="Deportes", Azteca Deportes Network Fast
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CSZ8D47.png" group-title="Deportes", TV Azteca Nitro
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-6a4af78195c72f33f18ad29f.m3u8?includeAllStreams=1&x-plex-product=Plex+Mediaverse&x-plex-token=AyZctTD4fE-J4VgG1LLX
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Deportes", FIFA Plus
