@@ -1899,20 +1899,19 @@ Centroamérica
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yCykjIp.png" group-title="America Central", Canal 3 GT
-http://45.228.233.60:8000/play/a032/index.m3u8
+http://181.119.210.234:4000/play/a042/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yVhUkot.png" group-title="America Central", Televisiete GT
-http://45.228.233.60:8000/play/a031/index.m3u8
+http://181.119.210.234:4000/play/a041/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://alba-gt-chapintv.cdn.mediatiquepress.com/wp-content/uploads/2023/08/signal-canal-23-4.png" group-title="America Central", TN23
 https://d3qt8k30mpy8xx.cloudfront.net/ts:abr.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_11_Guatemala.png" group-title="America Central", Canal 11 GT
-http://45.228.233.60:8000/play/a022/index.m3u8
+http://181.119.210.234:4000/play/a02x/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Canal_13_Guatemala_Logo.svg" group-title="America Central", Canal 13 GT
-http://45.228.233.60:8000/play/a021/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.canal27.org/wp-content/uploads/2023/03/Logo-canal-70mm-2-e1679592205944.png" group-title="America Central", CANAL 27 GT
-http://45.228.233.60:8000/play/a05p/index.m3u8
+http://181.119.210.234:4000/play/a02w/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3XuwlkQ.jpg" group-title="America Central", Mas TV Guate
 https://cdn.streamhispanatv.net:3011/live/mastvgtlive.m3u8
@@ -1920,17 +1919,11 @@ https://cdn.streamhispanatv.net:3011/live/mastvgtlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gUiIC8E.png" group-title="America Central", Canal GTV Guatemala
 https://vdo.voxhdnet.com:3035/live/gtvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://totovision.net/wp-content/uploads/2022/05/cropped-LOGO-PAGINA-22.png" group-title="America Central", Totovisión 
-https://cdn.streamhispanatv.net:3652/live/totovisiongtlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S0JrfIl.png" group-title="America Central", Vision TV GT
-https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Maya_TV_logo.png/1200px-Maya_TV_logo.png" group-title="America Central", TV Maya GT
 https://5ca9af4645e15.streamlock.net/mayas/videomayas/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://qhubotv.com/content/images/2022/08/Logo-Q-HUBO-1.png" group-title="America Central", Q Hubo tv HN
-https://catv.oniptv.pro/QhuboTv/tracks-v1/index.fmp4.m3u8
+https://amixtv.com:8081/qhubotv/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4hEYFa9.png" group-title="America Central",Canal 5 Honduras 
 https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
@@ -1942,13 +1935,10 @@ https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/VTV_HN_logo_2019.png/1200px-VTV_HN_logo_2019.png" group-title="America Central", Vica TV Honduras 
-https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
+https://ddycmnicl95kp.cloudfront.net/live/tzjntcuz6gj2/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/04/LTV-Honduras-en-vivo-Online.png" group-title="America Central", LTV Honduras
 https://amixtv.com:8081/ltvhn/index.fmp4.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xhVEEA1.png" group-title="America Central", Canal 51 Honduras
-https://live.cn51hn.com/live/cn51.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IC30j61.png" group-title="America Central", Ebezener TV HN
 https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/playlist.m3u8
@@ -1966,16 +1956,13 @@ https://s.emisoras.tv:8081/metrotv/index.m3u8
 https://stream.giostreaming.app/canal11/canal11.m3u8
 
 #EXTINF:-1 tvg-logo="https://alba-sv-c12.cdn.mediatiquepress.com/wp-content/uploads/2025/08/cropped-favicon-1-150x150.png" group-title="America Central", Canal 12 SV 
-https://d2b5h5wyivfnfl.cloudfront.net/live/53108ffe-0b7e-46ab-bc14-3a9c30010939/ts:abr.m3u8
+http://181.119.210.234:4000/play/a02z/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/voyVP6X.png" group-title="America Central", canal 19 SV
-https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
+https://liveassets.encoders.immergo.tv/megasvision/uvod-live-encoder-1day/mgvchannel19/0/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HbdYU9k.png" group-title="America Central", Canal 21 SV
-https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y2ppMnY.png" group-title="America Central", C10 SV
-https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
+https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tnOGWqL.png" group-title="America Central", RTV Canal 57 SV
 https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8
