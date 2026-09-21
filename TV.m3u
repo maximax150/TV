@@ -75,17 +75,17 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c39ea-68b9f5a3d60e
 #EXTINF:-1 tvg-logo="https://www.planetecsat.com/wp-content/uploads/2023/05/Entete-Wellbeing-TV.png" group-title="Entretenimiento", Wellbeing TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://drupal.hahaha.com/sites/default/files/2022-12/jfl_226x150.png" group-title="Entretenimiento", Just for Laughs
-https://distributionsjustepourrire-justforlaughsgags-1-es.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vfdN5Xl.png" group-title="Entretenimiento", Always Funny
-https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V5h4R83.png" group-title="Entretenimiento", Camera Smile
 https://rpn.bozztv.com/gusa/gusa-camerasmile/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VIpQJxL.png" group-title="Entretenimiento", Failarmy
 https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://drupal.hahaha.com/sites/default/files/2022-12/jfl_226x150.png" group-title="Entretenimiento", Just for Laughs
+https://distributionsjustepourrire-justforlaughsgags-1-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vfdN5Xl.png" group-title="Entretenimiento", Always Funny
+https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/5fdbc1d5682ee122a7a5aa20/ed35e1a4-ec0a-426a-8ad4-0f41bd8a3675/RevryLogo_1920w.png" group-title="Entretenimiento", Revry
 https://88794468e8cd4ffbb3ad6d5a6ef7c4a5.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-43-REVRYDOMESTIC-24i/mt/24i/43/hls/master/playlist.m3u8
@@ -107,9 +107,6 @@ https://3b3df95821f549fa8df20812c44194a5.mediatailor.us-east-2.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-logo="" group-title="España", iProTV 
 https://59ec5453559f0.streamlock.net/iprotv/iprotv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61eSdW1MsgL.png" group-title="Entretenimiento", Miami TV Live
-https://f537294740ba4429b8de5354b0e4452d.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/LIVE/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3466-320x180-000000.jpg" group-title="Entretenimiento", Miami TV Gold
 https://8f4cbe9fa8d44aa3bfd4283527a9effd.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast_gold/playlist.m3u8
